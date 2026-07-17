@@ -1,0 +1,23 @@
+export const SITE = {
+  website: "https://findstay.org/",
+  author: "Findstay Editorial",
+  profile: "https://findstay.org/about/",
+  desc: "Findstay — Smart accommodation for global students, expats & digital nomads. Compare student housing, long-stay apartments, co-living spaces, and rental tips across Australia, New Zealand, UK, US, Canada, Europe & Asia.",
+  title: "Findstay",
+  ogImage: "og.png",
+  lightAndDarkMode: true,
+  postPerIndex: 8,
+  postPerPage: 12,
+  scheduledPostMargin: 15 * 60 * 1000,
+  showArchives: true,
+  showBackButton: true,
+  editPost: {
+    enabled: false,
+    text: "",
+    url: "",
+  },
+  dynamicOgImage: false,
+  dir: "ltr",
+  lang: "en",
+  timezone: "Australia/Sydney",
+} as const;

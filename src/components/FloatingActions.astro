@@ -1,0 +1,63 @@
+---
+// Floating actions: affiliate CTA + support
+// Fixed bottom-right, all pages via Layout.astro
+---
+
+<aside
+  class="fixed right-4 bottom-6 z-50 flex flex-col items-end gap-3 print:hidden"
+  aria-label="Quick actions"
+>
+  <!-- OSHC / Insurance CTA -->
+  <a
+    href="https://agents.flywire.com/services/Unilink/oshc-au?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597"
+    target="_blank"
+    rel="nofollow noopener noreferrer"
+    class="flex items-center gap-2 rounded-full bg-accent px-4 py-3 text-sm font-medium text-background shadow-lg transition hover:-translate-y-0.5 hover:shadow-xl sm:px-5"
+    aria-label="Compare OSHC insurance (opens in new window)"
+    title="Compare OSHC"
+  >
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+    </svg>
+    <span>Compare OSHC</span>
+  </a>
+
+  <!-- SafetyWing travel insurance -->
+  <a
+    href="https://safetywing.com/?affiliate_id=17632"
+    target="_blank"
+    rel="nofollow noopener noreferrer"
+    class="flex items-center gap-2 rounded-full border border-border bg-background px-4 py-3 text-sm font-medium shadow-lg transition hover:-translate-y-0.5 hover:border-accent hover:text-accent hover:shadow-xl sm:px-5"
+    aria-label="Get travel insurance (opens in new window)"
+    title="Travel Insurance"
+  >
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="2" y1="12" x2="22" y2="12"></line>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+    </svg>
+    <span>Travel Insurance</span>
+  </a>
+</aside>

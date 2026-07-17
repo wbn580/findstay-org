@@ -1,0 +1,87 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import { getPath } from "@/utils/getPath";
+import getSortedPosts from "@/utils/getSortedPosts";
+import { slugifyTag } from "@/utils/tagSlug";
+import { SITE } from "@/config";
+
+const posts = getSortedPosts(await getCollection("blog"));
+
+const REGIONS: { label: string; tag: string; emoji: string }[] = [
+  { label: "Australia", tag: "australia", emoji: "🇦🇺" },
+  { label: "New Zealand", tag: "new-zealand", emoji: "🇳🇿" },
+  { label: "United Kingdom", tag: "uk", emoji: "🇬🇧" },
+  { label: "United States", tag: "us", emoji: "🇺🇸" },
+  { label: "Canada", tag: "canada", emoji: "🇨🇦" },
+  { label: "Germany", tag: "germany", emoji: "🇩🇪" },
+  { label: "France", tag: "france", emoji: "🇫🇷" },
+  { label: "Singapore", tag: "singapore", emoji: "🇸🇬" },
+];
+
+const grouped = REGIONS.map(c => ({
+  ...c,
+  posts: posts.filter(p => p.data.tags.some(t => t === c.tag)),
+}));
+
+const countryTagSet = new Set(REGIONS.map(c => c.tag));
+const uncategorized = posts.filter(p => !p.data.tags.some(t => countryTagSet.has(t)));
+
+const staticPages = [
+  { title: "Home", href: "/" },
+  { title: "About", href: "/about/" },
+  { title: "All Guides", href: "/posts/" },
+  { title: "Tags", href: "/tags/" },
+  { title: "Archives", href: "/archives/" },
+  { title: "Privacy Policy", href: "/privacy/" },
+  { title: "Affiliate Disclosure", href: "/disclaimer/" },
+  { title: "Resources", href: "/resources/" },
+  { title: "RSS Feed", href: "/rss.xml" },
+  { title: "XML Sitemap", href: "/sitemap-index.xml" },
+];
+---
+
+<Layout title={`Sitemap | ${SITE.title}`}>
+  <Header />
+  <Breadcrumb />
+  <main id="main-content" class="app-layout mb-28">
+    <section class="app-prose max-w-app">
+      <h1 class="text-2xl tracking-wider sm:text-3xl">Sitemap</h1>
+      <p>
+        A structured index of all content on Findstay — for human readers and AI crawlers.
+        For machine-readable versions, see the <a href="/sitemap-index.xml">XML Sitemap</a>.
+      </p>
+
+      <h2>Pages</h2>
+      <ul>
+        {staticPages.map(p => (<li><a href={p.href}>{p.title}</a></li>))}
+      </ul>
+
+      {grouped.map(g => (
+        <section class="mt-8">
+          <h2>{g.emoji} {g.label} ({g.posts.length} guides)</h2>
+          {g.posts.length > 0 ? (
+            <ul>
+              {g.posts.map(p => (<li><a href={getPath(p.id, p.filePath)}>{p.data.title}</a></li>))}
+            </ul>
+          ) : (
+            <p class="opacity-60">No guides yet. Check the <a href={`/tags/${slugifyTag(g.tag)}/`}>{g.label} tag page</a> for updates.</p>
+          )}
+        </section>
+      ))}
+
+      {uncategorized.length > 0 && (
+        <section class="mt-8">
+          <h2>Other</h2>
+          <ul>
+            {uncategorized.map(p => (<li><a href={getPath(p.id, p.filePath)}>{p.data.title}</a></li>))}
+          </ul>
+        </section>
+      )}
+    </section>
+  </main>
+  <Footer />
+</Layout>

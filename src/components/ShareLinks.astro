@@ -1,0 +1,134 @@
+---
+import { SHARE_LINKS } from "@/constants";
+import LinkButton from "./LinkButton.astro";
+
+// 当前页面 URL（完整绝对地址）
+const URL = Astro.url.toString();
+---
+
+<div class="flex flex-none flex-col items-center justify-center gap-1 md:items-start">
+  <span class="italic">分享本文到：</span>
+  <div class="text-center" data-share-root data-share-url={URL}>
+    {
+      SHARE_LINKS.map(social => {
+        // 特殊项：微信扫码 / 复制链接 不跳转，用 data-action 挂按钮
+        const isSpecial = social.name === "WeChat" || social.name === "Copy";
+        const href = isSpecial
+          ? "javascript:void(0)"
+          : `${social.href}${encodeURIComponent(URL)}`;
+        const target = isSpecial ? undefined : "_blank";
+        const rel = isSpecial ? undefined : "nofollow noopener noreferrer";
+        return (
+          <LinkButton
+            href={href}
+            class="scale-90 p-2 hover:rotate-6 sm:p-1"
+            title={social.linkTitle}
+            data-share-action={social.name}
+            target={target}
+            rel={rel}
+          >
+            <social.icon class="inline-block size-6 scale-125 fill-transparent stroke-current stroke-2 opacity-90 group-hover:fill-transparent sm:scale-110" />
+            <span class="sr-only">{social.linkTitle}</span>
+          </LinkButton>
+        );
+      })
+    }
+  </div>
+
+  <!-- 微信二维码弹窗（点击微信图标时显示） -->
+  <dialog
+    id="wechat-qr-dialog"
+    class="max-w-xs rounded-lg border border-border bg-background p-6 text-center text-foreground backdrop:bg-foreground/30"
+  >
+    <p class="mb-3 text-sm">用微信扫一扫即可分享本页</p>
+    <img
+      id="wechat-qr-img"
+      alt="当前页面二维码"
+      width="200"
+      height="200"
+      class="mx-auto"
+    />
+    <p class="mt-3 break-all text-xs opacity-70" id="wechat-qr-url"></p>
+    <button
+      type="button"
+      id="wechat-qr-close"
+      class="mt-4 rounded-md border border-border px-4 py-1 text-sm hover:border-accent hover:text-accent"
+    >
+      关闭
+    </button>
+  </dialog>
+
+  <!-- 复制链接成功提示 -->
+  <span
+    id="copy-toast"
+    class="pointer-events-none fixed bottom-8 left-1/2 z-50 -translate-x-1/2 rounded-full bg-accent px-4 py-2 text-sm text-background opacity-0 shadow-lg transition-opacity duration-200"
+    role="status"
+  >
+    已复制链接
+  </span>
+</div>
+
+<script>
+  function setupShare() {
+    const root = document.querySelector<HTMLElement>("[data-share-root]");
+    if (!root) return;
+    const url = root.dataset.shareUrl ?? location.href;
+
+    // 复制链接
+    root
+      .querySelectorAll<HTMLAnchorElement>('[data-share-action="Copy"]')
+      .forEach(btn => {
+        btn.addEventListener("click", async e => {
+          e.preventDefault();
+          try {
+            await navigator.clipboard.writeText(url);
+          } catch {
+            // 兜底：老浏览器
+            const ta = document.createElement("textarea");
+            ta.value = url;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand("copy");
+            document.body.removeChild(ta);
+          }
+          const toast = document.getElementById("copy-toast");
+          if (!toast) return;
+          toast.style.opacity = "1";
+          setTimeout(() => (toast.style.opacity = "0"), 1500);
+        });
+      });
+
+    // 微信二维码
+    const dialog = document.getElementById(
+      "wechat-qr-dialog"
+    ) as HTMLDialogElement | null;
+    const qrImg = document.getElementById(
+      "wechat-qr-img"
+    ) as HTMLImageElement | null;
+    const qrUrl = document.getElementById("wechat-qr-url");
+    const closeBtn = document.getElementById("wechat-qr-close");
+
+    root
+      .querySelectorAll<HTMLAnchorElement>('[data-share-action="WeChat"]')
+      .forEach(btn => {
+        btn.addEventListener("click", e => {
+          e.preventDefault();
+          if (!dialog || !qrImg || !qrUrl) return;
+          // 使用腾讯开放的 QR 服务（国内可访问，Google Chart API 在 CN 被墙）
+          qrImg.src = `https://api.pwmqr.com/qrcode/create/?url=${encodeURIComponent(url)}`;
+          qrUrl.textContent = url;
+          if (typeof dialog.showModal === "function") {
+            dialog.showModal();
+          } else {
+            dialog.setAttribute("open", "");
+          }
+        });
+      });
+
+    closeBtn?.addEventListener("click", () => dialog?.close());
+  }
+
+  setupShare();
+  // Astro View Transitions 兼容
+  document.addEventListener("astro:page-load", setupShare);
+</script>

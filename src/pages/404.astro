@@ -1,0 +1,79 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import LinkButton from "@/components/LinkButton.astro";
+import { SITE } from "@/config";
+import { slugifyTag } from "@/utils/tagSlug";
+
+const countries = [
+  { emoji: "🇬🇧", name: "英国" },
+  { emoji: "🇦🇺", name: "澳大利亚" },
+  { emoji: "🇳🇿", name: "新西兰" },
+  { emoji: "🇸🇬", name: "新加坡" },
+  { emoji: "🇲🇾", name: "马来西亚" },
+];
+---
+
+<Layout title={`404 未找到该问题 | ${SITE.title}`}>
+  <Header />
+
+  <main
+    id="main-content"
+    class="app-layout flex flex-1 flex-col items-center justify-center py-12"
+  >
+    <div class="flex w-full max-w-xl flex-col items-center text-center">
+      <h1 class="text-8xl font-bold text-accent sm:text-9xl">404</h1>
+      <p class="mt-4 text-2xl font-medium sm:text-3xl">没找到该问题</p>
+      <p class="mt-3 text-base text-foreground/70">
+        这个问题可能已经被归档，或者 URL 拼写有误。试试下面的方式继续找答案：
+      </p>
+
+      <div class="mt-8 flex w-full flex-col gap-3 sm:flex-row sm:justify-center">
+        <LinkButton
+          href="/search/"
+          class="rounded-full bg-accent px-6 py-3 text-sm font-medium text-background shadow-lg transition hover:-translate-y-0.5 hover:shadow-xl"
+        >
+          🔍 搜索问题
+        </LinkButton>
+        <LinkButton
+          href="/posts/"
+          class="rounded-full border border-border px-6 py-3 text-sm font-medium transition hover:border-accent hover:text-accent"
+        >
+          📚 浏览全部问答
+        </LinkButton>
+        <LinkButton
+          href="/"
+          class="rounded-full border border-border px-6 py-3 text-sm font-medium transition hover:border-accent hover:text-accent"
+        >
+          🏠 回首页
+        </LinkButton>
+      </div>
+
+      <div class="mt-12 w-full">
+        <p class="mb-4 text-sm text-foreground/60">或按国家浏览：</p>
+        <ul class="flex flex-wrap justify-center gap-3">
+          {
+            countries.map(c => (
+              <li>
+                <a
+                  href={`/tags/${slugifyTag(c.name)}/`}
+                  class="flex items-center gap-2 rounded-full border border-border px-4 py-2 text-sm transition hover:border-accent hover:text-accent"
+                >
+                  <span class="text-lg">{c.emoji}</span>
+                  <span>{c.name}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <p class="mt-12 text-xs text-foreground/50">
+        如果你从外部链接过来，可以邮件告诉我们哪个链接失效了：hello@findstay.org
+      </p>
+    </div>
+  </main>
+
+  <Footer />
+</Layout>

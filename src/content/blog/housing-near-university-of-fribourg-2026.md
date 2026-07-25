@@ -3,8 +3,8 @@ title: "Housing near University of Fribourg: 2026 student guide"
 description: "University of Fribourg: A Student Housing Guide Based on Campus Reviews  data-date: 2026-03-18      What Campus Reviews Reveal  The University of F"
 pubDatetime: 2026-07-01T13:39:42.000Z
 modDatetime: 2026-07-07T08:16:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-224975.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-224975.jpg"
 tags: ["university", "university-of-fribourg"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Many student residences offer all-inclusive rent covering electricity, water, an
 
 The University of Fribourg is located on the eastern edge of the old town. The campus is compact, so most lecture buildings, libraries, and sports facilities are within a small area. The trade-off between walking and using transit largely depends on where you live:
 
-![University of Fribourg](https://img.findstay.org/housing/p/amber-224975.jpg)
+![University of Fribourg](https://img.unistay.cn/housing/p/amber-224975.jpg)
 
 - **Walking (≤15 minutes):** If you find a room or studio in the quartiers of Bourg, Neuveville, or near Pérolles, you can walk to campus. This saves monthly public transport costs (a student travelcard costs about 70–90 CHF/month). However, these central areas tend to have higher rent and older buildings with less soundproofing.
 - **Transit (bus or bicycle):** Neighbourhoods like La Vignettaz, Champ Pittet, or even the nearby town of Villars-sur-Glâne are 10–20 minutes by bus from the university. Rent is often lower, and the buses run frequently during weekdays. A bicycle is a good option if you are comfortable with hills — the campus sits on a plateau, and many streets are steep.

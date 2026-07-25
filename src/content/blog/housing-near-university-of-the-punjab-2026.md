@@ -3,8 +3,8 @@ title: "Housing near University of the Punjab: 2026 student guide"
 description: "What Campus Reviews Reveal About Living Near Punjab University  The University of the Punjab (PU) is one of Pakistan’s oldest and most prestigious"
 pubDatetime: 2026-07-06T10:30:20.000Z
 modDatetime: 2026-07-07T08:32:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01520037.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01520037.jpg"
 tags: ["university", "university-of-the-punjab"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The city has a well‑developed transport network — rickshaws, buses, and ride
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![University of the Punjab](https://img.findstay.org/housing/p/uh-s01520037.jpg)
+![University of the Punjab](https://img.unistay.cn/housing/p/uh-s01520037.jpg)
 
 Housing options near Punjab University fall into three typical budget bands. All prices listed are *indicative — confirm with the operator* for the 2026‑2027 academic year.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Pretoria: 2026 student guide"
 description: "Housing near the University of Pretoria: what reviews reveal about campus life and location  The University of Pretoria’s main campus sits on Lynnw"
 pubDatetime: 2026-07-03T06:07:33.000Z
 modDatetime: 2026-07-07T07:50:33.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2026002.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2026002.jpg"
 tags: ["university", "university-of-pretoria"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ The main campus is compact enough that you can walk from almost any accommodatio
 
 If you decide to live in Sunnyside (about 2–3 km away) or farther out in Arcadia, walking becomes less practical – especially in summer heat. You would then rely on the Gautrain feeder buses, minibus taxis, or ride-hail apps. The Gautrain Hatfield station is only a few minutes’ walk from the campus, so living within a short walk of that station opens up access to train travel but does not replace the convenience of a daily walk to class.
 
-![University of Pretoria](https://img.findstay.org/housing/p/amber-2026002.jpg)
+![University of Pretoria](https://img.unistay.cn/housing/p/amber-2026002.jpg)
 
 Security while walking is a real consideration. Hatfield is well-lit and regularly patrolled by university security and private guards, but after dark most students prefer to walk in groups or use a taxi for short distances. When evaluating a property, check the route to campus at different times of day. Gated complexes or residences with direct access to the campus perimeter are ideal.
 

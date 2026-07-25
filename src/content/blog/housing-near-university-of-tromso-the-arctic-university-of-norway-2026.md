@@ -3,8 +3,8 @@ title: "Housing near University of Tromso, The Arctic University of Norway: 2026
 description: "Housing Near University of Tromsø (UiT): What Campus Reviews Reveal  The University of Tromsø – The Arctic University of Norway (UiT) is the northe"
 pubDatetime: 2026-07-03T07:58:33.000Z
 modDatetime: 2026-07-07T08:21:33.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-972276.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-972276.jpg"
 tags: ["university", "university-of-tromso-the-arctic-university-of-norway"]
 category: "university"
 draft: false
@@ -60,7 +60,7 @@ The trade-off can be summarised:
 
 ### Shortlist Logic for Choosing Accommodation
 
-![University of Tromso, The Arctic University of Norway](https://img.findstay.org/housing/p/amber-972276.jpg)
+![University of Tromso, The Arctic University of Norway](https://img.unistay.cn/housing/p/amber-972276.jpg)
 
 Since specific nearby residence names are not provided in our dataset, the shortlisting process should be based on general principles that any UiT student can apply. When evaluating options, consider the following criteria in priority order:
 

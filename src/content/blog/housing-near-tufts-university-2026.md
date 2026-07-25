@@ -3,8 +3,8 @@ title: "Housing near Tufts University: 2026 student guide"
 description: "Living near Tufts University: A practical guide for students  Tufts University sits on a hillside campus in Medford, Massachusetts, just a few mile"
 pubDatetime: 2026-07-04T18:47:12.000Z
 modDatetime: 2026-07-07T08:59:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-188654.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-188654.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Living within walking distance of Tufts campus means being able to roll out of b
 
 The hillside terrain, as mentioned in Patrick Cody’s review, means that even a “walkable” apartment might involve a steep climb. In winter, sidewalks can be icy. If you choose to walk, plan for the physical aspect and check the elevation profile of the route.
 
-![Tufts University](https://img.findstay.org/housing/p/amber-188654.jpg)
+![Tufts University](https://img.unistay.cn/housing/p/amber-188654.jpg)
 
 The main alternative is to commute via public transit. Boston’s MBTA offers the Red Line subway, which has a stop at Davis Square in Somerville (about a 20-minute walk from Tufts) or the Medford/Tufts branch of the Green Line, which opened in 2022 and stops at Tufts University itself (at the intersection of Boston Avenue and College Avenue). The Green Line extension makes commuting from downtown much easier. For example, from 31 Queensberry Street (Fenway), you can take the Green Line from Kenmore to Tufts – about 30 minutes total. From Allston (315 Allston Street), you can take a bus to the Green Line or walk to the Boston Landing commuter rail station. From Dorchester (June Homes 02124), you would need to connect to the Red Line and then transfer to the Green Line – roughly 45–60 minutes one way.
 

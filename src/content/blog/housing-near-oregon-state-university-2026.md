@@ -3,8 +3,8 @@ title: "Housing near Oregon State University: 2026 student guide"
 description: "Housing Near Oregon State University: A 2026 Guide  Located in Corvallis, Oregon, Oregon State University (OSU) is a mid-sized public research univ"
 pubDatetime: 2026-07-02T10:28:58.000Z
 modDatetime: 2026-07-07T08:05:58.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-940608.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-940608.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ If you choose housing farther away — say, 2 miles or more — you will need to
 
 The trade-off is straightforward: walking saves time and money but usually costs more in rent. Transit or biking widens your search area and can lower monthly costs, but adds commute time and requires you to coordinate schedules.
 
-![Oregon State University](https://img.findstay.org/housing/p/amber-940608.jpg)
+![Oregon State University](https://img.unistay.cn/housing/p/amber-940608.jpg)
 
 ### Shortlist Logic Using Given Nearby Residences
 

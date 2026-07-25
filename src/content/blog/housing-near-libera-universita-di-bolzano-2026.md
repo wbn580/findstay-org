@@ -3,8 +3,8 @@ title: "Housing near Libera Universita' di Bolzano: 2026 student guide"
 description: "Campus Reviews and What They Reveal About Housing  The online reviews for Libera Università di Bolzano paint a mixed picture of student life, and h"
 pubDatetime: 2026-07-04T14:19:04.000Z
 modDatetime: 2026-07-07T08:54:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-277434.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-277434.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Rental demand spikes in September and October, when the academic year starts. In
 
 ## Budget Bands for Student Housing (2027)
 
-![Libera Universita' di Bolzano](https://img.findstay.org/housing/p/amber-277434.jpg)
+![Libera Universita' di Bolzano](https://img.unistay.cn/housing/p/amber-277434.jpg)
 
 Rental prices in Bolzano vary by location, size, and furnishing level. Below are indicative ranges for 2027 — confirm with the operator before committing.
 

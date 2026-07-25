@@ -3,8 +3,8 @@ title: "Housing near Universität Stuttgart: 2026 student guide"
 description: "Universität Stuttgart: What Campus Reviews Reveal  The University of Stuttgart, a public research university founded in 1829, holds a global rankin"
 pubDatetime: 2026-06-30T11:22:09.000Z
 modDatetime: 2026-07-07T08:39:09.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-207314.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-207314.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Public transport in Stuttgart is well‑linked, with a monthly student ticket (s
 
 ## Budget Bands for Student Housing (Indicative — Confirm with the Operator)
 
-![Universität Stuttgart](https://img.findstay.org/housing/p/amber-207314.jpg)
+![Universität Stuttgart](https://img.unistay.cn/housing/p/amber-207314.jpg)
 
 Student housing costs in Stuttgart vary by type, location, and condition. Because no official university‑provided rental data is included in this guide, all figures below are indicative ranges based on typical market conditions in 2026‑2027. You must confirm exact prices with the operator or landlord.
 

@@ -3,8 +3,8 @@ title: "Housing near Western University: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Life at Western University  Student reviews on Google (4.4 stars from 1,244 reviews) consistently highligh"
 pubDatetime: 2026-07-04T14:26:23.000Z
 modDatetime: 2026-07-07T08:11:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013474.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013474.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ The city’s size means students can choose between living within walking distan
 
 ## Budget Bands for Student Housing
 
-![Western University](https://img.findstay.org/housing/p/uh-s00013474.jpg)
+![Western University](https://img.unistay.cn/housing/p/uh-s00013474.jpg)
 
 Rental prices in London vary widely depending on distance from campus, property type (apartment, house, basement unit), and whether the unit is furnished or includes utilities. The following are indicative ranges – confirm with the operator before making any commitment.
 

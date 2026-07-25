@@ -3,8 +3,8 @@ title: "Housing near Indian Institute of Technology Kanpur (IITK): 2026 student 
 description: "Rental Guide near Indian Institute of Technology Kanpur Living Near Campus: What Campus Reviews Reveal Indian Institute of Technology Kanpur (IIT Kanpur)."
 pubDatetime: 2026-07-05T13:29:34.000Z
 modDatetime: 2026-07-07T09:04:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3197711.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3197711.jpg"
 tags: ["university", "indian-institute-of-technology-kanpur"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ IIT Kanpur campus is massive; it may take 20 minutes to walk from the main gate 
 - Disadvantages: Limited types of housing within walking distance, mostly older apartments or standalone bungalows; fewer shopping options. Returning to your dwelling late at night may lack streetlights and sidewalks.
 - Recommended area: Along Kalyanpur main road, near Kalyanpur Bazar, a 15 to 20-minute walk to the campus entrance.
 
-![Indian Institute of Technology Kanpur (IITK)](https://img.findstay.org/housing/p/amber-3197711.jpg)
+![Indian Institute of Technology Kanpur (IITK)](https://img.unistay.cn/housing/p/amber-3197711.jpg)
 
 **Public Transportation / Motorized Tricycle (Recommended range: from 5 to 10 km from campus)**
 

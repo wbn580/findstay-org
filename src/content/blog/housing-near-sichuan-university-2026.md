@@ -3,8 +3,8 @@ title: "Housing near Sichuan University: 2026 student guide"
 description: "Housing Near Sichuan University: A Practical Guide  Sichuan University (SCU) is located on Chuan Da Road in Shuangliu District, Chengdu, Sichuan Pr"
 pubDatetime: 2026-07-05T21:31:47.000Z
 modDatetime: 2026-07-07T08:47:47.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01644839.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01644839.jpg"
 tags: ["university", "sichuan-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Note: All prices are indicative — always ask the landlord or accommodation pro
 **Bicycle / scooter (1–3 km)**  
 Shuangliu is bikeable, and many students use electric scooters. A 10–15 minute cycle can open up a wider range of buildings with lower rent than doorstep properties. You avoid metro fares and get regular exercise. Ensure the accommodation has secure parking for your scooter or bicycle.
 
-![Sichuan University](https://img.findstay.org/housing/p/uh-s01644839.jpg)
+![Sichuan University](https://img.unistay.cn/housing/p/uh-s01644839.jpg)
 
 **Metro or bus (3+ km)**  
 Chengdu Metro lines (especially Line 10 and future extensions) connect Shuangliu to other parts of the city. Living near a station means you can commute to campus in 20–30 minutes while paying significantly less for a larger or newer flat. The trade-off is the monthly transport card cost and the need to track train schedules, especially for evening classes. If the international student office is difficult to reach (as reported by PHONE LIN), being farther from campus means less frequent visits to that office — but you must also manage visa, registration, and other paperwork remotely or on fewer trips.

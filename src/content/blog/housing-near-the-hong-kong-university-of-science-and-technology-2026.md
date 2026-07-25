@@ -3,8 +3,8 @@ title: "Housing near The Hong Kong University of Science and Technology: 2026 st
 description: "Campus Reviews: What Students Say About HKUST  The Hong Kong University of Science and Technology (HKUST) sits on a hillside in Clear Water Bay, a"
 pubDatetime: 2026-07-06T19:34:19.000Z
 modDatetime: 2026-07-07T08:18:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2885006.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2885006.jpg"
 tags: ["university", "the-hong-kong-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Because the campus is isolated, housing decisions are less about neighbourhood c
 
 ## Budget Bands: What to Expect (Indicative Ranges)
 
-![The Hong Kong University of Science and Technology](https://img.findstay.org/housing/p/amber-2885006.jpg)
+![The Hong Kong University of Science and Technology](https://img.unistay.cn/housing/p/amber-2885006.jpg)
 
 No specific rental figures were provided in the data for this article. However, based on Hong Kong’s general student housing market, the following indicative bands can serve as a starting point. All prices are indicative — confirm with the operator before making any commitment.
 

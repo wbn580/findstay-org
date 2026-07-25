@@ -3,8 +3,8 @@ title: "Housing near Macquarie University: 2026 student guide"
 description: "Campus Reviews: What Students Say  Macquarie University holds a Google rating of 4.4 from 1,118 reviews. The feedback consistently highlights campu"
 pubDatetime: 2026-07-03T23:05:14.000Z
 modDatetime: 2026-07-07T08:49:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1211308.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1211308.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The neighbourhood is predominantly low-rise apartments and townhouses, with pock
 
 ## Budget Bands for Student Housing
 
-![Macquarie University](https://img.findstay.org/housing/p/amber-1211308.jpg)
+![Macquarie University](https://img.unistay.cn/housing/p/amber-1211308.jpg)
 
 Rental prices in Macquarie Park and nearby suburbs vary widely. Use the following indicative weekly rent bands (prices are indicative – confirm with the operator). All figures are in Australian dollars (AUD) and are based on typical listings in 2026.
 

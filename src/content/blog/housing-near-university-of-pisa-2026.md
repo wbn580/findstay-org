@@ -3,8 +3,8 @@ title: "Housing near University of Pisa: 2026 student guide"
 description: "What Campus Reviews Reveal About the University of Pisa  The University of Pisa, ranked 343rd globally in the QS World University Rankings, has acc"
 pubDatetime: 2026-07-02T12:49:52.000Z
 modDatetime: 2026-07-07T09:04:52.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2043649.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2043649.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Renting in Pisa is generally more affordable than in larger Italian university c
 
 ## Budget Bands
 
-![University of Pisa](https://img.findstay.org/housing/p/amber-2043649.jpg)
+![University of Pisa](https://img.unistay.cn/housing/p/amber-2043649.jpg)
 
 Rental prices in Pisa vary depending on location, property condition, and whether the room is shared or private. The following bands are **indicative only — confirm with the operator** before making any commitment.
 

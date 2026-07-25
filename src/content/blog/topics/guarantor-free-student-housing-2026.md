@@ -2,7 +2,7 @@
 title: "Guarantor-Free Student Housing: How International Students Can Rent Without a Local Guarantor"
 description: "How to find student accommodation without a local guarantor — from Housing Hand to university guarantor schemes. Strategies for international students in the UK, US, Australia, and more."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1600"
 ogImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200"
 tags: ["rental-tips", "student-accommodation"]

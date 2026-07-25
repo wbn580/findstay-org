@@ -3,8 +3,8 @@ title: "Housing near Belarusian State University: 2026 student guide"
 description: "Housing Near Belarusian State University: What You Need to Know for 2026–2027  Belarusian State University (BSU) is located in the heart of Minsk,"
 pubDatetime: 2026-07-03T13:14:22.000Z
 modDatetime: 2026-07-07T08:50:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2083788.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2083788.jpg"
 tags: ["university", "belarusian-state-university"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Housing costs in Minsk vary by distance from the university, type of accommodati
 
 Living within a 15–20 minute walk of prasp. Niezaliežnasci 4 gives you direct access to the university, nearby parks (e.g., Gorky Park, Yanka Kupala Park), and the central shops and restaurants. Walking saves money on transport, reduces commute time, and lets you enjoy the “stunning architecture” mentioned in reviews. However, rents in this radius are at the higher end of the budget bands, and apartments may be smaller or older for the same price.
 
-![Belarusian State University](https://img.findstay.org/housing/p/amber-2083788.jpg)
+![Belarusian State University](https://img.unistay.cn/housing/p/amber-2083788.jpg)
 
 #### Public Transport (20–40 minutes total)
 

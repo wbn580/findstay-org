@@ -1,0 +1,41 @@
+---
+/**
+ * FAQ accordion (native <details>) + FAQPage JSON-LD.
+ * `a` may contain simple inline HTML (links); JSON-LD gets the tag-stripped text.
+ */
+export interface FaqItem {
+  q: string;
+  a: string;
+}
+
+const { faqs, heading = "Frequently asked questions" } = Astro.props as {
+  faqs: FaqItem[];
+  heading?: string | null;
+};
+
+const ld = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map(f => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: f.a.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim(),
+    },
+  })),
+};
+---
+
+<div class="faq">
+  {heading && <h2 class="fs-h2" style="margin-bottom:26px">{heading}</h2>}
+  {
+    faqs.map(f => (
+      <details>
+        <summary>{f.q}</summary>
+        <div class="a" set:html={f.a} />
+      </details>
+    ))
+  }
+</div>
+<script type="application/ld+json" is:inline set:html={JSON.stringify(ld)} />

@@ -3,8 +3,8 @@ title: "Housing near University of Galway / Ollscoil na Gaillimhe: 2026 student 
 description: "What Students Say About the Campus  The University of Galway sits on University Road, along the River Corrib. With a Google rating of 4.5 from 417"
 pubDatetime: 2026-07-05T18:33:30.000Z
 modDatetime: 2026-07-07T08:51:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00677096.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00677096.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Galway is a mid-sized city on Ireland’s west coast, known for its music, festi
 
 ## Budget Bands for Student Housing (2026–2027 Indicative)
 
-![University of Galway / Ollscoil na Gaillimhe](https://img.findstay.org/housing/p/uh-s00677096.jpg)
+![University of Galway / Ollscoil na Gaillimhe](https://img.unistay.cn/housing/p/uh-s00677096.jpg)
 
 Rental prices in Galway vary significantly by property type and location. The figures below are indicative — confirm with the operator before committing.
 

@@ -1,0 +1,79 @@
+---
+/**
+ * Property card — used on homepage, country hubs, city pages, property "more in city".
+ * Accepts the lightweight index record shape (or the full record, superset).
+ */
+import { fmtMoney, durShort, imgUrl, ratingOf, fmtInt } from "@/utils/fsData";
+
+interface PropLike {
+  slug: string;
+  name: string;
+  city: string;
+  city_slug?: string;
+  country?: string;
+  currency: string;
+  min_price: number | null;
+  price_duration?: string | null;
+  rating: number | boolean | null;
+  g_reviews?: number | null;
+  image: string | null;
+}
+
+const { p, locLabel, eager = false } = Astro.props as {
+  p: PropLike;
+  /** e.g. "Sydney, Australia" — omit to show city only */
+  locLabel?: string;
+  eager?: boolean;
+};
+
+const rating = ratingOf(p.rating);
+const img = imgUrl(p.image);
+const dur = durShort(p.price_duration ?? null);
+const initial = (p.name || "?").trim().charAt(0).toUpperCase();
+---
+
+<a href={`/property/${p.slug}/`} class="fs-card prop-card">
+  <div class="prop-thumb">
+    {
+      img ? (
+        <img
+          src={img}
+          alt={`${p.name} — student accommodation in ${p.city}`}
+          loading={eager ? "eager" : "lazy"}
+          decoding="async"
+          width="640"
+          height="400"
+        />
+      ) : (
+        <div class="ph" aria-hidden="true">{initial}</div>
+      )
+    }
+    {
+      rating !== null && (
+        <span class="rate-badge">
+          <span aria-hidden="true">★</span> {rating.toFixed(1)}
+          {p.g_reviews ? <span style="font-weight:400;opacity:.85">({fmtInt(p.g_reviews)})</span> : null}
+        </span>
+      )
+    }
+  </div>
+  <div class="prop-body">
+    <h3>{p.name}</h3>
+    <p class="loc">{locLabel ?? p.city}</p>
+    <p class="price">
+      {
+        p.min_price != null ? (
+          <>
+            from <b>{fmtMoney(p.currency, p.min_price)}</b>{dur && `/${dur}`}
+            <span class="ind">indicative — confirm with the operator</span>
+          </>
+        ) : (
+          <>
+            pricing on enquiry
+            <span class="ind">confirm with the operator</span>
+          </>
+        )
+      }
+    </p>
+  </div>
+</a>

@@ -3,8 +3,8 @@ title: "Housing near Ateneo de Manila University: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Life  Ateneo de Manila University, ranked 511 in the QS world ranking, sits on Katipunan Ave in Loyola Hei"
 pubDatetime: 2026-07-04T19:56:21.000Z
 modDatetime: 2026-07-07T08:51:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2327659.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2327659.jpg"
 tags: ["university", "ateneo-de-manila-university"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Traffic in Quezon City is heavy during peak hours (7–9 am and 5–8 pm). Livin
 
 ## Budget Bands for Student Housing
 
-![Ateneo de Manila University](https://img.findstay.org/housing/p/amber-2327659.jpg)
+![Ateneo de Manila University](https://img.unistay.cn/housing/p/amber-2327659.jpg)
 
 Rental prices in the Loyola Heights / Katipunan area vary significantly depending on type, size, and distance from the campus gate. All figures below are **indicative — confirm with the operator** and reflect 2026–2027 market estimates.
 

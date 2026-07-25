@@ -3,8 +3,8 @@ title: "Housing near Universidad de Sevilla: 2026 student guide"
 description: "Campus Reviews: What Students and Visitors Say  The Universidad de Sevilla occupies a landmark building – the 18th‑century Real Fábrica de Tabacos"
 pubDatetime: 2026-07-03T08:38:10.000Z
 modDatetime: 2026-07-07T09:10:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-240622.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-240622.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Student life revolves around the historic centre, where the main campus sits, an
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Universidad de Sevilla](https://img.findstay.org/housing/p/amber-240622.jpg)
+![Universidad de Sevilla](https://img.unistay.cn/housing/p/amber-240622.jpg)
 
 Below are typical monthly rental ranges for a student in Seville. All prices are indicative – confirm with the operator.
 

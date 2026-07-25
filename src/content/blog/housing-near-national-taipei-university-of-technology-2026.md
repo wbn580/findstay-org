@@ -3,8 +3,8 @@ title: "Housing near National Taipei University of Technology: 2026 student guid
 description: "National Taipei University of Technology: Housing Guide for International Students  National Taipei University of Technology (NTUT) is located at N"
 pubDatetime: 2026-07-01T07:54:23.000Z
 modDatetime: 2026-07-07T09:02:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-286395.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-286395.jpg"
 tags: ["university", "national-taipei-university-of-technology"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ If you choose to commute by MRT, consider these popular student areas:
 - **Yonghe / Dingxi (3–4 stops away, orange line):** Lower rent, larger apartments, but a 20–25 minute commute.
 - **Taipei Main Station area (2 stops):** Central, many transport options, but rent is comparable to near campus.
 
-![National Taipei University of Technology](https://img.findstay.org/housing/p/amber-286395.jpg)
+![National Taipei University of Technology](https://img.unistay.cn/housing/p/amber-286395.jpg)
 
 The trade-off is clear: for every 5 minutes of extra commute, you may save NT$1,500–NT$3,000 on rent per month. Use Google Maps travel times at peak hours (8–9 am and 5–7 pm) to gauge real door-to-door times.
 

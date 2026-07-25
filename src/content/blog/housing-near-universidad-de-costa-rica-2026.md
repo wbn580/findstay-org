@@ -3,8 +3,8 @@ title: "Housing near Universidad de Costa Rica: 2026 student guide"
 description: "Housing Near Universidad de Costa Rica: A Practical Guide  Universidad de Costa Rica (UCR) is consistently ranked among the top universities in Cen"
 pubDatetime: 2026-07-01T15:22:05.000Z
 modDatetime: 2026-07-07T08:04:05.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2683154.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2683154.jpg"
 tags: ["university", "universidad-de-costa-rica"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ UCR campus occupies a compact area of roughly 85 hectares, with most buildings a
 
 - **Walking:** The strongest evidence from reviews is that the immediate neighborhood is safe and walkable. Students living within a 1.5 km radius (San Pedro, Los Yoses) can reach classes in 10–20 minutes on foot. This eliminates daily commuting costs and reduces exposure to traffic. The downside is higher rent per square meter; the trade-off is convenience.
 
-![Universidad de Costa Rica](https://img.findstay.org/housing/p/amber-2683154.jpg)
+![Universidad de Costa Rica](https://img.unistay.cn/housing/p/amber-2683154.jpg)
 
 - **Public buses:** San José has a dense bus network. Routes from Barrio Dent, Escalante, and even downtown (San José centro) stop at the main campus entrance (Parada Universidad de Costa Rica). A bus ride from downtown costs about ₡250–₡350 (USD 0.50–0.70) and takes 15–25 minutes depending on traffic. The trade-off: lower rent but a time cost of 30–40 minutes round trip plus waiting.
 - **Bicycles:** A small but growing cycling culture exists on campus. There are bicycle racks and some covered parking. Hills can be a challenge in parts of Barrio Dent, but the campus terrain is flat.

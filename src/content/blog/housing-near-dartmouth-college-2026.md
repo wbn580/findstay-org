@@ -3,8 +3,8 @@ title: "Housing near Dartmouth College: 2026 student guide"
 description: "Housing Near Dartmouth College: What Campus Reviews and Location Tell You  Ranked 247 globally (QS 2026), Dartmouth College is a private Ivy League"
 pubDatetime: 2026-07-05T13:16:09.000Z
 modDatetime: 2026-07-07T07:55:09.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3220429.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3220429.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -69,7 +69,7 @@ Most off-campus leases run from June to June, with renewals in spring. Utilities
 - A personal car becomes almost essential for evening events, grocery runs, or medical appointments outside town.
 - Parking permits on campus are limited and cost $200–$500 per year (indicative — confirm with the college).
 
-![Dartmouth College](https://img.findstay.org/housing/p/amber-3220429.jpg)
+![Dartmouth College](https://img.unistay.cn/housing/p/amber-3220429.jpg)
 
 **Rural/long commute** (5+ miles):
 

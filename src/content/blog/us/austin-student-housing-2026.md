@@ -2,7 +2,7 @@
 title: "Austin Student Housing 2026: Areas Near UT Austin & ACC"
 description: "Student accommodation in Austin, Texas — from West Campus to East Austin. 2026 rent prices, the UT housing lottery, and neighborhood guides for students."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1531218150217-54595bc2b934?w=1600"
 ogImage: "https://images.unsplash.com/photo-1531218150217-54595bc2b934?w=1200"
 tags: ["us", "austin", "student-accommodation"]

@@ -3,8 +3,8 @@ title: "Housing near Gwangju Institute of Science and Technology (GIST): 2026 st
 description: "Housing Near Gwangju Institute of Science and Technology (GIST): A Guide for International Students  Gwangju Institute of Science and Technology (G"
 pubDatetime: 2026-07-05T11:10:42.000Z
 modDatetime: 2026-07-07T08:07:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01522725.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01522725.jpg"
 tags: ["university", "gwangju-institute-of-science-and-technology"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Cycling is a popular alternative. Gwangju has decent bike lanes, and many studen
 
 When you start searching for off-campus housing near GIST, use the following logical steps to narrow your options. No specific building names are given here — only the criteria.
 
-![Gwangju Institute of Science and Technology (GIST)](https://img.findstay.org/housing/p/uh-s01522725.jpg)
+![Gwangju Institute of Science and Technology (GIST)](https://img.unistay.cn/housing/p/uh-s01522725.jpg)
 
 **Step 1: Define your maximum commute time.**  
 If you want to roll out of bed and be in class in 15 minutes, focus on the blocks immediately north and east of campus along Cheomdangwagi-ro and the parallel streets. If you can accept 30 minutes by bus, expand your search to include residential areas around the GIST bus stops (for example, areas near the “GIST” or “Cheomdangwagi-ro” bus stations).

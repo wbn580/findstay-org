@@ -3,8 +3,8 @@ title: "Housing near University of Genoa: 2026 student guide"
 description: "University of Genoa: Housing Guide for Students  University of Genoa (QS World University Ranking 530) is located in the heart of Genoa, Italy, at"
 pubDatetime: 2026-06-30T10:34:24.000Z
 modDatetime: 2026-07-07T08:23:24.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3119541.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3119541.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ For those taking classes at other university sites (e.g., Engineering in Vallett
 
 Because the university provides limited direct housing, students typically create a shortlist based on three criteria: 1) distance to the main building (walkable or short tram/bus ride), 2) budget, and 3) lease flexibility. Below is a method to evaluate options.
 
-![University of Genoa](https://img.findstay.org/housing/p/amber-3119541.jpg)
+![University of Genoa](https://img.unistay.cn/housing/p/amber-3119541.jpg)
 
 **Step 1: Define your “core” area.** If most of your classes are at Via Balbi, set a maximum walking time of 15 minutes as ideal, 20 minutes as acceptable. Mark on a map the districts: Centro Storico, Prè, Maddalena, Castelletto (hillside). Use Google Maps walking time from the address.
 

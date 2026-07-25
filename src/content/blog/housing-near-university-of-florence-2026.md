@@ -3,8 +3,8 @@ title: "Housing near University of Florence: 2026 student guide"
 description: "Campus Reviews Reflect Real Experiences The University of Florence has a Google rating of 4.2 from 389 reviews, which is generally good. But reading the."
 pubDatetime: 2026-07-06T08:00:22.000Z
 modDatetime: 2026-07-07T08:19:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2364215.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2364215.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ Public transport: the ATAF bus network covers the whole city. A single ticket co
 
 ## Student Housing Budget Ranges
 
-![University of Florence](https://img.findstay.org/housing/p/amber-2364215.jpg)
+![University of Florence](https://img.unistay.cn/housing/p/amber-2364215.jpg)
 
 The budgets below are based on typical rental market ranges for the 2026/2027 academic year in Florence. All prices are indicative — confirm with the operator.
 

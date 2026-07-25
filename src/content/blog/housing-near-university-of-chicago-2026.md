@@ -3,8 +3,8 @@ title: "Housing near University of Chicago: 2026 student guide"
 description: "Housing near the University of Chicago: Campus reviews, budget, and neighbourhood options  The University of Chicago sits in the Hyde Park neighbou"
 pubDatetime: 2026-06-30T21:48:20.000Z
 modDatetime: 2026-07-07T07:57:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1274627.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1274627.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -64,7 +64,7 @@ Many graduate students choose the trade‑off because they can live near the lak
 
 The data includes five sampled residences. Below is a neutral assessment of each based on location and typical features — not a recommendation. Always confirm current availability and terms with the operator.
 
-![University of Chicago](https://img.findstay.org/housing/p/amber-1274627.jpg)
+![University of Chicago](https://img.unistay.cn/housing/p/amber-1274627.jpg)
 
 **1. June Homes 60647**  
 The ZIP code 60647 corresponds to Logan Square, a neighbourhood on Chicago’s Northwest Side — about 10 miles from campus. June Homes offers short‑term furnished rentals. If you choose this location, you would rely on the Blue Line train to the Loop and then transfer to a bus or Metra. The commute could be 50–70 minutes each way. Suitable if you need flexible lease lengths or have classes only a few days a week.

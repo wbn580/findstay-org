@@ -3,8 +3,8 @@ title: "Housing near United Arab Emirates University: 2026 student guide"
 description: "Housing Near United Arab Emirates University: A Practical Guide for Students  Choosing where to live as a student at United Arab Emirates Universit"
 pubDatetime: 2026-07-03T06:36:12.000Z
 modDatetime: 2026-07-07T09:09:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-287682.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-287682.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ When budgeting, factor in a security deposit (usually 5–10% of annual rent), a
 
 **Walking:** Living within a 15–20 minute walk of UAEU’s campus saves commuting time and cost. The immediate neighbourhood around Sheikh Khalifa Bin Zayed Street has a few apartment buildings, but availability is limited. If you find a place within walking distance, you eliminate transport expenses and can easily attend evening classes or use campus facilities. The downside is that such units are often in higher demand and may command a premium rent.
 
-![United Arab Emirates University](https://img.findstay.org/housing/p/amber-287682.jpg)
+![United Arab Emirates University](https://img.unistay.cn/housing/p/amber-287682.jpg)
 
 **Transit:** For most students, living further out and using public transport (bus, taxi, or shared car) is more affordable. Abu Dhabi’s bus network connects major residential areas like Khalifa City, Al Raha, and Al Reem Island to the city centre. A monthly bus pass costs around 80–120 AED (indicative — confirm with the operator). Taxi rides from, say, Al Nahda to campus could cost 30–50 AED one way. Ride-hailing services are widely available.
 

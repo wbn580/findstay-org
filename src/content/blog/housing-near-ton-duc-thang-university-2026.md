@@ -3,8 +3,8 @@ title: "Housing near Ton Duc Thang University: 2026 student guide"
 description: "What Campus Reviews Tell Us  Ton Duc Thang University (TDTU) holds a global rank of 684 in the QS system and maintains a Google rating of 4.3 from"
 pubDatetime: 2026-07-05T00:36:32.000Z
 modDatetime: 2026-07-07T08:47:32.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-921367.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-921367.jpg"
 tags: ["university", "ton-duc-thang-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ For TDTU students, the most practical neighbourhoods are within District 7 itsel
 
 ## Budget Bands (indicative — confirm with the operator)
 
-![Ton Duc Thang University](https://img.findstay.org/housing/p/amber-921367.jpg)
+![Ton Duc Thang University](https://img.unistay.cn/housing/p/amber-921367.jpg)
 
 All rents below are typical monthly figures for 2026. They are indicative only — always confirm directly with the landlord or operator.
 

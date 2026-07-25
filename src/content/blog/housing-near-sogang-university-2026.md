@@ -3,8 +3,8 @@ title: "Housing near Sogang University: 2026 student guide"
 description: "What Campus Reviews Reveal  Sogang University, located at 35 Baekbeom-ro in Seoul’s Mapo-gu, holds a QS World University Ranking of 558 and a Googl"
 pubDatetime: 2026-07-01T14:32:22.000Z
 modDatetime: 2026-07-07T08:58:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1424868.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1424868.jpg"
 tags: ["university", "sogang-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Seoul’s public transportation network is extensive. The campus is served by So
 
 ## Budget Bands for Student Housing
 
-![Sogang University](https://img.findstay.org/housing/p/amber-1424868.jpg)
+![Sogang University](https://img.unistay.cn/housing/p/amber-1424868.jpg)
 
 Housing costs near Sogang University typically fall into three broad categories, all prices are indicative — confirm with the operator when you search.
 

@@ -3,8 +3,8 @@ title: "Housing near Queen's University, Ontario: 2026 student guide"
 description: "Housing Near Queen's University, Ontario: What Campus Reviews Reveal, City Context, and Shortlisting Logic  Queen's University, Ontario, ranks 191s"
 pubDatetime: 2026-07-04T16:26:19.000Z
 modDatetime: 2026-07-07T08:39:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2182581.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2182581.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Keep in mind that rents increase year on year. For the 2026–2027 academic year
 
 Queen’s main campus is bordered by University Avenue, Stuart Street, and King Street. Most academic buildings are on the west side of campus, near the lake. The student neighbourhood known as the “University District” extends north and west of campus, with many houses rented to students. The downtown core is east of campus, across the Rideau Canal.
 
-![Queen's University, Ontario](https://img.findstay.org/housing/p/amber-2182581.jpg)
+![Queen's University, Ontario](https://img.unistay.cn/housing/p/amber-2182581.jpg)
 
 - **Walking:** From the residences listed, walking to the centre of campus takes 10–20 minutes depending on exact location. Unity Point and Geo Central are closer to campus (~10–12 min walk). Geo Towns and Geo Park are farther west (~15–18 min). A comfortable walking radius is about 1.5 km. Students who live within that radius typically don’t need a bus pass unless they commute to part-time jobs off campus.
 - **Transit:** Kingston Transit runs several routes that serve the university area. A monthly bus pass costs around CAD 80 for students (discounted). Buses are reliable but run less frequently in evenings and on weekends. If you live more than 2 km from campus (e.g., near the edge of the city), a bus or bicycle becomes necessary. On the other hand, living closer to campus may mean higher rent and less access to grocery stores (the closest full-service grocery is about a 15-min walk from central campus).

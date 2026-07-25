@@ -3,8 +3,8 @@ title: "Housing near Illinois Institute of Technology: 2026 student guide"
 description: "Housing near Illinois Institute of Technology: What Campus Reviews Reveal  Illinois Institute of Technology (IIT) is a private research university"
 pubDatetime: 2026-07-05T15:24:50.000Z
 modDatetime: 2026-07-07T09:09:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-288849.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-288849.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ IIT’s campus is compact and walkable. Many academic buildings are within a 10-
 
 **Walking** is realistic if you live within a 1-mile radius. Areas south of 35th St (toward 43rd St) and east of King Drive remain walkable, but some blocks have limited street lighting. The campus itself is generally considered safe, though students should exercise usual urban caution. Walking directly from a nearby apartment (like The Buckingham or other buildings on State St) saves money on transit and provides flexibility for late-night study sessions.
 
-![Illinois Institute of Technology](https://img.findstay.org/housing/p/amber-288849.jpg)
+![Illinois Institute of Technology](https://img.unistay.cn/housing/p/amber-288849.jpg)
 
 **Transit** becomes necessary if you choose housing farther out. The CTA Red Line stops at 35th-Bronzeville-IIT station (on the corner of 35th and State St), which is a major hub. Green and Orange Lines also serve the area. Buses such as the #35 (31st/35th) and #39 (Pershing) run east-west and north-south. A commute from a budget-friendly area in, say, Uptown or Edgewater may take 40–50 minutes one way. That adds up to about 7 hours per week – time that could be spent studying or resting.
 

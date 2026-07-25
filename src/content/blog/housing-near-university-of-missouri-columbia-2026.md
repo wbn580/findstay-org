@@ -3,8 +3,8 @@ title: "Housing near University of Missouri, Columbia: 2026 student guide"
 description: "Campus Life and What Reviews Reveal  The University of Missouri, Columbia (MU) attracts a diverse student body, and the campus itself often receive"
 pubDatetime: 2026-07-02T18:52:25.000Z
 modDatetime: 2026-07-07T09:01:25.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-825822.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-825822.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Columbia’s public transit system, GO COMO, operates bus routes that serve the 
 
 ## Budget Bands for Student Housing
 
-![University of Missouri, Columbia](https://img.findstay.org/housing/p/amber-825822.jpg)
+![University of Missouri, Columbia](https://img.unistay.cn/housing/p/amber-825822.jpg)
 
 When planning your 2026-2027 academic year budget, it helps to think in broad spending tiers. All prices below are indicative — confirm with the operator before signing a lease.
 

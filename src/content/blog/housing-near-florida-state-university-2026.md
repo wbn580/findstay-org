@@ -3,8 +3,8 @@ title: "Housing near Florida State University: 2026 student guide"
 description: "What Campus Reviews Reveal: Student and Visitor Perspectives  Florida State University (FSU) holds a Google rating of 4.6 out of 5 from 847 reviews"
 pubDatetime: 2026-07-06T16:29:07.000Z
 modDatetime: 2026-07-07T08:35:07.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1396472.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1396472.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Tallahassee also has a humid subtropical climate with hot summers and mild winte
 
 ## Budget Bands: From Affordable to Premium
 
-![Florida State University](https://img.findstay.org/housing/p/amber-1396472.jpg)
+![Florida State University](https://img.unistay.cn/housing/p/amber-1396472.jpg)
 
 Based on the available data, student housing in Tallahassee can be divided into three broad budget bands. Note that all prices are indicative and should be confirmed with the operator at the time of lease signing.
 

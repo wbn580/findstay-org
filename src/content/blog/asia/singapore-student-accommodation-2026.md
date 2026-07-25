@@ -2,7 +2,7 @@
 title: "Singapore Student Accommodation Guide 2026: NUS, NTU & SMU Housing"
 description: "Find student housing in Singapore near NUS, NTU, SMU and other universities. Compare on-campus halls, HDB rentals, private apartments, and 2026 costs."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1600"
 ogImage: "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1200"
 tags: ["singapore", "student-accommodation"]

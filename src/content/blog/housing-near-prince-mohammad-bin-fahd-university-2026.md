@@ -3,8 +3,8 @@ title: "Housing near Prince Mohammad Bin Fahd University: 2026 student guide"
 description: "What campus reviews reveal about living near PMU  Student reviews of Prince Mohammad Bin Fahd University (PMU) highlight specific issues that direc"
 pubDatetime: 2026-07-07T03:58:55.000Z
 modDatetime: 2026-07-07T09:02:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1240286.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1240286.jpg"
 tags: ["university", "prince-mohammad-bin-fahd-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Public transportation is limited in Khobar. Most residents rely on private cars 
 
 ## Budget bands for student housing (indicative — confirm with the operator)
 
-![Prince Mohammad Bin Fahd University](https://img.findstay.org/housing/p/amber-1240286.jpg)
+![Prince Mohammad Bin Fahd University](https://img.unistay.cn/housing/p/amber-1240286.jpg)
 
 Rents in Khobar vary by location, property type, and amenities. Based on general market data for 2026, here are typical monthly ranges for student accommodation near PMU. All prices are indicative — confirm with the operator.
 

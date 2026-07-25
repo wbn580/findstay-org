@@ -3,8 +3,8 @@ title: "Housing near Edith Cowan University: 2026 student guide"
 description: "What Campus Reviews Reveal About Edith Cowan University  Student reviews paint a consistent picture of Edith Cowan University (ECU)’s Joondalup cam"
 pubDatetime: 2026-07-03T05:24:36.000Z
 modDatetime: 2026-07-07T08:46:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1540274.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1540274.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Cost of living in Perth has been rising steadily. For students in 2026–2027, e
 
 ## Budget Bands
 
-![Edith Cowan University](https://img.findstay.org/housing/p/amber-1540274.jpg)
+![Edith Cowan University](https://img.unistay.cn/housing/p/amber-1540274.jpg)
 
 Student housing costs in Joondalup vary widely based on type, location, and facilities. The figures below are indicative — confirm with the operator for current pricing. All prices are per week in Australian dollars (AUD).
 

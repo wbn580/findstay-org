@@ -3,8 +3,8 @@ title: "Housing near Tongji University: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Life  Tongji University’s Google rating (4.6 out of 59 reviews) points to a generally positive experience,"
 pubDatetime: 2026-07-04T00:51:59.000Z
 modDatetime: 2026-07-07T08:29:59.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1102787.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1102787.jpg"
 tags: ["university", "tongji-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The Zhabei area itself has local markets, convenience stores, and small eateries
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Tongji University](https://img.findstay.org/housing/p/amber-1102787.jpg)
+![Tongji University](https://img.unistay.cn/housing/p/amber-1102787.jpg)
 
 The following bands are **indicative — confirm with the operator** when looking for housing. Prices in CNY (RMB) per month, for a single room in a shared apartment or a small studio near Tongji University. Exchange rates fluctuate, so check current conversion.
 

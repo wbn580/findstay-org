@@ -3,8 +3,8 @@ title: "Housing near University of Ulster: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Ulster’s Belfast campus sits on York Street in the Cathedral Quarter, a location that draws consisten"
 pubDatetime: 2026-07-05T22:36:50.000Z
 modDatetime: 2026-07-07T07:57:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2594752.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2594752.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Public transport is reliable: buses run frequently, and a monthly student bus pa
 
 ## Budget Bands for Student Housing
 
-![University of Ulster](https://img.findstay.org/housing/p/amber-2594752.jpg)
+![University of Ulster](https://img.unistay.cn/housing/p/amber-2594752.jpg)
 
 Student housing near the University of Ulster falls into three broad budget bands. All prices listed below are indicative – always confirm with the operator, as rates vary by season and lease length.
 

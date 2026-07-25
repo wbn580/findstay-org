@@ -3,8 +3,8 @@ title: "Housing near University of Turku: 2026 student guide"
 description: "What Campus Reviews Reveal About Studying at the University of Turku  The University of Turku, located in the southwest of Finland, holds a QS Worl"
 pubDatetime: 2026-07-01T06:14:10.000Z
 modDatetime: 2026-07-07T07:53:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1271565.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1271565.jpg"
 tags: ["university", "university-of-turku"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Finland’s rental market generally requires a deposit (usually one to three mon
 
 ## Budget Bands for Student Housing
 
-![University of Turku](https://img.findstay.org/housing/p/amber-1271565.jpg)
+![University of Turku](https://img.unistay.cn/housing/p/amber-1271565.jpg)
 
 All figures below are indicative — confirm with the operator before signing any contract. Prices apply to the 2026−2027 academic year and reflect typical rents for student housing in Turku.
 

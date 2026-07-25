@@ -3,8 +3,8 @@ title: "Housing near Norwegian University of Science And Technology: 2026 studen
 description: "Housing Near the Norwegian University of Science and Technology (NTNU)  Situated in Trondheim, the Norwegian University of Science and Technology ("
 pubDatetime: 2026-07-05T20:29:27.000Z
 modDatetime: 2026-07-07T08:08:27.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3232475.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3232475.jpg"
 tags: ["university", "norwegian-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ Students on a limited budget often prioritise dormitories or shared flats. Those
 
 The Gløshaugen campus is approximately 1.5 km from Trondheim’s central station (Trondheim S), which is a 20-minute walk downhill. Walking is feasible from most central neighbourhoods, including Sentrum, Bakklandet, and parts of Elgseter. The uphill return to campus can be tiring, but many students manage fine with a bicycle (electric bikes are popular).
 
-![Norwegian University of Science And Technology](https://img.findstay.org/housing/p/amber-3232475.jpg)
+![Norwegian University of Science And Technology](https://img.unistay.cn/housing/p/amber-3232475.jpg)
 
 Public transport is efficient. AtB buses run along key corridors, including lines 3, 10, and 12 that stop near campus. A single fare is around 40 NOK (indication), but students often buy a monthly pass for roughly 600–700 NOK (2026/2027 semester prices are indicative — confirm with the operator). The bus network covers Moholt, Singsaker, and Rosenborg, which are slightly farther but often cheaper areas for housing.
 

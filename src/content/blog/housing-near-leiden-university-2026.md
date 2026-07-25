@@ -3,8 +3,8 @@ title: "Housing near Leiden University: 2026 student guide"
 description: "Housing Near Leiden University: What Campus Reviews Reveal  Leiden University, ranked 119th in the QS World University Rankings, is located at Rape"
 pubDatetime: 2026-07-02T04:59:46.000Z
 modDatetime: 2026-07-07T09:11:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1173642.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1173642.jpg"
 tags: ["university", "leiden-university"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ Because no specific rent figures are available from the given dataset, it is ess
 
 Leiden University’s main address is at Rapenburg 70, right in the historic centre. The Gorlaeus science campus is a 20-minute walk east, and the Faculty of Humanities is near the city centre. This means that the walk-versus-transit decision depends largely on which faculty you belong to and your personal preference.
 
-![Leiden University](https://img.findstay.org/housing/p/amber-1173642.jpg)
+![Leiden University](https://img.unistay.cn/housing/p/amber-1173642.jpg)
 
 - **Walking (within 15–20 minutes of Rapenburg):** The city centre is compact and pedestrian-friendly. Housing in areas like the Binnenstad, Burgsteeg, or around the Botanic Gardens puts you within earshot of classroom bells. The trade-off: rents in the centrum are generally higher per square metre, and availability is limited because many buildings are historic. Street noise can also be an issue in the evenings.
 - **Biking (up to 15 minutes):** Bicycles are the most popular mode of transport among Dutch students. Living in neighbourhoods such as De Kooi, the Professorenwijk, or even parts of Oegstgeest (just north of the city) allows a short bike ride to campus. These areas often offer more space for the same rent as a smaller room in the centre.

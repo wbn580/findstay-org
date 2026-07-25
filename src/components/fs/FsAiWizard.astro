@@ -1,0 +1,210 @@
+---
+// FsAiWizard.astro — AI match wizard (homepage hero centerpiece · 大王 2026-07-07)
+// Data lazy-loaded from /wizard_cities.json (219 cities · native currency · data-driven bands).
+// Lead posts to https://chat.unistay.cn/lead (same store + advisor email).
+---
+<div class="fsw" id="fsw" data-fsw-init="0">
+  <div class="fsw-tag"><span class="dot" aria-hidden="true"></span>AI housing match · 774k reviews</div>
+  <div class="fsw-bar"><i id="fswBar"></i></div>
+  <div id="fswView" class="fsw-view"><div class="fsw-load">Loading matches…</div></div>
+  <div class="fsw-foot" id="fswFoot"><a href="#" id="fswChat">Rather chat with us? →</a></div>
+</div>
+
+<style is:global>
+.fsw{background:#fff;border-radius:22px;box-shadow:0 30px 70px rgba(20,18,42,.28);overflow:hidden;max-width:460px;width:100%;text-align:left;color:#14122A;font-family:"Inter",sans-serif}
+.fsw-tag{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:600;color:#4B3FE4;padding:16px 22px 0}
+.fsw-tag .dot{width:7px;height:7px;border-radius:50%;background:#CDEB5A;box-shadow:0 0 0 3px #EEECFF}
+.fsw-bar{height:4px;background:#EEECFF;margin-top:14px}
+.fsw-bar i{display:block;height:100%;width:20%;background:#4B3FE4;transition:width .4s cubic-bezier(.2,.7,.3,1)}
+.fsw-view{min-height:230px}
+.fsw-load{padding:60px;text-align:center;color:#6B6880;font-size:14px}
+.fsw-body{padding:22px}
+.fsw-sh{display:flex;align-items:center;justify-content:space-between}
+.fsw-sn{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:#4B3FE4}
+.fsw-back{background:none;border:0;color:#6B6880;font-size:13px;cursor:pointer;font-family:inherit}
+.fsw-back:hover{color:#14122A}
+.fsw-q{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:21px;letter-spacing:-.02em;margin:8px 0 16px;line-height:1.15}
+.fsw-srch{display:flex;align-items:center;gap:10px;border:1.5px solid #E2DFF0;border-radius:13px;padding:0 14px;height:50px;margin-bottom:12px}
+.fsw-srch:focus-within{border-color:#4B3FE4;box-shadow:0 0 0 4px #EEECFF}
+.fsw-srch svg{width:18px;height:18px;color:#6B6880;flex:none}
+.fsw-srch input{border:0;outline:0;font:inherit;font-size:15px;width:100%;background:none}
+.fsw-chips{display:flex;flex-wrap:wrap;gap:7px}
+.fsw-chip{border:1.5px solid #E2DFF0;background:#fff;border-radius:999px;padding:7px 13px;font-size:13px;font-weight:600;font-family:"Space Grotesk",sans-serif;cursor:pointer;color:#14122A}
+.fsw-chip:hover{border-color:#4B3FE4;color:#4B3FE4}
+.fsw-opts{display:grid;gap:9px}
+.fsw-opts.two{grid-template-columns:1fr 1fr}
+.fsw-opt{border:1.5px solid #E2DFF0;border-radius:13px;padding:13px 15px;cursor:pointer;background:#fff;text-align:left;font-family:inherit;display:flex;align-items:center;gap:11px;color:#14122A}
+.fsw-opt:hover{border-color:#4B3FE4;background:#FCFCFF}
+.fsw-opt .t{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:14.5px}
+.fsw-opt .s{font-size:12px;color:#6B6880}
+.fsw-opt.ctr{justify-content:center;text-align:center;flex-direction:column;gap:2px;padding:13px 6px}
+.fsw-ta{width:100%;min-height:88px;border:1.5px solid #E2DFF0;border-radius:13px;padding:13px;font:inherit;font-size:14.5px;outline:0;resize:vertical}
+.fsw-ta:focus{border-color:#4B3FE4;box-shadow:0 0 0 4px #EEECFF}
+.fsw-hints{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
+.fsw-hint{background:#EEECFF;color:#4B3FE4;border:0;border-radius:999px;padding:6px 11px;font-size:12px;font-weight:600;font-family:"Space Grotesk",sans-serif;cursor:pointer}
+.fsw-cta{width:100%;height:50px;border:0;border-radius:13px;font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:15.5px;cursor:pointer;background:#4B3FE4;color:#fff;box-shadow:0 8px 22px rgba(75,63,228,.3);margin-top:14px}
+.fsw-cta:hover{background:#3A2FC4}
+.fsw-think{padding:48px 22px;text-align:center}
+.fsw-orb{width:60px;height:60px;margin:0 auto 18px;border-radius:50%;background:#EEECFF;position:relative}
+.fsw-orb::after{content:"";position:absolute;inset:-6px;border-radius:50%;border:3px solid #4B3FE4;border-right-color:transparent;animation:fswspin .8s linear infinite}
+@keyframes fswspin{to{transform:rotate(360deg)}}
+.fsw-think .t{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:17px}
+.fsw-think .s{color:#6B6880;font-size:13.5px;margin-top:6px}
+.fsw-rh{padding:20px 20px 4px}
+.fsw-rh .lab{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:#12B76A}
+.fsw-rh h3{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:18px;margin-top:6px;color:#14122A;letter-spacing:-.02em}
+.fsw-kb{font-size:11.5px;color:#4B3FE4;background:#EEECFF;display:inline-block;padding:4px 10px;border-radius:8px;margin-top:9px;font-weight:600}
+.fsw-list{padding:12px 16px}
+.fsw-pc{display:flex;gap:12px;padding:10px;border-radius:14px;border:1px solid #ECEAF4;margin-bottom:9px;text-decoration:none;color:inherit;transition:.15s}
+.fsw-pc:hover{border-color:#E2DFF0;box-shadow:0 8px 24px rgba(20,18,42,.08)}
+.fsw-pc .im{width:84px;height:84px;border-radius:11px;background:#EEECFF center/cover;flex:none;position:relative}
+.fsw-pc .vb{position:absolute;top:5px;left:5px;background:rgba(255,255,255,.92);color:#12B76A;font-size:9px;font-weight:700;padding:2px 6px;border-radius:999px}
+.fsw-pc h4{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:15px;margin-bottom:3px;line-height:1.2}
+.fsw-pc .rt{font-size:12px;color:#6B6880;margin-bottom:5px}.fsw-pc .rt b{color:#FF6455}
+.fsw-pc .why{font-size:11.5px;color:#4B3FE4;background:#EEECFF;display:inline-block;padding:2px 8px;border-radius:7px;font-weight:600}
+.fsw-pc .pr{margin-left:auto;text-align:right;flex:none}
+.fsw-pc .pr b{font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:15.5px}
+.fsw-pc .pr s{display:block;font-size:10.5px;color:#6B6880;text-decoration:none}
+.fsw-lead{background:#14122A;color:#fff;padding:20px 22px}
+.fsw-lead h4{color:#fff;font-family:"Space Grotesk",sans-serif;font-size:16px;font-weight:600;margin-bottom:3px}
+.fsw-lead p{color:rgba(255,255,255,.7);font-size:12.5px;margin-bottom:12px}
+.fsw-lf{display:flex;gap:8px;margin-bottom:8px}
+.fsw-lf input{flex:1;height:44px;border-radius:11px;border:0;padding:0 13px;font:inherit;font-size:14px;outline:0}
+.fsw-lead .fsw-cta{margin-top:2px}
+.fsw-err{color:#FFB4A8;font-size:12px;margin-top:6px;display:none}
+.fsw-trust{text-align:center;font-size:11px;color:rgba(255,255,255,.5);margin-top:10px}
+.fsw-done{padding:46px 24px;text-align:center}
+.fsw-done .ck{width:60px;height:60px;border-radius:50%;background:#E7F7EF;display:grid;place-items:center;margin:0 auto 16px;color:#12B76A;font-size:28px}
+.fsw-done h3{font-family:"Space Grotesk",sans-serif;font-size:20px;font-weight:600}
+.fsw-done p{color:#6B6880;margin-top:8px;font-size:14px}
+.fsw-foot{padding:13px 22px;text-align:center;border-top:1px solid #ECEAF4}
+.fsw-foot a{color:#4B3FE4;font-size:13px;font-weight:600;text-decoration:none}
+</style>
+
+<script is:inline>
+(function(){
+  var root=document.getElementById('fsw');
+  if(!root||root.dataset.fswInit==='1')return; root.dataset.fswInit='1';
+  var LEAD='https://chat.unistay.cn/lead', IMG='https://img.unistay.cn/';
+  var view=document.getElementById('fswView'), bar=document.getElementById('fswBar');
+  var chatLink=document.getElementById('fswChat');
+  if(chatLink)chatLink.addEventListener('click',function(e){e.preventDefault();if(window.aiwOpen)window.aiwOpen();});
+  var WZ=null, cityByName={}, unis=[], popular=[], acrMap={};
+  var S={dest:'',destCity:null,budget:'',movein:'',room:'',notes:''};
+  var esc=function(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});};
+  var setBar=function(p){bar.style.width=p+'%';};
+  var fmtG=function(n){return (n||0).toLocaleString('en-US');};
+  // Price period → unit label. Conventions differ by country; never mix weekly/monthly.
+  var durU=function(d){return d==='weekly'?'week':d==='monthly'?'month':'period';};
+  // Price period → unit label. Conventions differ by country; never mix weekly/monthly.
+  var durU=function(d){return d==='weekly'?'week':d==='monthly'?'month':'period';};
+
+  fetch('/wizard_cities.json').then(function(r){return r.json();}).then(function(d){
+    WZ=d;
+    var citySlug={};
+    d.cities.forEach(function(c){cityByName[c.name.toLowerCase()]=c;citySlug[c.slug]=c;});
+    unis=d.unis||[];
+    unis.forEach(function(u){if(u.a&&citySlug[u.c])acrMap[u.a.toLowerCase()]=citySlug[u.c];});
+    popular=d.cities.slice(0,6);
+    step1();
+  }).catch(function(){view.innerHTML='<div class="fsw-load">Search opens shortly — <a href="/housing/" style="color:#4B3FE4;font-weight:600">browse all homes</a>.</div>';});
+
+  function resolveCity(txt){
+    var t=(txt||'').trim().toLowerCase(); if(!t)return null;
+    if(cityByName[t])return cityByName[t];
+    if(acrMap[t])return acrMap[t];
+    var u=unis.find(function(x){return x.n.toLowerCase()===t||(x.a&&x.a.toLowerCase()===t);}); if(u){var c=WZ.cities.find(function(y){return y.slug===u.c;});if(c)return c;}
+    var partial=WZ.cities.find(function(c){return c.name.toLowerCase().indexOf(t)>=0;}); if(partial)return partial;
+    var pu=unis.find(function(x){return x.n.toLowerCase().indexOf(t)>=0;}); if(pu){var c2=WZ.cities.find(function(y){return y.slug===pu.c;});if(c2)return c2;}
+    return null;
+  }
+
+  function step1(){setBar(20);
+    var opts=WZ.cities.map(function(c){return '<option value="'+esc(c.name)+'"></option>';}).join('')+unis.map(function(u){var o='<option value="'+esc(u.n)+'"></option>';if(u.a)o+='<option value="'+esc(u.a)+'">'+esc(u.a)+' — '+esc(u.n)+'</option>';return o;}).join('');
+    view.innerHTML='<div class="fsw-body"><div class="fsw-sh"><span class="fsw-sn">Step 1 of 5</span></div>'+
+      '<div class="fsw-q">Where are you studying?</div>'+
+      '<div class="fsw-srch"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:18px;height:18px;flex:none"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5" stroke-linecap="round"/></svg>'+
+      '<input id="fswDest" list="fswDL" placeholder="Type a university or city…" autocomplete="off"/><datalist id="fswDL">'+opts+'</datalist></div>'+
+      '<div class="fsw-chips">'+popular.map(function(c){return '<button type="button" class="fsw-chip" data-c="'+esc(c.name)+'">'+esc(c.name)+'</button>';}).join('')+'</div></div>';
+    var inp=document.getElementById('fswDest');
+    inp.addEventListener('change',function(){if(inp.value)go1(inp.value);});
+    inp.addEventListener('keydown',function(e){if(e.key==='Enter'&&inp.value)go1(inp.value);});
+    Array.prototype.forEach.call(view.querySelectorAll('.fsw-chip'),function(b){b.addEventListener('click',function(){go1(b.dataset.c);});});
+  }
+  function go1(txt){var c=resolveCity(txt); if(!c){location.href='/housing/';return;} S.dest=txt; S.destCity=c; step2();}
+
+  function step2(){setBar(40);var c=S.destCity;var o=(c.bands||[]).concat(['Flexible']);
+    view.innerHTML='<div class="fsw-body"><div class="fsw-sh"><span class="fsw-sn">Step 2 of 5</span><button class="fsw-back" data-b="1">‹ Back</button></div>'+
+      '<div class="fsw-q">What\'s your '+durU(c.du)+'ly budget?</div>'+
+      '<div class="fsw-opts two">'+o.map(function(x){return '<button type="button" class="fsw-opt" data-v="'+esc(x)+'"><span class="t">'+esc(x)+'</span></button>';}).join('')+'</div></div>';
+    bindBack(step1); bindOpts(function(v){S.budget=v;step3();});
+  }
+  function step3(){setBar(60);var m=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    view.innerHTML='<div class="fsw-body"><div class="fsw-sh"><span class="fsw-sn">Step 3 of 5</span><button class="fsw-back">‹ Back</button></div>'+
+      '<div class="fsw-q">When do you want to move in?</div>'+
+      '<div class="fsw-opts" style="grid-template-columns:repeat(4,1fr)">'+m.map(function(x){return '<button type="button" class="fsw-opt ctr" data-v="'+x+' 2026"><span class="t">'+x+'</span><span class="s">2026</span></button>';}).join('')+'</div>'+
+      '<button type="button" class="fsw-opt" data-v="Flexible" style="margin-top:9px;justify-content:center"><span class="t">I\'m flexible on dates</span></button></div>';
+    bindBack(step2); bindOpts(function(v){S.movein=v;step4();});
+  }
+  function step4(){setBar(80);var o=[['Ensuite studio','Own room + bathroom'],['Private room','Own room, shared bath'],['Shared apartment','Room in a shared flat'],['Entire place','A whole apartment']];
+    view.innerHTML='<div class="fsw-body"><div class="fsw-sh"><span class="fsw-sn">Step 4 of 5</span><button class="fsw-back">‹ Back</button></div>'+
+      '<div class="fsw-q">What kind of room?</div>'+
+      '<div class="fsw-opts two">'+o.map(function(x){return '<button type="button" class="fsw-opt" data-v="'+esc(x[0])+'"><span><span class="t">'+x[0]+'</span><span class="s">'+x[1]+'</span></span></button>';}).join('')+'</div></div>';
+    bindBack(step3); bindOpts(function(v){S.room=v;step5();});
+  }
+  function step5(){setBar(100);var h=['Close to the station','Quiet & good for study','Near a gym','Bills included','Pet-friendly'];
+    view.innerHTML='<div class="fsw-body"><div class="fsw-sh"><span class="fsw-sn">Step 5 of 5</span><button class="fsw-back">‹ Back</button></div>'+
+      '<div class="fsw-q">Anything specific you\'re after?</div>'+
+      '<p style="color:#6B6880;font-size:13.5px;margin:-8px 0 12px">Tell our AI in your words — it matches this against real resident reviews. Optional.</p>'+
+      '<textarea class="fsw-ta" id="fswNotes" placeholder="e.g. quiet building, 10-min walk to campus, ensuite with a good desk, near a supermarket…"></textarea>'+
+      '<div class="fsw-hints">'+h.map(function(x){return '<button type="button" class="fsw-hint" data-h="'+esc(x)+'">+ '+x+'</button>';}).join('')+'</div>'+
+      '<button type="button" class="fsw-cta" id="fswGo">Find my matches →</button></div>';
+    bindBack(step4);
+    Array.prototype.forEach.call(view.querySelectorAll('.fsw-hint'),function(b){b.addEventListener('click',function(){var t=document.getElementById('fswNotes');t.value=(t.value?t.value.replace(/\s*$/,'')+', ':'')+b.dataset.h;t.focus();});});
+    document.getElementById('fswGo').addEventListener('click',function(){S.notes=document.getElementById('fswNotes').value;think();});
+  }
+  function think(){var c=S.destCity;
+    view.innerHTML='<div class="fsw-think"><div class="fsw-orb"></div><div class="t">Matching you to homes…</div>'+
+      '<div class="s">'+(S.notes?'Searching 774k reviews for “'+esc(S.notes.slice(0,38))+(S.notes.length>38?'…':'')+'”':'Scanning verified residences in '+esc(c.name))+'</div></div>';
+    setTimeout(results,1400);
+  }
+  function results(){var c=S.destCity;
+    var cards=(c.props||[]).slice(0,3).map(function(p){
+      var img=p.i?IMG+p.i:'';
+      return '<a class="fsw-pc" href="/property/'+p.s+'/"><div class="im" style="'+(img?'background-image:url(\''+img+'\')':'')+'"><span class="vb">✓ Verified</span></div>'+
+        '<div><h4>'+esc(p.n)+'</h4><div class="rt">'+(p.r?'<b>★ '+p.r+'</b> · ':'')+fmtG(p.g)+' Google reviews</div></div>'+
+        '<div class="pr"><b>'+c.cur+p.p.toLocaleString('en-US')+'</b><s>/'+durU(p.u||c.du)+'</s></div></a>';
+    }).join('');
+    view.innerHTML='<div class="fsw-rh"><span class="lab">✓ Verified matches</span><h3>Homes near '+esc(S.dest)+'</h3>'+
+      (S.notes?'<div class="fsw-kb">✨ AI matched to: “'+esc(S.notes.slice(0,46))+(S.notes.length>46?'…':'')+'”</div>':'')+'</div>'+
+      '<div class="fsw-list">'+cards+'</div>'+
+      '<div class="fsw-lead"><h4>Want an advisor to hold one for you?</h4>'+
+      '<p>Leave your details — a housing advisor confirms availability within one business day. Free, no booking fee.</p>'+
+      '<div class="fsw-lf"><input id="fswName" placeholder="Your name"/><input id="fswContact" placeholder="Email or WhatsApp"/></div>'+
+      '<button type="button" class="fsw-cta" id="fswSend">Get my shortlist + hold a room →</button>'+
+      '<div class="fsw-err" id="fswErr">Please add an email or WhatsApp so an advisor can reach you.</div>'+
+      '<div class="fsw-trust">Free · your details go to a real advisor, not shared</div></div>';
+    document.getElementById('fswSend').addEventListener('click',submitLead);
+  }
+  function submitLead(){
+    var name=document.getElementById('fswName').value.trim();
+    var contact=document.getElementById('fswContact').value.trim();
+    var err=document.getElementById('fswErr');
+    if(!contact){err.style.display='block';return;}
+    var isEmail=contact.indexOf('@')>0;
+    var c=S.destCity;
+    var notes='Move-in: '+S.movein+'. Room: '+S.room+'. Budget: '+S.budget+'.'+(S.notes?' Wants: '+S.notes:'');
+    var payload={attribution:{site_id:'findstay-org',page_url:location.href,channel:'wizard',lang:'en'},
+      lead:{name:name,intended_country:(c&&c.country)||'',target_school:S.dest,budget_cny:'',specific_questions:notes}};
+    if(isEmail)payload.lead.email=contact; else payload.lead.phone=contact;
+    var btn=document.getElementById('fswSend'); btn.textContent='Sending…'; btn.disabled=true;
+    fetch(LEAD,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)})
+      .then(function(){done();}).catch(function(){done();});
+  }
+  function done(){view.innerHTML='<div class="fsw-done"><div class="ck">✓</div><h3>You\'re all set!</h3>'+
+    '<p>An advisor will reach out within one business day with your shortlist and availability.</p></div>';}
+
+  function bindBack(fn){var b=view.querySelector('.fsw-back'); if(b)b.addEventListener('click',fn);}
+  function bindOpts(fn){Array.prototype.forEach.call(view.querySelectorAll('.fsw-opt'),function(b){b.addEventListener('click',function(){fn(b.dataset.v);});});}
+})();
+</script>

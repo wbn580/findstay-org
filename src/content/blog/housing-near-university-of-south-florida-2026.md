@@ -3,8 +3,8 @@ title: "Housing near University of South Florida: 2026 student guide"
 description: "What Campus Reviews Reveal  Reviews of the University of South Florida (USF) on independent platforms offer a mixed but generally positive picture"
 pubDatetime: 2026-07-03T15:41:45.000Z
 modDatetime: 2026-07-07T08:27:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1601760.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1601760.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Students should also budget for utilities, internet, and parking if they own a c
 
 ## Walk vs Transit Trade-off
 
-![University of South Florida](https://img.findstay.org/housing/p/amber-1601760.jpg)
+![University of South Florida](https://img.unistay.cn/housing/p/amber-1601760.jpg)
 
 The campus of USF is located at 4202 E Fowler Ave, Tampa, in an area that is primarily suburban in character. While the university itself has a compact core, surrounding residential zones are spread out. The trade-off between walking and using transit depends largely on where a student lives.
 

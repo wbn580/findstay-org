@@ -1,0 +1,133 @@
+---
+/**
+ * Shared localized landing page (hero + steps + country grid + CTA).
+ * Detail/data pages remain in English — each landing says so in its own language.
+ * hreflang group: en (x-default) + 8 locales.
+ */
+import Layout from "@/layouts/Layout.astro";
+import { stats, countries, fmtInt, flagOf } from "@/utils/fsData";
+
+export interface LocaleT {
+  title: string;
+  desc: string;
+  eyebrow: string;
+  h1: string;
+  h1em: string;
+  lead: string; // may contain {n} placeholders already resolved by caller
+  askRobin: string;
+  browse: string;
+  stepsKicker: string;
+  stepsH2: string;
+  steps: { h: string; p: string }[];
+  countriesKicker: string;
+  countriesH2: string;
+  residencesWord: string;
+  citiesWord: string;
+  note: string;
+  ctaH2: string;
+  ctaP: string;
+  statResidences: string;
+  statCities: string;
+  statCountries: string;
+  statUnis: string;
+}
+
+const { locale, htmlLang, t, countryNames } = Astro.props as {
+  locale: string;
+  htmlLang: string;
+  t: LocaleT;
+  countryNames: Record<string, string>;
+};
+
+const LOCALES = ["zh-hant", "es", "id", "ja", "ko", "pt", "th", "vi"];
+const HERO_IMG = "https://img.unistay.cn/housing/findstay-hero-campus-2026-2100x1400.jpg";
+---
+
+<Layout title={t.title} description={t.desc} lang={htmlLang} transparentNav>
+  <Fragment slot="head">
+    <link rel="alternate" hreflang="x-default" href="https://unistay.net/" />
+    <link rel="alternate" hreflang="en" href="https://unistay.net/" />
+    <link rel="alternate" hreflang="zh-CN" href="https://unistay.cn/" />
+    {LOCALES.map(l => (
+      <link rel="alternate" hreflang={l} href={`https://unistay.net/${l}/`} />
+    ))}
+  </Fragment>
+
+  <main id="main-content" class="fs-page">
+    <section class="fs-hero">
+      <img class="bg" src={HERO_IMG} alt="" fetchpriority="high" />
+      <div class="fs-hero-inner">
+        <div class="eyebrow"><span class="dot" aria-hidden="true"></span>{t.eyebrow}</div>
+        <h1>{t.h1} <em>{t.h1em}</em></h1>
+        <p class="lead" set:html={t.lead} />
+        <div class="hero-actions">
+          <button type="button" class="fs-btn fs-btn-coral" onclick="window.aiwOpen?.()">{t.askRobin}</button>
+          <a href="/housing/" class="fs-btn fs-btn-white">{t.browse}</a>
+        </div>
+        <div class="hero-stats">
+          <div class="gstat"><b>{fmtInt(stats.properties)}</b><span>{t.statResidences}</span></div>
+          <div class="gstat"><b>{stats.cities}</b><span>{t.statCities}</span></div>
+          <div class="gstat"><b>{stats.countries}</b><span>{t.statCountries}</span></div>
+          <div class="gstat"><b>{fmtInt(stats.universities)}</b><span>{t.statUnis}</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">{t.stepsKicker}</p>
+            <h2>{t.stepsH2}</h2>
+          </div>
+        </div>
+        <div class="fs-grid g-3">
+          {t.steps.map((s, i) => (
+            <div class="fs-card step-card fs-reveal">
+              <div class="n">{i + 1}</div>
+              <h3>{s.h}</h3>
+              <p>{s.p}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">{t.countriesKicker}</p>
+            <h2>{t.countriesH2}</h2>
+          </div>
+        </div>
+        <div class="fs-grid g-4">
+          {countries.map(c => (
+            <a href={`/housing/${c.slug}/`} class="fs-card country-card fs-reveal">
+              <span class="flag" aria-hidden="true">{flagOf(c.slug)}</span>
+              <h3>{countryNames[c.slug] ?? c.name}</h3>
+              <p class="meta">
+                <b>{fmtInt(c.property_count)}</b> {t.residencesWord} · {c.city_count} {t.citiesWord}
+              </p>
+              <span class="go">→</span>
+            </a>
+          ))}
+        </div>
+        <p class="fine fs-reveal" style="margin-top:20px">{t.note}</p>
+      </div>
+    </section>
+
+    <section class="fs-sec" style="padding-top:0">
+      <div class="wrap">
+        <div class="cta-band fs-reveal">
+          <h2>{t.ctaH2}</h2>
+          <p>{t.ctaP}</p>
+          <div class="row">
+            <button type="button" class="fs-btn fs-btn-coral" onclick="window.aiwOpen?.()">{t.askRobin}</button>
+            <a href="/housing/" class="fs-btn fs-btn-white">{t.browse}</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>

@@ -3,8 +3,8 @@ title: "Housing near The University of Sydney: 2026 student guide"
 description: "Campus and Surroundings: What Students Say  The University of Sydney’s main campus at Camperdown is often described by visitors in glowing terms. M"
 pubDatetime: 2026-07-07T03:36:08.000Z
 modDatetime: 2026-07-07T08:06:08.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-240826.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-240826.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The city’s rental market can be competitive, especially in the first quarter o
 
 ## Budget Bands for Housing Near USyd
 
-![The University of Sydney](https://img.findstay.org/housing/p/amber-240826.jpg)
+![The University of Sydney](https://img.unistay.cn/housing/p/amber-240826.jpg)
 
 Your weekly housing budget is the single biggest factor shaping your options. Below are broad bands for 2026, based on typical market conditions for the Camperdown area.
 

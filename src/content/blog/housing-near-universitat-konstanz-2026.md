@@ -3,8 +3,8 @@ title: "Housing near Universität Konstanz: 2026 student guide"
 description: "What campus reviews tell you about living near Universität Konstanz  Student reviews of Universität Konstanz consistently highlight two features th"
 pubDatetime: 2026-07-03T18:35:02.000Z
 modDatetime: 2026-07-07T08:48:02.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1089358.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1089358.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ All prices in this article are indicative and should be confirmed with the opera
 
 ## Walk vs transit trade-off
 
-![Universität Konstanz](https://img.findstay.org/housing/p/amber-1089358.jpg)
+![Universität Konstanz](https://img.unistay.cn/housing/p/amber-1089358.jpg)
 
 The university campus is not in the city centre, so you have a clear trade-off: live near campus for easy walking access, or live in the city centre for better amenities and nightlife but a longer commute.
 

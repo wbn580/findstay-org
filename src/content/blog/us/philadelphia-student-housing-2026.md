@@ -2,7 +2,7 @@
 title: "Philadelphia Student Housing 2026: Areas Near UPenn, Temple & Drexel"
 description: "Student accommodation in Philadelphia — affordable neighborhoods near UPenn, Temple, and Drexel universities. 2026 rent, transit, and student life guide."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1601332069884-13faa5c5e440?w=1600"
 ogImage: "https://images.unsplash.com/photo-1601332069884-13faa5c5e440?w=1200"
 tags: ["us", "philadelphia", "student-accommodation"]

@@ -3,8 +3,8 @@ title: "Housing near University of Barcelona: 2026 student guide"
 description: "Housing Near the University of Barcelona  The University of Barcelona, founded in 1450, ranks 160th globally and holds a 4.5‑star rating from over"
 pubDatetime: 2026-06-30T11:28:43.000Z
 modDatetime: 2026-07-07T08:17:43.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1238922.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1238922.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ The main UB building on Gran Via de les Corts Catalanes is served by metro lines
 
 **Public transit** becomes necessary if you live in more affordable outer districts. The metro runs from 5 am to midnight on weekdays, with limited night service on weekends. A single journey costs €2.55, but a T‑jove card (for under 25s) gives unlimited travel for three months at about €40/month. Many students combine a shorter walk to a metro station with a ride of 10–20 minutes. For instance, from **Sants‑Montjuïc** (where the student‑friendly neighbourhood of Hostafrancs is), you can take L1 directly to Universitat station in under 15 minutes. From **Les Corts** (near Camp Nou), L3 connects to Passeig de Gràcia in about 12 minutes.
 
-![University of Barcelona](https://img.findstay.org/housing/p/amber-1238922.jpg)
+![University of Barcelona](https://img.unistay.cn/housing/p/amber-1238922.jpg)
 
 If you study at the Bellvitge campus (health sciences), note that it’s in L’Hospitalet, about 6 km southwest of the city centre. The metro line L1 and several buses serve that campus. Housing in L’Hospitalet tends to be cheaper, but the area is less lively than central Barcelona.
 

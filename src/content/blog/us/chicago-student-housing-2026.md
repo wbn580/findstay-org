@@ -2,7 +2,7 @@
 title: "Chicago Student Housing 2026: Areas Near UChicago, Northwestern & DePaul"
 description: "Student housing in Chicago — best neighborhoods for University of Chicago, Northwestern, DePaul, and UIC students. Affordable rent, transit, and 2026 prices."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=1600"
 ogImage: "https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=1200"
 tags: ["us", "chicago", "student-accommodation"]

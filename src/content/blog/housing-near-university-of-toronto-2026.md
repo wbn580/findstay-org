@@ -3,8 +3,8 @@ title: "Housing near University of Toronto: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Toronto’s downtown campus occupies a 71-hectare site in the heart of Toronto, blending Victorian and"
 pubDatetime: 2026-07-06T19:46:54.000Z
 modDatetime: 2026-07-07T08:07:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-933976.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-933976.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ For students, living near campus offers convenience but comes at a premium. The 
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![University of Toronto](https://img.findstay.org/housing/p/amber-933976.jpg)
+![University of Toronto](https://img.unistay.cn/housing/p/amber-933976.jpg)
 
 All prices below are indicative — confirm with the operator. They reflect typical weekly rents (unless noted) for a single room in a shared apartment or a studio in purpose‑built student accommodation. Exchange rates fluctuate; figures are in Canadian dollars.
 

@@ -2,7 +2,7 @@
 title: "Student Housing Scams 2026: How to Spot Fake Rental Listings in 10 Countries"
 description: "Protect yourself from student housing scams — fake listings, phishing, identity theft, and deposit fraud. Red flags and verification methods for international student rentals."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1600"
 ogImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200"
 tags: ["rental-tips", "student-accommodation"]

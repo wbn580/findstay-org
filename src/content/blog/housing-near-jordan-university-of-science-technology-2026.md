@@ -3,8 +3,8 @@ title: "Housing near Jordan University of Science & Technology: 2026 student gui
 description: "What Campus Reviews Reveal About Life at JUST  Current and former students describe Jordan University of Science and Technology (JUST) as a spaciou"
 pubDatetime: 2026-07-03T16:03:09.000Z
 modDatetime: 2026-07-07T09:07:09.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2578655.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2578655.jpg"
 tags: ["university", "jordan-university-of-science-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Because the university is largely self-contained (with its own sports facilities
 
 ## Budget Bands for Student Housing
 
-![Jordan University of Science & Technology](https://img.findstay.org/housing/p/amber-2578655.jpg)
+![Jordan University of Science & Technology](https://img.unistay.cn/housing/p/amber-2578655.jpg)
 
 Rental figures vary significantly depending on the distance from campus, the condition of the building, and whether the unit is furnished or shared. The following bands are indicative – confirm with the operator before signing any agreement.
 

@@ -3,8 +3,8 @@ title: "Housing near Universitat Pompeu Fabra: 2026 student guide"
 description: "What Campus Reviews Reveal  Universitat Pompeu Fabra (UPF) is a public university founded in 1990 and named after the Catalan linguist Pompeu Fabra"
 pubDatetime: 2026-07-05T12:22:53.000Z
 modDatetime: 2026-07-07T08:07:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-225671.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-225671.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For students, the key advantage is connectivity. The Barcelona metro (L4 line at
 
 ## Budget Bands: What to Expect for 2026–2027
 
-![Universitat Pompeu Fabra](https://img.findstay.org/housing/p/amber-225671.jpg)
+![Universitat Pompeu Fabra](https://img.unistay.cn/housing/p/amber-225671.jpg)
 
 The student-housing market in Barcelona currently lists 189 available properties near UPF. Indicative prices start from **EUR 250** per week — confirming with the operator is essential because these figures are subject to change and vary by season, contract length, and amenities. For the 2026–2027 academic year, you can expect the following rough bands:
 

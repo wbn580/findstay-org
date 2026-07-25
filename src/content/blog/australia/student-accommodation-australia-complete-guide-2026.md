@@ -2,7 +2,7 @@
 title: "Student Accommodation Australia: The Complete 2026 Guide for International Students"
 description: "Everything international students need to know about housing in Australia — types, costs, tenancy rights, and how to find a place before you arrive."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=1600"
 ogImage: "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=1200"
 tags: ["australia", "student-accommodation", "rental-tips", "student-housing"]

@@ -3,8 +3,8 @@ title: "Housing near University of Twente: 2026 student guide"
 description: "What campus reviews reveal about student life  Student reviews of the University of Twente campus offer a mixed but instructive picture for anyone"
 pubDatetime: 2026-07-07T07:36:52.000Z
 modDatetime: 2026-07-07T08:49:52.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1193583.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1193583.jpg"
 tags: ["university", "university-of-twente"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because the university is relatively self‑contained, some students prefer to l
 
 ## Budget bands for student housing (2026/2027)
 
-![University of Twente](https://img.findstay.org/housing/p/amber-1193583.jpg)
+![University of Twente](https://img.unistay.cn/housing/p/amber-1193583.jpg)
 
 Rental prices in Enschede vary widely depending on type, location, and condition. The figures below are indicative — confirm with the operator before signing any contract.
 

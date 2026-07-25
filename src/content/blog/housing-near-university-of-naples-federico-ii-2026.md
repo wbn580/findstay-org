@@ -3,8 +3,8 @@ title: "Housing near University of Naples - Federico II: 2026 student guide"
 description: "Housing Near the University of Naples – Federico II: What Campus Reviews Reveal, City Context, and How to Choose Your Accommodation  The University"
 pubDatetime: 2026-07-06T22:45:55.000Z
 modDatetime: 2026-07-07T08:50:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1195472.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1195472.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ Living within walking distance of the university’s main administrative buildin
 
 **Walking distance (under 15 minutes)**: The historic centre is pedestrian-friendly but can be noisy, especially near Via Tribunali or Spaccanapoli. Apartments in older palazzos may have poor soundproofing and no lift. However, you save time and money on transport. You also have easy access to university libraries and study rooms.
 
-![University of Naples - Federico II](https://img.findstay.org/housing/p/amber-1195472.jpg)
+![University of Naples - Federico II](https://img.unistay.cn/housing/p/amber-1195472.jpg)
 
 **Transit-dependent (15–30 minutes by metro or bus)**: Living in Vomero, Posillipo, or Fuorigrotta means a daily commute of 20–40 minutes round trip. The metro is reliable during peak hours but can be crowded. The upside is quieter residential streets, more green space, and often better-quality apartments for the same price. The trade-off is monthly transport costs and the risk of delays (Naples metro occasionally has service disruptions).
 

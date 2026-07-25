@@ -3,8 +3,8 @@ title: "Housing near New York University (NYU): 2026 student guide"
 description: "What Campus Reviews Reveal About NYU Living  New York University (NYU) is located in the heart of Greenwich Village, Manhattan. The university hold"
 pubDatetime: 2026-07-02T07:46:51.000Z
 modDatetime: 2026-07-07T08:24:51.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00018454.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00018454.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ Each area has different rent levels, commute times, and lifestyle vibes. The uni
 
 ## Budget Bands for Housing Near NYU (2026–2027)
 
-![New York University (NYU)](https://img.findstay.org/housing/p/uh-s00018454.jpg)
+![New York University (NYU)](https://img.unistay.cn/housing/p/uh-s00018454.jpg)
 
 The rental market in New York is dynamic. Prices vary by season, building age, amenities, and lease length. The following bands are indicative — confirm with the operator before committing.
 

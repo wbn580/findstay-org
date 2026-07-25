@@ -1,0 +1,185 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FsBreadcrumb from "@/components/fs/FsBreadcrumb.astro";
+import FsPropCard from "@/components/fs/FsPropCard.astro";
+import FsFaq from "@/components/fs/FsFaq.astro";
+import FsCtaCard from "@/components/fs/FsCtaCard.astro";
+import {
+  cities,
+  propertiesByCountry,
+  countryBySlug,
+  fmtMoney,
+  fmtInt,
+  durShort,
+  byRating,
+  ratingOf,
+  unitLabel,
+  type FsCity,
+} from "@/utils/fsData";
+
+export function getStaticPaths() {
+  return cities.map(c => ({
+    params: { country: c.country, city: c.slug },
+    props: { city: c },
+  }));
+}
+
+const { city } = Astro.props as { city: FsCity };
+const country = countryBySlug.get(city.country)!;
+
+const props = (propertiesByCountry[city.country] ?? [])
+  .filter(p => p.city_slug === city.slug)
+  .sort(byRating);
+
+/* cheapest listing with its cadence */
+const priced = props.filter(p => p.min_price != null);
+const cheapest = priced.length
+  ? priced.reduce((a, b) => ((a.min_price as number) <= (b.min_price as number) ? a : b))
+  : null;
+
+/* rated pool for the intro */
+const rated = props.filter(p => ratingOf(p.rating) !== null || p.g_rating != null);
+const reviewTotal = props.reduce((s, p) => s + (p.g_reviews ?? 0), 0);
+
+/* dominant unit types in this city */
+const unitCount = new Map<string, number>();
+for (const p of props) for (const ut of p.unit_types ?? []) unitCount.set(ut, (unitCount.get(ut) ?? 0) + 1);
+const topUnits = [...unitCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([k]) => unitLabel(k).toLowerCase());
+
+const unis = city.universities ?? [];
+
+const faqs = [
+  {
+    q: `How much is student housing in ${city.name}?`,
+    a: cheapest
+      ? `Among the ${props.length} residences we list in ${city.name}, indicative rates start around ${fmtMoney(cheapest.currency, cheapest.min_price as number)}/${durShort(cheapest.price_duration) || "period"} at ${cheapest.name}. Rates rise with room privacy and location — always confirm the current price with the operator.`
+      : `Rates in ${city.name} vary by room type and lease length. Operators quote on enquiry for most of the ${props.length} residences we list — ask Robin for a current comparison.`,
+  },
+  {
+    q: `Which residences in ${city.name} do residents rate highest?`,
+    a: rated.length
+      ? `${rated
+          .slice(0, 3)
+          .map(p => {
+            const r = ratingOf(p.rating) ?? p.g_rating;
+            return `${p.name}${r ? ` (${(r as number).toFixed(1)}★)` : ""}`;
+          })
+          .join(", ")} top the list, based on ${fmtInt(reviewTotal)} published Google reviews across the city. Read the review excerpts on each residence page before you decide.`
+      : `Published review data is still thin for ${city.name} — compare room types and prices on each residence page, and ask Robin for advisor input.`,
+  },
+  ...(unis.length > 0
+    ? [
+        {
+          q: `Which universities can I live near in ${city.name}?`,
+          a: `${unis
+            .slice(0, 4)
+            .map(u => u.name)
+            .join(", ")}${unis.length > 4 ? ` and ${unis.length - 4} more` : ""} — most listed residences sit within commuting range. Filter by campus by asking Robin, or open a residence page to see nearby universities.`,
+        },
+      ]
+    : []),
+  {
+    q: `How do I book student housing in ${city.name}?`,
+    a: `Shortlist on UniStay, then enquire with the operator directly — they run contracts, deposits and payments. Robin can compare your shortlist and hand it to a housing advisor who follows up within one business day.`,
+  },
+];
+
+const title = `Student Housing in ${city.name}, ${country.name} (2026) — ${props.length} Residences${cheapest ? ` from ${fmtMoney(cheapest.currency, cheapest.min_price as number)}/${durShort(cheapest.price_duration)}` : ""} | UniStay`;
+const desc = `${props.length} student residences in ${city.name}${cheapest ? `, from ${fmtMoney(cheapest.currency, cheapest.min_price as number)} ${cheapest.price_duration ?? ""}`.replace(/\s+$/, "") : ""}. ${unis.length ? `Near ${unis.slice(0, 2).map(u => u.name).join(" and ")}. ` : ""}Real resident reviews and indicative prices — updated for the 2026 intake.`;
+---
+
+<Layout title={title} description={desc}>
+  <main id="main-content" class="fs-page">
+    <div class="page-hero">
+      <div class="wrap">
+        <FsBreadcrumb
+          crumbs={[
+            { name: "Home", href: "/" },
+            { name: "Housing", href: "/housing/" },
+            { name: country.name, href: `/housing/${country.slug}/` },
+            { name: city.name },
+          ]}
+        />
+        <h1>Student housing in {city.name}, {country.name} (2026)</h1>
+        <p class="intro">
+          UniStay lists <b>{props.length} student residence{props.length === 1 ? "" : "s"}</b> in {city.name}
+          {cheapest && (
+            <>, with indicative rates from <b>{fmtMoney(cheapest.currency, cheapest.min_price as number)}/{durShort(cheapest.price_duration)}</b></>
+          )}.
+          {topUnits.length > 0 && <> Most options are {topUnits.join(", ")} rooms.</>}
+          {unis.length > 0 && (
+            <> The city is home to <b>{unis.length} QS-ranked universit{unis.length === 1 ? "y" : "ies"}</b>, including {unis.slice(0, 2).map(u => u.name).join(" and ")}.</>
+          )}
+          {reviewTotal > 0 && <> Ratings below draw on <b>{fmtInt(reviewTotal)} published Google reviews</b> — prices are indicative, so confirm current rates with the operator.</>}
+          {reviewTotal === 0 && <> Prices are indicative — confirm current rates with the operator.</>}
+        </p>
+        <div class="stat-row">
+          <div class="stat-pill"><b>{props.length}</b>residences</div>
+          {cheapest && <div class="stat-pill"><b>{fmtMoney(cheapest.currency, cheapest.min_price as number)}</b>from, per {cheapest.price_duration === "weekly" ? "week" : "month"} (indicative)</div>}
+          {unis.length > 0 && <div class="stat-pill"><b>{unis.length}</b>QS universit{unis.length === 1 ? "y" : "ies"}</div>}
+          {reviewTotal > 0 && <div class="stat-pill"><b>{fmtInt(reviewTotal)}</b>Google reviews</div>}
+        </div>
+      </div>
+    </div>
+
+    <!-- all residences -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">All residences</p>
+            <h2>Every listed residence in {city.name}</h2>
+          </div>
+          <p class="sub">Sorted by resident rating, then review volume. Open a residence for room types, review excerpts and rating breakdowns.</p>
+        </div>
+        <div class="fs-grid g-3">
+          {props.map((p, i) => (
+            <div class={i < 9 ? "fs-reveal" : undefined}>
+              <FsPropCard p={p} locLabel={`${city.name}, ${country.name}`} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- nearby universities -->
+    {unis.length > 0 && (
+      <section class="fs-sec">
+        <div class="wrap">
+          <div class="sec-head fs-reveal">
+            <div>
+              <p class="kicker">Campuses</p>
+              <h2>Universities in {city.name}</h2>
+            </div>
+            <a href="/universities/" class="more-link">All universities →</a>
+          </div>
+          <div class="fs-reveal">
+            {unis.map(u => (
+              <a href={`/university/${u.slug}/`} class="uni-row">
+                <span class="rank">{u.rank ? `QS #${u.rank}` : "QS"}</span>
+                <span><span class="u-name">{u.name}</span></span>
+                <span class="u-side">Housing nearby →</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- FAQ + CTA -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="fs-reveal">
+          <FsFaq faqs={faqs} heading={`${city.name} housing FAQ`} />
+        </div>
+        <div style="margin-top:36px">
+          <FsCtaCard
+            title={`Weighing up ${city.name} options?`}
+            text="Give Robin your campus, budget and move-in month — get a like-for-like comparison of these residences, plus advisor follow-up within one business day."
+            button="Ask Robin"
+          />
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>

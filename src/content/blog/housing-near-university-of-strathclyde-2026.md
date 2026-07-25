@@ -3,8 +3,8 @@ title: "Housing near University of Strathclyde: 2026 student guide"
 description: "Campus Reviews: What Students Actually Say  The University of Strathclyde, located in central Glasgow, holds a QS World University Ranking of 251 ("
 pubDatetime: 2026-07-04T07:47:31.000Z
 modDatetime: 2026-07-07T07:57:31.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013353.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013353.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Public transport includes the Glasgow Subway (circular line), buses, and train s
 
 ## Budget Bands for Student Housing in Glasgow (2026/2027)
 
-![University of Strathclyde](https://img.findstay.org/housing/p/uh-s00013353.jpg)
+![University of Strathclyde](https://img.unistay.cn/housing/p/uh-s00013353.jpg)
 
 Rental prices in Glasgow are generally lower than in southern UK cities. Based on available data, the typical student accommodation in Glasgow near Strathclyde starts from **GBP 98.41 per week** (indicative — confirm with the operator). Here is a broad breakdown of weekly rent bands for the 2026/2027 academic year:
 

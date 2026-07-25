@@ -3,8 +3,8 @@ title: "Housing near Rheinisch-Westfälische Technische Hochschule Aachen: 2026 
 description: "Campus Reviews and What They Reveal  Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen) holds a QS World University ranking of 105 a"
 pubDatetime: 2026-07-03T13:03:08.000Z
 modDatetime: 2026-07-07T09:03:08.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2105545.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2105545.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Aachen’s location on the borders of Belgium and the Netherlands also makes it 
 
 ## Budget Bands for Student Housing in Aachen
 
-![Rheinisch-Westfälische Technische Hochschule Aachen](https://img.findstay.org/housing/p/amber-2105545.jpg)
+![Rheinisch-Westfälische Technische Hochschule Aachen](https://img.unistay.cn/housing/p/amber-2105545.jpg)
 
 Student housing in Aachen can be broadly grouped into three budget bands. All prices are indicative — confirm with the operator — and can change depending on the specific building, room type, and contract length.
 

@@ -3,8 +3,8 @@ title: "Housing near Stockholm University: 2026 student guide"
 description: "What Campus Reviews Reveal  Stockholm University holds a Google rating of 4.4 from 439 reviews, a score that reflects a generally positive student"
 pubDatetime: 2026-07-03T18:36:53.000Z
 modDatetime: 2026-07-07T08:49:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-932766.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-932766.jpg"
 tags: ["university", "stockholm-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Stockholm is also home to several other universities and higher education instit
 
 ## Budget Bands for Student Housing
 
-![Stockholm University](https://img.findstay.org/housing/p/amber-932766.jpg)
+![Stockholm University](https://img.unistay.cn/housing/p/amber-932766.jpg)
 
 Student housing costs in Stockholm fall into three broad indicative bands. Prices change frequently, so always confirm with the operator before committing.
 

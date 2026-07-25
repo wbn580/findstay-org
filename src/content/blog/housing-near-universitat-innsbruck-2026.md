@@ -3,8 +3,8 @@ title: "Housing near Universität Innsbruck: 2026 student guide"
 description: "What Campus Reviews Reveal About Universität Innsbruck  The Google rating of Universität Innsbruck currently sits at 4.6 out of 5 stars, based on 5"
 pubDatetime: 2026-06-30T23:28:32.000Z
 modDatetime: 2026-07-07T09:09:32.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3076064.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3076064.jpg"
 tags: ["university", "universitat-innsbruck"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because Innsbruck is a compact city, the student accommodation market is tight. 
 
 ## Budget Bands for Student Housing Near Universität Innsbruck
 
-![Universität Innsbruck](https://img.findstay.org/housing/p/amber-3076064.jpg)
+![Universität Innsbruck](https://img.unistay.cn/housing/p/amber-3076064.jpg)
 
 All prices below are **indicative — confirm with the operator**. Rents vary by location, room type (single, double, studio), and amenities. Use these bands as a starting point for your 2026/2027 search.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Helsinki: 2026 student guide"
 description: "What Campus Reviews Reveal About the University of Helsinki  Student reviews paint a mixed picture of academic life at the University of Helsinki."
 pubDatetime: 2026-07-03T23:42:29.000Z
 modDatetime: 2026-07-07T09:10:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1314357.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1314357.jpg"
 tags: ["university", "university-of-helsinki"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Helsinki’s winter can be dark and cold, with temperatures often below -10°C. 
 
 ## Budget Bands: What You Can Expect in 2026–2027
 
-![University of Helsinki](https://img.findstay.org/housing/p/amber-1314357.jpg)
+![University of Helsinki](https://img.unistay.cn/housing/p/amber-1314357.jpg)
 
 Rental markets change, but based on current trends, the following indicative bands are a useful starting point. All prices are indicative — confirm with the operator before signing any contract.
 

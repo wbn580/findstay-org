@@ -3,8 +3,8 @@ title: "Housing near University of Porto: 2026 student guide"
 description: "What Campus Reviews Reveal About the University of Porto  The University of Porto (QS World Ranking 237) occupies a central position in Portugal’s"
 pubDatetime: 2026-06-30T15:42:38.000Z
 modDatetime: 2026-07-07T09:14:38.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-963875.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-963875.jpg"
 tags: ["university", "university-of-porto"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Rent levels in Porto have risen in recent years, but remain lower than in Lisbon
 
 ## Budget Bands
 
-![University of Porto](https://img.findstay.org/housing/p/amber-963875.jpg)
+![University of Porto](https://img.unistay.cn/housing/p/amber-963875.jpg)
 
 Student housing costs in Porto can be grouped into three broad bands. Note that these are indicative — confirm with the operator or landlord before committing.
 

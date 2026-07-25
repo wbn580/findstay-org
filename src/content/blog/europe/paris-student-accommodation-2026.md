@@ -2,7 +2,7 @@
 title: "Paris Student Accommodation 2026: CROUS, Private Rentals & Coliving Near Sorbonne"
 description: "Student housing in Paris — from CROUS dormitories to private studios near the Sorbonne, Sciences Po, and Paris universities. Updated 2026 rent prices."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1600"
 ogImage: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200"
 tags: ["france", "paris", "student-accommodation"]

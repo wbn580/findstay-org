@@ -3,8 +3,8 @@ title: "Housing near Imam Abdulrahman Bin Faisal University (formerly University
 description: "What Campus Reviews Reveal  Student reviews offer a window into the daily experience at Imam Abdulrahman Bin Faisal University (formerly University"
 pubDatetime: 2026-07-06T10:33:17.000Z
 modDatetime: 2026-07-07T07:57:17.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-239108.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-239108.jpg"
 tags: ["university", "imam-abdulrahman-bin-faisal-university"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Public transportation in Dammam is limited compared to some other world cities, 
 
 ## Budget Bands for Student Housing
 
-![Imam Abdulrahman Bin Faisal University (formerly University of Dammam)](https://img.findstay.org/housing/p/amber-239108.jpg)
+![Imam Abdulrahman Bin Faisal University (formerly University of Dammam)](https://img.unistay.cn/housing/p/amber-239108.jpg)
 
 Housing costs in Dammam vary by location, size, furnishing, and whether utilities are included. Below are indicative budget bands based on typical listings shared on rental platforms. Prices are for a single room in a shared apartment or a small studio/one-bedroom unit. All figures are indicative – confirm with the operator.
 

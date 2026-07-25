@@ -3,8 +3,8 @@ title: "Housing near Universidade Estadual de Campinas (Unicamp): 2026 student g
 description: "Housing Near Universidade Estadual de Campinas (Unicamp)  Unicamp’s main campus is located in the Barão Geraldo district of Campinas, São Paulo sta"
 pubDatetime: 2026-07-06T01:11:53.000Z
 modDatetime: 2026-07-07T09:11:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2713604.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2713604.jpg"
 tags: ["university", "universidade-estadual-de-campinas"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ Walking to Unicamp’s main campus is feasible if you live within the Cidade Uni
 
 If you choose a home further away – for example, in the Jardim do Lago or Chácara Primavera neighbourhoods – you will likely rely on municipal buses. Campinas has a public bus system (Empresa Municipal de Desenvolvimento de Campinas, EMDEC) that serves Barão Geraldo. A one-way bus fare in 2026 is around 5 reais. Students who buy a monthly bus pass (Vale Transporte) may pay less per trip. Bicycles are another common mode, as the campus is mostly flat and has bike racks. Some condominiums offer parking for cars, but driving and parking on campus can be limited.
 
-![Universidade Estadual de Campinas (Unicamp)](https://img.findstay.org/housing/p/amber-2713604.jpg)
+![Universidade Estadual de Campinas (Unicamp)](https://img.unistay.cn/housing/p/amber-2713604.jpg)
 
 The trade‑off: paying 10–30% less rent in a bus‑dependent location versus spending 30–60 minutes per day on transit and about 150 reais per month on fares. Consider your personal schedule, weather tolerance, and desire for independence.
 

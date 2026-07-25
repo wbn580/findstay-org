@@ -3,8 +3,8 @@ title: "Housing near Newcastle University: 2026 student guide"
 description: "Campus Reviews: What Students Say  Newcastle University holds a 4.3 Google rating from 587 reviews, reflecting a generally positive student experie"
 pubDatetime: 2026-07-04T07:03:19.000Z
 modDatetime: 2026-07-07T08:01:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00179575.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00179575.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Newcastle has a large student population spread across several neighbourhoods: J
 
 ## Budget Bands
 
-![Newcastle University](https://img.findstay.org/housing/p/uh-s00179575.jpg)
+![Newcastle University](https://img.unistay.cn/housing/p/uh-s00179575.jpg)
 
 Student housing budgets in Newcastle vary widely depending on type, location, and amenities. Below is a general indication of typical weekly costs in 2026/2027 — all prices are indicative and should be confirmed with the operator.
 

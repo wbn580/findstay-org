@@ -1,0 +1,50 @@
+---
+import LocaleLanding from "@/components/fs/LocaleLanding.astro";
+import { stats, fmtInt } from "@/utils/fsData";
+
+const t = {
+  title: `UniStay — 世界の学生住宅検索：${stats.cities} 都市 ${fmtInt(stats.properties)} 棟のレジデンス（2026）`,
+  desc: `${stats.countries} か国 ${stats.cities} 都市の学生レジデンス ${fmtInt(stats.properties)} 棟を比較。入居者の実際のレビュー、参考価格、QS ランキング ${fmtInt(stats.universities)} 大学とのマッピングを掲載。`,
+  eyebrow: "世界の学生住宅 · 2026年入学シーズン",
+  h1: "キャンパスの近くに、",
+  h1em: "あなたの住まいを",
+  lead: `<b>${fmtInt(stats.properties)} 棟のレジデンス</b> · <b>${stats.cities} 都市</b> · <b>${stats.countries} か国</b> — パンフレットではなく、入居者の実際のレビューと参考価格で比較できます。`,
+  askRobin: "Robin に相談 — AI 住宅マッチング",
+  browse: "都市から探す",
+  stepsKicker: "ご利用の流れ",
+  stepsH2: "3 ステップ、迷わない",
+  steps: [
+    { h: "大学と予算を Robin に伝える", p: "チャットを開いて、大学名・予算・入居月を伝えてください。Robin が数千棟の中から、本当に条件に合う候補だけを絞り込みます。" },
+    { h: "実際の価格とレビューを比較", p: "各レジデンスのページには、参考価格・部屋タイプ・公開済みレビューの原文抜粋を掲載しています。良い点も悪い点もそのまま確認できます。" },
+    { h: "アドバイザーがフォローアップ", p: "候補リストが決まったら、住宅アドバイザーが 1 営業日以内にご連絡し、運営会社への確認をお手伝いします。契約とお支払いは常にご自身と運営会社の間で直接行います。" },
+  ],
+  countriesKicker: "留学先",
+  countriesH2: "国から探す",
+  residencesWord: "棟",
+  citiesWord: "都市",
+  note: "都市別・レジデンス別の詳細ページは現在英語で提供しています。価格はすべて参考値です。契約前に必ず運営会社に最新料金をご確認ください。",
+  ctaH2: "3,000 個のタブではなく、1 枚の候補リストから",
+  ctaP: `Robin は ${fmtInt(stats.properties)} 棟のレジデンスと ${fmtInt(stats.universities)} 大学のデータを照合します。データの先は、人間のアドバイザーが引き継ぎます。`,
+  statResidences: "レジデンス",
+  statCities: "都市",
+  statCountries: "か国",
+  statUnis: "QS 大学",
+};
+
+const countryNames = {
+  "united-states": "アメリカ",
+  "united-kingdom": "イギリス",
+  spain: "スペイン",
+  australia: "オーストラリア",
+  canada: "カナダ",
+  germany: "ドイツ",
+  singapore: "シンガポール",
+  france: "フランス",
+  ireland: "アイルランド",
+  "new-zealand": "ニュージーランド",
+  uae: "アラブ首長国連邦",
+  italy: "イタリア",
+};
+---
+
+<LocaleLanding locale="ja" htmlLang="ja" t={t} countryNames={countryNames} />

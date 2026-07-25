@@ -3,8 +3,8 @@ title: "Housing near University of Science and Technology of China: 2026 student
 description: "What Campus Reviews Reveal: Student Perspectives on USTC  The University of Science and Technology of China (USTC) consistently ranks among China’s"
 pubDatetime: 2026-07-06T10:39:29.000Z
 modDatetime: 2026-07-07T07:58:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1318002.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1318002.jpg"
 tags: ["university", "university-of-science-and-technology-of-china"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Local amenities include supermarkets, small restaurants, and convenience stores 
 
 ## Budget Bands for 2026–2027 (Indicative – Confirm with Operator)
 
-![University of Science and Technology of China](https://img.findstay.org/housing/p/amber-1318002.jpg)
+![University of Science and Technology of China](https://img.unistay.cn/housing/p/amber-1318002.jpg)
 
 The dataset does not include specific rental prices. General market rates for student housing near USTC in 2026–2027 are indicative and can vary significantly based on size, condition, and distance. Below is a typical band structure based on common Hefei rental patterns. Always verify current prices with property managers or landlords before signing any contract.
 

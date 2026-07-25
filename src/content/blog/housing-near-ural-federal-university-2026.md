@@ -3,8 +3,8 @@ title: "Housing near Ural Federal University: 2026 student guide"
 description: "What Campus Reviews Reveal  Ural Federal University’s Google rating of   4.1 out of 5   (based on 305 reviews) reflects a mix of academic reputatio"
 pubDatetime: 2026-07-04T00:16:50.000Z
 modDatetime: 2026-07-07T08:17:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-288669.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-288669.jpg"
 tags: ["university", "ural-federal-university"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Because the university is on the main avenue (Lenina Prospekt), many student ser
 
 ## Budget Bands
 
-![Ural Federal University](https://img.findstay.org/housing/p/amber-288669.jpg)
+![Ural Federal University](https://img.unistay.cn/housing/p/amber-288669.jpg)
 
 Rental costs in Yekaterinburg vary significantly based on location, size, and amenities. Based on typical student accommodation in the city, you can expect three rough bands (all prices are **indicative — confirm with the operator**):
 

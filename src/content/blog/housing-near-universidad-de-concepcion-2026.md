@@ -3,8 +3,8 @@ title: "Housing near Universidad de Concepción: 2026 student guide"
 description: "What Campus Reviews Reveal Universidad de Concepción scores 4.8 on Google (2779 reviews). Students and visitors generally praise the campus for its."
 pubDatetime: 2026-07-06T01:18:26.000Z
 modDatetime: 2026-07-07T08:00:26.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-225671.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-225671.jpg"
 tags: ["university", "universidad-de-concepcion"]
 category: "university"
 draft: false
@@ -26,7 +26,7 @@ Public transportation in Concepción consists of buses and taxis (including ride
 
 ## Budget Range
 
-![Universidad de Concepción](https://img.findstay.org/housing/p/amber-225671.jpg)
+![Universidad de Concepción](https://img.unistay.cn/housing/p/amber-225671.jpg)
 
 Since student housing prices fluctuate with the market and vary significantly by room type, the following is only a general reference. All costs should be confirmed with the operator (indicative — confirm with the operator).
 

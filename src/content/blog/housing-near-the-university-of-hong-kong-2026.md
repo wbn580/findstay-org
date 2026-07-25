@@ -3,8 +3,8 @@ title: "Housing near The University of Hong Kong: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at HKU  Student and visitor reviews of The University of Hong Kong paint a consistent picture: a green, multi"
 pubDatetime: 2026-07-01T21:26:13.000Z
 modDatetime: 2026-07-07T07:56:13.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01502973.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01502973.jpg"
 tags: ["university", "the-university-of-hong-kong"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Beyond the campus, the mountain backdrop offers hiking trails (including the one
 
 ## Budget Bands for Student Housing
 
-![The University of Hong Kong](https://img.findstay.org/housing/p/uh-s01502973.jpg)
+![The University of Hong Kong](https://img.unistay.cn/housing/p/uh-s01502973.jpg)
 
 Rents in the western district of Hong Kong Island vary widely. Because no specific price data is provided here, the figures below are indicative ranges that should be confirmed with each operator before any commitment.
 

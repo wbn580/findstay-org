@@ -3,8 +3,8 @@ title: "Housing near Australian National University: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at Australian National University  The campus of Australian National University (ANU) in Canberra consistentl"
 pubDatetime: 2026-07-02T12:04:45.000Z
 modDatetime: 2026-07-07T08:09:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-936060.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-936060.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Rental prices in Canberra are generally lower than in Sydney but higher than in 
 
 ## Budget Bands for Student Housing
 
-![Australian National University](https://img.findstay.org/housing/p/amber-936060.jpg)
+![Australian National University](https://img.unistay.cn/housing/p/amber-936060.jpg)
 
 Indicative price ranges for student accommodation near ANU (weekly, in Australian dollars — confirm with the operator):
 

@@ -3,8 +3,8 @@ title: "Housing near University of Electronic Science and Technology of China: 2
 description: "Housing Near University of Electronic Science and Technology of China      Campus Reviews: What the Data Shows  The University of Electronic Scienc"
 pubDatetime: 2026-07-04T05:46:19.000Z
 modDatetime: 2026-07-07T08:53:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01432126.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01432126.jpg"
 tags: ["university", "university-of-electronic-science-and-technology-of-china"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Public transit in Chenghua District includes several bus lines and the Chengdu M
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![University of Electronic Science and Technology of China](https://img.findstay.org/housing/p/uh-s01432126.jpg)
+![University of Electronic Science and Technology of China](https://img.unistay.cn/housing/p/uh-s01432126.jpg)
 
 The dataset provided does not include a list of specific residences near the university. Therefore, the shortlist logic below is a general framework that students can apply once they obtain current listings from the housing platform or local operators. When evaluating any residence, consider the following criteria in order of importance:
 

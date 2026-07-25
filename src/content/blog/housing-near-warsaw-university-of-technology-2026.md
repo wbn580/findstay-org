@@ -3,8 +3,8 @@ title: "Housing near Warsaw University of Technology: 2026 student guide"
 description: "What Campus Reviews Reveal about Warsaw University of Technology  The main campus of Warsaw University of Technology (WUT) is a landmark in its own"
 pubDatetime: 2026-07-07T06:36:14.000Z
 modDatetime: 2026-07-07T07:55:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1444464.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1444464.jpg"
 tags: ["university", "warsaw-university-of-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Keep in mind that rents in central districts (Śródmieście, Ochota, northern M
 
 ## Walk vs Transit Trade-off
 
-![Warsaw University of Technology](https://img.findstay.org/housing/p/amber-1444464.jpg)
+![Warsaw University of Technology](https://img.unistay.cn/housing/p/amber-1444464.jpg)
 
 Because WUT’s main campus is centrally located, many students prioritise walking. The walkability of the area around plac Politechniki is excellent. Supermarkets, cafés, restaurants, and parks are within a few minutes. Students living within a 1 km radius can reach any lecture hall on campus in under 15 minutes on foot.
 

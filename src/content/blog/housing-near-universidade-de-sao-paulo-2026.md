@@ -3,8 +3,8 @@ title: "Housing near Universidade de São Paulo (USP): 2026 student guide"
 description: "Campus Reviews: What Students Say  The Universidade de São Paulo (USP) holds a Google rating of 4.7 out of 5 based on 3,363 reviews. Students frequ"
 pubDatetime: 2026-07-06T23:06:41.000Z
 modDatetime: 2026-07-07T09:04:41.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2336281.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2336281.jpg"
 tags: ["university", "universidade-de-sao-paulo"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Crime statistics are uneven: areas immediately around campus are generally safe 
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Universidade de São Paulo (USP)](https://img.findstay.org/housing/p/amber-2336281.jpg)
+![Universidade de São Paulo (USP)](https://img.unistay.cn/housing/p/amber-2336281.jpg)
 
 Because rental prices in São Paulo fluctuate with market conditions, no specific figures can be given here. However, students typically fall into one of three broad bands:
 

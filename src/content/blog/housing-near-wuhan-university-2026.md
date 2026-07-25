@@ -3,8 +3,8 @@ title: "Housing near Wuhan University: 2026 student guide"
 description: "What Campus Reviews Reveal About Wuhan University  Wuhan University’s Google rating of 4.5 (based on 243 reviews) reflects a consistently positive"
 pubDatetime: 2026-07-02T13:43:15.000Z
 modDatetime: 2026-07-07T08:35:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00227242.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00227242.jpg"
 tags: ["university", "wuhan-university"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Cost of living in Wuhan is moderate compared to Beijing or Shanghai. Monthly exp
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Wuhan University](https://img.findstay.org/housing/p/uh-s00227242.jpg)
+![Wuhan University](https://img.unistay.cn/housing/p/uh-s00227242.jpg)
 
 Rental prices around Wuhan University vary by distance, room type, and building age. The following bands are indicative – confirm with the operator or landlord before signing any contract.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Oslo: 2026 student guide"
 description: "Housing Near the University of Oslo: A Guide for Students  The University of Oslo (UiO) is Norway’s oldest and highest-ranked public university, pl"
 pubDatetime: 2026-06-30T18:17:45.000Z
 modDatetime: 2026-07-07T07:48:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1347627.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1347627.jpg"
 tags: ["university", "university-of-oslo"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Oslo’s public transport is reliable even in winter. The Blindern station (T-ba
 
 No specific residence names are provided in the source data, but a logical shortlist can be built using general categories of accommodation available near the University of Oslo. When evaluating options, consider these steps:
 
-![University of Oslo](https://img.findstay.org/housing/p/amber-1347627.jpg)
+![University of Oslo](https://img.unistay.cn/housing/p/amber-1347627.jpg)
 
 1. **Define your daily radius**: If all your classes are at Blindern, filter for properties within 1 km of the campus. Use mapping tools to check walking distance in winter (ice and snow can slow you down).
 2. **Set a budget ceiling**: Decide the maximum monthly rent you can afford. Remember that rent in Norway is typically paid monthly in advance, and deposits are often high.

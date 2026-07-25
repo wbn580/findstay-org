@@ -3,8 +3,8 @@ title: "Housing near Vrije Universiteit Amsterdam: 2026 student guide"
 description: "Housing Near Vrije Universiteit Amsterdam: What the Campus Reviews Tell You  Finding housing near Vrije Universiteit Amsterdam (VU) is one of the f"
 pubDatetime: 2026-07-06T08:28:34.000Z
 modDatetime: 2026-07-07T08:42:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00017418.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00017418.jpg"
 tags: ["university", "vrije-universiteit-amsterdam"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ Note that many student housing providers (such as DUWO, The Student Hotel, and p
 
 Living very close to VU (within a 10–15-minute walk) gives you the obvious advantage of rolling out of bed and arriving on time. The area immediately around the campus — streets like De Boelelaan, Van der Boechorststraat, and Gustav Mahlerplein — is mostly commercial or student housing. If you find a room in this zone, you can walk to lectures, the library, and the sports centre. You also save on monthly transport costs (a tram pass for students under the OV-kaart regime costs roughly €50–70 per month, but you need a personal OV card).
 
-![Vrije Universiteit Amsterdam](https://img.findstay.org/housing/p/uh-s00017418.jpg)
+![Vrije Universiteit Amsterdam](https://img.unistay.cn/housing/p/uh-s00017418.jpg)
 
 The downside is higher rent and a less “cosy” Amsterdam feel. The Zuidas is quiet in the evenings and on weekends — many offices are empty, and the area lacks the buzzing cafés and shops of central neighbourhoods. If you prefer a more social, lively environment, you might want to live in De Pijp or Oud-West and bike or take the tram. A bicycle is by far the most efficient way to get around Amsterdam — it takes about 10–20 minutes from most central districts to VU. A second-hand bike costs €80–€150. Public transport adds €30–€80 per month depending on how often you travel.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Victoria: 2026 student guide"
 description: "Campus Reviews: What Students Say About UVic  The University of Victoria, located at 3800 Finnerty Rd in the capital of British Columbia, holds a Q"
 pubDatetime: 2026-06-30T13:37:15.000Z
 modDatetime: 2026-07-07T09:15:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3223596.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3223596.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For the 2026–2027 academic year, typical monthly rents for a one‑bedroom apa
 
 ## Budget Bands
 
-![University of Victoria](https://img.findstay.org/housing/p/amber-3223596.jpg)
+![University of Victoria](https://img.unistay.cn/housing/p/amber-3223596.jpg)
 
 To help you plan, here are rough monthly budgets for a single student (CAD). All figures are indicative — confirm with the operator.
 

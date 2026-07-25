@@ -1,0 +1,50 @@
+---
+import LocaleLanding from "@/components/fs/LocaleLanding.astro";
+import { stats, fmtInt } from "@/utils/fsData";
+
+const t = {
+  title: `UniStay — Busca global de moradia estudantil: ${fmtInt(stats.properties)} residências em ${stats.cities} cidades (2026)`,
+  desc: `Compare ${fmtInt(stats.properties)} residências estudantis em ${stats.cities} cidades de ${stats.countries} países: avaliações reais de moradores, preços indicativos e correspondência com ${fmtInt(stats.universities)} universidades do ranking QS.`,
+  eyebrow: "Moradia estudantil global · Turma de 2026",
+  h1: "Encontre sua moradia",
+  h1em: "perto do campus",
+  lead: `<b>${fmtInt(stats.properties)} residências</b> · <b>${stats.cities} cidades</b> · <b>${stats.countries} países</b> — comparadas com avaliações reais de moradores e preços indicativos, não com folhetos de propaganda.`,
+  askRobin: "Pergunte ao Robin — assistente de IA",
+  browse: "Explorar cidades",
+  stepsKicker: "Como funciona",
+  stepsH2: "Três passos, sem adivinhação",
+  steps: [
+    { h: "Diga ao Robin sua universidade e orçamento", p: "Abra o chat e informe sua universidade, orçamento e mês de entrada. O Robin filtra milhares de residências até restarem apenas as que realmente combinam com você." },
+    { h: "Compare preços e avaliações reais", p: "Cada página de residência mostra tarifas indicativas, tipos de quarto e trechos literais de avaliações publicadas por moradores — o bom e o ruim." },
+    { h: "Receba acompanhamento de um consultor", p: "Com a lista pronta, um consultor de moradia entra em contato em um dia útil para ajudar a confirmar os detalhes com o operador. O contrato e o pagamento são sempre feitos diretamente por você." },
+  ],
+  countriesKicker: "Destinos",
+  countriesH2: "Explorar por país",
+  residencesWord: "residências",
+  citiesWord: "cidades",
+  note: "As páginas de cidades e residências estão disponíveis em inglês. Todos os preços são indicativos — confirme a tarifa vigente com o operador antes de assinar.",
+  ctaH2: "Comece com uma lista curta, não com três mil abas",
+  ctaP: `O Robin cruza os dados de ${fmtInt(stats.properties)} residências e ${fmtInt(stats.universities)} universidades; onde os dados param, um consultor humano continua.`,
+  statResidences: "residências",
+  statCities: "cidades",
+  statCountries: "países",
+  statUnis: "universidades QS",
+};
+
+const countryNames = {
+  "united-states": "Estados Unidos",
+  "united-kingdom": "Reino Unido",
+  spain: "Espanha",
+  australia: "Austrália",
+  canada: "Canadá",
+  germany: "Alemanha",
+  singapore: "Singapura",
+  france: "França",
+  ireland: "Irlanda",
+  "new-zealand": "Nova Zelândia",
+  uae: "Emirados Árabes Unidos",
+  italy: "Itália",
+};
+---
+
+<LocaleLanding locale="pt" htmlLang="pt" t={t} countryNames={countryNames} />

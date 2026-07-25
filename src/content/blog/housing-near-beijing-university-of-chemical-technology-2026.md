@@ -3,8 +3,8 @@ title: "Housing near Beijing University of Chemical Technology: 2026 student gui
 description: "What campus reviews reveal about student life  Beijing University of Chemical Technology (BUCT) holds a global QS ranking of 697 (Mainland China)."
 pubDatetime: 2026-07-03T17:55:30.000Z
 modDatetime: 2026-07-07T09:04:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1042796.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1042796.jpg"
 tags: ["university", "beijing-university-of-chemical-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Beijing itself is a sprawling capital with a population exceeding 21 million. Ho
 
 ## Budget bands and housing types
 
-![Beijing University of Chemical Technology](https://img.findstay.org/housing/p/amber-1042796.jpg)
+![Beijing University of Chemical Technology](https://img.unistay.cn/housing/p/amber-1042796.jpg)
 
 Because the provided data does not include specific rental prices, a general outline of typical options for students near BUCT is presented. All figures are indicative and must be confirmed with the operator at the time of searching.
 

@@ -3,8 +3,8 @@ title: "Housing near Tianjin University: 2026 student guide"
 description: "What Campus Reviews Reveal  Tianjin University (TJU) holds a QS World University Ranking of 257 and a Google rating of 4.9 from 11 reviews. While t"
 pubDatetime: 2026-07-03T18:43:56.000Z
 modDatetime: 2026-07-07T08:01:56.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1350204.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1350204.jpg"
 tags: ["university", "tianjin-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The local economy has experienced slower growth in recent years compared to boom
 
 ## Budget Bands for Housing
 
-![Tianjin University](https://img.findstay.org/housing/p/amber-1350204.jpg)
+![Tianjin University](https://img.unistay.cn/housing/p/amber-1350204.jpg)
 
 Housing options near Tianjin University range from dormitory-style student apartments to single-bedroom flats. All figures below are **indicative — confirm with the operator**, represent monthly rent in Chinese Yuan (RMB), and are based on typical listings in the area as of early 2026.
 

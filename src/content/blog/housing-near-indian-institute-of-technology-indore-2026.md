@@ -3,8 +3,8 @@ title: "Housing near Indian Institute of Technology Indore: 2026 student guide"
 description: "Housing Near Indian Institute of Technology Indore (IIT Indore) – 2026–2027 Guide  Located on Khandwa Road in Simrol, about 25 km from central Indo"
 pubDatetime: 2026-07-01T05:37:45.000Z
 modDatetime: 2026-07-07T08:56:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1299675.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1299675.jpg"
 tags: ["university", "indian-institute-of-technology-indore"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ The campus is not designed for a walking‑based neighbourhood – it is a self�
 - Internet connectivity can be patchy in some remote houses.
 - You will need to go to Indore for major shopping, healthcare, or entertainment.
 
-![Indian Institute of Technology Indore](https://img.findstay.org/housing/p/amber-1299675.jpg)
+![Indian Institute of Technology Indore](https://img.unistay.cn/housing/p/amber-1299675.jpg)
 
 The trade‑off is clear: walking proximity saves time and money but sacrifices variety and convenience. Most international students or those with families opt for Indore city and a vehicle.
 

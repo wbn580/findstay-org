@@ -3,8 +3,8 @@ title: "Housing near University of California, San Diego (UCSD): 2026 student gu
 description: "What Student Reviews Reveal About Life Near UC San Diego  Located on the coast of La Jolla, the University of California, San Diego (UCSD) attracts"
 pubDatetime: 2026-07-06T01:00:22.000Z
 modDatetime: 2026-07-07T08:32:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2683154.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2683154.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Because the campus sits on a coastal mesa, public transit access is moderate. Th
 
 ## Budget Bands for Student Housing (Indicative — Confirm with the Operator)
 
-![University of California, San Diego (UCSD)](https://img.findstay.org/housing/p/amber-2683154.jpg)
+![University of California, San Diego (UCSD)](https://img.unistay.cn/housing/p/amber-2683154.jpg)
 
 ### Low Budget (Under $1,200 per month per person)
 

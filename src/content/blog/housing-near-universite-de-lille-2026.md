@@ -3,8 +3,8 @@ title: "Housing near Université de Lille: 2026 student guide"
 description: "Campus Evaluation of Université de Lille: Real Experiences from Students On Google, Université de Lille has a score of 4.2 (out of 454 reviews) — data."
 pubDatetime: 2026-07-03T12:01:20.000Z
 modDatetime: 2026-07-07T08:26:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1451181.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1451181.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ Lille city itself also has many other higher education institutions and collabor
 
 ## Housing Budget Range (indicative — confirm with the operator)
 
-![Université de Lille](https://img.findstay.org/housing/p/amber-1451181.jpg)
+![Université de Lille](https://img.unistay.cn/housing/p/amber-1451181.jpg)
 
 All prices below are **indicative reference values**; please confirm with the apartment operator or landlord.
 

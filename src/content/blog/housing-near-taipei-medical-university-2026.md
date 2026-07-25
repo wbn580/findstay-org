@@ -3,8 +3,8 @@ title: "Housing near Taipei Medical University: 2026 student guide"
 description: "Campus Reviews: What Students Say About Taipei Medical University  Taipei Medical University (TMU) is located in the Xinyi District of Taipei City,"
 pubDatetime: 2026-07-03T12:54:09.000Z
 modDatetime: 2026-07-07T09:14:09.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1427067.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1427067.jpg"
 tags: ["university", "taipei-medical-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The broader Taipei City has a well-integrated Metro, bus, and YouBike (public bi
 
 ## Budget Bands for Student Housing Near TMU
 
-![Taipei Medical University](https://img.findstay.org/housing/p/amber-1427067.jpg)
+![Taipei Medical University](https://img.unistay.cn/housing/p/amber-1427067.jpg)
 
 All prices below are **indicative — confirm with the operator**. Figures are based on typical rental listings in 2026 and 2027 for the area within a 1–2 km radius of Taipei Medical University. Rental costs vary by building age, floor level, and furnishings.
 

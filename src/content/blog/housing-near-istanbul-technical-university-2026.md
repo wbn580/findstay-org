@@ -3,8 +3,8 @@ title: "Housing near Istanbul Technical University: 2026 student guide"
 description: "What Campus Reviews Reveal About ITU  Istanbul Technical University (ITU) has a strong reputation among students, and its Google rating of 4.6 from"
 pubDatetime: 2026-07-01T21:31:15.000Z
 modDatetime: 2026-07-07T08:28:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1624950.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1624950.jpg"
 tags: ["university", "istanbul-technical-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Public transport is comprehensive but can be crowded during peak hours. The univ
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Istanbul Technical University](https://img.findstay.org/housing/p/amber-1624950.jpg)
+![Istanbul Technical University](https://img.unistay.cn/housing/p/amber-1624950.jpg)
 
 All figures in this section are indicative — confirm with the operator for current rates and availability.
 

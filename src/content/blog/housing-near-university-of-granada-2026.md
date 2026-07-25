@@ -3,8 +3,8 @@ title: "Housing near University of Granada: 2026 student guide"
 description: "Housing near the University of Granada: What Campus Reviews Reveal  Prospective students considering the University of Granada (QS World Ranking 40"
 pubDatetime: 2026-06-30T22:08:25.000Z
 modDatetime: 2026-07-07T08:17:25.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2400094.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2400094.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ These bands are rough guidelines; exact prices depend on contract length, room t
 
 ## Walk vs. Transit Trade‑off
 
-![University of Granada](https://img.findstay.org/housing/p/amber-2400094.jpg)
+![University of Granada](https://img.unistay.cn/housing/p/amber-2400094.jpg)
 
 The University of Granada’s main location in Albaicín is central but hilly. Walking from a residence near Plaza Nueva or the city centre can take 10–15 minutes. However, Albaicín’s narrow, cobbled streets are not ideal for cycling; many students prefer walking or taking the public bus. The Cartuja campus is about 2‑3 km north of the centre, and the Fuentenueva campus (engineering) is roughly 1.5 km west. A good rule is:
 

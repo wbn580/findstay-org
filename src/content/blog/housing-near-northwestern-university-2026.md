@@ -3,8 +3,8 @@ title: "Housing near Northwestern University: 2026 student guide"
 description: "What Campus Reviews Reveal About Life Around Northwestern University  Located at 633 Clark Street in Evanston, Illinois, Northwestern University ho"
 pubDatetime: 2026-07-02T12:06:45.000Z
 modDatetime: 2026-07-07T08:16:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-149089.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-149089.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Lake Michigan forms the eastern boundary of campus, and the lakefront trail runs
 
 ## Budget Bands for Off-Campus Housing
 
-![Northwestern University](https://img.findstay.org/housing/p/amber-149089.jpg)
+![Northwestern University](https://img.unistay.cn/housing/p/amber-149089.jpg)
 
 Rental prices in Evanston vary significantly by proximity to campus, property type, and number of roommates. All figures below are indicative – confirm with the operator.
 

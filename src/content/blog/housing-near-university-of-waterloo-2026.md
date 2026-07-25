@@ -3,8 +3,8 @@ title: "Housing near University of Waterloo: 2026 student guide"
 description: "Housing Near University of Waterloo: What Campus Reviews Reveal and Where to Look  The University of Waterloo is a large, research-intensive univer"
 pubDatetime: 2026-07-02T23:58:18.000Z
 modDatetime: 2026-07-07T08:48:18.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3393793.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3393793.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -62,7 +62,7 @@ The trade-off is simple: **walk to campus** for convenience and time savings, bu
 
 ### Shortlist Logic for Nearby Residences
 
-![University of Waterloo](https://img.findstay.org/housing/p/amber-3393793.jpg)
+![University of Waterloo](https://img.unistay.cn/housing/p/amber-3393793.jpg)
 
 When choosing where to live near the University of Waterloo, follow a systematic shortlist approach. Because the source data does not include a specific list of nearby residences, the logic below applies to any housing search in the area. You can apply this framework when browsing available rental listings.
 

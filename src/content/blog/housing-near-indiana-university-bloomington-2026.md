@@ -3,8 +3,8 @@ title: "Housing near Indiana University Bloomington: 2026 student guide"
 description: "What Campus Reviews Reveal  Indiana University Bloomington receives a Google rating of 4.4 out of 5 from 545 reviews. The reviews paint a picture o"
 pubDatetime: 2026-07-03T01:44:49.000Z
 modDatetime: 2026-07-07T08:34:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-954212.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-954212.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ The Bloomington rental market is competitive, especially for units close to camp
 
 ## Budget Bands for 2026-2027
 
-![Indiana University Bloomington](https://img.findstay.org/housing/p/amber-954212.jpg)
+![Indiana University Bloomington](https://img.unistay.cn/housing/p/amber-954212.jpg)
 
 Student housing budgets in Bloomington can be broadly categorised using the indicative starting price of $659 as a baseline. Keep in mind that rents vary by unit size, location, and included utilities. Always confirm current rates with the property operator.
 

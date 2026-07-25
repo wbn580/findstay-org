@@ -3,8 +3,8 @@ title: "Housing near Queen's University Belfast: 2026 student guide"
 description: "What Campus Reviews Reveal  Queen’s University Belfast is consistently praised by visitors and students for its striking red‑brick architecture and"
 pubDatetime: 2026-07-03T20:01:48.000Z
 modDatetime: 2026-07-07T08:46:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-973308.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-973308.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Belfast is generally considered a safe city, but as with any urban area, some st
 
 ## Budget Bands for Student Housing
 
-![Queen's University Belfast](https://img.findstay.org/housing/p/amber-973308.jpg)
+![Queen's University Belfast](https://img.unistay.cn/housing/p/amber-973308.jpg)
 
 Student rents in Belfast vary significantly by property type and distance from campus. Because exact figures change each year, it is essential to treat all prices as indicative and confirm them directly with the operator at the time of booking. Broadly, three budget bands exist:
 

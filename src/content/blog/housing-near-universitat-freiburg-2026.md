@@ -3,8 +3,8 @@ title: "Housing near Universität Freiburg: 2026 student guide"
 description: "Campus Reviews: What Students Really Say  The University of Freiburg (Universität Freiburg) holds a global rank of 201 in the QS system and sits in"
 pubDatetime: 2026-07-03T05:09:30.000Z
 modDatetime: 2026-07-07T08:47:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2110356.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2110356.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because the city is compact, most student flats fall within a 25-minute bike rid
 
 ## Budget Bands for Student Housing Near Universität Freiburg
 
-![Universität Freiburg](https://img.findstay.org/housing/p/amber-2110356.jpg)
+![Universität Freiburg](https://img.unistay.cn/housing/p/amber-2110356.jpg)
 
 All prices below are indicative — confirm with the operator. The only specific residence data provided for this guide is “The FIZZ Freiburg Mitte”, with a starting price of EUR 1,107 per month. That figure represents a relatively premium student apartment option in a central location. For context, typical student housing in Freiburg covers a wider range:
 

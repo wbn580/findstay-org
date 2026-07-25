@@ -3,8 +3,8 @@ title: "Housing near University of Klagenfurt: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Klagenfurt holds a Google rating of 4.3 from 259 reviews. While the overall score is positive, a clos"
 pubDatetime: 2026-06-30T10:48:44.000Z
 modDatetime: 2026-07-07T09:00:44.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3120370.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3120370.jpg"
 tags: ["university", "university-of-klagenfurt"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Cost of living in Klagenfurt is generally lower than in Vienna or Salzburg. Acco
 
 ## Budget Bands for Student Housing (2026–2027 Indicative)
 
-![University of Klagenfurt](https://img.findstay.org/housing/p/amber-3120370.jpg)
+![University of Klagenfurt](https://img.unistay.cn/housing/p/amber-3120370.jpg)
 
 These price ranges are indicative – confirm with the operator before signing any contract.
 

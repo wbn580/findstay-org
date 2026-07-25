@@ -3,8 +3,8 @@ title: "Housing near University of Tartu: 2026 student guide"
 description: "What Campus Reviews Reveal About Tartu  Visitor and student reviews of the University of Tartu consistently highlight two things: the university’s"
 pubDatetime: 2026-07-04T18:23:17.000Z
 modDatetime: 2026-07-07T07:51:17.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-921711.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-921711.jpg"
 tags: ["university", "university-of-tartu"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Housing options range from student dormitories operated by the university (typic
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![University of Tartu](https://img.findstay.org/housing/p/amber-921711.jpg)
+![University of Tartu](https://img.unistay.cn/housing/p/amber-921711.jpg)
 
 Rental prices in Tartu vary by location, property condition, and whether utilities are included. Below are indicative monthly rent bands for a single person. **All prices are indicative — confirm with the operator** before committing.
 

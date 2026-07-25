@@ -3,8 +3,8 @@ title: "Housing near Technical University of Munich: 2026 student guide"
 description: "What TUM Campus Reviews Reveal  The Technical University of Munich (TUM) holds a QS ranking of 22 globally and is often described by reviewers as “"
 pubDatetime: 2026-07-01T07:30:08.000Z
 modDatetime: 2026-07-07T08:04:08.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1678002.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1678002.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The student population in Munich exceeds 100,000, shared among several universit
 
 ## Budget Bands for Student Housing
 
-![Technical University of Munich](https://img.findstay.org/housing/p/amber-1678002.jpg)
+![Technical University of Munich](https://img.unistay.cn/housing/p/amber-1678002.jpg)
 
 All prices below are indicative — confirm with the operator. The numbers represent typical monthly rents for a single person in 2026/2027.
 

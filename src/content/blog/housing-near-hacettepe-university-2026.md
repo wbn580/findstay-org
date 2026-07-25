@@ -3,8 +3,8 @@ title: "Housing near Hacettepe University: 2026 student guide"
 description: "Hacettepe University Student Housing Guide: What to Consider Before You Move  Hacettepe University is a well-known public research university in An"
 pubDatetime: 2026-07-02T04:14:54.000Z
 modDatetime: 2026-07-07T08:53:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1896520.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1896520.jpg"
 tags: ["university", "hacettepe-university"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ The Hacettepe Sıhhiye campus is compact, and many faculties (Medicine, Pharmacy
 
 Because specific residences near Hacettepe are not listed in this guide, we provide a decision-making framework you can apply when comparing actual listings (e.g., on student housing platforms, dormitory websites, or local rental portals). Use the following criteria to build your shortlist:
 
-![Hacettepe University](https://img.findstay.org/housing/p/amber-1896520.jpg)
+![Hacettepe University](https://img.unistay.cn/housing/p/amber-1896520.jpg)
 
 1. **Distance to your faculty** – Note that Hacettepe has multiple campuses (Sıhhiye, Beytepe, etc.). The main medical and health sciences campus is Sıhhiye. If your department is at Beytepe (about 10 km west), you need housing near that campus instead. Confirm your faculty location first.
 2. **Budget ceiling** – Set a maximum monthly rent (including utilities) that leaves you enough for living expenses. With inflation, ensure your income (scholarship, family support, part-time job) can cover at least 12 months of rent.

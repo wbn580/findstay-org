@@ -1,16 +1,16 @@
 ---
-title: "Contact Findstay"
-description: "Contact Findstay about student accommodation guides, property information, partnerships, or privacy questions."
+title: "Contact UniStay"
+description: "Contact UniStay about student accommodation guides, property information, partnerships, or privacy questions."
 pubDatetime: 2026-07-17
 ---
 
-# Contact Findstay
+# Contact UniStay
 
-Findstay publishes independent accommodation guidance for international students, expats, and digital nomads.
+UniStay publishes independent accommodation guidance for international students, expats, and digital nomads.
 
 ## General enquiries
 
-Email **hello@findstay.org** for questions about our guides, corrections, accessibility, or privacy. Please include the page URL when reporting an issue.
+Email **contact@unistay.cn** for questions about our guides, corrections, accessibility, or privacy. Please include the page URL when reporting an issue.
 
 ## Accommodation help
 
@@ -18,6 +18,6 @@ Use **Find Housing** on this page to tell us your destination, study plans, budg
 
 ## Partnerships
 
-Property providers and travel-service partners may contact **hello@findstay.org**. Findstay keeps editorial decisions independent and discloses affiliate relationships where relevant.
+Property providers and travel-service partners may contact **contact@unistay.cn**. UniStay keeps editorial decisions independent and discloses affiliate relationships where relevant.
 
-Findstay is operated by **Arrivau Pty Ltd**, Australia.
+UniStay is operated by **Arrivau Pty Ltd**, Australia.

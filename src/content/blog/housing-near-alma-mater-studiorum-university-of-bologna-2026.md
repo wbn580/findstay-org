@@ -3,8 +3,8 @@ title: "Housing near Alma Mater Studiorum - University of Bologna: 2026 student 
 description: "Housing Near the University of Bologna: What Students Should Know  Alma Mater Studiorum – University of Bologna, founded in 1088, holds the distinc"
 pubDatetime: 2026-07-01T06:57:26.000Z
 modDatetime: 2026-07-07T08:48:26.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01525075.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01525075.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ No matter which band you target, always obtain a written contract (contratto di 
 
 ### Walk vs Transit Trade-Off
 
-![Alma Mater Studiorum - University of Bologna](https://img.findstay.org/housing/p/uh-s01525075.jpg)
+![Alma Mater Studiorum - University of Bologna](https://img.unistay.cn/housing/p/uh-s01525075.jpg)
 
 The university’s historic centre location makes walking a realistic option for many. If you live within a 20-minute walk (about 1.5 km), you can reach the main campus without needing a bus pass, which saves both time and money. The porticoes — UNESCO-listed covered walkways — protect you from rain and sun, making walking comfortable year-round. On the downside, central apartments tend to be more expensive per square metre, and noise from street life, restaurants, or late-night students may affect sleep. If you prioritise quiet space and lower rent, you might choose a flat in a residential district like Corticella or San Ruffillo, where you can use public transport. Bologna’s bus network runs frequently during weekdays, though services may be less reliable late at night or on weekends. A monthly bus pass costs approximately €35–40 (indicative — confirm with the operator). Cycling is another strong alternative; the city is flat and bike lanes are expanding, though theft is common, so invest in a good lock and insurance. The trade-off is straightforward: walking or cycling gives you time and health benefits at a higher rental cost; public transport allows you to live farther and cheaper but requires schedule planning and a monthly fee.
 

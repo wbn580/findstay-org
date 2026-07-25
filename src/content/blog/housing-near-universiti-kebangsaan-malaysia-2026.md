@@ -3,8 +3,8 @@ title: "Housing near Universiti Kebangsaan Malaysia (UKM): 2026 student guide"
 description: "What Campus Reviews Reveal About Universiti Kebangsaan Malaysia (UKM)  UKM holds a 4.5‑star Google rating from 774 reviews. The comments paint a mi"
 pubDatetime: 2026-07-02T03:51:49.000Z
 modDatetime: 2026-07-07T07:53:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1469134.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1469134.jpg"
 tags: ["university", "universiti-kebangsaan-malaysia"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Living in Bangi offers a quieter environment than central KL, with lower rent ov
 
 ## Budget Bands for Student Accommodation (2026–2027)
 
-![Universiti Kebangsaan Malaysia (UKM)](https://img.findstay.org/housing/p/amber-1469134.jpg)
+![Universiti Kebangsaan Malaysia (UKM)](https://img.unistay.cn/housing/p/amber-1469134.jpg)
 
 *All prices below are indicative — confirm with the operator.*
 

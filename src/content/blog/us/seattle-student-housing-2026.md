@@ -2,7 +2,7 @@
 title: "Seattle Student Housing 2026: Areas Near UW, Seattle U & Bellevue College"
 description: "Student accommodation in Seattle — from the U District near UW to Capitol Hill for Seattle U. 2026 rent prices, transit strategy, and tech internship housing tips."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?w=1600"
 ogImage: "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?w=1200"
 tags: ["us", "seattle", "student-accommodation"]

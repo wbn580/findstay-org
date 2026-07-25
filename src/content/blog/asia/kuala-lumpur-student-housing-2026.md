@@ -2,7 +2,7 @@
 title: "Kuala Lumpur Student Housing 2026: Areas Near UM, UKM & Taylor's"
 description: "Student accommodation in KL — Malaysia's best-value student city. Affordable condos near Universiti Malaya, UKM, and Taylor's for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1600"
 ogImage: "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1200"
 tags: ["asia", "kuala-lumpur", "student-accommodation"]

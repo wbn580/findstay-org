@@ -3,8 +3,8 @@ title: "Housing near University of Delhi: 2026 student guide"
 description: "Housing Near University of Delhi: What Students Should Know Before Arranging Accommodation  The University of Delhi (DU) is a large federal institu"
 pubDatetime: 2026-07-04T15:09:46.000Z
 modDatetime: 2026-07-07T08:54:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1865214.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1865214.jpg"
 tags: ["university", "university-of-delhi"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ A common compromise is to rent a bicycle or a scooter. Delhi’s traffic can be 
 
 ### Shortlist Logic: How to Choose Accommodation Near University of Delhi
 
-![University of Delhi](https://img.findstay.org/housing/p/amber-1865214.jpg)
+![University of Delhi](https://img.unistay.cn/housing/p/amber-1865214.jpg)
 
 Given the absence of a single centralised accommodation portal for DU, students need a systematic approach. The following logic can help narrow down options, using the locality of South Campus as the anchor.
 

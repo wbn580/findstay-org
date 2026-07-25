@@ -3,8 +3,8 @@ title: "Housing near The University of Nottingham: 2026 student guide"
 description: "Housing near The University of Nottingham: campus reviews, city context, and accommodation choices  The University of Nottingham ranks 97th in the"
 pubDatetime: 2026-07-07T05:26:34.000Z
 modDatetime: 2026-07-07T08:56:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01472434.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01472434.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -63,7 +63,7 @@ The University of Nottingham’s main campus is well served by public transport,
 
 The key trade‑off is convenience vs cost: city‑centre accommodation tends to be more expensive per week, but reduces reliance on campus amenities outside of classes. Lenton and Beeston are more residential and quieter, but less lively in the evenings.
 
-![The University of Nottingham](https://img.findstay.org/housing/p/uh-s01472434.jpg)
+![The University of Nottingham](https://img.unistay.cn/housing/p/uh-s01472434.jpg)
 
 ### Shortlist logic using given nearby residences
 

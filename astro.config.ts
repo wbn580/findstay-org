@@ -13,7 +13,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://findstay.org",
+  site: "https://unistay.net",
   integrations: [
     sitemap({
       // 只保留"有独立索引价值"的页面，排除搜索、标签/归档分页、404 等

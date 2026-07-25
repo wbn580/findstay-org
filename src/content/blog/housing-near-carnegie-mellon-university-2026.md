@@ -3,8 +3,8 @@ title: "Housing near Carnegie Mellon University: 2026 student guide"
 description: "Campus Reviews: What Students and Visitors Say  Carnegie Mellon University (CMU) sits at 5000 Forbes Avenue in Pittsburgh, a private research unive"
 pubDatetime: 2026-07-01T03:58:58.000Z
 modDatetime: 2026-07-07T08:22:58.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-954214.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-954214.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ When looking for housing near CMU, the immediate area (Oakland, Squirrel Hill, S
 
 ## Budget Bands for Off-Campus Housing
 
-![Carnegie Mellon University](https://img.findstay.org/housing/p/amber-954214.jpg)
+![Carnegie Mellon University](https://img.unistay.cn/housing/p/amber-954214.jpg)
 
 Based on the available data for student-focused rentals in Pittsburgh, the **starting price** for a room or unit in a purpose-built student property is **$1,175 per month (indicative – confirm with the operator)**. This figure comes from a list of nearby options that includes SkyVue, The Bridge On Forbes, Bracken House North Shore, and HERE Pittsburgh.
 

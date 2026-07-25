@@ -3,8 +3,8 @@ title: "Housing near The University of Newcastle: 2026 student guide"
 description: "Campus Reviews: What Students Say  The University of Newcastle (UON) holds a global QS ranking of 227 and a Google rating of 4.2 based on 468 revie"
 pubDatetime: 2026-07-03T05:35:06.000Z
 modDatetime: 2026-07-07T09:08:06.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2445575.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2445575.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ Because the university is set in bushland (the “naturesque” feel mentioned i
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![The University of Newcastle](https://img.findstay.org/housing/p/amber-2445575.jpg)
+![The University of Newcastle](https://img.unistay.cn/housing/p/amber-2445575.jpg)
 
 Student housing costs vary by distance from campus, property type, and inclusions (utilities, furniture, internet). The following bands are indicative ranges available on the platform — confirm exact pricing with the operator before committing.
 

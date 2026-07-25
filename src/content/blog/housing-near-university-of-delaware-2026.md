@@ -3,8 +3,8 @@ title: "Housing near University of Delaware: 2026 student guide"
 description: "Campus Reviews: What Students and Visitors Say  The University of Delaware (UD) holds a Google rating of 4.4 from 690 reviews, reflecting a general"
 pubDatetime: 2026-06-30T18:29:10.000Z
 modDatetime: 2026-07-07T08:39:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1190896.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1190896.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Nearby amenities include grocery stores, coffee shops, restaurants, parks, and a
 
 ## Budget Bands for Student Housing
 
-![University of Delaware](https://img.findstay.org/housing/p/amber-1190896.jpg)
+![University of Delaware](https://img.unistay.cn/housing/p/amber-1190896.jpg)
 
 Based on the available reference price of **USD 899** per month (indicative — confirm with the operator), housing in Newark can be broken into general budget bands. The exact figure comes from one of the listed residences; actual costs range depending on location, amenities, and lease length.
 

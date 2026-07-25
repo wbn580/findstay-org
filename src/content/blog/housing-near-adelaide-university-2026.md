@@ -3,8 +3,8 @@ title: "Housing near Adelaide University: 2026 student guide"
 description: "Campus Reviews: What Students Reveal  Student reviews on Google (rating 4.4 from 766 reviews) paint a consistent picture of Adelaide University’s c"
 pubDatetime: 2026-07-07T04:25:59.000Z
 modDatetime: 2026-07-07T08:44:59.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-140974.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-140974.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Adelaide’s cost of living is lower than in Sydney or Melbourne. Weekly rent fo
 
 ## Budget Bands for Student Housing
 
-![Adelaide University](https://img.findstay.org/housing/p/amber-140974.jpg)
+![Adelaide University](https://img.unistay.cn/housing/p/amber-140974.jpg)
 
 When looking for housing near Adelaide University, your weekly rent will vary by property type, location, and inclusions. Below are typical budget bands for the 2026–2027 academic year. All prices are indicative — confirm with the operator.
 

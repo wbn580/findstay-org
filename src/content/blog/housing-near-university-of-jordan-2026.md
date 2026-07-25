@@ -3,8 +3,8 @@ title: "Housing near University of Jordan: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at the University of Jordan  The University of Jordan (UJ) sits in the Al Jubayha district of Amman, covering"
 pubDatetime: 2026-07-03T10:01:40.000Z
 modDatetime: 2026-07-07T08:48:40.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1458287.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1458287.jpg"
 tags: ["university", "university-of-jordan"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Cost of living in Amman is moderate by regional standards, but varies significan
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![University of Jordan](https://img.findstay.org/housing/p/amber-1458287.jpg)
+![University of Jordan](https://img.unistay.cn/housing/p/amber-1458287.jpg)
 
 Because no official price data is provided by the university for external housing, the following are typical ranges observed in the Al Jubayha area for the 2026–2027 academic year. Always verify with the landlord or operator before signing.
 

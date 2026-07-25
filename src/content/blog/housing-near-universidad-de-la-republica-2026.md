@@ -3,8 +3,8 @@ title: "Housing near Universidad de la República (UdelaR): 2026 student guide"
 description: "What Do Campus Reviews Reveal? From 120 reviews collected on Google Maps, Universidad de la República (UdelaR) received a score of 4.5 out of 5 points.."
 pubDatetime: 2026-07-01T20:14:25.000Z
 modDatetime: 2026-07-07T08:23:25.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-218185.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-218185.jpg"
 tags: ["university", "universidad-de-la-republica"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ Overall, the reviews show that the main campus of UdelaR is in the city center, 
 
 ## Montevideo City Background
 
-![Universidad de la República (UdelaR)](https://img.findstay.org/housing/p/amber-218185.jpg)
+![Universidad de la República (UdelaR)](https://img.unistay.cn/housing/p/amber-218185.jpg)
 
 Montevideo is the capital of Uruguay, with a population of about 130万. The city is known for its coastline, Old Town (Ciudad Vieja), middle-class neighborhoods, and relatively stable security. The main campus of UdelaR is located at Av. 18 de Julio 1968, the city's major east-west thoroughfare, running through the downtown area (Centro) and the Cordón neighborhood.
 

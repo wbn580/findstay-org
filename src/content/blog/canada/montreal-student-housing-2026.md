@@ -2,7 +2,7 @@
 title: "Montreal Student Housing 2026: Affordable Areas Near McGill, UdeM & Concordia"
 description: "Montreal offers Canada's cheapest student housing. Compare apartments near McGill, Université de Montréal, and Concordia — rent prices, neighborhoods, and French tips."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "/images/canada/montreal.jpg"
 ogImage: "/images/canada/montreal.jpg"
 tags: ["canada", "montreal", "student-accommodation"]

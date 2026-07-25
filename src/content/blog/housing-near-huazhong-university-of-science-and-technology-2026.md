@@ -3,8 +3,8 @@ title: "Housing near Huazhong University of Science and Technology: 2026 student
 description: "Campus Reviews: What Students Say  Huazhong University of Science and Technology (HUST) holds a QS World University Ranking of 319 and a Google rat"
 pubDatetime: 2026-07-03T06:48:38.000Z
 modDatetime: 2026-07-07T08:43:38.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00018754.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00018754.jpg"
 tags: ["university", "huazhong-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The area around HUST is a mix of student housing, tech company offices, shopping
 
 ## Budget Bands for Student Housing
 
-![Huazhong University of Science and Technology](https://img.findstay.org/housing/p/uh-s00018754.jpg)
+![Huazhong University of Science and Technology](https://img.unistay.cn/housing/p/uh-s00018754.jpg)
 
 Rents in the vicinity vary, but all prices below are **indicative – confirm with the operator**. No exact figures can be provided without current listings, but you can expect the following general bands:
 

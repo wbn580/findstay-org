@@ -3,8 +3,8 @@ title: "Housing near South China University of Technology: 2026 student guide"
 description: "Housing Near South China University of Technology: A Practical Guide  South China University of Technology (SCUT) is a well-known public universit"
 pubDatetime: 2026-07-07T05:40:14.000Z
 modDatetime: 2026-07-07T08:49:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-240725.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-240725.jpg"
 tags: ["university", "south-china-university-of-technology"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Choosing between walking distance and relying on transit involves practical trad
 **Walking distance (under 15 minutes)**  
 Living within a 15-minute walk of the main campus gate gives you flexibility for early classes and late study sessions without worrying about metro schedules. Areas along Wushan Road and the streets immediately north and south of the campus are popular. The trade-off is higher rent and potentially older building quality. Noise from traffic or nearby restaurants can also be a factor.
 
-![South China University of Technology](https://img.findstay.org/housing/p/amber-240725.jpg)
+![South China University of Technology](https://img.unistay.cn/housing/p/amber-240725.jpg)
 
 **Transit-oriented (15–40 minutes by metro or bus)**  
 Neighbourhoods along metro Line 3 (e.g., Wushan station, Tianhe Coach Terminal station, or even as far as Canton Tower area) offer more affordable housing and newer apartments. A 20–30 minute commute is common for many SCUT students. The cost savings can amount to CNY 1,000 or more per month, which may be significant over the academic year. However, you will need to factor in metro fares (around CNY 2–6 per trip) and the time spent queuing during peak hours. Guangzhou’s metro is reliable but can be crowded.

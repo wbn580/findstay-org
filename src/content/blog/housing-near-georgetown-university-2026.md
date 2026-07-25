@@ -3,8 +3,8 @@ title: "Housing near Georgetown University: 2026 student guide"
 description: "What Georgetown University Reviews Reveal  Georgetown University’s Google rating of 4.6 (from 1,362 reviews) reflects broad satisfaction, but the c"
 pubDatetime: 2026-07-07T00:15:48.000Z
 modDatetime: 2026-07-07T08:19:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2051.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2051.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Rent prices in DC for 2026: a one-bedroom apartment in Northwest DC typically ra
 
 ## Budget Bands for Off‑Campus Housing
 
-![Georgetown University](https://img.findstay.org/housing/p/amber-2051.jpg)
+![Georgetown University](https://img.unistay.cn/housing/p/amber-2051.jpg)
 
 Below are typical monthly rent ranges for different housing types near Georgetown University. All prices are indicative – confirm with the operator, as actual rates depend on lease terms, season, and unit condition.
 

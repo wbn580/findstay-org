@@ -3,8 +3,8 @@ title: "Housing near Indian Institute of Technology Guwahati (IITG): 2026 studen
 description: "Campus Reviews: What Students Say Before You Look for Housing  Indian Institute of Technology Guwahati (IITG) consistently earns high marks from vi"
 pubDatetime: 2026-06-30T19:57:14.000Z
 modDatetime: 2026-07-07T08:57:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1344703.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1344703.jpg"
 tags: ["university", "indian-institute-of-technology-guwahati"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Public transport options include city buses, auto-rickshaws, and app-based cabs.
 
 ## Budget Bands for Off-Campus Housing
 
-![Indian Institute of Technology Guwahati (IITG)](https://img.findstay.org/housing/p/amber-1344703.jpg)
+![Indian Institute of Technology Guwahati (IITG)](https://img.unistay.cn/housing/p/amber-1344703.jpg)
 
 Rental prices near IIT Guwahati vary by location, furnishing, and building quality. The following bands are indicative — confirm with the operator before making a decision.
 

@@ -3,8 +3,8 @@ title: "Housing near Universitat Politecnica de Valencia: 2026 student guide"
 description: "What Campus Reviews Reveal  The Universitat Politècnica de València (UPV) holds a Google rating of 4.5 from 1,680 reviews. Students consistently hi"
 pubDatetime: 2026-07-02T19:33:47.000Z
 modDatetime: 2026-07-07T08:30:47.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2412425.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2412425.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Valencia’s student population is diverse, and the city hosts numerous cultural
 
 ## Student Housing Budget Bands
 
-![Universitat Politecnica de Valencia](https://img.findstay.org/housing/p/amber-2412425.jpg)
+![Universitat Politecnica de Valencia](https://img.unistay.cn/housing/p/amber-2412425.jpg)
 
 Based on current listings for UPV, indicative weekly rents start from €256 (indicative — confirm with the operator). The available stock includes 38 residences or shared apartments near the university. Budget bands can be broadly divided:
 

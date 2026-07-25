@@ -1,0 +1,192 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FsBreadcrumb from "@/components/fs/FsBreadcrumb.astro";
+import FsPropCard from "@/components/fs/FsPropCard.astro";
+import FsFaq from "@/components/fs/FsFaq.astro";
+import FsCtaCard from "@/components/fs/FsCtaCard.astro";
+import {
+  countries,
+  cities,
+  propertiesIndex,
+  universities,
+  fmtInt,
+  fmtMoney,
+  durShort,
+  flagOf,
+  type FsCountry,
+} from "@/utils/fsData";
+
+export function getStaticPaths() {
+  return countries.map(c => ({ params: { country: c.slug }, props: { country: c } }));
+}
+
+const { country } = Astro.props as { country: FsCountry };
+
+const countryCities = cities
+  .filter(c => c.country === country.slug)
+  .sort((a, b) => b.property_count - a.property_count);
+
+const countryUnis = universities
+  .filter(u => u.country === country.slug)
+  .sort((a, b) => a.rank - b.rank)
+  .slice(0, 10);
+
+const countryProps = propertiesIndex.filter(p => p.country === country.slug);
+
+/* top residences: numeric rating, most reviewed first among top-rated */
+const topProps = countryProps
+  .filter(p => typeof p.rating === "number" && (p.g_reviews ?? 0) >= 10)
+  .sort((a, b) => (b.rating as number) - (a.rating as number) || (b.g_reviews ?? 0) - (a.g_reviews ?? 0))
+  .slice(0, 6);
+
+/* cheapest listed rate in the country (with its billing cadence) */
+const cheapest = countryProps
+  .filter(p => p.min_price != null)
+  .sort((a, b) => (a.min_price as number) - (b.min_price as number))[0];
+
+const topCityNames = countryCities.slice(0, 3);
+
+const faqs = [
+  {
+    q: `How much does student housing cost in ${country.name}?`,
+    a: cheapest
+      ? `Listed rates in our database start around ${fmtMoney(cheapest.currency, cheapest.min_price as number)}/${durShort(cheapest.price_duration) || "period"} (${cheapest.city}), and vary widely by city, room type and lease length. All figures are indicative — confirm the current rate with the operator before signing.`
+      : `Rates vary widely by city, room type and lease length. All figures on UniStay are indicative — confirm the current rate with the operator before signing.`,
+  },
+  {
+    q: `Which cities in ${country.name} have the most student housing?`,
+    a: `${topCityNames.map(c => `${c.name} (${c.property_count} residences)`).join(", ")} lead our listings. In total we track ${fmtInt(country.property_count)} residences across ${country.city_count} ${country.name} cities.`,
+  },
+  {
+    q: `How do I book a room in ${country.name}?`,
+    a: `Shortlist residences on UniStay, then enquire directly with the operator — they handle contracts, deposits and payments. If you’d like help comparing options first, ask Robin in the chat; an advisor follows up within one business day.`,
+  },
+];
+
+const title = `Student Housing in ${country.name} (2026) — ${fmtInt(country.property_count)} Residences in ${country.city_count} Cities | UniStay`;
+const desc = `Compare ${fmtInt(country.property_count)} student residences across ${country.city_count} cities in ${country.name}${cheapest ? `, from ${fmtMoney(cheapest.currency, cheapest.min_price as number)}/${durShort(cheapest.price_duration)}` : ""}. Resident reviews, room types and ${country.university_count} QS-ranked universities.`;
+---
+
+<Layout title={title} description={desc}>
+  <main id="main-content" class="fs-page">
+    <div class="page-hero">
+      <div class="wrap">
+        <FsBreadcrumb crumbs={[{ name: "Home", href: "/" }, { name: "Housing", href: "/housing/" }, { name: country.name }]} />
+        <h1>{flagOf(country.slug)} Student housing in {country.name} (2026)</h1>
+        <p class="intro">
+          We track <b>{fmtInt(country.property_count)} residences</b> across
+          <b>{country.city_count} cities</b> in {country.name}
+          {cheapest && (
+            <> — listed rates start around <b>{fmtMoney(cheapest.currency, cheapest.min_price as number)}/{durShort(cheapest.price_duration)}</b> (indicative)</>
+          )}.
+          {country.university_count > 0 && (
+            <> Housing is mapped against <b>{country.university_count} QS-ranked universities</b> so you can search by campus, not just by postcode.</>
+          )}
+        </p>
+        <div class="stat-row">
+          <div class="stat-pill"><b>{fmtInt(country.property_count)}</b>residences</div>
+          <div class="stat-pill"><b>{country.city_count}</b>cities</div>
+          {country.university_count > 0 && <div class="stat-pill"><b>{country.university_count}</b>QS universities</div>}
+          {cheapest && <div class="stat-pill"><b>{fmtMoney(cheapest.currency, cheapest.min_price as number)}</b>from, per {cheapest.price_duration === "weekly" ? "week" : "month"} (indicative)</div>}
+        </div>
+      </div>
+    </div>
+
+    <!-- cities -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">Cities</p>
+            <h2>Choose a city in {country.name}</h2>
+          </div>
+          <p class="sub">Sorted by number of listed residences. From-prices are the lowest indicative rate in each city.</p>
+        </div>
+        <div class="fs-grid g-3">
+          {countryCities.map(ci => (
+            <a href={`/housing/${country.slug}/${ci.slug}/`} class="fs-card city-card fs-reveal">
+              <div>
+                <h3>{ci.name}</h3>
+                <p class="c-meta">
+                  {ci.property_count} residence{ci.property_count === 1 ? "" : "s"}
+                  {ci.universities.length > 0 ? ` · ${ci.universities.map(u => u.name).slice(0, 2).join(", ")}${ci.universities.length > 2 ? ` +${ci.universities.length - 2}` : ""}` : ""}
+                </p>
+              </div>
+              {ci.min_price != null && (
+                <div class="from">
+                  <b>from {fmtMoney(ci.currency, ci.min_price)}</b>
+                  <span>indicative</span>
+                </div>
+              )}
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- top universities -->
+    {countryUnis.length > 0 && (
+      <section class="fs-sec">
+        <div class="wrap">
+          <div class="sec-head fs-reveal">
+            <div>
+              <p class="kicker">Universities</p>
+              <h2>Top QS-ranked universities in {country.name}</h2>
+            </div>
+            <a href="/universities/" class="more-link">All {fmtInt(universities.length)} universities →</a>
+          </div>
+          <div class="fs-reveal">
+            {countryUnis.map(u => (
+              <a href={`/university/${u.slug}/`} class="uni-row">
+                <span class="rank">QS #{u.rank}</span>
+                <span>
+                  <span class="u-name">{u.name}</span>
+                  {u.g_rating && <span class="u-meta">Google {u.g_rating.toFixed(1)}★ · {fmtInt(u.g_reviews ?? 0)} campus reviews</span>}
+                </span>
+                <span class="u-side">Housing nearby →</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- top residences -->
+    {topProps.length > 0 && (
+      <section class="fs-sec fs-sec--white">
+        <div class="wrap">
+          <div class="sec-head fs-reveal">
+            <div>
+              <p class="kicker">Resident-rated</p>
+              <h2>Highly rated residences in {country.name}</h2>
+            </div>
+            <p class="sub">Best Google ratings among residences with 10+ published reviews.</p>
+          </div>
+          <div class="fs-grid g-3">
+            {topProps.map(p => (
+              <div class="fs-reveal">
+                <FsPropCard p={p} locLabel={`${p.city}, ${country.name}`} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- FAQ + CTA -->
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="fs-reveal">
+          <FsFaq faqs={faqs} heading={`${country.name} housing FAQ`} />
+        </div>
+        <div style="margin-top:36px">
+          <FsCtaCard
+            title={`Not sure which ${country.name} city fits you?`}
+            text="Tell Robin your university offer, budget and lifestyle — get a city-by-city comparison and a shortlist, with advisor follow-up within one business day."
+            button="Ask Robin"
+          />
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>

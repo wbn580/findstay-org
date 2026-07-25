@@ -3,8 +3,8 @@ title: "Housing near Université Côte d’Azur: 2026 student guide"
 description: "Campus Reviews: What Students Say  Student feedback on Université Côte d’Azur reveals a sharp divide between academic quality and administrative ex"
 pubDatetime: 2026-07-02T19:16:19.000Z
 modDatetime: 2026-07-07T08:51:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01563586.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01563586.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Nice has a strong student population from both French and international backgrou
 
 ## Budget Bands for Student Housing
 
-![Université Côte d’Azur](https://img.findstay.org/housing/p/uh-s01563586.jpg)
+![Université Côte d’Azur](https://img.unistay.cn/housing/p/uh-s01563586.jpg)
 
 Rents in Nice vary by location, size, and building age. All figures below are **indicative — confirm with the operator** for 2026 or 2027 leases.
 

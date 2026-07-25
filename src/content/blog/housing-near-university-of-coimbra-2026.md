@@ -3,8 +3,8 @@ title: "Housing near University of Coimbra: 2026 student guide"
 description: "Housing Near University of Coimbra: What Campus Reviews Reveal   Data as of 2026   With a QS World University rank of 347 and a 4.6-star rating fro"
 pubDatetime: 2026-07-07T06:44:30.000Z
 modDatetime: 2026-07-07T09:08:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00226810.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00226810.jpg"
 tags: ["university", "university-of-coimbra"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Walking to the university from the lower town (Baixa) involves a steep uphill cl
 
 Public buses run frequently between Baixa and the university, with routes 1, 7, 18, and 24F serving stops like “Praça da República” and “Rua da Sofia.” A journey from Baixa to the university takes about 10 minutes, including waiting. The bus is a good option in rainy weather or for those with mobility concerns. Monthly passes are subsidised for students, costing around €30–€40 (indicative — confirm with the operator).
 
-![University of Coimbra](https://img.findstay.org/housing/p/uh-s00226810.jpg)
+![University of Coimbra](https://img.unistay.cn/housing/p/uh-s00226810.jpg)
 
 The walk vs. transit trade-off also depends on which campus you need to reach. Students attending Polo II (sciences and technology) in the southern suburbs will rely on bus line 4 or 15, which takes about 20 minutes from the city centre. Driving or cycling is possible but street parking is limited in the centre. Bicycle use is common on the flat riverbanks, but the hill to the university is a challenge.
 

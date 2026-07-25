@@ -3,8 +3,8 @@ title: "Housing near Iowa State University: 2026 student guide"
 description: "Housing Near Iowa State University: A 2026 Guide  Iowa State University is located in Ames, Iowa, a mid-size college town roughly 30 miles north of"
 pubDatetime: 2026-07-03T21:57:00.000Z
 modDatetime: 2026-07-07T08:52:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2315027.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2315027.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ For most students, a hybrid approach works best: live within a 1.5 km radius, wa
 
 The three residences identified — Copper Beech, The Grove at Ames, and The Point at Ames — are often cited in student housing discussions. While we do not have full details for every property, we can highlight what to consider when evaluating them.
 
-![Iowa State University](https://img.findstay.org/housing/p/amber-2315027.jpg)
+![Iowa State University](https://img.unistay.cn/housing/p/amber-2315027.jpg)
 
 **Copper Beech**  
 This complex is frequently mentioned in online housing lists. Its advertised starting rent of $549 per month (indicative — confirm with the operator) places it in the entry-level band. If you are budget-conscious and willing to share a unit, Copper Beech could be a strong candidate. Confirm its distance from campus (likely 2–3 km) and check if CyRide serves the complex directly. Also ask about deposit, utilities included, and lease flexibility.

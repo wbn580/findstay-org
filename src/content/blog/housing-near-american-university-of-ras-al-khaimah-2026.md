@@ -3,8 +3,8 @@ title: "Housing near American University of Ras Al Khaimah ( AURAK ): 2026 stude
 description: "Housing Near American University of Ras Al Khaimah (AURAK): A Practical Guide for Students  Finding the right place to live is a key part of any un"
 pubDatetime: 2026-07-02T14:31:35.000Z
 modDatetime: 2026-07-07T09:08:35.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1644998.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1644998.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -63,7 +63,7 @@ Because the university provides free bus service to Dubai, Sharjah, and Ajman, s
 
 ### Shortlist Logic: How to Choose Nearby Accommodation
 
-![American University of Ras Al Khaimah ( AURAK )](https://img.findstay.org/housing/p/amber-1644998.jpg)
+![American University of Ras Al Khaimah ( AURAK )](https://img.unistay.cn/housing/p/amber-1644998.jpg)
 
 Since no specific residential buildings are provided as “given nearby residences” for this guide, the logic below outlines how students should group and evaluate available options in the Ras Al Khaimah area. When browsing listings, use the following criteria:
 

@@ -3,8 +3,8 @@ title: "Housing near University of Bradford: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Bradford sits in a compact, modern campus on Richmond Road, close to the city centre. Student reviews"
 pubDatetime: 2026-07-01T19:42:43.000Z
 modDatetime: 2026-07-07T08:51:43.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1942363.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1942363.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The local rental market includes both private houses in shared occupancy (HMOs) 
 
 ## Budget Bands for Student Housing (2026–2027 Academic Year)
 
-![University of Bradford](https://img.findstay.org/housing/p/amber-1942363.jpg)
+![University of Bradford](https://img.unistay.cn/housing/p/amber-1942363.jpg)
 
 All prices below are indicative — confirm with the operator before signing any contract. Bands are based on typical listings in Bradford for the 2026–2027 academic year.
 

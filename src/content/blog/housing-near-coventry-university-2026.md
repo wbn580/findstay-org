@@ -3,8 +3,8 @@ title: "Housing near Coventry University: 2026 student guide"
 description: "Housing near Coventry University: what students say and where to look  Finding accommodation near Coventry University means balancing price, distan"
 pubDatetime: 2026-07-02T16:02:04.000Z
 modDatetime: 2026-07-07T08:43:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01569563.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01569563.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ Prices vary by contract length, room type, and included utilities (bills usually
 
 ### Walk vs transit: finding your balance
 
-![Coventry University](https://img.findstay.org/housing/p/uh-s01569563.jpg)
+![Coventry University](https://img.unistay.cn/housing/p/uh-s01569563.jpg)
 
 Most student residences listed on our platform are within walking distance of the university. The campus is central, so a 10–20 minute walk covers many options. For example, properties like Eden Square and Sky Blue Point are typically within 15 minutes on foot, while Mercia Lodge – Coventry may be slightly further.
 

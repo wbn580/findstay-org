@@ -3,8 +3,8 @@ title: "Housing near Griffith University: 2026 student guide"
 description: "Griffith University Student Housing Guide: What to Know Before You Lease  Griffith University’s Nathan campus sits on the edge of Toohey Forest in"
 pubDatetime: 2026-07-07T08:07:05.000Z
 modDatetime: 2026-07-07T08:09:05.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3259873.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3259873.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ For cyclists, dedicated bike paths are limited but present on parts of the campu
 
 ### Shortlist Logic Using Nearby Residences
 
-![Griffith University](https://img.findstay.org/housing/p/amber-3259873.jpg)
+![Griffith University](https://img.unistay.cn/housing/p/amber-3259873.jpg)
 
 When you search for housing near Griffith Nathan, apply a systematic shortlist logic rather than randomly browsing. Use the following criteria with your budget band in mind:
 

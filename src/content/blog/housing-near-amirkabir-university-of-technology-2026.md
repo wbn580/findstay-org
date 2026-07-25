@@ -3,8 +3,8 @@ title: "Housing near Amirkabir University of Technology: 2026 student guide"
 description: "Campus Reviews: What Students Say About Amirkabir University of Technology  Amirkabir University of Technology (AUT), also known as Tehran Polytech"
 pubDatetime: 2026-07-01T22:49:17.000Z
 modDatetime: 2026-07-07T08:58:17.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1567385.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1567385.jpg"
 tags: ["university", "amirkabir-university-of-technology"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Because AUT accepts only top-scoring students through Iran’s national entrance
 
 ## Budget Bands: Indicative Ranges (2026–2027)
 
-![Amirkabir University of Technology](https://img.findstay.org/housing/p/amber-1567385.jpg)
+![Amirkabir University of Technology](https://img.unistay.cn/housing/p/amber-1567385.jpg)
 
 All prices below are **indicative – confirm with the operator**. Rental prices in Tehran have been rising due to inflation and currency fluctuations. For the academic year starting in September 2026, you can expect approximate monthly rents for a single room or small studio near AUT:
 

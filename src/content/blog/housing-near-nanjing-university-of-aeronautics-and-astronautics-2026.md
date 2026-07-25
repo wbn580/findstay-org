@@ -3,8 +3,8 @@ title: "Housing near Nanjing University of Aeronautics and Astronautics: 2026 st
 description: "Campus Reviews: What Students Say  Nanjing University of Aeronautics and Astronautics (NUAA) holds a QS World University Ranking of 680 (2025) and"
 pubDatetime: 2026-07-03T06:26:14.000Z
 modDatetime: 2026-07-07T08:44:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00683739.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00683739.jpg"
 tags: ["university", "nanjing-university-of-aeronautics-and-astronautics"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Nanjing is a major educational hub with dozens of universities, meaning the rent
 
 ## Budget Bands
 
-![Nanjing University of Aeronautics and Astronautics](https://img.findstay.org/housing/p/uh-s00683739.jpg)
+![Nanjing University of Aeronautics and Astronautics](https://img.unistay.cn/housing/p/uh-s00683739.jpg)
 
 Rental costs in the area vary significantly based on distance, building age, and room type. Below is a general guide (all prices are indicative — confirm with the operator):
 

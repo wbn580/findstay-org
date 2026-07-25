@@ -3,8 +3,8 @@ title: "Housing near Lehigh University: 2026 student guide"
 description: "What Campus Reviews Reveal About Living Near Lehigh University  Lehigh University sits on a 2,350‑acre campus in Bethlehem, Pennsylvania, with a Go"
 pubDatetime: 2026-07-02T04:24:19.000Z
 modDatetime: 2026-07-07T08:36:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3383233.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3383233.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Because the university is a major employer and the city’s largest institution,
 
 ## Housing Budget Bands: What to Expect
 
-![Lehigh University](https://img.findstay.org/housing/p/amber-3383233.jpg)
+![Lehigh University](https://img.unistay.cn/housing/p/amber-3383233.jpg)
 
 Rental prices in Bethlehem vary by distance from campus, unit type, and amenities. For the 2026‑2027 academic year, one notable nearby residence is **The Marshall Valley**, with published pricing starting at **USD 2,580** for a given unit type. This price is **indicative – confirm with the operator** for exact terms, as leases can be per semester or per year, and utilities may be included or separate.
 

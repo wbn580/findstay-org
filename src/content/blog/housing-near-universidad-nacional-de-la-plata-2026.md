@@ -3,8 +3,8 @@ title: "Housing near Universidad Nacional de La Plata: 2026 student guide"
 description: "Housing Near Universidad Nacional de La Plata – 2027 Guide  Universidad Nacional de La Plata (UNLP) is one of Argentina’s leading public universiti"
 pubDatetime: 2026-07-02T19:03:33.000Z
 modDatetime: 2026-07-07T09:00:33.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1129538.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1129538.jpg"
 tags: ["university", "universidad-nacional-de-la-plata"]
 category: "university"
 draft: false
@@ -72,7 +72,7 @@ Living close to campus reduces commute time but comes with trade‑offs.
 - Advantages: more affordable housing options; neighbourhoods like *San Benito* or *Los Hornos* (on the edge of the city) offer larger rooms, gardens, lower density.
 - Disadvantages: you may need to budget 45–60 minutes total daily walking time; street lighting might be less reliable in peripheral areas.
 
-![Universidad Nacional de La Plata](https://img.findstay.org/housing/p/amber-1129538.jpg)
+![Universidad Nacional de La Plata](https://img.unistay.cn/housing/p/amber-1129538.jpg)
 
 **Transit (bus or bike, 10–25 minutes)**  
 A network of bus lines (e.g., Oeste, Norte) connects suburbs to the city centre. Monthly bus pass costs around USD 15–25 (indicative). Cycling is cheap and healthy, but La Plata has bike theft – lock your bike securely. Transit allows you to live in quieter, more spacious neighbourhoods (e.g., *City Bell*, *Villa Elisa*) where rents are lower, but you lose the flexibility of a short walk. Keep in mind that buses may be crowded during peak hours.

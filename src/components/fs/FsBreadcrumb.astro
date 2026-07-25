@@ -1,0 +1,40 @@
+---
+/**
+ * UniStay breadcrumb — visual trail + BreadcrumbList JSON-LD.
+ * Last crumb (no href) is the current page.
+ */
+export interface Crumb {
+  name: string;
+  href?: string;
+}
+
+const { crumbs } = Astro.props as { crumbs: Crumb[] };
+const site = "https://unistay.net";
+
+const ld = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: crumbs.map((c, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: c.name,
+    ...(c.href ? { item: new URL(c.href, site).toString() } : {}),
+  })),
+};
+---
+
+<nav class="crumbs" aria-label="Breadcrumb">
+  {
+    crumbs.map((c, i) => (
+      <>
+        {i > 0 && <span class="sep" aria-hidden="true">/</span>}
+        {c.href ? (
+          <a href={c.href}>{c.name}</a>
+        ) : (
+          <span aria-current="page">{c.name}</span>
+        )}
+      </>
+    ))
+  }
+</nav>
+<script type="application/ld+json" is:inline set:html={JSON.stringify(ld)} />

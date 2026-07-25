@@ -3,8 +3,8 @@ title: "Housing near National Tsing Hua University: 2026 student guide"
 description: "Campus Reviews: What Students Say About National Tsing Hua University  National Tsing Hua University (NTHU) sits on a 260-acre campus in Hsinchu’s"
 pubDatetime: 2026-07-05T15:10:46.000Z
 modDatetime: 2026-07-07T08:28:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3221596.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3221596.jpg"
 tags: ["university", "national-tsing-hua-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Climate-wise, Hsinchu has a subtropical monsoon climate. Summers (May–October)
 
 ## Budget Bands for Off-Campus Housing (2026–2027 Indicative)
 
-![National Tsing Hua University](https://img.findstay.org/housing/p/amber-3221596.jpg)
+![National Tsing Hua University](https://img.unistay.cn/housing/p/amber-3221596.jpg)
 
 Rent prices in Hsinchu’s East District vary depending on distance to campus, room type, and building age. The figures below are **indicative — confirm with the operator** before signing any lease. Prices are quoted in New Taiwan Dollars (NTD) per month.
 

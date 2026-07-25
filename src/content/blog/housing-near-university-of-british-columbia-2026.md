@@ -3,8 +3,8 @@ title: "Housing near University of British Columbia: 2026 student guide"
 description: "Housing near the University of British Columbia: A Practical Guide for 2027  The University of British Columbia (UBC) sits on the western tip of Va"
 pubDatetime: 2026-07-03T13:59:24.000Z
 modDatetime: 2026-07-07T08:51:24.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-208994.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-208994.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ UBC’s location at the western end of the peninsula means that commuting option
 
 **When cycling is your preference** – Dunbar and Kitsilano are both bike‑friendly. A 20‑minute bike ride is comparable to a 30‑minute bus ride.
 
-![University of British Columbia](https://img.findstay.org/housing/p/amber-208994.jpg)
+![University of British Columbia](https://img.unistay.cn/housing/p/amber-208994.jpg)
 
 ### Shortlist Logic: How to Evaluate Options
 

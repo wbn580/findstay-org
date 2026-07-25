@@ -3,8 +3,8 @@ title: "Housing near Universidad del Pais Vasco: 2026 student guide"
 description: "Campus Setting and What Student Reviews Reveal  Universidad del Pais Vasco (UPV/EHU) ranks 624 globally according to QS, and its main campus (Leioa"
 pubDatetime: 2026-07-04T06:00:49.000Z
 modDatetime: 2026-07-07T08:48:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-218177.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-218177.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The Basque Country has a relatively high cost of living compared to southern Spa
 
 ## Budget Bands for Student Housing
 
-![Universidad del Pais Vasco](https://img.findstay.org/housing/p/amber-218177.jpg)
+![Universidad del Pais Vasco](https://img.unistay.cn/housing/p/amber-218177.jpg)
 
 Housing options near UPV/EHU fall into three broad budget categories. All price ranges below are indicative — confirm with the operator, as rates change depending on season, contract length, and included utilities.
 

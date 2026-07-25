@@ -3,8 +3,8 @@ title: "Housing near City University of New York: 2026 student guide"
 description: "Housing Near City University of New York: What Students Need to Know for 2026  The City University of New York (CUNY) system is one of the largest"
 pubDatetime: 2026-07-06T23:44:20.000Z
 modDatetime: 2026-07-07T07:59:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-290478.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-290478.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ For students at Staten Island’s CSI (College of Staten Island), as mentioned i
 
 ### Shortlist Logic: Using Given Nearby Residences
 
-![City University of New York](https://img.findstay.org/housing/p/amber-290478.jpg)
+![City University of New York](https://img.unistay.cn/housing/p/amber-290478.jpg)
 
 Although a specific list of residential buildings near 205 E 42nd St is not provided in your data, you can apply a logical shortlisting method using general neighbourhood criteria. Because the central address sits in the Turtle Bay / East Midtown area, the immediate vicinity contains mostly high-end rental towers, serviced apartments, and co-op buildings that rarely rent to individuals without strong credit and income. As a student, you would typically look for:
 

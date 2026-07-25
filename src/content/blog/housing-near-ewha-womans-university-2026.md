@@ -3,8 +3,8 @@ title: "Housing near Ewha Womans University: 2026 student guide"
 description: "What Campus Reviews Reveal About Life Near Ewha Womans University  Ewha Womans University, ranked 504 in the QS World University Rankings 2026 (Rep"
 pubDatetime: 2026-07-04T07:24:45.000Z
 modDatetime: 2026-07-07T08:06:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2561500.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2561500.jpg"
 tags: ["university", "ewha-womans-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Seoul’s rental market is segmented. Most international students rent one-room 
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Ewha Womans University](https://img.findstay.org/housing/p/amber-2561500.jpg)
+![Ewha Womans University](https://img.unistay.cn/housing/p/amber-2561500.jpg)
 
 Because rental data changes rapidly and depends on contract terms (deposit size, utilities included, furnishings), all figures below are **indicative** and should be verified with the individual accommodation provider before any commitment.
 

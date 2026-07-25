@@ -2,7 +2,7 @@
 title: "Toronto Student Accommodation 2026: Best Areas Near U of T, TMU & York University"
 description: "Student housing in Toronto — compare rent near University of Toronto, Toronto Metropolitan University, and York. Updated 2026 prices and neighborhood guides."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?w=1600"
 ogImage: "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?w=1200"
 tags: ["canada", "toronto", "student-accommodation"]

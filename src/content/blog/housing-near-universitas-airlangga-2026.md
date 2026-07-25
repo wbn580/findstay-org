@@ -3,8 +3,8 @@ title: "Housing near Universitas Airlangga: 2026 student guide"
 description: "Understanding the Campus Through Reviews  Universitas Airlangga (UNAIR) holds an impressive QS rank of 287 and a Google rating of 4.5 based on 458"
 pubDatetime: 2026-06-30T18:23:54.000Z
 modDatetime: 2026-07-07T08:21:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-257629.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-257629.jpg"
 tags: ["university", "universitas-airlangga"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Key factors for housing:
 
 ## Budget Bands for Student Housing
 
-![Universitas Airlangga](https://img.findstay.org/housing/p/amber-257629.jpg)
+![Universitas Airlangga](https://img.unistay.cn/housing/p/amber-257629.jpg)
 
 Housing options near UNAIR fall into three typical bands. All prices are indicative — confirm with the operator.
 

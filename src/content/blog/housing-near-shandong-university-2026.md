@@ -3,8 +3,8 @@ title: "Housing near Shandong University: 2026 student guide"
 description: "Shandong University: What Student Reviews Reveal  Shandong University consistently receives strong ratings on Google — a 4.2 out of 5 from 76 revie"
 pubDatetime: 2026-06-30T11:00:43.000Z
 modDatetime: 2026-07-07T09:01:43.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-620355.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-620355.jpg"
 tags: ["university", "shandong-university"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ When looking for housing, consider whether you prefer a lively commercial street
 
 ## Budget Bands for Accommodation Near Shandong University
 
-![Shandong University](https://img.findstay.org/housing/p/amber-620355.jpg)
+![Shandong University](https://img.unistay.cn/housing/p/amber-620355.jpg)
 
 Rental prices in Jinan are lower than in first-tier Chinese cities. The following are indicative ranges for 2026 – confirm with the operator before signing any lease.
 

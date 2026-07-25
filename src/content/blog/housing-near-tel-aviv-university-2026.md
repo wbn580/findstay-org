@@ -3,8 +3,8 @@ title: "Housing near Tel Aviv University: 2026 student guide"
 description: "What Campus Reviews Reveal  Tel Aviv University’s campus receives consistently positive feedback from students and visitors, but the reviews also h"
 pubDatetime: 2026-07-01T05:47:28.000Z
 modDatetime: 2026-07-07T09:05:28.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01550019.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01550019.jpg"
 tags: ["university", "tel-aviv-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Rents in Tel Aviv are among the highest in the country. For a student, the typic
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Tel Aviv University](https://img.findstay.org/housing/p/uh-s01550019.jpg)
+![Tel Aviv University](https://img.unistay.cn/housing/p/uh-s01550019.jpg)
 
 When planning housing for the 2026–2027 academic year, it helps to think in three broad bands:
 

@@ -3,8 +3,8 @@ title: "Housing near The University of Amsterdam: 2026 student guide"
 description: "Campus Reviews: What Students Notice  Student reviews of the University of Amsterdam (UvA) highlight two recurring themes: the visual beauty of the"
 pubDatetime: 2026-07-03T14:28:40.000Z
 modDatetime: 2026-07-07T08:53:40.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1276197.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1276197.jpg"
 tags: ["university", "the-university-of-amsterdam"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ International students should be aware that the Netherlands has a tight housing 
 
 ## Budget Bands for Student Housing
 
-![The University of Amsterdam](https://img.findstay.org/housing/p/amber-1276197.jpg)
+![The University of Amsterdam](https://img.unistay.cn/housing/p/amber-1276197.jpg)
 
 Housing costs vary widely depending on location, room type, and contract terms. The following bands are indicative — confirm with the operator before committing:
 

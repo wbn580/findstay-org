@@ -3,8 +3,8 @@ title: "Housing near Massachusetts Institute of Technology (MIT): 2026 student g
 description: "Campus Reviews: What Students and Visitors Say About MIT  MIT holds a Google rating of 4.7 from 4,465 reviews, and the feedback consistently highli"
 pubDatetime: 2026-07-02T17:44:48.000Z
 modDatetime: 2026-07-07T07:48:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00179605.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00179605.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ Housing in Cambridge tends to be expensive, with rents comparable to other major
 
 ## Budget Bands for Student Housing Near MIT (2026–2027)
 
-![Massachusetts Institute of Technology (MIT)](https://img.findstay.org/housing/p/uh-s00179605.jpg)
+![Massachusetts Institute of Technology (MIT)](https://img.unistay.cn/housing/p/uh-s00179605.jpg)
 
 Rental prices in Cambridge and Boston vary widely depending on location, unit size, and amenities. Below are indicative bands — confirm with the operator before committing to any property. All figures are in US dollars and reflect typical monthly rent for the 2026–2027 academic year. Prices change frequently, so always verify.
 

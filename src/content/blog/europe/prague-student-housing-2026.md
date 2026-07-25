@@ -2,7 +2,7 @@
 title: "Prague Student Housing 2026: Areas Near Charles University & ČVUT"
 description: "Student accommodation in Prague — the Czech Republic's beautiful and shockingly affordable student capital. Rent prices near Charles University and ČVUT for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=1600"
 ogImage: "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=1200"
 tags: ["europe", "prague", "student-accommodation"]

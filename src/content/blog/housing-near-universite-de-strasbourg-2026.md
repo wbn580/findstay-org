@@ -3,8 +3,8 @@ title: "Housing near Université de Strasbourg: 2026 student guide"
 description: "A Guide to Student Housing Near the University of Strasbourg Université de Strasbourg is located in Strasbourg, the capital of the Alsace region in."
 pubDatetime: 2026-06-30T17:25:04.000Z
 modDatetime: 2026-07-07T08:30:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1234492.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1234492.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -64,7 +64,7 @@ Overall, students can set a monthly housing budget (including utilities) between
 
 The main campus of the University of Strasbourg (Campus Central) is located on the banks of the Ill River, with a wealth of cafés, restaurants, and shops within walking distance. Many students choose to live in the following areas:
 
-![Université de Strasbourg](https://img.findstay.org/housing/p/amber-1234492.jpg)
+![Université de Strasbourg](https://img.unistay.cn/housing/p/amber-1234492.jpg)
 
 - **Esplanade / Orangerie**: Right next to campus, a 5-10 minute walk. Rent slightly higher (studio 500-700 euros), but saves time and transport costs. Orangerie has a large park, suitable for jogging and leisure.
 - **Krutenau**: South of the historic center, a 10-15 minute walk or 5 minute bike ride. A lively neighborhood with dense bars and grocery stores. Rent around 450-650 euros.

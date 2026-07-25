@@ -3,8 +3,8 @@ title: "Housing near American University of the Middle East: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Life  The American University of the Middle East (AUM) holds a QS ranking of 563 and a Google rating of 4."
 pubDatetime: 2026-07-02T10:09:22.000Z
 modDatetime: 2026-07-07T08:47:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01525117.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01525117.jpg"
 tags: ["university", "american-university-of-the-middle-east"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ For students, this means that housing within a short walking distance (10–15 m
 
 ## Budget Bands for Nearby Housing (2026–2027)
 
-![American University of the Middle East](https://img.findstay.org/housing/p/uh-s01525117.jpg)
+![American University of the Middle East](https://img.unistay.cn/housing/p/uh-s01525117.jpg)
 
 No specific rent figures for residences near AUM are included in this dataset. However, based on general market conditions in Kuwait (not sourced from any operator), student accommodation costs vary significantly by type and location. As a rule, any price mentioned in this guide is indicative — confirm with the operator before committing.
 

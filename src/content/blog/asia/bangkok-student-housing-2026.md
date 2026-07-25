@@ -2,7 +2,7 @@
 title: "Bangkok Student Housing 2026: Affordable Condos & Dorms Near Chula, Thammasat & Mahidol"
 description: "Student accommodation in Bangkok — some of Asia's cheapest student housing. Condos, dorms, and apartments near Chulalongkorn, Thammasat, and Mahidol universities."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1600"
 ogImage: "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=1200"
 tags: ["asia", "bangkok", "student-accommodation"]

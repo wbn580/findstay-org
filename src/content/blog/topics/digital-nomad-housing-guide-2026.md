@@ -2,7 +2,7 @@
 title: "Digital Nomad Housing Guide 2026: Best Cities & Accommodation Strategies for Remote Workers"
 description: "Complete guide to digital nomad housing worldwide — best cities for value, visa rules, coliving options, short-term rental strategies for remote workers in 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1600"
 ogImage: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200"
 tags: ["digital-nomad", "co-living", "short-term-rental"]

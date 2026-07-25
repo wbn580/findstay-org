@@ -3,8 +3,8 @@ title: "Housing near Ruprecht-Karls-Universität Heidelberg: 2026 student guide"
 description: "Housing Near Ruprecht-Karls-Universität Heidelberg: What Campus Reviews Reveal and How to Find a Room      Campus Reviews: What Visitors and Studen"
 pubDatetime: 2026-06-30T19:27:21.000Z
 modDatetime: 2026-07-07T08:43:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01524364.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01524364.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ If you live in Rohrbach (south of the centre) or in Kirchheim, commuting to the 
 
 Cycling is popular in Heidelberg, but the hills and some cobbled streets can be challenging. E-bikes are common, and bike parking is available at all major campus buildings.
 
-![Ruprecht-Karls-Universität Heidelberg](https://img.findstay.org/housing/p/uh-s01524364.jpg)
+![Ruprecht-Karls-Universität Heidelberg](https://img.unistay.cn/housing/p/uh-s01524364.jpg)
 
 ### Shortlist Logic: How to Choose a Neighbourhood
 

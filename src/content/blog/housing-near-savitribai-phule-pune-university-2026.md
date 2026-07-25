@@ -3,8 +3,8 @@ title: "Housing near Savitribai Phule Pune University: 2026 student guide"
 description: "Housing near Savitribai Phule Pune University: A Practical Guide  Savitribai Phule Pune University (SPPU) sits on a large, green campus in the Gane"
 pubDatetime: 2026-07-04T05:05:20.000Z
 modDatetime: 2026-07-07T08:59:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1297181.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1297181.jpg"
 tags: ["university", "savitribai-phule-pune-university"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ The university campus itself is large, and some academic buildings, libraries, a
 - **Walking distance (within 1–2 km)**  
   Properties in Ganeshkhind itself or the immediate Aundh area (near the main gate) allow you to walk to the university. This saves commute time and money. Rentals in this zone are in higher demand and may be pricier. The benefit: you can attend early classes easily, use campus facilities in the evening, and avoid traffic.
 
-![Savitribai Phule Pune University](https://img.findstay.org/housing/p/amber-1297181.jpg)
+![Savitribai Phule Pune University](https://img.unistay.cn/housing/p/amber-1297181.jpg)
 
 - **Short transit (3–6 km, 10–20 minutes by auto/bus)**  
   Areas like Baner, Pashan, and parts of Hinjawadi are within a quick auto-rickshaw or bus ride. Rent here may be slightly lower, but you spend time and money on commuting. Buses are affordable (INR 10–25 per trip), while auto-rickshaws may cost INR 50–150 depending on distance.

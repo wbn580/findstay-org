@@ -3,8 +3,8 @@ title: "Housing near Universidad Autónoma de Madrid: 2026 student guide"
 description: "Campus Reviews: What Students Say  Located in the northern outskirts of Madrid, the Universidad Autónoma de Madrid (UAM) consistently ranks among S"
 pubDatetime: 2026-07-01T04:00:30.000Z
 modDatetime: 2026-07-07T08:51:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-225830.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-225830.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The cost of living in Madrid varies. For housing, typical monthly rents for a si
 
 ## Budget Bands for Student Housing (2026–2027 Indicative Prices)
 
-![Universidad Autónoma de Madrid](https://img.findstay.org/housing/p/amber-225830.jpg)
+![Universidad Autónoma de Madrid](https://img.unistay.cn/housing/p/amber-225830.jpg)
 
 When planning your budget, consider three broad price bands. Note that all prices are indicative — you must confirm exact figures with the accommodation provider.
 

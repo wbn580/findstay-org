@@ -3,8 +3,8 @@ title: "Housing near Macau University of Science and Technology: 2026 student gu
 description: "Where to Live Near Macau University of Science and Technology: A Practical Guide  Macau University of Science and Technology (MUST) sits at No. 440"
 pubDatetime: 2026-07-01T12:45:22.000Z
 modDatetime: 2026-07-07T08:46:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-960709.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-960709.jpg"
 tags: ["university", "macau-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ The MUST campus is not embedded in a dense residential neighbourhood. Walking to
 
 Some students also live in Coloane Village, which is further south but still within 30 minutes by bus from MUST. Rent there is similar to Taipa, but options are fewer.
 
-![Macau University of Science and Technology](https://img.findstay.org/housing/p/amber-960709.jpg)
+![Macau University of Science and Technology](https://img.unistay.cn/housing/p/amber-960709.jpg)
 
 A practical tip: test the commute during a weekday morning before signing a lease. Check whether the bus stop near your intended apartment has a direct line to the “M.U.S.T. Temporary Bus Terminus” (stop name). Some buses have limited frequency in the evening.
 

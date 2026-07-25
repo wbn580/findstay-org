@@ -3,8 +3,8 @@ title: "Housing near Harbin Institute of Technology: 2026 student guide"
 description: "What Campus Reviews Reveal  The Harbin Institute of Technology (HIT) holds a global QS rank of 256 and carries a Google rating of 4.6 from 146 revi"
 pubDatetime: 2026-07-06T23:19:16.000Z
 modDatetime: 2026-07-07T08:01:16.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1244404.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1244404.jpg"
 tags: ["university", "harbin-institute-of-technology"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ HIT’s main campus sits at 92 Xi Da Zhi Jie in Nangang District, the historic a
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Harbin Institute of Technology](https://img.findstay.org/housing/p/amber-1244404.jpg)
+![Harbin Institute of Technology](https://img.unistay.cn/housing/p/amber-1244404.jpg)
 
 When planning your housing budget for the 2026–2027 academic year, keep in mind that all figures are indicative — confirm with the operator. The three main bands are:
 

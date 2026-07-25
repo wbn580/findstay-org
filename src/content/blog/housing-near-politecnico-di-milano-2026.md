@@ -3,8 +3,8 @@ title: "Housing near Politecnico di Milano: 2026 student guide"
 description: "What Campus Reviews Reveal Politecnico di Milano's Google rating (4.4, 1795 reviews) looks good on the surface, but some recent reviews reveal students'."
 pubDatetime: 2026-07-04T06:21:21.000Z
 modDatetime: 2026-07-07T08:58:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1891897.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1891897.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -30,7 +30,7 @@ Since Polimi's courses may be distributed across the Leonardo and Bovisa campuse
 
 ## Budget Range
 
-![Politecnico di Milano](https://img.findstay.org/housing/p/amber-1891897.jpg)
+![Politecnico di Milano](https://img.unistay.cn/housing/p/amber-1891897.jpg)
 
 Below are typical budget ranges for student accommodation in Milan for the 2026–2027 academic year, prices are *indicative — confirm with the operator*:
 

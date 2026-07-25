@@ -3,8 +3,8 @@ title: "Housing near Curtin University: 2026 student guide"
 description: "Living Near Curtin University: Campus Reviews, City Context, and Housing Tips      What Campus Reviews Reveal  Online reviews of Curtin University"
 pubDatetime: 2026-06-30T14:45:21.000Z
 modDatetime: 2026-07-07T08:33:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1407055.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1407055.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ All prices below are **indicative — confirm with the operator** for 2026 or 20
 **Walking distance (≤15 minutes to campus)**  
 Living within a 1‑km radius of Curtin’s main entrance gives you the convenience of not relying on public transport or parking. You can attend evening study sessions, use the library late, and avoid the parking chaos mentioned in reviews. However, rents in Bentley (immediately surrounding the university) are in the mid‑to‑upper range due to demand. Noise from student parties can also be an issue.
 
-![Curtin University](https://img.findstay.org/housing/p/amber-1407055.jpg)
+![Curtin University](https://img.unistay.cn/housing/p/amber-1407055.jpg)
 
 **Transit commute (15–40 minutes)**  
 Suburbs like Victoria Park, Como, and East Victoria Park are well‑served by buses to Curtin. Buses run frequently during semester, and a weekly Transperth SmartRider card costs around $30‑$40 (2026 indicative). The trade‑off is time and schedule dependence — if you miss a bus, the next may be 15–20 minutes away. Rent may be lower than on‑campus options, especially if you share a house. For example, a room in a shared house in Como could cost $180–$240 per week, compared to $250–$300 in Bentley.

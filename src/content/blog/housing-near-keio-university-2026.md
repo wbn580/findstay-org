@@ -3,8 +3,8 @@ title: "Housing near Keio University: 2026 student guide"
 description: "What Campus Reviews Reveal  Keio University’s Mita Campus in central Tokyo receives a Google rating of 4.2 from 889 reviews, with many students and"
 pubDatetime: 2026-07-06T22:14:20.000Z
 modDatetime: 2026-07-07T09:01:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2359783.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2359783.jpg"
 tags: ["university", "keio-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ The university is served by several train lines: Toei Mita Line (Mita Station), 
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Keio University](https://img.findstay.org/housing/p/amber-2359783.jpg)
+![Keio University](https://img.unistay.cn/housing/p/amber-2359783.jpg)
 
 Monthly rent for a private studio near Mita Campus typically ranges from ¥80,000 to ¥130,000 for a 20–30 m² unit in a newer building. Older apartments (often in 30-year-old buildings) can start at ¥65,000. Shared apartments or guest houses may cost ¥50,000–¥80,000 per person, including utilities. Dormitory-style rooms, if available through the university or private dorm operators, can be between ¥60,000 and ¥90,000.
 

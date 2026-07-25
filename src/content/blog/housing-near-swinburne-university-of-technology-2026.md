@@ -3,8 +3,8 @@ title: "Housing near Swinburne University of Technology: 2026 student guide"
 description: "Campus reviews: what the Swinburne community says  Student reviews of Swinburne University of Technology paint a mixed picture — the campus itself"
 pubDatetime: 2026-07-01T00:34:10.000Z
 modDatetime: 2026-07-07T08:26:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2253840.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2253840.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Melbourne’s rental market is generally competitive, especially for properties 
 
 ## Budget bands for student housing near Swinburne
 
-![Swinburne University of Technology](https://img.findstay.org/housing/p/amber-2253840.jpg)
+![Swinburne University of Technology](https://img.unistay.cn/housing/p/amber-2253840.jpg)
 
 When planning accommodation, it helps to think in three broad budget bands. All prices below are indicative — confirm with the operator.
 

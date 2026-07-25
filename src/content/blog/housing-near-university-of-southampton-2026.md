@@ -3,8 +3,8 @@ title: "Housing near University of Southampton: 2026 student guide"
 description: "Campus Accommodation Guide: University of Southampton University of Southampton ranks 87th in the global QS rankings, and its main campus, Highfield, is."
 pubDatetime: 2026-07-05T04:11:33.000Z
 modDatetime: 2026-07-07T08:48:33.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01712070.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01712070.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -42,7 +42,7 @@ When choosing where to stay, the core trade-off is between saving walking time a
 
 **Walk-friendly accommodation**: The target area is within walking distance of the Highfield campus (approx. 15–20 minutes). Orion Point is a typical example, located in the Portswood community, about 12 minutes' walk from the campus, with supermarkets, cafes, and restaurants nearby. The advantage of this type of accommodation is that you can return to the dormitory at any time, suitable for students who need to frequently go to the library, laboratory, or participate in club activities. The disadvantage is that student apartments in this area are highly competitive, mid-range and high-end housing prices are relatively high, and there are fewer budget options.
 
-![University of Southampton](https://img.findstay.org/housing/p/uh-s01712070.jpg)
+![University of Southampton](https://img.unistay.cn/housing/p/uh-s01712070.jpg)
 
 **Accommodation Relying on Public Transport**: Apartments in the city center or near train stations (such as Park House, Austen House, Vita Student Richmond House) generally have slightly lower rents and a livelier lifestyle. Buses from the city center to the Highfield campus (UniLink or BL line) run frequently, with a one-way trip of about 10–15 minutes, and a student monthly bus pass costs about 30–40 pounds. The advantage of choosing city center accommodation is more entertainment options on weekends and evenings, and the transport hubs to other major cities (such as London, Bristol) are nearby. The disadvantage is increased commute time, buses may be crowded on rainy days or during peak hours, and you need to bear the cost of a monthly pass.
 

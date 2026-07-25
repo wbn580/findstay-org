@@ -2,7 +2,7 @@
 title: "Manila Student Housing 2026: Areas Near UP Diliman, Ateneo & DLSU"
 description: "Student accommodation in Manila and Metro Manila — affordable condos and dorms near University of the Philippines, Ateneo, and DLSU for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1600"
 ogImage: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1200"
 tags: ["asia", "manila", "student-accommodation"]

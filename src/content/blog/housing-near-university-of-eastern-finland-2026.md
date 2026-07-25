@@ -3,8 +3,8 @@ title: "Housing near University of Eastern Finland: 2026 student guide"
 description: "Housing Near University of Eastern Finland: A Student Guide  Finding suitable accommodation is one of the first practical steps when starting studi"
 pubDatetime: 2026-07-06T12:58:18.000Z
 modDatetime: 2026-07-07T07:53:18.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2005688.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2005688.jpg"
 tags: ["university", "university-of-eastern-finland"]
 category: "university"
 draft: false
@@ -65,7 +65,7 @@ The campus is located in a zone where most essential services are within walking
 
 Since the university does not operate its own housing, the main providers are KOAS and private landlords. Here is a logical way to shortlist options based on your priorities.
 
-![University of Eastern Finland](https://img.findstay.org/housing/p/amber-2005688.jpg)
+![University of Eastern Finland](https://img.unistay.cn/housing/p/amber-2005688.jpg)
 
 **Priority 1: Budget under €450/month**  
 Look at KOAS shared flats in *Neulamäki* or *Kortepohja*. These are typically blocks built in the 1970s–1990s, adequately maintained, with shared kitchen and bathroom. Apply early (application windows open in April for August start). KOAS gives priority to new international students, but spaces fill quickly.

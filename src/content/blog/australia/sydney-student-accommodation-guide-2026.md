@@ -2,7 +2,7 @@
 title: "Sydney Student Accommodation Guide 2026: 12 Areas Compared"
 description: "Complete guide to student housing in Sydney — compare rent prices, suburbs, and accommodation types across 12 areas near USYD, UNSW, UTS and Macquarie University."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1600"
 ogImage: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1200"
 tags: ["australia", "sydney", "student-accommodation", "rental-tips"]

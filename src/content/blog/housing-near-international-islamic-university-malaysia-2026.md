@@ -3,8 +3,8 @@ title: "Housing near International Islamic University Malaysia (IIUM): 2026 stud
 description: "What Campus Reviews Reveal About Life at IIUM  International Islamic University Malaysia (IIUM) sits on Jalan Gombak, about 15 kilometres northeast"
 pubDatetime: 2026-07-06T13:14:54.000Z
 modDatetime: 2026-07-07T07:59:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-952801.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-952801.jpg"
 tags: ["university", "international-islamic-university-malaysia"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ IIUM’s Gombak campus is slightly outside the central KL area, which affects bo
 
 ## Budget Bands for Student Housing (Indicative — confirm with the operator)
 
-![International Islamic University Malaysia (IIUM)](https://img.findstay.org/housing/p/amber-952801.jpg)
+![International Islamic University Malaysia (IIUM)](https://img.unistay.cn/housing/p/amber-952801.jpg)
 
 The following are typical monthly rents for common housing types near IIUM, based on market observations. These figures are indicative only; always verify current pricing with the landlord or operator.
 

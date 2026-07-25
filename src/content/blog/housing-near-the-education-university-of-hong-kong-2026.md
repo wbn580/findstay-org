@@ -3,8 +3,8 @@ title: "Housing near The Education University of Hong Kong: 2026 student guide"
 description: "Housing Near The Education University of Hong Kong: What You Need to Know  The Education University of Hong Kong (EdUHK), ranked 530th in the QS Wo"
 pubDatetime: 2026-07-01T09:54:13.000Z
 modDatetime: 2026-07-07T08:22:13.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2337442.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2337442.jpg"
 tags: ["university", "the-education-university-of-hong-kong"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Rental costs in Hong Kong vary dramatically by location and room type. Below are
 
 EdUHK’s campus is on a hillside, and walking from the nearest bus stop or shuttle drop-off point requires some uphill effort. Most students rely on the free shuttle bus that runs between campus and University Station (East Rail Line). The shuttle operates on a fixed schedule during term time; outside those hours, public buses (e.g., KMB route 74K or minibus 26) serve the area.
 
-![The Education University of Hong Kong](https://img.findstay.org/housing/p/amber-2337442.jpg)
+![The Education University of Hong Kong](https://img.unistay.cn/housing/p/amber-2337442.jpg)
 
 **Walking to campus** is realistically only an option if you live in Ting Kok or along Lo Ping Road, where a few village houses and low-rise apartments exist. Even then, the walk can take 15–25 minutes uphill. Most residents in Tai Po town centre take a bus or minibus (5–10 minutes) to the campus entrance.
 

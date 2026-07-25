@@ -3,8 +3,8 @@ title: "Housing near King Fahd University of Petroleum & Minerals: 2026 student 
 description: "Housing Near King Fahd University of Petroleum & Minerals (KFUPM)  King Fahd University of Petroleum & Minerals (KFUPM) is ranked 67 in the QS Worl"
 pubDatetime: 2026-06-30T21:56:09.000Z
 modDatetime: 2026-07-07T08:33:09.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2301860.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2301860.jpg"
 tags: ["university", "king-fahd-university-of-petroleum-minerals"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ Important: Many landlords ask for a full year’s rent upfront or post-dated che
 
 Walking to KFUPM is feasible only for those living in immediate on-campus residences (KFUPMINN) or in the residential area immediately east of the university (within 1 km). During summer, even a 10-minute walk in the midday heat can be challenging. The campus itself is spacious, so internal walking between buildings is common and air-conditioned walkways exist in some parts.
 
-![King Fahd University of Petroleum & Minerals](https://img.findstay.org/housing/p/amber-2301860.jpg)
+![King Fahd University of Petroleum & Minerals](https://img.unistay.cn/housing/p/amber-2301860.jpg)
 
 Public transportation in Dhahran–Al Khobar is limited. There is no metro or regular bus service that connects directly to the university gate. Most students and staff rely on private cars, university shuttles (for on-campus residents), or ride-hailing (Uber, Careem). A typical ride from central Al Khobar to KFUPM costs SAR 15–25 and takes 10–15 minutes depending on traffic.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Tennessee: 2026 student guide"
 description: "Understanding the University of Tennessee Campus from Student Reviews  The University of Tennessee, Knoxville (UTK) holds a QS World University Ran"
 pubDatetime: 2026-06-30T22:29:59.000Z
 modDatetime: 2026-07-07T07:54:59.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-972449.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-972449.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ For students, Knoxville offers a blend of urban amenities and outdoor recreation
 
 ## Budget Bands for 2026–2027
 
-![University of Tennessee](https://img.findstay.org/housing/p/amber-972449.jpg)
+![University of Tennessee](https://img.unistay.cn/housing/p/amber-972449.jpg)
 
 Rental prices near the University of Tennessee vary by property type, distance from campus, and included amenities. Based on current market data, the starting monthly rent for a standard unit in a purpose-built student accommodation is approximately $754. This figure is indicative and should be confirmed with the operator, as prices may change depending on lease term, unit size, and availability.
 

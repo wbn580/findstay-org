@@ -3,8 +3,8 @@ title: "Housing near Aristotle University of Thessaloniki: 2026 student guide"
 description: "Housing Near Aristotle University of Thessaloniki: What Students Should Know  Thessaloniki is Greece’s second-largest city and home to Aristotle Un"
 pubDatetime: 2026-07-07T03:31:51.000Z
 modDatetime: 2026-07-07T07:51:51.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1279878.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1279878.jpg"
 tags: ["university", "aristotle-university-of-thessaloniki"]
 category: "university"
 draft: false
@@ -77,7 +77,7 @@ Walking to A.U.Th. is feasible from many central and eastern neighbourhoods. The
 - Pylaia: further east, quieter, but requires a bus ride of 20–25 minutes.
 - City centre (Ladadika, Hagia Sophia): walking is 15–25 minutes; buses run frequently.
 
-![Aristotle University of Thessaloniki](https://img.findstay.org/housing/p/amber-1279878.jpg)
+![Aristotle University of Thessaloniki](https://img.unistay.cn/housing/p/amber-1279878.jpg)
 
 **Trade-off factors:**
 

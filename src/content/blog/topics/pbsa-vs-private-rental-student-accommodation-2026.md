@@ -2,7 +2,7 @@
 title: "PBSA vs Private Rentals: Which Student Accommodation Type Is Right for You in 2026?"
 description: "Compare Purpose-Built Student Accommodation with private rentals — cost, convenience, social life, and contract flexibility across the UK, Australia, US, and Canada."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=1600"
 ogImage: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=1200"
 tags: ["student-accommodation", "rental-tips", "comparison"]

@@ -3,8 +3,8 @@ title: "Housing near Georg-August-Universität Göttingen: 2026 student guide"
 description: "What Campus Reviews Reveal About Göttingen  The campus itself draws strong reactions. Azgar Shuvo writes: “One of the renowned universities in Germ"
 pubDatetime: 2026-07-01T23:20:22.000Z
 modDatetime: 2026-07-07T07:50:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-137617.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-137617.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For a new student, choosing a neighbourhood means deciding how far you are willi
 
 ## Budget Bands (2026–2027)
 
-![Georg-August-Universität Göttingen](https://img.findstay.org/housing/p/amber-137617.jpg)
+![Georg-August-Universität Göttingen](https://img.unistay.cn/housing/p/amber-137617.jpg)
 
 Rents in Göttingen have risen in recent years, but remain moderate compared to Munich, Frankfurt, or Hamburg. All figures below are indicative — confirm with the operator at the time of booking.
 

@@ -2,7 +2,7 @@
 title: "Brisbane Student Suburbs 2026: Beyond the City — Affordable Areas Near QUT & Griffith"
 description: "Expanded Brisbane student housing guide — explore more affordable suburbs near QUT, Griffith Nathan & Mt Gravatt, and UQ St Lucia for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1595855524155-16ca941981d9?w=1600"
 ogImage: "https://images.unsplash.com/photo-1595855524155-16ca941981d9?w=1200"
 tags: ["australia", "brisbane", "student-accommodation", "budget"]

@@ -3,8 +3,8 @@ title: "Housing near University of Leeds: 2026 student guide"
 description: "University of Leeds: A Guide to Student Housing      What Campus Reviews Reveal  Student and visitor reviews of the University of Leeds consistentl"
 pubDatetime: 2026-07-05T06:55:49.000Z
 modDatetime: 2026-07-07T08:47:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00791000.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00791000.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -91,7 +91,7 @@ Leeds has a bus network and a train station (Leeds Rail Station) about 2 km from
 
 Leeds is hilly in parts, but many students cycle. Bike storage is available at most purpose‑built accommodations. Cycling can be faster than both walking and buses for distances of 2–5 km.
 
-![University of Leeds](https://img.findstay.org/housing/p/uh-s00791000.jpg)
+![University of Leeds](https://img.unistay.cn/housing/p/uh-s00791000.jpg)
 
 **Recommendation**: If your budget is tight and you don’t mind a 20‑minute walk or a short bus ride, consider housing within 1.5 km of campus. If you want lower rent, a bus‑eligible area 2–4 km out makes sense, but factor in the weekly bus cost.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Montreal: 2026 student guide"
 description: "University of Montreal: A Student Housing Guide  The University of Montreal (UdeM) consistently ranks among Canada’s top research universities – it"
 pubDatetime: 2026-07-06T11:44:11.000Z
 modDatetime: 2026-07-07T08:23:11.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01569563.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01569563.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -54,7 +54,7 @@ The University of Montreal campus is not in the ultra-dense downtown core, but i
 - **Transit commute (1.5–5 km)**: A slightly longer commute via metro or bus can open up more affordable options. For example, the Blue Line runs from Saint-Michel to Snowdon; living near a station east of campus (e.g., Jean-Talon, Parc) can lower rent while keeping a 15–25 minute door-to-door trip. The Orange Line (e.g., Place-des-Arts, Lucien-L’Allier) connects to downtown, but you may need a transfer. Bus routes 51, 119, and 129 serve the area. Monthly transit pass cost (student rate) is around CA$55 (as of 2026, indicative – confirm with STM).
 - **Cycling**: Montreal has a growing bike network. From neighbourhoods like Mile End, Outremont, or Villeray, a 20- to 30-minute bike ride can be practical, especially in warmer months. Note that campus has bike racks and some covered storage, but winter cycling requires studded tires and proper gear.
 
-![University of Montreal](https://img.findstay.org/housing/p/uh-s01569563.jpg)
+![University of Montreal](https://img.unistay.cn/housing/p/uh-s01569563.jpg)
 
 **Shortlist logic**: Start by deciding your maximum tolerable commute time (e.g., 20 minutes). Then filter by budget: if you want to spend less than $1,000 on rent alone, you will likely need roommates or look beyond the immediate walking zone. Use online platforms (not specified here) to search for rentals and verify distances with Google Maps or the STM trip planner.
 

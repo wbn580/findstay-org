@@ -3,8 +3,8 @@ title: "Housing near Università Cattolica del Sacro Cuore: 2026 student guide"
 description: "Campus Reviews: What Students Say  On Google, the university holds a 4.4 rating from 885 reviews – a solid indicator that the environment leaves a"
 pubDatetime: 2026-07-01T00:18:16.000Z
 modDatetime: 2026-07-07T08:22:16.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1014345.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1014345.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ As of 2026, the cost of living in Milan continues to be among the highest in Ita
 
 ## Budget Bands for Housing (Indicative Rents – 2026)
 
-![Università Cattolica del Sacro Cuore](https://img.findstay.org/housing/p/amber-1014345.jpg)
+![Università Cattolica del Sacro Cuore](https://img.unistay.cn/housing/p/amber-1014345.jpg)
 
 Because no two students have the same financial situation, here are three broad budget bands. All prices below are indicative – confirm with the operator.
 

@@ -3,8 +3,8 @@ title: "Housing near Universidad de Buenos Aires: 2026 student guide"
 description: "University of Buenos Aires Student Housing Guide The University of Buenos Aires (Universidad de Buenos Aires, UBA) is the highest-ranked higher education."
 pubDatetime: 2026-07-01T15:09:19.000Z
 modDatetime: 2026-07-07T08:46:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00017390.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00017390.jpg"
 tags: ["university", "universidad-de-buenos-aires"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Because Argentina's economy has dual exchange rates and rapid inflation, actual 
 
 The UBA main campus is located at a transportation hub, but when choosing accommodation, you need to balance “walking convenience” with “cost-effectiveness.”
 
-![Universidad de Buenos Aires](https://img.findstay.org/housing/p/uh-s00017390.jpg)
+![Universidad de Buenos Aires](https://img.unistay.cn/housing/p/uh-s00017390.jpg)
 
 - **Walking (0–15 minutes)**: Choose Microcentro, San Nicolás, or east Retiro. Rent is higher, but you save daily commuting time and transportation costs. For students with heavy daily schedules (e.g., Law School, School of Economics), walking means more flexible time. Note that the downtown area has fewer people at night, so be mindful of safety on some streets.
 - **Bus/Metro (15–30 minutes)**: Recoleta and Palermo offer quieter, safer living environments. Bus routes are dense, and Metro line B goes directly to Carlos Pellegrini station. Commuting cost is about 30–60 Argentine pesos per month (with the Sube card, roughly equivalent to 2–4 USD), but you need to plan time (peak intervals of 5–8 minutes). Trade-off: Do you pay an extra 100–150 USD per month in rent for a more comfortable neighborhood, or live in a cheaper area with a 30–40 minute commute?

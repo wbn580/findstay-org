@@ -3,8 +3,8 @@ title: "Housing near McGill University: 2026 student guide"
 description: "McGill University Campus Reviews and What They Reveal  McGill University sits at 845 Rue Sherbrooke O in Montreal, Quebec. With a global rank of 27"
 pubDatetime: 2026-07-01T20:47:47.000Z
 modDatetime: 2026-07-07T08:06:47.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1211308.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1211308.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Montreal is a bilingual city where both French and English are commonly used. Th
 
 ## Budget Bands for Student Housing
 
-![McGill University](https://img.findstay.org/housing/p/amber-1211308.jpg)
+![McGill University](https://img.unistay.cn/housing/p/amber-1211308.jpg)
 
 Rental prices in Montreal vary significantly depending on the neighbourhood, building age, and whether the unit is furnished. All figures below are **indicative — confirm with the operator** before committing.
 

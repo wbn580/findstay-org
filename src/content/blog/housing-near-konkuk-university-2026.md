@@ -3,8 +3,8 @@ title: "Housing near Konkuk University: 2026 student guide"
 description: "Campus Reviews and What They Reveal  Konkuk University (KU), located at 120 Neungdong‑ro, Gwangjin‑gu, Seoul, receives a Google rating of 4.5 stars"
 pubDatetime: 2026-07-02T16:39:39.000Z
 modDatetime: 2026-07-07T08:25:39.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-945413.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-945413.jpg"
 tags: ["university", "konkuk-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Students considering housing near KU should expect a mix of Korean‑style studi
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Konkuk University](https://img.findstay.org/housing/p/amber-945413.jpg)
+![Konkuk University](https://img.unistay.cn/housing/p/amber-945413.jpg)
 
 Rental prices near Konkuk University vary significantly based on room size, distance to campus, and whether utilities/internet are included. The figures below are indicative ranges for 2026 or 2027:
 

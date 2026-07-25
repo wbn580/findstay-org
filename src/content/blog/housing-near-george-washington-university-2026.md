@@ -3,8 +3,8 @@ title: "Housing near George Washington University: 2026 student guide"
 description: "What campus reviews reveal  George Washington University occupies a compact urban campus in the Foggy Bottom neighbourhood of Washington, D.C. Revi"
 pubDatetime: 2026-07-06T12:39:58.000Z
 modDatetime: 2026-07-07T09:13:58.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-938389.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-938389.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Safety is a consideration in any large city. The Foggy Bottom area is generally 
 
 ## Budget bands for student housing
 
-![George Washington University](https://img.findstay.org/housing/p/amber-938389.jpg)
+![George Washington University](https://img.unistay.cn/housing/p/amber-938389.jpg)
 
 Exact rental prices in Washington, D.C. fluctuate quickly and depend on lease length, unit size, utilities included and building amenities. The following budget bands are indicative only and must be confirmed with the operator of each housing option.
 

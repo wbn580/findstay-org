@@ -1,206 +1,396 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
-import Header from "@/components/Header.astro";
-import Footer from "@/components/Footer.astro";
+import FsPropCard from "@/components/fs/FsPropCard.astro";
+import FsFaq from "@/components/fs/FsFaq.astro";
+import FsAiWizard from "@/components/fs/FsAiWizard.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { getPath } from "@/utils/getPath";
-import { slugifyTag } from "@/utils/tagSlug";
+import {
+  stats,
+  countries,
+  cities,
+  propertiesIndex,
+  universities,
+  propertiesByCountry,
+  countryBySlug,
+  fmtMoney,
+  fmtInt,
+  durShort,
+  flagOf,
+  ratingOf,
+} from "@/utils/fsData";
 
+/* ── posts ── */
 const posts = await getCollection("blog");
-const sorted = getSortedPosts(posts);
-const totalCount = posts.filter(p => !p.data.draft).length;
+const latestGuides = getSortedPosts(posts).slice(0, 4);
 
-// Countries for the grid
-const countries = [
-  { flag: "🇦🇺", name: "Australia", slug: "australia", count: 0, color: "from-teal-600 to-teal-800" },
-  { flag: "🇳🇿", name: "New Zealand", slug: "new-zealand", count: 0, color: "from-emerald-600 to-emerald-800" },
-  { flag: "🇬🇧", name: "United Kingdom", slug: "uk", count: 0, color: "from-blue-700 to-blue-900" },
-  { flag: "🇺🇸", name: "United States", slug: "us", count: 0, color: "from-indigo-600 to-indigo-800" },
-  { flag: "🇨🇦", name: "Canada", slug: "canada", count: 0, color: "from-red-600 to-red-800" },
-  { flag: "🇩🇪", name: "Germany", slug: "germany", count: 0, color: "from-amber-600 to-amber-800" },
-  { flag: "🇫🇷", name: "France", slug: "france", count: 0, color: "from-rose-600 to-rose-800" },
-  { flag: "🇸🇬", name: "Singapore", slug: "singapore", count: 0, color: "from-cyan-600 to-cyan-800" },
+/* ── popular cities (top 12 by residences, with cheapest listing + its billing cadence) ── */
+const cheapestByCity = new Map<string, { price: number; cur: string; dur: string | null }>();
+for (const p of propertiesIndex) {
+  if (p.min_price == null) continue;
+  const key = `${p.country}/${p.city_slug}`;
+  const cur = cheapestByCity.get(key);
+  if (!cur || p.min_price < cur.price) {
+    cheapestByCity.set(key, { price: p.min_price, cur: p.currency, dur: p.price_duration });
+  }
+}
+const popularCities = [...cities]
+  .sort((a, b) => b.property_count - a.property_count)
+  .slice(0, 12)
+  .map(c => ({ ...c, cheapest: cheapestByCity.get(`${c.country}/${c.slug}`) ?? null }));
+
+/* ── top-rated residences (real Google ratings, ≥20 reviews, one per city) ── */
+const seenCities = new Set<string>();
+const topRated = propertiesIndex
+  .filter(p => typeof p.rating === "number" && (p.g_reviews ?? 0) >= 20)
+  .sort((a, b) => (b.rating as number) - (a.rating as number) || (b.g_reviews ?? 0) - (a.g_reviews ?? 0))
+  .filter(p => {
+    const k = `${p.country}/${p.city_slug}`;
+    if (seenCities.has(k)) return false;
+    seenCities.add(k);
+    return true;
+  })
+  .slice(0, 8);
+
+/* ── resident quotes (real 5★ Google reviews, one per country) ── */
+function pickQuote(countrySlug: string) {
+  for (const p of propertiesByCountry[countrySlug] ?? []) {
+    for (const rv of p.reviews ?? []) {
+      if (
+        rv.rating === 5 &&
+        rv.text &&
+        rv.text.length >= 80 &&
+        rv.text.length <= 260 &&
+        String(rv.source ?? "").toLowerCase().includes("google")
+      ) {
+        return { text: rv.text, author: rv.author, prop: p.name, city: p.city, slug: p.slug };
+      }
+    }
+  }
+  return null;
+}
+const quotes = ["australia", "united-kingdom", "united-states", "canada", "germany"]
+  .map(pickQuote)
+  .filter(Boolean)
+  .slice(0, 3) as { text: string; author: string; prop: string; city: string; slug: string }[];
+
+/* ── universities: top 8 by QS rank ── */
+const topUnis = [...universities].sort((a, b) => a.rank - b.rank).slice(0, 8);
+
+/* ── hero search options: 228 cities ── */
+const cityOptions = [...cities]
+  .sort((a, b) => a.name.localeCompare(b.name))
+  .map(c => ({
+    label: `${c.name}, ${c.country_name}`,
+    url: `/housing/${c.country}/${c.slug}/`,
+  }));
+
+/* ── FAQ ── */
+const faqs = [
+  {
+    q: "Is UniStay free to use?",
+    a: `Yes. Browsing all ${fmtInt(stats.properties)} residences, city guides and reviews is free, and so is asking Robin for a shortlist. If you go ahead with a residence, your contract and payment are directly with the operator.`,
+  },
+  {
+    q: "How accurate are the prices shown?",
+    a: `Prices are indicative starting rates collected from operator listings for the 2026 intake. Actual rates change with room type, lease length and availability — always confirm the current price with the operator before signing.`,
+  },
+  {
+    q: "Where do the reviews come from?",
+    a: `We reference ${fmtInt(stats.google_reviews_total)} published Google reviews plus resident-review snippets from booking platforms. We only display reviews that were actually published — UniStay never writes or edits resident reviews.`,
+  },
+  {
+    q: "What can Robin, the AI assistant, actually do?",
+    a: `Robin matches your university, budget and move-in date against the database, explains trade-offs between areas, and can pass your shortlist to a housing advisor who follows up within one business day. Booking itself always happens with the residence operator.`,
+  },
+  {
+    q: "Which cities does UniStay cover?",
+    a: `${stats.cities} cities across ${stats.countries} countries — including London, Sydney, New York, Melbourne, Barcelona, Berlin, Toronto, Singapore and Dublin. See the full list on the <a href="/housing/">housing directory</a>.`,
+  },
 ];
 
-// Count per country
-countries.forEach(c => {
-  c.count = posts.filter(p => !p.data.draft && p.data.tags?.includes(c.slug)).length;
-});
+const pageTitle = `UniStay — Student Housing Search · ${fmtInt(stats.properties)} Residences in ${stats.cities} Cities (2026)`;
+const pageDesc = `Compare ${fmtInt(stats.properties)} student residences across ${stats.cities} cities in ${stats.countries} countries. Real resident reviews, indicative prices and housing matched to ${fmtInt(stats.universities)} QS-ranked universities.`;
 
-// Featured posts (first 6 non-draft)
-const featured = sorted.slice(0, 6);
+const HERO_IMG = "https://img.unistay.cn/housing/findstay-hero-campus-2026-2100x1400.jpg";
+
+const locales = ["zh-hant", "es", "id", "ja", "ko", "pt", "th", "vi"];
 ---
 
-<Layout>
-  <Header />
+<Layout title={pageTitle} description={pageDesc} transparentNav>
+  <Fragment slot="head">
+    <link rel="alternate" hreflang="x-default" href="https://unistay.net/" />
+    <link rel="alternate" hreflang="en" href="https://unistay.net/" />
+    <link rel="alternate" hreflang="zh-CN" href="https://unistay.cn/" />
+    {locales.map(l => (
+      <link rel="alternate" hreflang={l} href={`https://unistay.net/${l}/`} />
+    ))}
+    <link rel="preload" as="image" href={HERO_IMG} fetchpriority="high" />
+  </Fragment>
 
-  <main id="main-content" data-layout="index" class="font-sans text-ink">
-    <!-- ========== HERO ========== -->
-    <section class="relative overflow-hidden bg-gradient-to-br from-teal-50 via-white to-amber-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800">
-      <div class="max-w-7xl mx-auto px-6 py-20 sm:py-28 lg:py-36">
-        <div class="max-w-3xl">
-          <span class="inline-flex items-center gap-2 bg-sun/20 text-ink dark:text-ink font-bold text-xs tracking-widest uppercase px-4 py-2 rounded-full border border-sun/30 mb-6">
-            🌏 Global Accommodation Guide 2026
-          </span>
-          <h1 class="text-5xl sm:text-6xl lg:text-7xl font-black tracking-tight leading-[1.02] text-ink dark:text-ink mb-6">
-            Find Your Home<br />
-            <span class="text-accent">Away From Home</span>
-          </h1>
-          <p class="text-lg sm:text-xl text-ink-2 max-w-2xl leading-relaxed mb-8">
-            Smart accommodation guides for international students, expats &amp; digital nomads.
-            Compare student housing, long-stay rentals, and co-living spaces across <strong class="text-ink">15+ cities worldwide</strong>.
+  <main id="main-content" class="fs-page">
+    <!-- ═══ HERO ═══ -->
+    <section class="fs-hero">
+      <img class="bg" src={HERO_IMG} alt="Students walking across a university campus in the early morning" fetchpriority="high" />
+      <div class="fs-hero-inner">
+        <div class="fs-hero-copy">
+          <div class="eyebrow"><span class="dot" aria-hidden="true"></span>Global student housing · 2026 intake</div>
+          <h1>Find your stay <em>near campus</em></h1>
+          <p class="lead">
+            <b>{fmtInt(stats.properties)} residences</b> · <b>{stats.cities} cities</b> ·
+            <b>{stats.countries} countries</b> — compared with real resident reviews,
+            not brochures. Indicative prices, room types and ratings in one place.
           </p>
-          <div class="flex flex-wrap gap-4">
-            <a href="/posts/" class="inline-flex items-center gap-2 bg-accent text-white font-bold px-6 py-3.5 rounded-xl shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all text-base">
-              Browse All Guides <span class="text-xl">→</span>
-            </a>
-            <a href="/about/" class="inline-flex items-center gap-2 border-2 border-ink/20 dark:border-ink/30 text-ink font-bold px-6 py-3.5 rounded-xl hover:border-accent hover:text-accent transition-all text-base">
-              About Findstay
-            </a>
+
+          <div class="hero-stats">
+            <div class="gstat"><b>{fmtInt(stats.properties)}</b><span>residences</span></div>
+            <div class="gstat"><b>{stats.cities}</b><span>cities</span></div>
+            <div class="gstat"><b>{fmtInt(stats.universities)}</b><span>QS universities</span></div>
+            <div class="gstat"><b>{fmtInt(stats.google_reviews_total)}</b><span>Google reviews referenced</span></div>
           </div>
         </div>
-      </div>
-      <!-- Decorative blobs -->
-      <div class="absolute -top-24 -right-24 w-96 h-96 bg-sun/10 rounded-full blur-3xl pointer-events-none" aria-hidden="true"></div>
-      <div class="absolute -bottom-32 -left-32 w-80 h-80 bg-accent/10 rounded-full blur-3xl pointer-events-none" aria-hidden="true"></div>
-    </section>
 
-    <!-- ========== COUNTRY GRID ========== -->
-    <section class="max-w-7xl mx-auto px-6 py-16 sm:py-24">
-      <div class="text-center mb-12">
-        <span class="text-xs tracking-[0.3em] uppercase text-accent font-bold">Destinations</span>
-        <h2 class="text-3xl sm:text-4xl font-black tracking-tight mt-2 text-ink">Where are you headed?</h2>
-        <p class="text-ink-2 mt-3 max-w-xl mx-auto">In-depth accommodation guides for students and professionals in 8 countries</p>
-      </div>
-      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
-        {countries.map(c => (
-          <a href={`/tags/${c.slug}/`} class="group relative overflow-hidden rounded-2xl border border-rule bg-card hover:shadow-xl hover:-translate-y-1 transition-all duration-200">
-            <div class="p-5 sm:p-6">
-              <span class="text-3xl sm:text-4xl block mb-3">{c.flag}</span>
-              <h3 class="font-bold text-lg text-ink group-hover:text-accent transition-colors">{c.name}</h3>
-              <p class="text-sm text-ink-3 mt-1">{c.count} guide{c.count !== 1 ? 's' : ''}</p>
-              <span class="inline-flex items-center gap-1 text-accent font-bold text-sm mt-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                Explore <span>→</span>
-              </span>
-            </div>
-            <div class={`absolute inset-0 bg-gradient-to-br opacity-0 group-hover:opacity-5 transition-opacity pointer-events-none ${c.color}`} aria-hidden="true"></div>
-          </a>
-        ))}
+        <div class="fs-hero-aside">
+          <FsAiWizard />
+        </div>
       </div>
     </section>
 
-    <!-- ========== FEATURED POSTS ========== -->
-    <section class="bg-muted py-16 sm:py-24">
-      <div class="max-w-7xl mx-auto px-6">
-        <div class="flex items-end justify-between mb-10">
+    <!-- ═══ HOW IT WORKS ═══ -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
           <div>
-            <span class="text-xs tracking-[0.3em] uppercase text-accent font-bold">Latest Guides</span>
-            <h2 class="text-3xl sm:text-4xl font-black tracking-tight mt-2 text-ink">Featured Articles</h2>
+            <p class="kicker">How it works</p>
+            <h2>Three steps, no guesswork</h2>
           </div>
-          <a href="/posts/" class="hidden sm:inline-flex items-center gap-1 text-accent font-bold text-sm hover:underline">
-            View all {totalCount} guides <span>→</span>
-          </a>
+          <p class="sub">UniStay is built like a housing advisor’s desk: data first, then a human follow-up when you want one.</p>
         </div>
-        {featured.length > 0 ? (
-          <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {featured.map(p => (
-              <a href={getPath(p.id, p.filePath)} class="group bg-card rounded-2xl border border-rule overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-200 flex flex-col">
-                {p.data.heroImage && (
-                  <div class="h-48 overflow-hidden">
-                    <img src={p.data.heroImage} alt={p.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-                  </div>
-                )}
-                <div class="p-5 flex flex-col flex-1">
-                  <div class="flex flex-wrap gap-2 mb-3">
-                    {p.data.tags?.slice(0, 2).map((t: string) => (
-                      <span class="text-xs font-bold text-accent bg-accent/10 px-2.5 py-1 rounded-full">{t}</span>
-                    ))}
-                  </div>
-                  <h3 class="font-bold text-lg leading-snug text-ink group-hover:text-accent transition-colors mb-2">{p.data.title}</h3>
-                  <p class="text-sm text-ink-2 leading-relaxed flex-1">{p.data.description}</p>
-                  <div class="mt-4 text-xs text-ink-3 font-medium">
-                    {new Date(p.data.pubDatetime).toLocaleDateString("en-AU", { day: "numeric", month: "short", year: "numeric" })}
-                  </div>
+        <div class="fs-grid g-3">
+          <div class="fs-card step-card fs-reveal">
+            <div class="n">1</div>
+            <h3>Tell Robin your uni &amp; budget</h3>
+            <p>Open the chat, name your university, budget and move-in month. Robin narrows {fmtInt(stats.properties)} residences down to the handful that actually fit.</p>
+          </div>
+          <div class="fs-card step-card fs-reveal">
+            <div class="n">2</div>
+            <h3>Compare real prices &amp; reviews</h3>
+            <p>Every residence page shows indicative rates, room types, and what residents said in {fmtInt(stats.review_snippets)} published review snippets — the good and the bad.</p>
+          </div>
+          <div class="fs-card step-card fs-reveal">
+            <div class="n">3</div>
+            <h3>Get advisor follow-up</h3>
+            <p>Happy with a shortlist? A housing advisor follows up within one business day to help you confirm details with the operator. You stay in control of the booking.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ BROWSE BY COUNTRY ═══ -->
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">Destinations</p>
+            <h2>Browse by country</h2>
+          </div>
+          <a href="/housing/" class="more-link">Full directory →</a>
+        </div>
+        <div class="fs-grid g-4">
+          {countries.map(c => (
+            <a href={`/housing/${c.slug}/`} class="fs-card country-card fs-reveal">
+              <span class="flag" aria-hidden="true">{flagOf(c.slug)}</span>
+              <h3>{c.name}</h3>
+              <p class="meta">
+                <b>{fmtInt(c.property_count)}</b> residences · {c.city_count} cities<br />
+                {c.university_count > 0 ? `${c.university_count} QS-ranked universities` : "QS universities nearby"}
+              </p>
+              <span class="go">Explore {c.name} →</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ POPULAR CITIES ═══ -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">Popular cities</p>
+            <h2>Where students are searching</h2>
+          </div>
+          <p class="sub">Ranked by number of listed residences. From-prices are the lowest indicative rate currently listed in each city.</p>
+        </div>
+        <div class="fs-grid g-3">
+          {popularCities.map(c => (
+            <a href={`/housing/${c.country}/${c.slug}/`} class="fs-card city-card fs-reveal">
+              <div>
+                <h3>{c.name}</h3>
+                <p class="c-meta">{c.country_name} · {c.property_count} residences{c.universities.length > 0 ? ` · ${c.universities.length} universities` : ""}</p>
+              </div>
+              {c.cheapest && (
+                <div class="from">
+                  <b>from {fmtMoney(c.cheapest.cur, c.cheapest.price)}{durShort(c.cheapest.dur) && `/${durShort(c.cheapest.dur)}`}</b>
+                  <span>indicative</span>
                 </div>
-              </a>
+              )}
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ TOP-RATED RESIDENCES ═══ -->
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">Resident-rated</p>
+            <h2>Highly rated residences</h2>
+          </div>
+          <p class="sub">Highest Google ratings among residences with at least 20 published reviews — one per city for spread.</p>
+        </div>
+        <div class="fs-grid g-4">
+          {topRated.map(p => (
+            <div class="fs-reveal">
+              <FsPropCard p={p} locLabel={`${p.city}, ${countryBySlug.get(p.country)?.name ?? p.country}`} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ RESIDENT QUOTES ═══ -->
+    {quotes.length >= 3 && (
+      <section class="fs-sec fs-sec--tint">
+        <div class="wrap">
+          <div class="sec-head fs-reveal">
+            <div>
+              <p class="kicker">In their words</p>
+              <h2>What residents say</h2>
+            </div>
+            <p class="sub">Verbatim excerpts from published Google reviews — linked to the residence they describe.</p>
+          </div>
+          <div class="fs-grid g-3">
+            {quotes.map(q => (
+              <div class="fs-card quote-card fs-reveal">
+                <p class="q">{q.text}</p>
+                <p class="who">
+                  <b>{q.author}</b>
+                  Google review · <a href={`/property/${q.slug}/`} style="color:var(--fs-teal)">{q.prop}</a>, {q.city}
+                </p>
+              </div>
             ))}
           </div>
-        ) : (
-          <div class="text-center py-16 bg-card rounded-2xl border border-rule">
-            <p class="text-ink-2 text-lg">Articles coming soon. Check back shortly!</p>
+        </div>
+      </section>
+    )}
+
+    <!-- ═══ UNIVERSITY COVERAGE ═══ -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">University coverage</p>
+            <h2>{fmtInt(stats.universities)} QS-ranked universities mapped</h2>
           </div>
-        )}
-        <div class="text-center mt-8 sm:hidden">
-          <a href="/posts/" class="inline-flex items-center gap-1 text-accent font-bold text-sm hover:underline">
-            View all {totalCount} guides <span>→</span>
-          </a>
+          <a href="/universities/" class="more-link">All universities →</a>
+        </div>
+        <div class="fs-grid g-4">
+          {topUnis.map(u => (
+            <a href={`/university/${u.slug}/`} class="fs-card uni-pill fs-reveal">
+              <span class="rank">#{u.rank}</span>
+              <span>
+                <h3>{u.name}</h3>
+                <span>QS World Ranking 2026</span>
+              </span>
+            </a>
+          ))}
         </div>
       </div>
     </section>
 
-    <!-- ========== AFFILIATE BOX ========== -->
-    <section class="max-w-7xl mx-auto px-6 py-16 sm:py-24">
-      <div class="bg-gradient-to-br from-accent to-maple-2 rounded-3xl p-8 sm:p-12 text-white relative overflow-hidden shadow-xl">
-        <div class="relative z-10 max-w-2xl">
-          <span class="text-xs tracking-[0.3em] uppercase text-sun font-bold mb-3 block">Protected & Insured</span>
-          <h2 class="text-3xl sm:text-4xl font-black tracking-tight mb-4">Going abroad? Get covered.</h2>
-          <p class="text-white/80 text-lg leading-relaxed mb-8">
-            International students need Overseas Student Health Cover (OSHC) to meet visa requirements. Digital nomads &amp; expats need reliable travel insurance. Compare your options:
-          </p>
-          <div class="flex flex-wrap gap-4">
-            <a
-              href="https://agents.flywire.com/services/Unilink/oshc-au?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597"
-              target="_blank"
-              rel="nofollow noopener noreferrer"
-              class="inline-flex items-center gap-2 bg-white text-accent font-bold px-6 py-3.5 rounded-xl shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all"
-            >
-              🏥 Compare OSHC <span>→</span>
-            </a>
-            <a
-              href="https://safetywing.com/?affiliate_id=17632"
-              target="_blank"
-              rel="nofollow noopener noreferrer"
-              class="inline-flex items-center gap-2 border-2 border-white/30 text-white font-bold px-6 py-3.5 rounded-xl hover:bg-white/10 transition-all"
-            >
-              🌍 SafetyWing Insurance <span>→</span>
-            </a>
+    <!-- ═══ LATEST GUIDES ═══ -->
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">Guides</p>
+            <h2>Latest from the editorial desk</h2>
           </div>
+          <a href="/posts/" class="more-link">All guides →</a>
         </div>
-        <!-- Decorative -->
-        <div class="absolute -right-12 -top-12 w-64 h-64 bg-white/10 rounded-full blur-3xl pointer-events-none" aria-hidden="true"></div>
-        <div class="absolute -bottom-20 right-20 w-48 h-48 bg-sun/20 rounded-full blur-2xl pointer-events-none" aria-hidden="true"></div>
+        <div class="fs-grid g-4">
+          {latestGuides.map(p => (
+            <a href={getPath(p.id, p.filePath)} class="fs-card guide-card fs-reveal">
+              <span class="tagline">{p.data.tags?.[0] ?? "Guide"}</span>
+              <h3>{p.data.title}</h3>
+              <p>{p.data.description}</p>
+              <span class="date">{new Date(p.data.pubDatetime).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}</span>
+            </a>
+          ))}
+        </div>
       </div>
     </section>
 
-    <!-- ========== BOTTOM CTA ========== -->
-    <section class="bg-muted py-16 sm:py-24">
-      <div class="max-w-3xl mx-auto px-6 text-center">
-        <span class="text-xs tracking-[0.3em] uppercase text-accent font-bold">Start Your Journey</span>
-        <h2 class="text-3xl sm:text-4xl font-black tracking-tight mt-2 text-ink mb-4">Ready to find your stay?</h2>
-        <p class="text-ink-2 text-lg mb-8 max-w-xl mx-auto">
-          Browse our guides by country, learn about rental rights, compare accommodation types, and get insured — all in one place.
-        </p>
-        <div class="flex flex-wrap justify-center gap-4">
-          <a href="/posts/" class="inline-flex items-center gap-2 bg-accent text-white font-bold px-8 py-4 rounded-xl shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all">
-            Browse All Guides → 
-          </a>
-          <a href="/tags/" class="inline-flex items-center gap-2 border-2 border-ink/20 dark:border-ink/30 text-ink font-bold px-8 py-4 rounded-xl hover:border-accent hover:text-accent transition-all">
-            Browse by Tag
-          </a>
+    <!-- ═══ FAQ ═══ -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="fs-reveal">
+          <p class="kicker">Good to know</p>
+          <FsFaq faqs={faqs} heading="Frequently asked questions" />
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══ CTA BAND ═══ -->
+    <section class="fs-sec" style="padding-top:0">
+      <div class="wrap">
+        <div class="cta-band fs-reveal">
+          <h2>Start with a shortlist, not 3,000 tabs</h2>
+          <p>Robin cross-references {fmtInt(stats.properties)} residences, {fmtInt(stats.review_snippets)} review snippets and {fmtInt(stats.universities)} universities — then a human advisor picks up where the data stops.</p>
+          <div class="row">
+            <button type="button" class="fs-btn fs-btn-coral" onclick="window.aiwOpen?.()">Ask Robin now</button>
+            <a href="/housing/" class="fs-btn fs-btn-white">Browse all cities</a>
+          </div>
         </div>
       </div>
     </section>
   </main>
-
-  <Footer />
 </Layout>
 
 <script>
-  document.addEventListener("astro:page-load", () => {
-    const el = document.querySelector("#main-content") as HTMLElement | null;
-    if (el?.dataset?.layout === "index") {
-      sessionStorage.setItem("backUrl", "/");
-    }
-  });
+  function fsInitHome() {
+    const form = document.getElementById("heroSearch") as HTMLFormElement | null;
+    if (!form || form.dataset.fsBound) return;
+    form.dataset.fsBound = "1";
+    form.addEventListener("submit", e => {
+      e.preventDefault();
+      const input = document.getElementById("heroCityInput") as HTMLInputElement | null;
+      const list = document.getElementById("fsCityList");
+      if (!input || !list) {
+        window.location.href = "/housing/";
+        return;
+      }
+      const v = input.value.trim().toLowerCase();
+      let target = "/housing/";
+      if (v) {
+        const opts = Array.from(list.querySelectorAll("option"));
+        const exact = opts.find(o => o.value.toLowerCase() === v);
+        const partial = opts.find(o => o.value.toLowerCase().startsWith(v) || o.value.toLowerCase().split(",")[0].trim() === v);
+        const match = exact ?? partial;
+        if (match) target = match.getAttribute("data-url") ?? target;
+      }
+      window.location.href = target;
+    });
+    sessionStorage.setItem("backUrl", "/");
+  }
+  document.addEventListener("astro:page-load", fsInitHome);
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", fsInitHome, { once: true });
+  } else {
+    fsInitHome();
+  }
 </script>

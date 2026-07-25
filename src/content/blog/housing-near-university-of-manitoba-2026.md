@@ -3,8 +3,8 @@ title: "Housing near University of Manitoba: 2026 student guide"
 description: "Housing Near University of Manitoba: What to Know for 2026-2027      Campus Reviews: What Students Say  The University of Manitoba campus in Winnip"
 pubDatetime: 2026-07-01T12:04:05.000Z
 modDatetime: 2026-07-07T08:20:05.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1599814.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1599814.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ The University of Manitoba campus is large, with multiple buildings spread acros
 
 **Car commuting** is an option, but parking on campus is expensive—CAD 600–900 per year for a permit. Many students choose transit or walking to avoid that cost.
 
-![University of Manitoba](https://img.findstay.org/housing/p/amber-1599814.jpg)
+![University of Manitoba](https://img.unistay.cn/housing/p/amber-1599814.jpg)
 
 **Verdict**: If you can afford slightly higher rent, stay within walking range (1–2 km). You will save on transit costs and gain flexibility in winter. If budget is tight, look for a room along a major bus route like Pembina Highway or St. Mary’s Road. Test the commute during non‑peak hours to see if it works for your schedule.
 

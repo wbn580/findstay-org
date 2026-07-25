@@ -2,7 +2,7 @@
 title: "Hobart Student Housing 2026: Affordable Accommodation Near UTAS"
 description: "Student housing in Hobart — affordable rooms near the University of Tasmania. 2026 rent prices, Sandy Bay campus life, and why Hobart is Australia's best-value student city."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1586776977607-310e9c725c31?w=1600"
 ogImage: "https://images.unsplash.com/photo-1586776977607-310e9c725c31?w=1200"
 tags: ["australia", "hobart", "student-accommodation"]

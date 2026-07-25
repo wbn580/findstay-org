@@ -3,8 +3,8 @@ title: "Housing near The University of Osaka: 2026 student guide"
 description: "What campus reviews reveal  The University of Osaka, ranked 91st in the QS World University Rankings, has multiple campuses in Suita and Toyonaka."
 pubDatetime: 2026-07-01T07:44:44.000Z
 modDatetime: 2026-07-07T08:51:44.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3175694.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3175694.jpg"
 tags: ["university", "the-university-of-osaka"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ The area has supermarkets, convenience stores, and a few international restauran
 
 ## Budget bands
 
-![The University of Osaka](https://img.findstay.org/housing/p/amber-3175694.jpg)
+![The University of Osaka](https://img.unistay.cn/housing/p/amber-3175694.jpg)
 
 Rent levels differ by property type, age, and distance to campus. All figures below are indicative – confirm with the operator or property manager at the time of search.
 

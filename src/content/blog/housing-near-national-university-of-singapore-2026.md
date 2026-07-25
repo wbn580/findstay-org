@@ -3,8 +3,8 @@ title: "Housing near National University of Singapore (NUS): 2026 student guide"
 description: "Housing Near National University of Singapore (NUS) – A 2026 Guide     What Campus Reviews Reveal  The campus environment at NUS is consistently de"
 pubDatetime: 2026-07-06T23:10:10.000Z
 modDatetime: 2026-07-07T08:47:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3125178.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3125178.jpg"
 tags: ["university", "singapore"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Overall, the campus earns high marks for cleanliness, facilities, and community 
 
 ## Singapore City Context
 
-![National University of Singapore (NUS)](https://img.findstay.org/housing/p/amber-3125178.jpg)
+![National University of Singapore (NUS)](https://img.unistay.cn/housing/p/amber-3125178.jpg)
 
 Singapore is a compact, well-connected city-state. NUS is located at 21 Lower Kent Ridge Rd, in the southwestern part of the island. The campus is roughly 8 km from the city centre (Raffles Place) and 20–25 km from Changi Airport.
 

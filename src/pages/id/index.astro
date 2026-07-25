@@ -1,0 +1,50 @@
+---
+import LocaleLanding from "@/components/fs/LocaleLanding.astro";
+import { stats, fmtInt } from "@/utils/fsData";
+
+const t = {
+  title: `UniStay — Pencarian hunian mahasiswa global: ${fmtInt(stats.properties)} residensi di ${stats.cities} kota (2026)`,
+  desc: `Bandingkan ${fmtInt(stats.properties)} residensi mahasiswa di ${stats.cities} kota dan ${stats.countries} negara: ulasan penghuni asli, harga indikatif, dan pemetaan ke ${fmtInt(stats.universities)} universitas berperingkat QS.`,
+  eyebrow: "Hunian mahasiswa global · Intake 2026",
+  h1: "Temukan hunianmu",
+  h1em: "dekat kampus",
+  lead: `<b>${fmtInt(stats.properties)} residensi</b> · <b>${stats.cities} kota</b> · <b>${stats.countries} negara</b> — dibandingkan lewat ulasan penghuni asli dan harga indikatif, bukan brosur promosi.`,
+  askRobin: "Tanya Robin — pencocokan AI",
+  browse: "Jelajahi kota",
+  stepsKicker: "Cara kerjanya",
+  stepsH2: "Tiga langkah, tanpa menebak-nebak",
+  steps: [
+    { h: "Beri tahu Robin kampus dan bujetmu", p: "Buka obrolan, sebutkan universitas, bujet, dan bulan masukmu. Robin menyaring ribuan residensi menjadi beberapa pilihan yang benar-benar cocok." },
+    { h: "Bandingkan harga dan ulasan asli", p: "Setiap halaman residensi menampilkan tarif indikatif, tipe kamar, dan kutipan ulasan penghuni yang sudah dipublikasikan — yang baik maupun yang buruk." },
+    { h: "Dapatkan tindak lanjut dari penasihat", p: "Setelah daftar pendekmu siap, penasihat hunian akan menghubungimu dalam satu hari kerja untuk membantu konfirmasi detail dengan operator. Kontrak dan pembayaran selalu kamu urus langsung." },
+  ],
+  countriesKicker: "Destinasi",
+  countriesH2: "Jelajahi per negara",
+  residencesWord: "residensi",
+  citiesWord: "kota",
+  note: "Halaman kota dan detail residensi saat ini tersedia dalam bahasa Inggris. Semua harga bersifat indikatif — konfirmasikan tarif terkini dengan operator sebelum menandatangani kontrak.",
+  ctaH2: "Mulai dari daftar pendek, bukan tiga ribu tab",
+  ctaP: `Robin memeriksa silang data ${fmtInt(stats.properties)} residensi dan ${fmtInt(stats.universities)} universitas; selebihnya dilanjutkan oleh penasihat manusia.`,
+  statResidences: "residensi",
+  statCities: "kota",
+  statCountries: "negara",
+  statUnis: "universitas QS",
+};
+
+const countryNames = {
+  "united-states": "Amerika Serikat",
+  "united-kingdom": "Inggris Raya",
+  spain: "Spanyol",
+  australia: "Australia",
+  canada: "Kanada",
+  germany: "Jerman",
+  singapore: "Singapura",
+  france: "Prancis",
+  ireland: "Irlandia",
+  "new-zealand": "Selandia Baru",
+  uae: "Uni Emirat Arab",
+  italy: "Italia",
+};
+---
+
+<LocaleLanding locale="id" htmlLang="id" t={t} countryNames={countryNames} />

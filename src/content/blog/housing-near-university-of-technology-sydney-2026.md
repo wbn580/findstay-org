@@ -3,8 +3,8 @@ title: "Housing near University of Technology Sydney: 2026 student guide"
 description: "Housing Near University of Technology Sydney: What You Need to Know in 2026      What Campus Reviews Reveal  Student feedback at the University of"
 pubDatetime: 2026-07-07T00:29:49.000Z
 modDatetime: 2026-07-07T08:55:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00014733.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00014733.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ If you value quiet and lower rent and don’t mind a 25–35 minute commute, the
 
 ### Applying a Shortlist Logic to Your Search
 
-![University of Technology Sydney](https://img.findstay.org/housing/p/uh-s00014733.jpg)
+![University of Technology Sydney](https://img.unistay.cn/housing/p/uh-s00014733.jpg)
 
 When choosing among available residences near UTS, use a systematic approach based on your priorities. Because no single property is listed in this guide, the logic applies to any concrete options you find online or through a housing platform.
 

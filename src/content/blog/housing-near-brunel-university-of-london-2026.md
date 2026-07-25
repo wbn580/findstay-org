@@ -3,8 +3,8 @@ title: "Housing near Brunel University of London: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Life  Brunel University of London has a Google rating of 4.3 out of 5 from 870 reviews, but several recen"
 pubDatetime: 2026-07-05T18:08:47.000Z
 modDatetime: 2026-07-07T08:52:47.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1275932.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1275932.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Uxbridge rents tend to be roughly 10–20% lower than central London equivalents
 
 The university’s main campus is within walking distance of Uxbridge town centre (about 15–20 minutes on foot) and close to the Uxbridge tube station (Metropolitan line, also connecting to the Piccadilly line via Rayners Lane). The trade-offs are:
 
-![Brunel University of London](https://img.findstay.org/housing/p/amber-1275932.jpg)
+![Brunel University of London](https://img.unistay.cn/housing/p/amber-1275932.jpg)
 
 - **Walking distance (0–1.5 km from campus)**: Properties on Kingston Lane, Cleveland Road, or near the town centre are walkable to lectures. You save on transport costs (no bus or tube fare) and can easily access campus facilities. However, rents in this radius are often higher, and availability can be tight. Noise from the town centre may be an issue for some.
 - **Short commute (1.5–5 km, bus or cycle)**: Areas like Hillingdon, Ickenham, or Ruislip Manor are a short bus ride or cycle. Buses run frequently to the university. Rent tends to be slightly lower than in the immediate campus area. You will spend about 10–20 minutes on transit each way, plus the cost of a bus pass (around £25–35 per week for a student bus pass, or per-trip fares).

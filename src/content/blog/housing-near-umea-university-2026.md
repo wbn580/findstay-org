@@ -3,8 +3,8 @@ title: "Housing near Umeå University: 2026 student guide"
 description: "Housing Near Umeå University: A Practical Guide for Students  Umeå University sits in northern Sweden, at Universitetstorget 4, 907 36 Umeå. With a"
 pubDatetime: 2026-07-06T22:09:39.000Z
 modDatetime: 2026-07-07T08:56:39.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1896520.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1896520.jpg"
 tags: ["university", "umea-university"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ These bands are indicative – confirm with the operator. Many student housing c
 
 Choosing between walking distance to campus and relying on public transport or cycling involves a classic trade‑off between convenience and cost.
 
-![Umeå University](https://img.findstay.org/housing/p/amber-1896520.jpg)
+![Umeå University](https://img.unistay.cn/housing/p/amber-1896520.jpg)
 
 - **Walking distance (up to 20 minutes or about 1.5 km):** The area immediately around the university – parts of Ålidhem, Mariehem, and the neighbourhoods along Nygatan – allows you to walk to lecture halls in 10‑20 minutes. This saves travel time and money (no bus pass needed) but rents are often higher due to demand. In winter, a short walk is far more pleasant than waiting at a bus stop. However, the immediate campus vicinity has fewer amenities (shops, restaurants) than the city centre, so you may still need to bus or bike for groceries.
 - **Cycling distance (up to 5 km):** Most parts of Umeå are flat, making cycling a fast and cheap option. A bike can cover 5 km in 20‑25 minutes. Areas like the city centre (about 2.5 km from campus) and central Nydala are well‑connected by cycle paths. A basic bike costs 1,000‑3,000 SEK second‑hand, plus a sturdy lock and winter tyres. This option offers a good balance of lower rent (compared to on‑campus) and reasonable commute time.

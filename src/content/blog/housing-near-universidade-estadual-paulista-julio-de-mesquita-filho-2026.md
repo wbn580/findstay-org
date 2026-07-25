@@ -3,8 +3,8 @@ title: "Housing near Universidade Estadual Paulista 'Júlio de Mesquita Filho' (
 description: "Understanding the Campus and Its Location  Universidade Estadual Paulista 'Júlio de Mesquita Filho' (UNESP) is one of Brazil’s major public univers"
 pubDatetime: 2026-07-05T08:22:24.000Z
 modDatetime: 2026-07-07T09:05:24.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2562023.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2562023.jpg"
 tags: ["university", "universidade-estadual-paulista-julio-de-mesquita-filho"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Given the absence of multiple reviews, prospective students should seek addition
 
 ## City Context: São Paulo
 
-![Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP)](https://img.findstay.org/housing/p/amber-2562023.jpg)
+![Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP)](https://img.unistay.cn/housing/p/amber-2562023.jpg)
 
 São Paulo is a sprawling, dynamic metropolis with one of the largest student populations in Latin America. The city hosts dozens of universities, both public and private, creating a competitive rental market for students. Cerqueira César, where UNESP is located, is part of the central zone known for its high rents, safety (relative to other parts of the city), and proximity to jobs, restaurants, museums, and parks such as Trianon Park and Ibirapuera Park.
 

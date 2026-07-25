@@ -3,8 +3,8 @@ title: "Housing near University of Hull: 2026 student guide"
 description: "University of Hull: What Campus Reviews Reveal  The University of Hull holds a QS World University Ranking of 526 (2025) and a Google rating of 4.1"
 pubDatetime: 2026-07-02T02:58:00.000Z
 modDatetime: 2026-07-07T08:21:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-954959.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-954959.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For students who prefer newer, managed accommodation, several private PBSA schem
 
 ## Budget Bands for Student Housing
 
-![University of Hull](https://img.findstay.org/housing/p/amber-954959.jpg)
+![University of Hull](https://img.unistay.cn/housing/p/amber-954959.jpg)
 
 Rent prices in Hull are indicative — confirm with the operator. Based on typical market rates for the 2026/27 academic year (all figures are approximate and subject to change):
 

@@ -2,7 +2,7 @@
 title: "Calgary Student Housing 2026: Areas Near UCalgary, SAIT & MRU"
 description: "Student accommodation in Calgary — from the University District near UCalgary to Beltline near SAIT. Affordable 2026 rent in Alberta's largest city."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "/images/canada/calgary.jpg"
 ogImage: "/images/canada/calgary.jpg"
 tags: ["canada", "calgary", "student-accommodation"]

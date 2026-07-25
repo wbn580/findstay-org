@@ -2,7 +2,7 @@
 title: "Dublin Student Housing 2026: How to Beat Dublin's Rental Crisis"
 description: "Student accommodation in Dublin — find housing near Trinity, UCD, and DCU despite the rental crisis. 2026 prices, strategy tips, and commuter town alternatives."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1597589827317-4c6d47d0a597?w=1600"
 ogImage: "https://images.unsplash.com/photo-1597589827317-4c6d47d0a597?w=1200"
 tags: ["europe", "dublin", "student-accommodation"]

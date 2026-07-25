@@ -3,8 +3,8 @@ title: "Housing near University of California, Davis: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of California, Davis holds a Google rating of   4.5 out of 5 stars   from over 1,083 reviews. This place"
 pubDatetime: 2026-07-01T08:35:27.000Z
 modDatetime: 2026-07-07T09:09:27.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1950828.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1950828.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For transport connections beyond the city, the Davis Amtrak station is a major h
 
 ## Budget Bands (2026–2027 Academic Year)
 
-![University of California, Davis](https://img.findstay.org/housing/p/amber-1950828.jpg)
+![University of California, Davis](https://img.unistay.cn/housing/p/amber-1950828.jpg)
 
 All rental prices listed in the bands below are **indicative — confirm with the operator** for the exact 2026–2027 academic year rates, as prices shift based on unit type, lease duration, and demand.
 

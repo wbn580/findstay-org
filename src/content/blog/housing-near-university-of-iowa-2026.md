@@ -3,8 +3,8 @@ title: "Housing near University of Iowa: 2026 student guide"
 description: "University of Iowa: What Campus Reviews Reveal  The University of Iowa, ranked 530 in the QS World University Rankings, sits in Iowa City, a classi"
 pubDatetime: 2026-07-07T08:05:55.000Z
 modDatetime: 2026-07-07T08:23:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-954162.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-954162.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ These complexes are part of the “Rise” brand, which operates multiple studen
 
 ## Budget Bands
 
-![University of Iowa](https://img.findstay.org/housing/p/amber-954162.jpg)
+![University of Iowa](https://img.unistay.cn/housing/p/amber-954162.jpg)
 
 Housing near the University of Iowa generally falls into three budget ranges. All prices are indicative and should be confirmed with the operator before signing a lease.
 

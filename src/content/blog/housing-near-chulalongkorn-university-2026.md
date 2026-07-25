@@ -3,8 +3,8 @@ title: "Housing near Chulalongkorn University: 2026 student guide"
 description: "What Campus Reviews Reveal  Chulalongkorn University (QS global rank 221 in 2026) enjoys a Google rating of 4.7 based on 1,697 reviews. Students an"
 pubDatetime: 2026-07-04T13:45:22.000Z
 modDatetime: 2026-07-07T09:04:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2734934.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2734934.jpg"
 tags: ["university", "chulalongkorn-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The cost of living in Bangkok varies widely. Siam and Sukhumvit areas tend to be
 
 ## Budget Bands
 
-![Chulalongkorn University](https://img.findstay.org/housing/p/amber-2734934.jpg)
+![Chulalongkorn University](https://img.unistay.cn/housing/p/amber-2734934.jpg)
 
 Rental prices for private studios and condos in Bangkok change frequently. As a general guide (indicative – confirm with the operator):
 

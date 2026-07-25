@@ -3,8 +3,8 @@ title: "Housing near Manchester Metropolitan University: 2026 student guide"
 description: "Navigating Student Housing Around Manchester Metropolitan University  Manchester Metropolitan University (MMU) is situated in the heart of Manchest"
 pubDatetime: 2026-07-05T01:41:31.000Z
 modDatetime: 2026-07-07T08:19:31.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01623847.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01623847.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -72,7 +72,7 @@ One of the main advantages of studying at MMU is that the campus is well connect
 - **Bus / tram (10–20 minutes plus waiting):**  
   Areas like Moss Court (situated in Hulme) or Oxney House & Gardens (in Salford/central Manchester) are still easily accessible. Buses run frequently along Oxford Road, and the Metrolink tram network can take you from stops like St Peter’s Square or Deansgate to the campus.
 
-![Manchester Metropolitan University](https://img.findstay.org/housing/p/uh-s01623847.jpg)
+![Manchester Metropolitan University](https://img.unistay.cn/housing/p/uh-s01623847.jpg)
 
 - **Trade-off:**  
   Walking saves time and money but typically costs more in rent because the property is in a premium location. Transit-friendly options are often cheaper per week but require a regular pass (student bus/tram tickets around 400–600 GBP per year). Calculate your total cost including travel before deciding.

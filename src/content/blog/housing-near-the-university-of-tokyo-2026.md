@@ -3,8 +3,8 @@ title: "Housing near The University of Tokyo: 2026 student guide"
 description: "Campus Atmosphere: What Reviews Reveal  The University of Tokyo (Todai) Hongo Campus sits in Bunkyo City, a central ward of Tokyo. Its red gate (Ak"
 pubDatetime: 2026-07-03T14:27:07.000Z
 modDatetime: 2026-07-07T08:13:07.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-248641.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-248641.jpg"
 tags: ["university", "the-university-of-tokyo"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ For those moving to Tokyo for the first time, the city’s public transport is p
 
 ## Budget Considerations for Housing
 
-![The University of Tokyo](https://img.findstay.org/housing/p/amber-248641.jpg)
+![The University of Tokyo](https://img.unistay.cn/housing/p/amber-248641.jpg)
 
 Rental costs for student accommodation near Hongo Campus vary widely depending on size, age, and location within Bunkyo City. Studio apartments (typically 20–40 m²) usually range from 80,000 to 130,000 JPY per month for a modest unit within 15 minutes’ walk of the campus. Shared apartments or guesthouses can be found from 50,000 to 80,000 JPY per month per person, often with shared kitchens and bathrooms. University-owned dormitories are limited and competitive; private student dormitories (e.g., those run by independent operators) may offer rates from 70,000 to 110,000 JPY inclusive of utilities.
 

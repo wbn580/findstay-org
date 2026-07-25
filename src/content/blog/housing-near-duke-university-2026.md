@@ -3,8 +3,8 @@ title: "Housing near Duke University: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at Duke  Reviews of Duke University on Google Maps paint a picture of a prestigious institution with a mix of"
 pubDatetime: 2026-07-05T21:08:58.000Z
 modDatetime: 2026-07-07T08:56:58.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1344834.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1344834.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ Other factors that influence housing costs include proximity to campus, amenitie
 
 ## Budget Bands for Student Housing Near Duke
 
-![Duke University](https://img.findstay.org/housing/p/amber-1344834.jpg)
+![Duke University](https://img.unistay.cn/housing/p/amber-1344834.jpg)
 
 The following are rough monthly rent ranges for student housing in Durham near Duke University. All prices are indicative – confirm with the operator.
 

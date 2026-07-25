@@ -2,7 +2,7 @@
 title: "Miami Student Housing 2026: Areas Near UM, FIU & MDC"
 description: "Student accommodation in Miami — from Coral Gables near UM to Brickell near FIU. 2026 rent prices, neighborhood guides for South Florida's international student hub."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1535498730771-e735b998cd64?w=1600"
 ogImage: "https://images.unsplash.com/photo-1535498730771-e735b998cd64?w=1200"
 tags: ["us", "miami", "student-accommodation"]

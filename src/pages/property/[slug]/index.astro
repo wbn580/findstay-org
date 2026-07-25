@@ -1,0 +1,392 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FsBreadcrumb from "@/components/fs/FsBreadcrumb.astro";
+import FsPropCard from "@/components/fs/FsPropCard.astro";
+import FsFaq from "@/components/fs/FsFaq.astro";
+import FsCtaCard from "@/components/fs/FsCtaCard.astro";
+import {
+  propertiesByCountry,
+  propertiesIndex,
+  countryBySlug,
+  cityByKey,
+  fmtMoney,
+  fmtInt,
+  durShort,
+  imgUrl,
+  ratingOf,
+  unitLabel,
+  prettyDim,
+  fmtAvail,
+  isoCC,
+  moneySym,
+  seedOf,
+  pick,
+  byRating,
+  type FsProperty,
+} from "@/utils/fsData";
+
+export function getStaticPaths() {
+  const paths: { params: { slug: string }; props: { p: FsProperty } }[] = [];
+  for (const list of Object.values(propertiesByCountry)) {
+    for (const p of list) paths.push({ params: { slug: p.slug }, props: { p } });
+  }
+  return paths;
+}
+
+const { p } = Astro.props as { p: FsProperty };
+
+const country = countryBySlug.get(p.country);
+const countryName = country?.name ?? p.country_name;
+const cityRec = cityByKey.get(`${p.country}/${p.city_slug}`);
+const unis = cityRec?.universities ?? [];
+
+const img = imgUrl(p.image);
+const dur = durShort(p.price_duration);
+const durWord = p.price_duration === "weekly" ? "week" : p.price_duration === "monthly" ? "month" : "period";
+const gRating = typeof p.g_rating === "number" ? p.g_rating : null;
+const gReviews = typeof p.g_reviews === "number" ? p.g_reviews : null;
+const platRating = ratingOf(p.rating);
+const headRating = gRating ?? platRating;
+
+const units = (p.unit_types ?? []).map(unitLabel);
+const avail = fmtAvail(p.available_from);
+const leaseUnit = p.price_duration === "weekly" ? "wk" : "mo";
+const deposit = p.deposit ? `${moneySym(p.currency)}${p.deposit}` : null;
+
+/* rating dims → bars (top 8 by score) */
+const dims = Object.entries(p.rating_dims ?? {})
+  .filter(([, v]) => typeof v === "number" && v > 0)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 8);
+
+/* reviews (up to 6, longest first for substance) */
+const reviews = (p.reviews ?? [])
+  .filter(r => r.text && r.text.trim().length >= 40)
+  .sort((a, b) => b.text.length - a.text.length)
+  .slice(0, 6);
+
+/* more residences in this city */
+const moreInCity = propertiesIndex
+  .filter(x => x.country === p.country && x.city_slug === p.city_slug && x.slug !== p.slug)
+  .sort(byRating)
+  .slice(0, 4);
+
+/* ── "About this residence" — data-driven copy, varied per page ── */
+const seed = seedOf(p.slug);
+const typeDesc =
+  units.length >= 2
+    ? `${units.slice(0, 2).join(" and ").toLowerCase()} options`
+    : units.length === 1
+      ? `${units[0].toLowerCase()} accommodation`
+      : "student accommodation";
+
+const openers = [
+  `${p.name} is a student residence in ${p.city}, ${countryName}, offering ${typeDesc}.`,
+  `Located in ${p.city}, ${countryName}, ${p.name} offers ${typeDesc} for students.`,
+  `${p.name} provides ${typeDesc} in ${p.city}, ${countryName}.`,
+  `In ${p.city}, ${countryName}, ${p.name} lists ${typeDesc} aimed at students.`,
+];
+
+const priceSentence =
+  p.min_price != null && p.max_price != null && p.max_price > p.min_price
+    ? pick(
+        [
+          `Indicative rates run from ${fmtMoney(p.currency, p.min_price)} to ${fmtMoney(p.currency, p.max_price)} per ${durWord}, depending on room type and lease length.`,
+          `Listed rates range between ${fmtMoney(p.currency, p.min_price)} and ${fmtMoney(p.currency, p.max_price)} per ${durWord}, varying with room type and contract.`,
+        ],
+        seed,
+        1
+      )
+    : p.min_price != null
+      ? `Indicative rates start from ${fmtMoney(p.currency, p.min_price)} per ${durWord}.`
+      : `The operator quotes rates on enquiry.`;
+
+const ratingSentence = dims.length
+  ? `Residents score ${prettyDim(dims[0][0]).toLowerCase()} (${dims[0][1].toFixed(1)}/5)${dims[1] ? ` and ${prettyDim(dims[1][0]).toLowerCase()} (${dims[1][1].toFixed(1)}/5)` : ""} highest in published ratings.`
+  : gRating && gReviews
+    ? `It holds a ${gRating.toFixed(1)}★ Google rating across ${fmtInt(gReviews)} published reviews.`
+    : `Published review data is limited for this residence, so verify details directly with the operator.`;
+
+const tagSentence =
+  p.tags && p.tags.length
+    ? `The operator highlights ${p.tags
+        .slice(0, 3)
+        .map(t => t.replace(/\.$/, "").toLowerCase())
+        .join(", ")}.`
+    : "";
+
+const leaseSentence = p.min_lease
+  ? `Minimum stays start at ${p.min_lease} ${leaseUnit === "wk" ? "weeks" : "months"}${avail ? `, with rooms ${avail === "Available now" ? "available now" : `available from ${avail}`}` : ""}.`
+  : avail
+    ? avail === "Available now"
+      ? "Rooms are listed as available now."
+      : `Rooms are listed as available from ${avail}.`
+    : "";
+
+const about = [pick(openers, seed), priceSentence, ratingSentence, tagSentence, leaseSentence, "Figures are indicative — confirm current pricing and terms with the operator before signing."]
+  .filter(Boolean)
+  .join(" ");
+
+/* ── FAQ (real data answers) ── */
+const faqs = [
+  {
+    q: `How much does ${p.name} cost?`,
+    a:
+      p.min_price != null
+        ? `Indicative rates ${p.max_price && p.max_price > p.min_price ? `range from ${fmtMoney(p.currency, p.min_price)} to ${fmtMoney(p.currency, p.max_price)}` : `start from ${fmtMoney(p.currency, p.min_price)}`} per ${durWord}${deposit ? `, with a deposit around ${deposit}` : ""}. Final pricing depends on room type, lease length and availability — confirm with the operator.`
+        : `The operator quotes on enquiry for ${p.name}. Ask Robin for a current comparison against similar ${p.city} residences.`,
+  },
+  {
+    q: unis.length
+      ? `Is ${p.name} close to ${unis[0].name}?`
+      : `Which universities are near ${p.name}?`,
+    a: unis.length
+      ? `${p.name} is in ${p.city}, home to ${unis
+          .slice(0, 3)
+          .map(u => u.name)
+          .join(", ")}${unis.length > 3 ? ` and ${unis.length - 3} more` : ""}. Exact commute depends on the campus — the address is ${p.address ?? `${p.city}, ${countryName}`}; check it against your timetable before booking.`
+      : `${p.name} is in ${p.city}, ${countryName}${p.address ? ` (${p.address})` : ""}. Check the commute to your campus before booking — Robin can help you compare travel times across residences.`,
+  },
+  {
+    q: `How do I secure a room at ${p.name}?`,
+    a: `Enquire directly with the operator — contracts, deposits and payments are handled by them, not UniStay. If you want a second opinion first, ask Robin to compare ${p.name} with other ${p.city} residences; an advisor follows up within one business day.`,
+  },
+];
+
+/* ── JSON-LD ── */
+const pageUrl = `https://unistay.net/property/${p.slug}/`;
+const lodgingLd: Record<string, unknown> = {
+  "@context": "https://schema.org",
+  "@type": "LodgingBusiness",
+  name: p.name,
+  url: pageUrl,
+  ...(img && { image: img }),
+  address: {
+    "@type": "PostalAddress",
+    ...(p.address && { streetAddress: p.address }),
+    addressLocality: p.city,
+    addressCountry: isoCC(p.cc),
+  },
+  ...(p.lat != null &&
+    p.lng != null && {
+      geo: { "@type": "GeoCoordinates", latitude: p.lat, longitude: p.lng },
+    }),
+  ...(p.min_price != null && {
+    priceRange: `${fmtMoney(p.currency, p.min_price)}${p.max_price && p.max_price > p.min_price ? `–${fmtMoney(p.currency, p.max_price)}` : ""} per ${durWord}`,
+  }),
+  ...(gRating != null &&
+    gReviews != null &&
+    gReviews > 0 && {
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: gRating,
+        reviewCount: gReviews,
+        bestRating: 5,
+      },
+    }),
+};
+
+const title = `${p.name}, ${p.city} — ${p.min_price != null ? `from ${fmtMoney(p.currency, p.min_price)}/${dur || durWord} · ` : ""}reviews & room types (2026) | UniStay`;
+const desc = `${p.name} in ${p.city}, ${countryName}: ${p.min_price != null ? `indicative rates from ${fmtMoney(p.currency, p.min_price)}/${dur || durWord}, ` : ""}${units.length ? `${units.slice(0, 3).join(", ").toLowerCase()}, ` : ""}${gReviews ? `${fmtInt(gReviews)} Google reviews (${gRating?.toFixed(1)}★). ` : "resident review data. "}Compare before you book.`;
+---
+
+<Layout title={title} description={desc}>
+  <Fragment slot="head">
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(lodgingLd)} />
+  </Fragment>
+
+  <main id="main-content" class="fs-page">
+    <div class="page-hero" style="padding-bottom:30px">
+      <div class="wrap">
+        <FsBreadcrumb
+          crumbs={[
+            { name: "Home", href: "/" },
+            { name: "Housing", href: "/housing/" },
+            { name: countryName, href: `/housing/${p.country}/` },
+            { name: p.city, href: `/housing/${p.country}/${p.city_slug}/` },
+            { name: p.name },
+          ]}
+        />
+        <h1>{p.name}</h1>
+        <p class="intro" style="margin-top:8px">
+          {p.address ?? `${p.city}, ${countryName}`}
+          {headRating != null && (
+            <>
+              {" · "}
+              <span class="stars" aria-hidden="true">★</span>
+              <b> {headRating.toFixed(1)}</b>
+              {gReviews ? <span> ({fmtInt(gReviews)} Google reviews)</span> : null}
+            </>
+          )}
+        </p>
+      </div>
+    </div>
+
+    <section class="fs-sec--tight fs-sec" style="padding-top:10px">
+      <div class="wrap">
+        <!-- image + key facts -->
+        <div class="prop-hero-grid">
+          <div class="fs-card" style="overflow:hidden">
+            {
+              img ? (
+                <img
+                  src={img}
+                  alt={`${p.name} — student accommodation in ${p.city}, ${countryName}`}
+                  style="width:100%;aspect-ratio:16/10;object-fit:cover;display:block"
+                  fetchpriority="high"
+                  width="960"
+                  height="600"
+                />
+              ) : (
+                <div class="prop-thumb" style="aspect-ratio:16/10">
+                  <div class="ph" aria-hidden="true">{p.name.trim().charAt(0).toUpperCase()}</div>
+                </div>
+              )
+            }
+          </div>
+          <div>
+            <div class="facts" style="grid-template-columns: 1fr 1fr">
+              <div class="fact">
+                <span>Indicative rate</span>
+                <b>
+                  {p.min_price != null
+                    ? `${fmtMoney(p.currency, p.min_price)}${p.max_price && p.max_price > p.min_price ? ` – ${fmtMoney(p.currency, p.max_price)}` : "+"}`
+                    : "On enquiry"}
+                </b>
+                {p.min_price != null && <span class="sm">per {durWord} — confirm with the operator</span>}
+              </div>
+              <div class="fact">
+                <span>Deposit</span>
+                <b>{deposit ?? "Set by operator"}</b>
+                {deposit && <span class="sm">indicative</span>}
+              </div>
+              <div class="fact">
+                <span>Min. lease</span>
+                <b>{p.min_lease ? `${p.min_lease} ${leaseUnit === "wk" ? "weeks" : "months"}` : "Flexible / on enquiry"}</b>
+              </div>
+              <div class="fact">
+                <span>Available</span>
+                <b>{avail ?? "Check with operator"}</b>
+              </div>
+            </div>
+            {units.length > 0 && (
+              <div style="margin-top:14px">
+                <span class="fine" style="display:block;margin-bottom:8px;letter-spacing:.08em;text-transform:uppercase;font-weight:600">Room types</span>
+                <div class="prop-body" style="padding:0">
+                  <div class="units">
+                    {units.map(u => <span class="fs-chip">{u}</span>)}
+                  </div>
+                </div>
+              </div>
+            )}
+            {p.tags && p.tags.length > 0 && (
+              <div style="margin-top:12px">
+                <div class="units" style="display:flex;flex-wrap:wrap;gap:6px">
+                  {p.tags.slice(0, 5).map(t => <span class="fs-chip fs-chip--gold">{t.replace(/\.$/, "")}</span>)}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+
+        <!-- about -->
+        <div style="margin-top:40px" class="fs-reveal">
+          <p class="kicker">About this residence</p>
+          <p class="fs-prose">{about}</p>
+        </div>
+
+        <!-- rating dims -->
+        {dims.length > 0 && (
+          <div style="margin-top:40px" class="fs-reveal">
+            <p class="kicker">Resident ratings by category</p>
+            <div class="rating-bars" style="max-width:820px">
+              {dims.map(([k, v]) => (
+                <div class="rbar">
+                  <div class="lab"><span>{prettyDim(k)}</span><b>{v.toFixed(1)}/5</b></div>
+                  <div class="track"><div class="fill" style={`width:${Math.min(100, (v / 5) * 100)}%`}></div></div>
+                </div>
+              ))}
+            </div>
+            <p class="fine" style="margin-top:12px">Category scores from resident-review platforms; scale 0–5.</p>
+          </div>
+        )}
+
+        <!-- reviews -->
+        {reviews.length > 0 && (
+          <div style="margin-top:44px" class="fs-reveal">
+            <p class="kicker">What residents say</p>
+            <div class="fs-grid g-2" style="max-width:980px">
+              {reviews.map(r => (
+                <div class="review-card">
+                  <div class="head">
+                    <span class="who">{r.author}</span>
+                    <span class="src">
+                      {r.rating ? `${"★".repeat(Math.max(1, Math.min(5, Math.round(r.rating))))} · ` : ""}
+                      {String(r.source ?? "").toLowerCase().includes("google") ? "Google review" : "Resident review"}
+                    </span>
+                  </div>
+                  <p>{r.text}</p>
+                </div>
+              ))}
+            </div>
+            <p class="fine" style="margin-top:12px">Verbatim excerpts from published reviews; UniStay does not edit or write reviews.</p>
+          </div>
+        )}
+
+        <!-- nearby universities -->
+        {unis.length > 0 && (
+          <div style="margin-top:44px" class="fs-reveal">
+            <p class="kicker">Nearby universities</p>
+            <div style="max-width:820px">
+              {unis.map(u => (
+                <a href={`/university/${u.slug}/`} class="uni-row">
+                  <span class="rank">{u.rank ? `QS #${u.rank}` : "QS"}</span>
+                  <span><span class="u-name">{u.name}</span></span>
+                  <span class="u-side">Details →</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- more in city -->
+    {moreInCity.length > 0 && (
+      <section class="fs-sec fs-sec--white">
+        <div class="wrap">
+          <div class="sec-head fs-reveal">
+            <div>
+              <p class="kicker">Compare</p>
+              <h2>More residences in {p.city}</h2>
+            </div>
+            <a href={`/housing/${p.country}/${p.city_slug}/`} class="more-link">All {p.city} housing →</a>
+          </div>
+          <div class="fs-grid g-4">
+            {moreInCity.map(x => (
+              <div class="fs-reveal">
+                <FsPropCard p={x} locLabel={`${x.city}, ${countryName}`} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- FAQ + CTA -->
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="fs-reveal">
+          <FsFaq faqs={faqs} heading={`${p.name} — FAQ`} />
+        </div>
+        <div style="margin-top:36px">
+          <FsCtaCard
+            title="Want help securing a room here?"
+            text={`Ask Robin to sanity-check ${p.name} against comparable ${p.city} residences — then get advisor follow-up within one business day. Booking stays directly between you and the operator.`}
+            button="Ask Robin"
+          />
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>

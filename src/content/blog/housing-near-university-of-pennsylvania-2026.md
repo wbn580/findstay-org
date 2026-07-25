@@ -3,8 +3,8 @@ title: "Housing near University of Pennsylvania: 2026 student guide"
 description: "Student Housing Near the University of Pennsylvania  Finding a place to live near the University of Pennsylvania means navigating a high-demand mar"
 pubDatetime: 2026-07-02T10:53:48.000Z
 modDatetime: 2026-07-07T07:58:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013870.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013870.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -82,7 +82,7 @@ Your choice between walking and using public transit depends on how you value ti
 - **Cons**: Rent is highest within this ring. Older apartments may lack modern amenities. Noise from student parties can be an issue on certain blocks.
 - **Best for**: Graduate students with irregular schedules, or undergrads who want to be in the middle of everything.
 
-![University of Pennsylvania](https://img.findstay.org/housing/p/uh-s00013870.jpg)
+![University of Pennsylvania](https://img.unistay.cn/housing/p/uh-s00013870.jpg)
 
 **Transit**
 

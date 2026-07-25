@@ -3,8 +3,8 @@ title: "Housing near National Chung Hsing University: 2026 student guide"
 description: "Campus Reviews Reveal Housing Needs National Chung Hsing University (NCHU) is located in South District, Taichung City, and ranks 628th in the QS World."
 pubDatetime: 2026-07-05T19:07:29.000Z
 modDatetime: 2026-07-07T08:51:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00017385.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00017385.jpg"
 tags: ["university", "national-chung-hsing-university"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ For international students coming to Taiwan for the first time, it is recommende
 
 ## Budget Range Reference (All prices are indicative; please confirm with operators)
 
-![National Chung Hsing University](https://img.findstay.org/housing/p/uh-s00017385.jpg)
+![National Chung Hsing University](https://img.unistay.cn/housing/p/uh-s00017385.jpg)
 
 Since accommodation prices vary depending on the type of housing, furniture configuration, floor level, and rental duration, the following are only estimated ranges based on historical averages. For actual current prices, please consult landlords or student accommodation platforms directly.
 

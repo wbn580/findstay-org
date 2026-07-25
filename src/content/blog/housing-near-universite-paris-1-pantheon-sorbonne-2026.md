@@ -3,8 +3,8 @@ title: "Housing near Université Paris 1 Panthéon-Sorbonne: 2026 student guide"
 description: "University at a Glance  Université Paris 1 Panthéon‑Sorbonne holds position 257 in the QS World University Rankings and has a Google rating of 4.2"
 pubDatetime: 2026-07-02T07:51:35.000Z
 modDatetime: 2026-07-07T08:46:35.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1893910.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1893910.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ All figures mentioned in this guide are indicative — always confirm current pr
 
 ## Budget Bands and What They Get You
 
-![Université Paris 1 Panthéon-Sorbonne](https://img.findstay.org/housing/p/amber-1893910.jpg)
+![Université Paris 1 Panthéon-Sorbonne](https://img.unistay.cn/housing/p/amber-1893910.jpg)
 
 Based on the data available (27 residences, starting at 365 EUR), you can roughly split the options into three bands.
 

@@ -3,8 +3,8 @@ title: "Housing near Fudan University: 2026 student guide"
 description: "What Campus Reviews Reveal about Fudan University  Fudan University, ranked 30th globally in the QS World University Rankings 2026, is widely regar"
 pubDatetime: 2026-07-02T11:37:29.000Z
 modDatetime: 2026-07-07T08:08:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2222768.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2222768.jpg"
 tags: ["university", "fudan-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The area is generally considered student-friendly, with a mix of local eateries 
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Fudan University](https://img.findstay.org/housing/p/amber-2222768.jpg)
+![Fudan University](https://img.unistay.cn/housing/p/amber-2222768.jpg)
 
 When looking for accommodation near Fudan, you can expect a range of options depending on quality, distance, and privacy. All prices below are indicative — confirm with the operator.
 

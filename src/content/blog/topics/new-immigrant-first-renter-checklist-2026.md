@@ -2,7 +2,7 @@
 title: "New Immigrant First-Time Renter Checklist: 20 Steps Before You Sign"
 description: "A step-by-step housing checklist for international students, expats, and new immigrants renting their first place abroad. Documents, inspections, and red flags covered."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1600"
 ogImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200"
 tags: ["rental-tips", "student-accommodation"]

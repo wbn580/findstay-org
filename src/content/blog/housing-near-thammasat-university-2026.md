@@ -3,8 +3,8 @@ title: "Housing near Thammasat University: 2026 student guide"
 description: "What Campus Reviews Reveal About Thammasat University  Thammasat University’s Tha Prachan campus sits on the Chao Phraya River in Bangkok’s histori"
 pubDatetime: 2026-07-02T14:44:39.000Z
 modDatetime: 2026-07-07T08:36:39.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01520037.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01520037.jpg"
 tags: ["university", "thammasat-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Overall, the city context demands a trade‑off: live very close to campus for t
 
 ## Budget Bands for Student Housing
 
-![Thammasat University](https://img.findstay.org/housing/p/uh-s01520037.jpg)
+![Thammasat University](https://img.unistay.cn/housing/p/uh-s01520037.jpg)
 
 > All figures are indicative — confirm current rental prices directly with the operator or landlord. Rates may change seasonally, especially near the start of academic terms.
 

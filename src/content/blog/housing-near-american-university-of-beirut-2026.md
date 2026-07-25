@@ -3,8 +3,8 @@ title: "Housing near American University of Beirut (AUB): 2026 student guide"
 description: "Housing Near American University of Beirut (AUB): What Student Reviews Reveal  American University of Beirut (AUB) sits on a hill overlooking the M"
 pubDatetime: 2026-07-02T17:22:02.000Z
 modDatetime: 2026-07-07T09:14:02.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-142985.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-142985.jpg"
 tags: ["university", "american-university-of-beirut"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ The single most important decision you will make when choosing housing near AUB 
 
 The trade-off also involves safety, convenience, and time. Walking in Ras Beirut is safe during daylight and early evening. After dark, many students still walk in groups, but the main streets are well-lit. The Corniche (the seaside promenade) is a popular walking route that runs under the AUB campus. Some students choose to live near the Corniche for the sea views and then climb the hill to AUB — a steep but quick 10-minute walk. If you have early morning classes or labs, a walkable location reduces stress. If you are on a tight budget and can handle a 30-minute commute, you can save USD 200–400 per month on rent.
 
-![American University of Beirut (AUB)](https://img.findstay.org/housing/p/amber-142985.jpg)
+![American University of Beirut (AUB)](https://img.unistay.cn/housing/p/amber-142985.jpg)
 
 Public transport in Beirut consists of shared taxis (red-plate “service” cars) and a limited bus network. There is no metro or tram. Service cars run fixed routes along major streets — Bliss Street is served by services that go to Hamra, Verdun, and downtown. However, drivers often wait until the car is full before departing, so you cannot rely on precise timing. Buses are cheaper but less comfortable and run infrequently. The most reliable public transport option for AUB students is walking.
 

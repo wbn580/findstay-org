@@ -3,8 +3,8 @@ title: "Housing near Indian Institute of Technology Bombay (IITB): 2026 student 
 description: "Understanding the IIT Bombay Campus from Student Reviews  Indian Institute of Technology Bombay (IITB) sits on a vast, self-contained campus in Pow"
 pubDatetime: 2026-06-30T12:43:38.000Z
 modDatetime: 2026-07-07T07:55:38.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3220186.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3220186.jpg"
 tags: ["university", "indian-institute-of-technology-bombay"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Cost of living in Powai is moderately high by Mumbai standards, though still low
 
 ## Budget Bands for Off-Campus Housing (Indicative – Confirm with Operator)
 
-![Indian Institute of Technology Bombay (IITB)](https://img.findstay.org/housing/p/amber-3220186.jpg)
+![Indian Institute of Technology Bombay (IITB)](https://img.unistay.cn/housing/p/amber-3220186.jpg)
 
 **Shared room in a PG (paying guest) accommodation**  
 ₹6,000 – ₹11,000 per month per person  

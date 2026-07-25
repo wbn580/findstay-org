@@ -3,8 +3,8 @@ title: "Housing near Universität Leipzig: 2026 student guide"
 description: "What Campus Reviews Reveal Leipzig University is located in the city center, and its rating on Google by students and visitors is 4.5 stars (out of 760."
 pubDatetime: 2026-07-02T11:56:14.000Z
 modDatetime: 2026-07-07T08:54:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1240447.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1240447.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -26,7 +26,7 @@ In terms of the rental market, Leipzig offers both historic Altbau (old building
 
 ## Budget Band
 
-![Universität Leipzig](https://img.findstay.org/housing/p/amber-1240447.jpg)
+![Universität Leipzig](https://img.unistay.cn/housing/p/amber-1240447.jpg)
 
 Leipzig's rent level is moderately low in Germany, but has been rising year by year. Below is the approximate range for the year 2026‑2027 (all prices are indicative; please confirm actual fees with the operator):
 

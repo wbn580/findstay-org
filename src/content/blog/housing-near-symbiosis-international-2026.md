@@ -3,8 +3,8 @@ title: "Housing near Symbiosis International (Deemed University): 2026 student g
 description: "What Campus Reviews Tell You About Living at Symbiosis International  Symbiosis International (Deemed University) in Pune, Maharashtra, holds a QS"
 pubDatetime: 2026-07-06T01:46:00.000Z
 modDatetime: 2026-07-07T08:56:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1213643.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1213643.jpg"
 tags: ["university", "symbiosis-international"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The trade-off is clear: proximity to campus minimises commute time and cost, but
 
 ## Student Housing Budget Bands
 
-![Symbiosis International (Deemed University)](https://img.findstay.org/housing/p/amber-1213643.jpg)
+![Symbiosis International (Deemed University)](https://img.unistay.cn/housing/p/amber-1213643.jpg)
 
 The following are indicative monthly rent ranges for different housing types near Symbiosis International, based on general Pune-area data as of early 2026. All prices are indicative — confirm with the operator before making any commitments.
 

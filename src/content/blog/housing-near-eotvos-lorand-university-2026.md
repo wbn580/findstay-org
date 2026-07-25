@@ -3,8 +3,8 @@ title: "Housing near Eotvos Lorand University: 2026 student guide"
 description: "Housing Near Eötvös Loránd University: What Campus Reviews Reveal and How to Find Your Place  Eötvös Loránd University (ELTE) sits in the heart of"
 pubDatetime: 2026-07-05T08:28:56.000Z
 modDatetime: 2026-07-07T09:04:56.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00054654.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00054654.jpg"
 tags: ["university", "eotvos-lorand-university"]
 category: "university"
 draft: false
@@ -63,7 +63,7 @@ Utility costs (electricity, gas, internet) add €50–100/month. Many landlords
 
 **Walking**: Living in District V or VII means you can be at ELTE’s main building in 10–15 minutes on foot. This saves time and monthly travel costs. The trade-off is higher rent and possibly smaller rooms in older buildings (no lift, high ceilings). Students who prioritise lectures, libraries, and spontaneous meet-ups tend to choose walking distance.
 
-![Eotvos Lorand University](https://img.findstay.org/housing/p/uh-s00054654.jpg)
+![Eotvos Lorand University](https://img.unistay.cn/housing/p/uh-s00054654.jpg)
 
 **Transit**: If you live in District VIII, IX, or Buda, a metro/tram ride takes 15–25 minutes. Rent is often 20–30% lower. A monthly student pass covers unlimited travel. The downside: early morning or late evening lectures may require checking schedules, and you lose the casual campus vibe. However, you gain a larger living space, quieter environment, and sometimes a balcony or green views.
 

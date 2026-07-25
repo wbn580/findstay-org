@@ -3,8 +3,8 @@ title: "Housing near The University of Queensland: 2026 student guide"
 description: "Housing near The University of Queensland  The University of Queensland (UQ) sits on a 114-hectare campus in St Lucia, about 7 km south-west of Bri"
 pubDatetime: 2026-07-01T14:56:27.000Z
 modDatetime: 2026-07-07T08:17:27.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2005720.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2005720.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Other reviews comment on the campus being well‑manicured and world‑class. Ho
 
 ## City Context: Brisbane
 
-![The University of Queensland](https://img.findstay.org/housing/p/amber-2005720.jpg)
+![The University of Queensland](https://img.unistay.cn/housing/p/amber-2005720.jpg)
 
 Brisbane is a subtropical city with warm summers and mild winters. The St Lucia campus is located on a bend of the Brisbane River, close to suburbs such as Toowong, Taringa, Indooroopilly, and St Lucia itself. Public transport includes buses (many with frequent services to the city and other suburbs), the CityCat ferry (with a stop at St Lucia), and train stations at Toowong and Indooroopilly. Cycling paths also connect the university to nearby residential areas.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Saskatchewan: 2026 student guide"
 description: "University of Saskatchewan: What the Campus Tells You About Living Nearby  Campus reviews paint a mixed picture of the University of Saskatchewan."
 pubDatetime: 2026-07-01T15:13:23.000Z
 modDatetime: 2026-07-07T08:50:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1610094.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1610094.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For students, the city offers grocery stores, restaurants, and entertainment wit
 
 ## Budget Bands (2026–2027 Indicative — Confirm with the Operator)
 
-![University of Saskatchewan](https://img.findstay.org/housing/p/amber-1610094.jpg)
+![University of Saskatchewan](https://img.unistay.cn/housing/p/amber-1610094.jpg)
 
 Housing costs in Saskatoon vary depending on distance to campus, unit type, and included utilities. The figures below are indicative ranges for the 2026–2027 academic year. Always confirm exact pricing with the property operator before signing a lease.
 

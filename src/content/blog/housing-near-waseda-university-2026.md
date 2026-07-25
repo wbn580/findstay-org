@@ -3,8 +3,8 @@ title: "Housing near Waseda University: 2026 student guide"
 description: "What Campus Reviews Reveal  Waseda University’s Google rating stands at 4.4 out of 5, based on 1,718 reviews. Students and visitors frequently ment"
 pubDatetime: 2026-07-05T00:27:18.000Z
 modDatetime: 2026-07-07T08:43:18.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01412520.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01412520.jpg"
 tags: ["university", "waseda-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The campus is close to the Kanda River and boasts a green corridor that softens 
 
 ## Budget Bands for Student Housing
 
-![Waseda University](https://img.findstay.org/housing/p/uh-s01412520.jpg)
+![Waseda University](https://img.unistay.cn/housing/p/uh-s01412520.jpg)
 
 Rents in Shinjuku vary widely depending on distance to campus, property type, and contract length. The following bands are indicative — confirm with the operator.
 

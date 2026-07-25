@@ -20,7 +20,7 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "Mail",
-    href: "mailto:hello@findstay.org",
+    href: "mailto:contact@unistay.cn",
     linkTitle: `Contact ${SITE.title}`,
     icon: IconMail,
   },

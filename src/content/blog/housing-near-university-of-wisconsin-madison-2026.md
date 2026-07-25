@@ -3,8 +3,8 @@ title: "Housing near University of Wisconsin-Madison: 2026 student guide"
 description: "Campus Reviews: What Students and Visitors Say  The University of Wisconsin-Madison campus has a strong presence on Google Maps, with a 4.6 rating"
 pubDatetime: 2026-07-01T17:56:35.000Z
 modDatetime: 2026-07-07T09:06:35.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2442081.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2442081.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Because the given residence is located in a different city, it cannot be conside
 
 ## Budget Bands for Student Housing
 
-![University of Wisconsin-Madison](https://img.findstay.org/housing/p/amber-2442081.jpg)
+![University of Wisconsin-Madison](https://img.unistay.cn/housing/p/amber-2442081.jpg)
 
 Based on the indicative $674 starting price, and considering typical Madison rents, a reasonable budget framework for 2026–2027 might look like this:
 

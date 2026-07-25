@@ -3,8 +3,8 @@ title: "Housing near Bauman Moscow State Technical University: 2026 student guid
 description: "Campus Reviews: What Students Say  Bauman Moscow State Technical University (BMSTU) holds a Google rating of 4.2 from 889 reviews, indicating gener"
 pubDatetime: 2026-07-04T18:48:34.000Z
 modDatetime: 2026-07-07T08:44:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1097087.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1097087.jpg"
 tags: ["university", "bauman-moscow-state-technical-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The university itself has a compact, multi-building campus. Most lectures and la
 
 ## Budget Bands for Student Housing
 
-![Bauman Moscow State Technical University](https://img.findstay.org/housing/p/amber-1097087.jpg)
+![Bauman Moscow State Technical University](https://img.unistay.cn/housing/p/amber-1097087.jpg)
 
 All prices below are indicative – confirm with the operator. Actual costs depend on room type, location, season, and contract terms. Use these bands as a starting point when comparing options.
 

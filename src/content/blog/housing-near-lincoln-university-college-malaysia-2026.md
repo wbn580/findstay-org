@@ -3,8 +3,8 @@ title: "Housing near Lincoln University College, Malaysia: 2026 student guide"
 description: "City and Campus Overview Lincoln University College is located in Kota Bharu, the capital of Kelantan, Malaysia, at Jalan Lembah Sireh, Kampung Putih. The."
 pubDatetime: 2026-07-05T01:36:15.000Z
 modDatetime: 2026-07-07T08:14:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1534005.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1534005.jpg"
 tags: ["university", "lincoln-university-college-malaysia"]
 category: "university"
 draft: false
@@ -32,7 +32,7 @@ The above prices do not include utilities (about 50–100 MYR per month) and int
 
 ## Walking vs. Public Transit Trade-offs
 
-![Lincoln University College, Malaysia](https://img.findstay.org/housing/p/amber-1534005.jpg)
+![Lincoln University College, Malaysia](https://img.unistay.cn/housing/p/amber-1534005.jpg)
 
 The Jalan Lembah Sireh area where Lincoln University College is located is not the city center of Kota Bharu, but there are some small shops and food courts within walking distance. Accommodation near campus is mainly concentrated in the following directions (no specific apartment names):
 

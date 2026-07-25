@@ -2,7 +2,7 @@
 title: "Lisbon Student Accommodation 2026: Housing Near Universidade de Lisboa & NOVA"
 description: "Student housing in Lisbon — Europe's hottest digital nomad city. Affordable rent near Universidade de Lisboa and NOVA, with neighborhood guides for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=1600"
 ogImage: "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=1200"
 tags: ["europe", "lisbon", "student-accommodation", "digital-nomad"]

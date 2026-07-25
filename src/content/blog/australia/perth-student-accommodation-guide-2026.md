@@ -2,7 +2,7 @@
 title: "Perth Student Accommodation Guide 2026: UWA, Curtin & ECU Housing Compared"
 description: "Find affordable student housing in Perth near UWA, Curtin, ECU, and Murdoch. Rent prices, best suburbs, and PBSA options for international students in 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1546268061-2c4441fab754?w=1600"
 ogImage: "https://images.unsplash.com/photo-1546268061-2c4441fab754?w=1200"
 tags: ["australia", "perth", "student-accommodation"]

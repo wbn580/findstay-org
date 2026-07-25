@@ -3,8 +3,8 @@ title: "Housing near Imperial College London: 2026 student guide"
 description: "What Campus Reviews Reveal About Imperial College London  Imperial College London consistently ranks among the world’s top universities (QS rank 2"
 pubDatetime: 2026-07-04T02:35:41.000Z
 modDatetime: 2026-07-07T07:46:41.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00179605.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00179605.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ According to available data, there are currently 53 student accommodation option
 
 ## Budget Bands for 2026/2027
 
-![Imperial College London](https://img.findstay.org/housing/p/uh-s00179605.jpg)
+![Imperial College London](https://img.unistay.cn/housing/p/uh-s00179605.jpg)
 
 When planning your housing budget, consider these typical weekly rent ranges (all indicative – confirm with the operator):
 

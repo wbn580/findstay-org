@@ -3,8 +3,8 @@ title: "Housing near University of Liege: 2026 student guide"
 description: "Campus Location and What Reviews Tell Us  The University of Liège is located at Pl. du Vingt Août 7, 4000 Liège, Belgium, placing its administrativ"
 pubDatetime: 2026-07-04T14:17:53.000Z
 modDatetime: 2026-07-07T08:02:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00179605.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00179605.jpg"
 tags: ["university", "university-of-liege"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The cost of living in Liège is generally lower than in Brussels or Antwerp, whi
 
 ## Budget Bands for Student Housing
 
-![University of Liege](https://img.findstay.org/housing/p/uh-s00179605.jpg)
+![University of Liege](https://img.unistay.cn/housing/p/uh-s00179605.jpg)
 
 Student accommodation in Liège falls into several broad price ranges. All figures below are **indicative — confirm with the operator**.
 

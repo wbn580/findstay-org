@@ -3,8 +3,8 @@ title: "Housing near University College Cork: 2026 student guide"
 description: "What Campus Reviews Reveal  University College Cork (UCC) holds a Google rating of 4.6 from 999 reviews. The campus itself is a recurring character"
 pubDatetime: 2026-06-30T20:49:20.000Z
 modDatetime: 2026-07-07T07:53:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-209413.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-209413.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Typical lease periods for the 2026/27 academic year run from September to May or
 
 ## Budget Bands for Student Housing
 
-![University College Cork](https://img.findstay.org/housing/p/amber-209413.jpg)
+![University College Cork](https://img.unistay.cn/housing/p/amber-209413.jpg)
 
 Rent in Cork varies by location, room type, and amenities. The following bands are based on 2026/27 indicative prices for the PBSA mentioned in this guide. **All prices are indicative—confirm with the operator before making any commitments.**
 

@@ -3,8 +3,8 @@ title: "Housing near Chang Gung University: 2026 student guide"
 description: "Housing Near Chang Gung University: What Campus Reviews Reveal  Chang Gung University (CGU) is located at No. 259, Wenhua 1st Rd, Guishan District,"
 pubDatetime: 2026-07-07T06:11:01.000Z
 modDatetime: 2026-07-07T08:35:01.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01524825.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01524825.jpg"
 tags: ["university", "chang-gung-university"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ The majority of student housing lies along bus routes 601, 603, and 606, which r
 
 Because the data does not provide a specific list of nearby residences, the following selection criteria can help you evaluate any option you find through local platforms or referrals.
 
-![Chang Gung University](https://img.findstay.org/housing/p/uh-s01524825.jpg)
+![Chang Gung University](https://img.unistay.cn/housing/p/uh-s01524825.jpg)
 
 1. **Proximity to a flat entrance**  
    Given the stair reports, a residence with level ground or ramp access to the building and a short walk to campus may improve daily comfort. Avoid units that require climbing additional steps after a day of stairs.

@@ -3,8 +3,8 @@ title: "Housing near Chiang Mai University: 2026 student guide"
 description: "What Campus Reviews Reveal Chiang Mai University (CMU) has received high praise from students and visitors for its campus environment. With a Google."
 pubDatetime: 2026-07-03T00:13:22.000Z
 modDatetime: 2026-07-07T08:20:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2756491.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2756491.jpg"
 tags: ["university", "chiang-mai-university"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Note: Chiang Mai's dry season (11月–4月) has warm weather, while the rainy s
 
 ## Housing Budget Range (2026–2027 Academic Year)
 
-![Chiang Mai University](https://img.findstay.org/housing/p/amber-2756491.jpg)
+![Chiang Mai University](https://img.unistay.cn/housing/p/amber-2756491.jpg)
 
 The following are common price ranges for private rentals around CMU. All prices are **indicative — confirm with the operator**.
 

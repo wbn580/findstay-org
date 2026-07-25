@@ -1,0 +1,50 @@
+---
+import LocaleLanding from "@/components/fs/LocaleLanding.astro";
+import { stats, fmtInt } from "@/utils/fsData";
+
+const t = {
+  title: `UniStay — 全球學生住宿搜尋：${fmtInt(stats.properties)} 間宿舍，${stats.cities} 座城市（2026）`,
+  desc: `比較 ${stats.countries} 個國家、${stats.cities} 座城市的 ${fmtInt(stats.properties)} 間學生宿舍：真實住客評價、參考價格，並對應 ${fmtInt(stats.universities)} 所 QS 排名大學。`,
+  eyebrow: "全球學生住宿 · 2026 入學季",
+  h1: "找到最靠近校園的",
+  h1em: "理想住處",
+  lead: `<b>${fmtInt(stats.properties)} 間宿舍</b> · <b>${stats.cities} 座城市</b> · <b>${stats.countries} 個國家</b> — 以真實住客評價與參考價格逐間比較，不靠宣傳冊做決定。`,
+  askRobin: "問問 Robin — AI 住宿配對",
+  browse: "瀏覽城市",
+  stepsKicker: "使用方式",
+  stepsH2: "三步完成，不用瞎猜",
+  steps: [
+    { h: "告訴 Robin 你的學校與預算", p: "打開對話窗，說出你的大學、預算與入住月份，Robin 會從數千間宿舍中挑出真正合適的幾間。" },
+    { h: "比較真實價格與評價", p: "每間宿舍頁面都有參考價格、房型，以及住客公開評價的原文摘錄——好壞都看得到。" },
+    { h: "由顧問跟進", p: "選好清單後，住宿顧問會在一個工作日內聯絡你，協助向營運方確認細節；簽約與付款始終由你直接完成。" },
+  ],
+  countriesKicker: "目的地",
+  countriesH2: "按國家瀏覽",
+  residencesWord: "間宿舍",
+  citiesWord: "座城市",
+  note: "各城市與宿舍詳情頁目前以英文提供；價格均為參考價，簽約前請向營運方確認。",
+  ctaH2: "從一份清單開始，而不是三千個分頁",
+  ctaP: `Robin 會交叉比對 ${fmtInt(stats.properties)} 間宿舍與 ${fmtInt(stats.universities)} 所大學的數據，數據之外的部分再交給真人顧問。`,
+  statResidences: "間宿舍",
+  statCities: "座城市",
+  statCountries: "個國家",
+  statUnis: "所 QS 大學",
+};
+
+const countryNames = {
+  "united-states": "美國",
+  "united-kingdom": "英國",
+  spain: "西班牙",
+  australia: "澳洲",
+  canada: "加拿大",
+  germany: "德國",
+  singapore: "新加坡",
+  france: "法國",
+  ireland: "愛爾蘭",
+  "new-zealand": "紐西蘭",
+  uae: "阿聯酋",
+  italy: "義大利",
+};
+---
+
+<LocaleLanding locale="zh-hant" htmlLang="zh-Hant" t={t} countryNames={countryNames} />

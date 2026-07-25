@@ -3,8 +3,8 @@ title: "Housing near University of Oxford: 2026 student guide"
 description: "Housing Near University of Oxford: What the Campus Reviews Reveal  The University of Oxford consistently ranks among the world’s top universities ("
 pubDatetime: 2026-07-04T12:42:37.000Z
 modDatetime: 2026-07-07T07:50:37.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1357112.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1357112.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Oxford is a walkable and bike-friendly city. The centre is small, and many stude
 - **Cycling (15–30 minutes)**: Oxford has decent cycle lanes, and many students use bikes. This extends your affordable housing options to areas 2–4 miles from centre. Costs: a bike (new or second-hand) and occasional repairs. Potential downside: hills, rain, and theft risk.
 - **Bus (20–40 minutes)**: Oxford’s bus network is extensive. The city operates frequent services (e.g., the 4, 5, 10, and U lines). A student bus pass costs around £300–£400 per academic year (indicative). You can live farther out in Cowley, Littlemore, or even Kidlington and save on rent. Trade-off: longer journey, schedule dependency, and possible congestion at peak times.
 
-![University of Oxford](https://img.findstay.org/housing/p/amber-1357112.jpg)
+![University of Oxford](https://img.unistay.cn/housing/p/amber-1357112.jpg)
 
 **Recommendation**: If your budget is tight, accept a 30–40 minute commute by bus. If your time is valuable or your classes end late, prioritise a shorter walk or cycle (up to 20 minutes). A hybrid approach—living near a bus stop on a frequent route—can balance cost and convenience.
 

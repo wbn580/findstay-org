@@ -3,8 +3,8 @@ title: "Housing near Singapore University of Technology and Design: 2026 student
 description: "Real Life Revealed by Campus Reviews The Singapore University of Technology and Design (SUTD) holds a 4.6 rating on Google Maps (from 376 reviews).."
 pubDatetime: 2026-07-06T03:15:32.000Z
 modDatetime: 2026-07-07T08:15:32.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3222723.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3222723.jpg"
 tags: ["university", "singapore"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ According to current market data, there are about 129 rental listings near SUTD 
 
 ## Budget Ranges and Typical Room Types
 
-![Singapore University of Technology and Design](https://img.findstay.org/housing/p/amber-3222723.jpg)
+![Singapore University of Technology and Design](https://img.unistay.cn/housing/p/amber-3222723.jpg)
 
 Based on indicative prices (indicative — confirm with the operator), here are three common budget ranges for reference when filtering:
 

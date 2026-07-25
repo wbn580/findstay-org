@@ -3,8 +3,8 @@ title: "Housing near University of Colorado Boulder: 2026 student guide"
 description: "University of Colorado Boulder: What Housing Seekers Should Know from Campus Reviews  Located at the base of the Flatirons in Boulder, Colorado, th"
 pubDatetime: 2026-07-04T14:37:49.000Z
 modDatetime: 2026-07-07T08:28:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-937062.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-937062.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ The walk-versus-transit decision also affects daily routine. Students with early
 
 ### Shortlist Logic: Using Given Nearby Residences
 
-![University of Colorado Boulder](https://img.findstay.org/housing/p/amber-937062.jpg)
+![University of Colorado Boulder](https://img.unistay.cn/housing/p/amber-937062.jpg)
 
 The two provided nearby residences are **University Village At Boulder Creek** and **U Club On 28th**. Both are typical purpose-built student housing complexes located close to the CU Boulder campus. While detailed specifications are not given, we can infer their shortlist criteria based on location, budget, and the reviews above.
 

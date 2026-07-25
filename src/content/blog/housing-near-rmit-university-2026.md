@@ -3,8 +3,8 @@ title: "Housing near RMIT University: 2026 student guide"
 description: "Finding Student Housing near RMIT University, Melbourne  RMIT University’s main campus sits at 124 La Trobe Street in Melbourne’s central business"
 pubDatetime: 2026-07-01T00:44:12.000Z
 modDatetime: 2026-07-07T07:52:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3166365.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3166365.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -62,7 +62,7 @@ If you prefer a quieter neighbourhood and are willing to spend 15–20 minutes c
 
 ### Shortlist Logic: Five Nearby Residences
 
-![RMIT University](https://img.findstay.org/housing/p/amber-3166365.jpg)
+![RMIT University](https://img.unistay.cn/housing/p/amber-3166365.jpg)
 
 The following five accommodation options are cited as sample listings near RMIT. They are all established student housing providers operating in Melbourne. Below is a summary of where they are located and what to expect. Prices are **indicative — confirm with the operator** and based on 2026–2027 rates.
 

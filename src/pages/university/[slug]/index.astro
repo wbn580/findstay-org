@@ -1,0 +1,196 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FsBreadcrumb from "@/components/fs/FsBreadcrumb.astro";
+import FsPropCard from "@/components/fs/FsPropCard.astro";
+import FsFaq from "@/components/fs/FsFaq.astro";
+import FsCtaCard from "@/components/fs/FsCtaCard.astro";
+import {
+  universities,
+  propertiesIndex,
+  cityByKey,
+  countryBySlug,
+  fmtInt,
+  fmtMoney,
+  durShort,
+  byRating,
+  type FsUniversity,
+} from "@/utils/fsData";
+
+export function getStaticPaths() {
+  return universities.map(u => ({ params: { slug: u.slug }, props: { u } }));
+}
+
+const { u } = Astro.props as { u: FsUniversity };
+
+const cityRec = u.city_key ? cityByKey.get(u.city_key) : null;
+const country = u.country ? countryBySlug.get(u.country) : null;
+
+/* housing near: city match → top 6 residences; else country hub; else global directory */
+const nearbyProps = cityRec
+  ? propertiesIndex
+      .filter(p => p.country === cityRec.country && p.city_slug === cityRec.slug)
+      .sort(byRating)
+      .slice(0, 6)
+  : [];
+
+const cheapestNear = nearbyProps
+  .filter(p => p.min_price != null)
+  .sort((a, b) => (a.min_price as number) - (b.min_price as number))[0];
+
+const campusReviews = (u.reviews ?? [])
+  .filter(r => r.text && r.text.trim().length >= 60)
+  .slice(0, 4);
+
+const faqs = [
+  {
+    q: `Where do ${u.name} students live?`,
+    a: cityRec
+      ? `Most purpose-built options sit in ${cityRec.name}, where UniStay lists ${cityRec.property_count} residences${cheapestNear ? ` with indicative rates from ${fmtMoney(cheapestNear.currency, cheapestNear.min_price as number)}/${durShort(cheapestNear.price_duration)}` : ""}. Compare them on the <a href="/housing/${cityRec.country}/${cityRec.slug}/">${cityRec.name} housing page</a>.`
+      : country
+        ? `UniStay tracks ${fmtInt(country.property_count)} residences across ${country.city_count} cities in ${country.name} — start from the <a href="/housing/${country.slug}/">${country.name} housing hub</a> and filter by commute to campus.`
+        : `Coverage near this campus is still growing. Browse the <a href="/housing/">global housing directory</a> or ask Robin to check current options near ${u.name}.`,
+  },
+  {
+    q: `How is ${u.name} rated?`,
+    a: `${u.name} ranks #${u.rank} in the QS World University Rankings${u.g_rating ? ` and holds a ${u.g_rating.toFixed(1)}★ Google rating across ${fmtInt(u.g_reviews ?? 0)} published campus reviews` : ""}. Rankings measure the institution — visit days and open campuses tell you more about daily life.`,
+  },
+  {
+    q: `When should I book housing near ${u.name}?`,
+    a: `Popular residences release rooms two or three terms ahead of each intake, and the best-priced rooms go first. Shortlist early, then confirm pricing and contract terms directly with the operator — figures on UniStay are indicative.`,
+  },
+];
+
+const uniLd: Record<string, unknown> = {
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  name: u.name,
+  url: `https://unistay.net/university/${u.slug}/`,
+  ...(u.website && { sameAs: [u.website] }),
+  ...(u.address && { address: u.address }),
+  ...(u.g_rating != null &&
+    (u.g_reviews ?? 0) > 0 && {
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: u.g_rating,
+        reviewCount: u.g_reviews,
+        bestRating: 5,
+      },
+    }),
+};
+
+const title = `${u.name} — Student Housing Nearby (2026) · QS #${u.rank} | UniStay`;
+const desc = `${u.name}: QS World Ranking #${u.rank}${u.g_rating ? `, ${u.g_rating.toFixed(1)}★ Google campus rating (${fmtInt(u.g_reviews ?? 0)} reviews)` : ""}. ${cityRec ? `${cityRec.property_count} student residences listed in ${cityRec.name}${cheapestNear ? `, from ${fmtMoney(cheapestNear.currency, cheapestNear.min_price as number)}/${durShort(cheapestNear.price_duration)}` : ""}.` : "Find student housing within reach of campus."}`;
+---
+
+<Layout title={title} description={desc}>
+  <Fragment slot="head">
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(uniLd)} />
+  </Fragment>
+
+  <main id="main-content" class="fs-page">
+    <div class="page-hero">
+      <div class="wrap">
+        <FsBreadcrumb
+          crumbs={[
+            { name: "Home", href: "/" },
+            { name: "Universities", href: "/universities/" },
+            { name: u.name },
+          ]}
+        />
+        <h1>{u.name} — student housing nearby (2026)</h1>
+        <p class="intro">
+          {u.address ?? (country ? country.name : "")}
+        </p>
+        <div class="stat-row">
+          <div class="stat-pill"><b>QS #{u.rank}</b>World University Rankings</div>
+          {u.g_rating && <div class="stat-pill"><b>★ {u.g_rating.toFixed(1)}</b>Google campus rating</div>}
+          {u.g_reviews ? <div class="stat-pill"><b>{fmtInt(u.g_reviews)}</b>published reviews</div> : null}
+          {cityRec && <div class="stat-pill"><b>{cityRec.property_count}</b>residences in {cityRec.name}</div>}
+        </div>
+      </div>
+    </div>
+
+    <!-- campus reviews -->
+    {campusReviews.length > 0 && (
+      <section class="fs-sec fs-sec--white fs-sec--tight">
+        <div class="wrap">
+          <div class="sec-head fs-reveal" style="margin-bottom:22px">
+            <div>
+              <p class="kicker">Campus voices</p>
+              <h2>What people say about {u.name}</h2>
+            </div>
+          </div>
+          <div class="fs-grid g-2">
+            {campusReviews.map(r => (
+              <div class="review-card fs-reveal">
+                <div class="head">
+                  <span class="who">{r.author}</span>
+                  <span class="src">{r.rating ? `${"★".repeat(Math.max(1, Math.min(5, Math.round(r.rating))))} · ` : ""}Google review{r.time ? ` · ${r.time}` : ""}</span>
+                </div>
+                <p>{r.text}</p>
+              </div>
+            ))}
+          </div>
+          <p class="fine" style="margin-top:12px">Verbatim excerpts from published Google reviews of the campus.</p>
+        </div>
+      </section>
+    )}
+
+    <!-- housing near -->
+    <section class="fs-sec">
+      <div class="wrap">
+        <div class="sec-head fs-reveal">
+          <div>
+            <p class="kicker">Housing</p>
+            <h2>Housing near {u.name}</h2>
+          </div>
+          {cityRec ? (
+            <a href={`/housing/${cityRec.country}/${cityRec.slug}/`} class="more-link">All {cityRec.name} housing →</a>
+          ) : country ? (
+            <a href={`/housing/${country.slug}/`} class="more-link">Housing in {country.name} →</a>
+          ) : (
+            <a href="/housing/" class="more-link">Housing directory →</a>
+          )}
+        </div>
+
+        {nearbyProps.length > 0 ? (
+          <div class="fs-grid g-3">
+            {nearbyProps.map(p => (
+              <div class="fs-reveal">
+                <FsPropCard p={p} locLabel={`${p.city}${country ? `, ${country.name}` : ""}`} />
+              </div>
+            ))}
+          </div>
+        ) : (
+          <p class="fs-prose fs-reveal">
+            {country
+              ? `We haven’t mapped residences to this campus yet — browse the ${fmtInt(country.property_count)} residences across ${country.city_count} cities on the `
+              : `We haven’t mapped residences to this campus yet — browse the `}
+            {country ? (
+              <a href={`/housing/${country.slug}/`}>{country.name} housing hub</a>
+            ) : (
+              <a href="/housing/">global housing directory</a>
+            )}
+            , or ask Robin to check current options near {u.name}.
+          </p>
+        )}
+      </div>
+    </section>
+
+    <!-- FAQ + CTA -->
+    <section class="fs-sec fs-sec--white">
+      <div class="wrap">
+        <div class="fs-reveal">
+          <FsFaq faqs={faqs} heading={`${u.name} — housing FAQ`} />
+        </div>
+        <div style="margin-top:36px">
+          <FsCtaCard
+            title={`Heading to ${u.name}?`}
+            text="Give Robin your course start date and budget — get a housing shortlist matched to this campus, with advisor follow-up within one business day."
+            button="Ask Robin"
+          />
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>

@@ -3,8 +3,8 @@ title: "Housing near Kobe University: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at Kobe University  Perched on a hillside in the Nada Ward of Kobe, the university’s campus offers more than"
 pubDatetime: 2026-07-07T04:11:03.000Z
 modDatetime: 2026-07-07T07:51:03.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1274737.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1274737.jpg"
 tags: ["university", "kobe-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Compared to Tokyo or Osaka, Kobe has a moderate cost of living. Rent, utilities,
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Kobe University](https://img.findstay.org/housing/p/amber-1274737.jpg)
+![Kobe University](https://img.unistay.cn/housing/p/amber-1274737.jpg)
 
 Housing costs in Kobe vary widely by type, location, and condition. The figures below are indicative — confirm with the operator before committing.
 

@@ -3,8 +3,8 @@ title: "Housing near University at Buffalo SUNY: 2026 student guide"
 description: "Welcome to this housing guide for University at Buffalo SUNY. This guide is based on data collected for the 2026‑2027 academic year. All rental prices"
 pubDatetime: 2026-07-01T02:57:12.000Z
 modDatetime: 2026-07-07T09:00:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2007286.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2007286.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ The overall 4.1 rating (out of 14 reviews) suggests that many students have had 
 
 ## Buffalo: City Context for Students
 
-![University at Buffalo SUNY](https://img.findstay.org/housing/p/amber-2007286.jpg)
+![University at Buffalo SUNY](https://img.unistay.cn/housing/p/amber-2007286.jpg)
 
 Buffalo is a mid‑sized city in western New York, on the shores of Lake Erie. It has a strong student presence thanks to multiple colleges, including UB SUNY. The city offers a relatively low cost of living compared to many other US college towns, especially in the Northeast. This is reflected in the available student housing: the lowest listed rent in Buffalo starts at 646 USD per month (indicative — confirm with the operator). That price point is affordable compared to cities like New York, Boston, or even Rochester.
 

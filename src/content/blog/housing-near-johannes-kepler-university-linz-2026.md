@@ -3,8 +3,8 @@ title: "Housing near Johannes Kepler University Linz: 2026 student guide"
 description: "Housing Near Johannes Kepler University Linz: A Practical Guide (2026–2027)      What Campus Reviews Reveal  Johannes Kepler University (JKU) Linz"
 pubDatetime: 2026-07-02T01:08:27.000Z
 modDatetime: 2026-07-07T09:11:27.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2256170.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2256170.jpg"
 tags: ["university", "johannes-kepler-university-linz"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Most students face a choice: live within a 15–20 minute walk of the campus, or
 
 **Walking distance** (roughly 1–2 km from campus) includes the Dornach and Auhof districts. These areas are quiet, green, and offer a few student residences and private rentals. The walk to the main university building is pleasant, alongside the Danube or through small parks. However, grocery shops and restaurants are limited. The nearest larger supermarket is about 10 minutes on foot from the main entrance.
 
-![Johannes Kepler University Linz](https://img.findstay.org/housing/p/amber-2256170.jpg)
+![Johannes Kepler University Linz](https://img.unistay.cn/housing/p/amber-2256170.jpg)
 
 **Transit-dependent** (city centre or Urfahr): The tram line 1, 2, 3, and several bus lines run from the city centre to JKU in about 20 minutes. A semester ticket for public transport (costs around €150–€200 for six months) covers all buses and trams in Linz. Living near the city centre gives you access to supermarkets, cafes, gyms, and nightlife. The trade-off is a longer commute and potentially higher rent for a central location.
 

@@ -3,8 +3,8 @@ title: "Housing near Tulane University: 2026 student guide"
 description: "What Campus Reviews Reveal About the Tulane Experience  Tulane University sits at the intersection of rigorous academics and the vibrant, sometimes"
 pubDatetime: 2026-07-06T02:12:50.000Z
 modDatetime: 2026-07-07T07:48:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1351685.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1351685.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The city is also famous for its music, food, and festivals. Mardi Gras, Jazz Fes
 
 ## Budget Bands for Off-Campus Housing (2026-2027)
 
-![Tulane University](https://img.findstay.org/housing/p/amber-1351685.jpg)
+![Tulane University](https://img.unistay.cn/housing/p/amber-1351685.jpg)
 
 Rental prices in Uptown and surrounding neighbourhoods vary significantly based on proximity to campus, building age, and amenities. General guidance for the 2026-2027 academic year suggests that a studio or one-bedroom apartment within a 10-minute walk of Tulane may command a premium, while shared houses or units along the St. Charles streetcar line (a 20-minute ride) can be more moderate. All prices are indicative — confirm with the operator before signing any lease.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Macau: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at This University The University of Macau’s campus, located at 81 Av. Xian Xing Hai, occupies only the fourth and."
 pubDatetime: 2026-07-03T13:34:37.000Z
 modDatetime: 2026-07-07T08:20:37.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2123151.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2123151.jpg"
 tags: ["university", "university-of-macau"]
 category: "university"
 draft: false
@@ -30,7 +30,7 @@ Macao’s rental market is cyclical: prices usually rise during the academic yea
 
 ## Budget Bands for 2026–2027
 
-![University of Macau](https://img.findstay.org/housing/p/amber-2123151.jpg)
+![University of Macau](https://img.unistay.cn/housing/p/amber-2123151.jpg)
 
 All prices given here are indicative — confirm with the operator at the time of booking. Exchange rates fluctuate, but we use MOP (Macanese Pataca) as the local currency. 1 USD is approximately 8 MOP.
 

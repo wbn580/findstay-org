@@ -3,8 +3,8 @@ title: "Housing near Graz University of Technology: 2026 student guide"
 description: "What campus reviews reveal about student life  Student feedback on Graz University of Technology (TU Graz) paints a picture of an academically dema"
 pubDatetime: 2026-07-01T02:04:40.000Z
 modDatetime: 2026-07-07T08:34:40.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01580462.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01580462.jpg"
 tags: ["university", "graz-university-of-technology"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The city’s Google rating of 4.5 stars from 174 reviews reflects a generally po
 
 ## Budget bands for student housing in Graz
 
-![Graz University of Technology](https://img.findstay.org/housing/p/uh-s01580462.jpg)
+![Graz University of Technology](https://img.unistay.cn/housing/p/uh-s01580462.jpg)
 
 Rental prices in Graz vary based on location, room type, and facilities. For the 2026/2027 academic year, indicative ranges (confirm with the operator) are:
 

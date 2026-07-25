@@ -3,8 +3,8 @@ title: "Housing near Kazakh National Agrarian University: 2026 student guide"
 description: "Campus Reviews: What Students and Visitors Say  Kazakh National Agrarian University (KazNAU) holds a global QS ranking of 697 and enjoys a Google r"
 pubDatetime: 2026-07-04T08:33:15.000Z
 modDatetime: 2026-07-07T09:05:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2348275.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2348275.jpg"
 tags: ["university", "kazakh-national-agrarian-university"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ The city also offers a lively cultural scene – theatres, museums, concerts, an
 
 ## Budget Bands for Nearby Housing
 
-![Kazakh National Agrarian University](https://img.findstay.org/housing/p/amber-2348275.jpg)
+![Kazakh National Agrarian University](https://img.unistay.cn/housing/p/amber-2348275.jpg)
 
 Housing options around Kazakh National Agrarian University vary widely depending on distance, amenities, and flat type. The university is situated in a central area, so finding affordable accommodation within walking distance requires careful planning. Below are typical monthly rental bands (indicative – confirm with the operator):
 

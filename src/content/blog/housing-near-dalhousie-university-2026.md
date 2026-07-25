@@ -3,8 +3,8 @@ title: "Housing near Dalhousie University: 2026 student guide"
 description: "What Campus Reviews Reveal  Dalhousie University, located at 6283 Alumni Crescent in Halifax, Nova Scotia, holds a global QS ranking of 283 and a G"
 pubDatetime: 2026-07-04T16:28:34.000Z
 modDatetime: 2026-07-07T08:18:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2623201.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2623201.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For a student planning to live near Dalhousie, the South End, West End, and cent
 
 ## Budget Bands for Student Housing in Halifax
 
-![Dalhousie University](https://img.findstay.org/housing/p/amber-2623201.jpg)
+![Dalhousie University](https://img.unistay.cn/housing/p/amber-2623201.jpg)
 
 Based on current market data (indicative – confirm with the operator), student housing costs in Halifax can be grouped into three broad bands for the 2026–2027 academic year. Prices are in Canadian dollars per month and apply to shared or studio accommodations near the university.
 

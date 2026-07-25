@@ -3,8 +3,8 @@ title: "Housing near Stellenbosch University: 2026 student guide"
 description: "What Campus Reviews Tell Us About Living at Stellenbosch University  Stellenbosch University, ranked 302 in the QS World University Rankings, is lo"
 pubDatetime: 2026-07-05T11:07:12.000Z
 modDatetime: 2026-07-07T08:31:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1450622.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1450622.jpg"
 tags: ["university", "stellenbosch-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The local climate is Mediterranean: warm, dry summers (December–February) and 
 
 ## Understanding Budget Bands for Student Housing (2026–2027)
 
-![Stellenbosch University](https://img.findstay.org/housing/p/amber-1450622.jpg)
+![Stellenbosch University](https://img.unistay.cn/housing/p/amber-1450622.jpg)
 
 Housing costs in Stellenbosch vary widely depending on location, type, and whether utilities are included. The figures below are indicative — confirm with the operator for current pricing. All amounts are approximate for the 2026–2027 academic year.
 

@@ -3,8 +3,8 @@ title: "Housing near Beijing Normal University: 2026 student guide"
 description: "Housing Near Beijing Normal University: What the Campus Reviews and City Context Tell You  Beijing Normal University (BNU) sits at 19 Xin Wai Da Ji"
 pubDatetime: 2026-07-02T12:12:13.000Z
 modDatetime: 2026-07-07T07:54:13.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2206290.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2206290.jpg"
 tags: ["university", "beijing-normal-university"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ For students with evening classes, living along the same metro line as the campu
 
 Given the lack of a specific list of residences provided by the dataset, the following logic can guide your search regardless of which apartment blocks or compounds you shortlist. Use these criteria in order of importance:
 
-![Beijing Normal University](https://img.findstay.org/housing/p/amber-2206290.jpg)
+![Beijing Normal University](https://img.unistay.cn/housing/p/amber-2206290.jpg)
 
 1. **Distance to the main teaching buildings** – BNU covers a compact campus, but the main lecture halls are near the east gate (on Xinwai Street). A residence within 1.5 km of that gate will keep your walk or bike ride under 15 minutes. Use map tools to measure walking time, not straight‑line distance, as some older hutong have narrow lanes that can add 5–10 minutes.
 2. **Metro and bus connectivity** – If you cannot find a place within walking distance, prioritize locations within 10 minutes of a metro station on Line 10 or 13. The transfer between these lines is easy at Zhichunli. Avoid relying on buses alone, because Beijing’s bus network, while extensive, is subject to traffic delays during peak hours.

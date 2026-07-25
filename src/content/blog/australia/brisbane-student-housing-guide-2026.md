@@ -2,7 +2,7 @@
 title: "Brisbane Student Housing Guide 2026: UQ, QUT & Griffith Accommodation Compared"
 description: "Find the best student accommodation in Brisbane near UQ St Lucia, QUT Gardens Point, and Griffith campuses. Updated rent prices, suburb breakdowns, and PBSA options for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1559171883-3aa585e28ae0?w=1600"
 ogImage: "https://images.unsplash.com/photo-1559171883-3aa585e28ae0?w=1200"
 tags: ["australia", "brisbane", "student-accommodation"]

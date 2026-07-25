@@ -2,7 +2,7 @@
 title: "Nottingham Student Housing 2026: Areas Near UoN & NTU"
 description: "Student accommodation in Nottingham — affordable housing near University of Nottingham and Nottingham Trent. 2026 rent prices and neighborhood guide."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1598452935265-0c38c1d0a257?w=1600"
 ogImage: "https://images.unsplash.com/photo-1598452935265-0c38c1d0a257?w=1200"
 tags: ["uk", "nottingham", "student-accommodation"]

@@ -2,7 +2,7 @@
 title: "Hamilton Student Accommodation 2026: Affordable Housing Near University of Waikato"
 description: "Student housing in Hamilton, NZ — affordable rooms near University of Waikato and Wintec. 2026 rent prices and neighborhood guide for this growing student city."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1568228074970-8589f8acee7d?w=1600"
 ogImage: "https://images.unsplash.com/photo-1568228074970-8589f8acee7d?w=1200"
 tags: ["new-zealand", "hamilton", "student-accommodation"]

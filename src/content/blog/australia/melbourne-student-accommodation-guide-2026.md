@@ -2,7 +2,7 @@
 title: "Melbourne Student Accommodation Guide 2026: Best Suburbs Near UniMelb, RMIT & Monash"
 description: "Compare student housing in Melbourne — from Carlton sharehouses to Southbank studios. Updated 2026 rent prices for UniMelb, RMIT, Monash and Deakin students."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=1600"
 ogImage: "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=1200"
 tags: ["australia", "melbourne", "student-accommodation", "rental-tips"]

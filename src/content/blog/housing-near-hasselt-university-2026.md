@@ -3,8 +3,8 @@ title: "Housing near Hasselt University: 2026 student guide"
 description: "Campus Reviews at a Glance  Hasselt University holds a QS World University ranking of 597 and a Google rating of 4.5 stars from 87 reviews. The fee"
 pubDatetime: 2026-07-03T12:47:48.000Z
 modDatetime: 2026-07-07T09:12:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00366897.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00366897.jpg"
 tags: ["university", "hasselt-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The city itself offers a mix of student life and local charm. You will find supe
 
 ## Understanding Your Budget for 2026/2027
 
-![Hasselt University](https://img.findstay.org/housing/p/uh-s00366897.jpg)
+![Hasselt University](https://img.unistay.cn/housing/p/uh-s00366897.jpg)
 
 Belgian student housing costs vary by city and type. In Hasselt, based on typical rental listings in the region, you can expect the following indicative monthly rents — always confirm with the operator before committing.
 

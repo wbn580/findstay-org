@@ -3,8 +3,8 @@ title: "Housing near Universiti Malaya (UM): 2026 student guide"
 description: "Accommodation Near Universiti Malaya: A Practical Guide  Universiti Malaya (UM) is ranked 58th in the QS World University Rankings and holds the po"
 pubDatetime: 2026-07-06T17:55:01.000Z
 modDatetime: 2026-07-07T08:55:01.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2884029.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2884029.jpg"
 tags: ["university", "universiti-malaya"]
 category: "university"
 draft: false
@@ -91,7 +91,7 @@ Your choice of housing will depend on how much you value walking convenience ver
 - Disadvantages: fewer options, higher rents for newer buildings, and the immediate area around UM has relatively few shops or eateries (as noted in reviews).
 - Best for: graduate students who need frequent access to labs or library; anyone who dislikes commuting.
 
-![Universiti Malaya (UM)](https://img.findstay.org/housing/p/amber-2884029.jpg)
+![Universiti Malaya (UM)](https://img.unistay.cn/housing/p/amber-2884029.jpg)
 
 **Transit commute (by LRT, bus, or car)**
 

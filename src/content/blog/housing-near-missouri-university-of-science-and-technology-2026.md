@@ -3,8 +3,8 @@ title: "Housing near Missouri University of Science and Technology: 2026 student
 description: "What Campus Reviews Reveal About Life at Missouri S&T  Missouri University of Science and Technology (Missouri S&T), located in Rolla, Missouri, dr"
 pubDatetime: 2026-07-01T07:31:55.000Z
 modDatetime: 2026-07-07T08:50:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01556665.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01556665.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because the town is small, rental inventory in the immediate campus vicinity can
 
 ## Budget Bands for Housing Near Missouri S&T
 
-![Missouri University of Science and Technology](https://img.findstay.org/housing/p/uh-s01556665.jpg)
+![Missouri University of Science and Technology](https://img.unistay.cn/housing/p/uh-s01556665.jpg)
 
 No specific rental prices from the given data exist, so all figures below are indicative – confirm with the operator. Based on typical Rolla market conditions (not sourced from this dataset), students can consider the following general bands:
 

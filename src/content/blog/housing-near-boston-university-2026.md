@@ -3,8 +3,8 @@ title: "Housing near Boston University: 2026 student guide"
 description: "What Campus Reviews Reveal  Boston University stretches along Commonwealth Avenue, a layout that both students and visitors consistently note. Shir"
 pubDatetime: 2026-06-30T15:01:19.000Z
 modDatetime: 2026-07-07T08:49:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-287934.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-287934.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ The city of Boston currently lists 27 student accommodations relevant to BU area
 
 ## Budget Bands for Student Housing
 
-![Boston University](https://img.findstay.org/housing/p/amber-287934.jpg)
+![Boston University](https://img.unistay.cn/housing/p/amber-287934.jpg)
 
 Based on the available data, a single budget figure of $875 per month is given as a starting point (indicative — confirm with the operator). In practice, student housing costs in Boston span a range:
 

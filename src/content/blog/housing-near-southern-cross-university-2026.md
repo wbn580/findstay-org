@@ -3,8 +3,8 @@ title: "Housing near Southern Cross University: 2026 student guide"
 description: "Campus Reviews and What They Reveal  Before deciding where to live, it helps to understand the student experience at Southern Cross University (SCU"
 pubDatetime: 2026-06-30T16:26:47.000Z
 modDatetime: 2026-07-07T08:14:47.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-258114.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-258114.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The local rental market is relatively small. For the 2026 academic year, the ind
 
 ## Budget Bands
 
-![Southern Cross University](https://img.findstay.org/housing/p/amber-258114.jpg)
+![Southern Cross University](https://img.unistay.cn/housing/p/amber-258114.jpg)
 
 Housing costs in Lismore are lower than in Australia’s major cities, but options are limited. Here is a rough breakdown of weekly rent bands (indicative – confirm with the operator):
 

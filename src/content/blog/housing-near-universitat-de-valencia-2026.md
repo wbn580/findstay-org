@@ -3,8 +3,8 @@ title: "Housing near Universitat de Valencia: 2026 student guide"
 description: "Housing Near Universitat de Valencia: What Campus Reviews Reveal and Where to Live  The Universitat de Valencia (UV) occupies several campuses acro"
 pubDatetime: 2026-07-07T08:08:34.000Z
 modDatetime: 2026-07-07T08:37:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2187570.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2187570.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -70,7 +70,7 @@ Universitat de Valencia’s three main campuses are not all in the same neighbou
 
 **Walk advantage**: If you live in El Pla del Real, for example, you can walk to Blasco Ibáñez campus in 10–20 minutes. The area is student-friendly, with parks, cafes, and supermarkets. Rent might be slightly higher but you save on transport.
 
-![Universitat de Valencia](https://img.findstay.org/housing/p/amber-2187570.jpg)
+![Universitat de Valencia](https://img.unistay.cn/housing/p/amber-2187570.jpg)
 
 **Transit advantage**: Renting further out (e.g., in the suburbs like Burjassot or Paterna) can lower rent by €50–100 per month. A monthly metro pass costs about €40 (student discount available). Travel time to campus may be 25–40 minutes. Students who attend Burjassot-Paterna campus often choose to live near metro line 1.
 

@@ -3,8 +3,8 @@ title: "Housing near Ghent University: 2026 student guide"
 description: "Campus Life and Student Reviews  Ghent University holds a QS World University rank of 162 (2026) and is located at Sint-Pietersnieuwstraat 33 in th"
 pubDatetime: 2026-07-02T02:40:04.000Z
 modDatetime: 2026-07-07T08:19:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00036017.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00036017.jpg"
 tags: ["university", "ghent-university"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ All figures are indicative – always verify the final rent with the landlord or
 
 ## Walk versus Transit Trade‑off
 
-![Ghent University](https://img.findstay.org/housing/p/uh-s00036017.jpg)
+![Ghent University](https://img.unistay.cn/housing/p/uh-s00036017.jpg)
 
 Ghent University’s main campus (Boukatoren, Aula, campus Sterre, etc.) is located within a 2‑km radius of the city centre. For most students, walking or cycling is the fastest and cheapest option.
 

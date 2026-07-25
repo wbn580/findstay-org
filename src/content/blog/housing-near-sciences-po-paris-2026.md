@@ -3,8 +3,8 @@ title: "Housing near Sciences Po Paris: 2026 student guide"
 description: "Housing Near Sciences Po Paris: A Practical Guide  Sciences Po Paris is one of Europe’s most recognised universities for political science, interna"
 pubDatetime: 2026-07-02T02:16:10.000Z
 modDatetime: 2026-07-07T07:55:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2880460.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2880460.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -68,7 +68,7 @@ The trade-off is clear: pay more for convenience or spend more time commuting. N
 
 The five example residences provided (names abbreviated) represent a range of locations and price points. None of them is “the best” – they are simply examples to illustrate how to apply the walk/transit trade-off.
 
-![Sciences Po Paris](https://img.findstay.org/housing/p/amber-2880460.jpg)
+![Sciences Po Paris](https://img.unistay.cn/housing/p/amber-2880460.jpg)
 
 - **XO 75017** – This is located in the 17th arrondissement, a mostly residential area north-west of the city centre. By metro (line 2 or 3 with a short transfer), you can reach the Sciences Po area in roughly 20–25 minutes. The 17th offers a good selection of shops and parks and is quieter than the hyper-centre. Suitable for mid-range budgets.
 - **Villejuif** – A suburb south of Paris, directly served by metro line 7 (final stop at Villejuif-Louis Aragon). Travel time to Odéon station is around 28 minutes by metro, plus walking. Rent levels are generally lower than in Paris intra-muros. This is a practical choice for students on a tighter budget who do not mind a slightly longer journey.

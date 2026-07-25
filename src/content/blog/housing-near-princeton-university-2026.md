@@ -3,8 +3,8 @@ title: "Housing near Princeton University: 2026 student guide"
 description: "Campus Reviews Reveal: Princeton University’s Environment Princeton University has a score of 4.7 on Google (2,058 reviews), and many visitors and."
 pubDatetime: 2026-07-05T19:54:30.000Z
 modDatetime: 2026-07-07T08:05:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1011508.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1011508.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -28,7 +28,7 @@ Because the university is ranked 25th in the world (QS 2027 data), Princeton att
 
 ## Budget Range – Housing Cost Overview
 
-![Princeton University](https://img.findstay.org/housing/p/amber-1011508.jpg)
+![Princeton University](https://img.unistay.cn/housing/p/amber-1011508.jpg)
 
 Housing costs vary by room type, location, and lease type. Since rental data for the Princeton area was not provided in this material, the following is only a general description; specific prices must be confirmed directly with the landlord or property manager (indicative — confirm with the operator).
 

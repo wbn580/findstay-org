@@ -3,8 +3,8 @@ title: "Housing near Universidade Federal de Minas Gerais: 2026 student guide"
 description: "What the Campus Reviews Reveal  The Federal University of Minas Gerais (UFMG) commands a 4.8 out of 5 rating from 2,403 Google reviews — an excepti"
 pubDatetime: 2026-07-06T11:03:13.000Z
 modDatetime: 2026-07-07T09:11:13.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-937413.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-937413.jpg"
 tags: ["university", "universidade-federal-de-minas-gerais"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city’s bus system is the primary public transport; there is no metro line 
 
 ## Budget Bands for Student Housing
 
-![Universidade Federal de Minas Gerais](https://img.findstay.org/housing/p/amber-937413.jpg)
+![Universidade Federal de Minas Gerais](https://img.unistay.cn/housing/p/amber-937413.jpg)
 
 Because UFMG is a tuition-free public university (most courses are free), students — domestic and international — can allocate more of their overall budget to rent and living expenses. However, the city’s cost of living is moderate by Brazilian standards, and housing prices vary widely.
 

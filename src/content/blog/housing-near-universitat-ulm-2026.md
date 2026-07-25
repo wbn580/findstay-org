@@ -3,8 +3,8 @@ title: "Housing near Universität Ulm: 2026 student guide"
 description: "What Campus Reviews Reveal About Studying at Universität Ulm  Student reviews of Universität Ulm paint a mixed but informative picture for anyone l"
 pubDatetime: 2026-07-04T20:06:46.000Z
 modDatetime: 2026-07-07T08:55:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1263944.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1263944.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Public transport consists of buses and trams. The main tram line (Linie 2) conne
 
 ## Budget Bands for Student Housing (2026 – Indicative)
 
-![Universität Ulm](https://img.findstay.org/housing/p/amber-1263944.jpg)
+![Universität Ulm](https://img.unistay.cn/housing/p/amber-1263944.jpg)
 
 German student housing costs vary by type (shared flat, studio, or student dormitory) and by distance from campus. The following bands are based on typical market observations in Ulm. All amounts are indicative — confirm with the operator before committing.
 

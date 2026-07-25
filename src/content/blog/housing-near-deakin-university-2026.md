@@ -3,8 +3,8 @@ title: "Housing near Deakin University: 2026 student guide"
 description: "Deakin University Housing Guide: What Campus Reviews Reveal and How to Find a Home  Deakin University’s Burwood campus sits about 20 kilometres eas"
 pubDatetime: 2026-07-06T10:45:17.000Z
 modDatetime: 2026-07-07T08:52:17.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2714184.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2714184.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Note: The on‑campus accommodation operated by Deakin (such as the Burwood resi
 
 Deciding between walking distance and using public transport depends on your tolerance for commuting time and your budget.
 
-![Deakin University](https://img.findstay.org/housing/p/amber-2714184.jpg)
+![Deakin University](https://img.unistay.cn/housing/p/amber-2714184.jpg)
 
 **Walking distance (0–1.5 km from campus)** : Properties within a 15‑minute walk command a premium. You save on public transport costs (the daily tram fare adds up) and avoid schedule‑dependence. Walking also matches the “calm” environment described in reviews. The trade‑off is that you will likely pay $30–$80 more per week compared to a similar property 2 km away. Streets like Elgar Road, Station Street, and the northern side of Burwood Highway have a number of houses and apartments that fall into this zone.
 

@@ -3,8 +3,8 @@ title: "Housing near Emory University: 2026 student guide"
 description: "Housing Near Emory University: A Practical Guide for Students (2026–2027)  Emory University, located at 201 Dowman Dr in Atlanta’s Druid Hills neig"
 pubDatetime: 2026-07-01T04:30:42.000Z
 modDatetime: 2026-07-07T08:32:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2190087.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2190087.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Emory’s campus is relatively self-contained, with most academic buildings, lib
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![Emory University](https://img.findstay.org/housing/p/amber-2190087.jpg)
+![Emory University](https://img.unistay.cn/housing/p/amber-2190087.jpg)
 
 When shortlisting, consider your priorities: cost, commute time, amenities, and lease flexibility. Below are the five sample properties listed in the data, with a factual description and analysis. Remember, all prices are indicative — confirm with the operator.
 

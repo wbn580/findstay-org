@@ -3,8 +3,8 @@ title: "Housing near Aix-Marseille University: 2026 student guide"
 description: "Housing Near Aix-Marseille University: A Guide for 2026–2027      What Campus Reviews Tell Us  Aix-Marseille University (AMU) holds a QS world rank"
 pubDatetime: 2026-07-01T18:31:27.000Z
 modDatetime: 2026-07-07T08:35:27.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1425380.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1425380.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -65,7 +65,7 @@ All prices are indicative — confirm with the operator. Students should also bu
 - Commuting time is predictable but adds 30–90 minutes daily. You gain lower rent and often larger living spaces.
 - Some areas like the 13th arrondissement have direct bus lines to the Pharo campus, though frequency may be lower in the evening.
 
-![Aix-Marseille University](https://img.findstay.org/housing/p/amber-1425380.jpg)
+![Aix-Marseille University](https://img.unistay.cn/housing/p/amber-1425380.jpg)
 
 For most students, a balanced approach works: live within a 30-minute transit radius from the Pharo campus. This keeps commute times manageable while offering a wider range of budgets and apartment types.
 

@@ -3,8 +3,8 @@ title: "Housing near Ohio State University: 2026 student guide"
 description: "Housing Near Ohio State University: A Practical Guide for 2026-2027  Ohio State University (OSU) in Columbus is a large public research institutio"
 pubDatetime: 2026-07-04T22:44:41.000Z
 modDatetime: 2026-07-07T08:38:41.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1689237.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1689237.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -80,7 +80,7 @@ The decision between walking and taking public transit to campus is one of the m
 **Walking**
 The campus is flat and compact enough that many students walk from residential neighborhoods within a 1-mile radius. The Olentangy Trail provides a direct, pleasant route along the river. The main downside is weather — Columbus winters are cold and snowy, and the construction detours mentioned in reviews can add 5–10 minutes to a typical walk.
 
-![Ohio State University](https://img.findstay.org/housing/p/amber-1689237.jpg)
+![Ohio State University](https://img.unistay.cn/housing/p/amber-1689237.jpg)
 
 **Transit**
 OSU operates the Campus Area Transportation Service (CATS), which provides free bus service around campus and into the University District. COTA, the city’s public bus system, covers the wider Columbus area and charges a standard fare. Students who live farther out — in neighborhoods like Clintonville, Grandview Heights, or Victorian Village — often rely on COTA or CATS for their daily commute.

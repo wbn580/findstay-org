@@ -3,8 +3,8 @@ title: "Housing near University of Aveiro: 2026 student guide"
 description: "What Campus Reviews Reveal About Living Near University of Aveiro  Before searching for a room, it helps to learn from those who already study and"
 pubDatetime: 2026-07-03T00:33:51.000Z
 modDatetime: 2026-07-07T08:28:51.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-936677.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-936677.jpg"
 tags: ["university", "university-of-aveiro"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For students arriving in 2026 or 2027, the rental market has been stable, with d
 
 ## Budget Bands for Student Housing
 
-![University of Aveiro](https://img.findstay.org/housing/p/amber-936677.jpg)
+![University of Aveiro](https://img.unistay.cn/housing/p/amber-936677.jpg)
 
 The provided data does not include specific rent figures or a list of residences. However, based on the general Portuguese student housing landscape (not from this dataset), you should expect a range of options. **All figures below are indicative – confirm with the operator.**
 

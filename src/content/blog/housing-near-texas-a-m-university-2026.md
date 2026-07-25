@@ -3,8 +3,8 @@ title: "Housing near Texas A&M University: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Life at Texas A&M  Texas A&M University, ranked 144th globally in the QS World University Rankings, sits a"
 pubDatetime: 2026-07-05T14:11:08.000Z
 modDatetime: 2026-07-07T08:06:08.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1237071.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1237071.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Utilities, internet, and parking can add $100–$200 per month to your total cos
 
 ## Budget Bands for Off-Campus Housing (2026–2027)
 
-![Texas A&M University](https://img.findstay.org/housing/p/amber-1237071.jpg)
+![Texas A&M University](https://img.unistay.cn/housing/p/amber-1237071.jpg)
 
 When planning your housing budget near Texas A&M, consider the following rough bands based on typical listings (all prices are indicative — confirm with the operator):
 

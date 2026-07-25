@@ -3,8 +3,8 @@ title: "Housing near University of Cape Town: 2026 student guide"
 description: "Housing Near the University of Cape Town: What Campus Reviews Reveal  The University of Cape Town (UCT) occupies a striking position on the slopes"
 pubDatetime: 2026-07-04T13:46:36.000Z
 modDatetime: 2026-07-07T08:10:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1236221.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1236221.jpg"
 tags: ["university", "university-of-cape-town"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Remember that rental prices in Cape Town have been rising, and the 2026–2027 a
 
 Walking to UCT is the default for many students living in Rondebosch, Rosebank, or Vredehoek (though the latter requires crossing the N2 highway). Upper Campus is about a 10–15 minute uphill walk from the Rondebosch train station, and a 5–10 minute walk from the main gate on University Avenue.
 
-![University of Cape Town](https://img.findstay.org/housing/p/amber-1236221.jpg)
+![University of Cape Town](https://img.unistay.cn/housing/p/amber-1236221.jpg)
 
 **Walking advantages**:
 

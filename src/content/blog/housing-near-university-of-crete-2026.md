@@ -3,8 +3,8 @@ title: "Housing near University of Crete: 2026 student guide"
 description: "Housing Near University of Crete: A Student's Guide  The University of Crete operates across two main locations: its central administration and som"
 pubDatetime: 2026-07-06T00:13:12.000Z
 modDatetime: 2026-07-07T08:11:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01556665.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01556665.jpg"
 tags: ["university", "university-of-crete"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ The Voutes Campus is not directly embedded in the city. The nearest bus stops (l
 - **Transit:** Housing in central Heraklion (around the bus station, the port, or the old town) gives you easy access to shops, nightlife, and the airport. The commute to campus involves taking a bus; the line runs regularly but can be crowded during peak hours. Students who drive can park at the university for a small fee.
 - **Combination:** Some students live in the intermediate suburbs like Ammoudara (a coastal area with beaches and tavernas) and drive or take a shorter bus ride. This can balance proximity to both the sea and the university.
 
-![University of Crete](https://img.findstay.org/housing/p/uh-s01556665.jpg)
+![University of Crete](https://img.unistay.cn/housing/p/uh-s01556665.jpg)
 
 For the Rethymnon campus, the walk‑in city centre is the norm. Most housing is within a 10‑ to 20‑minute walk, and bicycles are common. Transit is less of a concern there.
 

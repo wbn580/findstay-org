@@ -3,8 +3,8 @@ title: "Housing near National Taiwan University (NTU): 2026 student guide"
 description: "Housing Near National Taiwan University (NTU): A Guide for Students (2026)  National Taiwan University (NTU) occupies a central location in Taipei’"
 pubDatetime: 2026-07-01T06:12:50.000Z
 modDatetime: 2026-07-07T08:57:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2174782.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2174782.jpg"
 tags: ["university", "national-taiwan-university"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Choosing between living within walking distance or relying on public transport i
 - *Advantages:* Lower rent per square meter. You can access larger apartments or newer buildings in quieter neighborhoods such as Daan Park or Xinyi District. The MRT Green line runs frequently, and a one-way fare to Gongguan is about NT$20–NT$30 using an EasyCard.
 - *Disadvantages:* You lose the spontaneity of a short walk. If you have early morning or late night classes, you need to check the last train times (around midnight). The added commuting time can be 20–40 minutes round trip daily, which adds up over a semester.
 
-![National Taiwan University (NTU)](https://img.findstay.org/housing/p/amber-2174782.jpg)
+![National Taiwan University (NTU)](https://img.unistay.cn/housing/p/amber-2174782.jpg)
 
 A middle ground is living along the MRT Green line (e.g., Taipower Building, Wanlong, Jingmei stations) – a 5–10 minute train ride plus a short walk to campus. This keeps rent moderate while reducing commute time compared to deeper suburbs.
 

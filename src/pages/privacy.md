@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Findstay privacy policy — how we collect, use, and protect your data."
+description: "UniStay privacy policy — how we collect, use, and protect your data."
 pubDatetime: 2026-05-14
 ---
 
@@ -10,7 +10,7 @@ pubDatetime: 2026-05-14
 
 ## Information We Collect
 
-Findstay.org does not require user registration and does not collect personal information directly. However, like most websites, we use:
+UniStay.net does not require user registration and does not collect personal information directly. However, like most websites, we use:
 
 - **Analytics** — Anonymous page view data (country, browser type, pages visited) via Cloudflare Web Analytics
 - **Cookies** — Minimal functional cookies for dark/light mode preference
@@ -21,4 +21,4 @@ Our affiliate links (Flywire, SafetyWing) may set their own cookies when you cli
 
 ## Contact
 
-For privacy questions: **hello@findstay.org**
+For privacy questions: **contact@unistay.cn**

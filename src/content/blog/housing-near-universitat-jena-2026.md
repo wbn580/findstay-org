@@ -3,8 +3,8 @@ title: "Housing near Universität Jena: 2026 student guide"
 description: "Universität Jena: What Student Reviews Reveal About Campus Life  The University of Jena (Friedrich-Schiller-Universität) holds a QS World Universit"
 pubDatetime: 2026-07-02T08:46:42.000Z
 modDatetime: 2026-07-07T08:57:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1096386.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1096386.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Cost of living in Jena is generally lower than in major German cities like Munic
 
 ## Housing Budget Bands (Indicative)
 
-![Universität Jena](https://img.findstay.org/housing/p/amber-1096386.jpg)
+![Universität Jena](https://img.unistay.cn/housing/p/amber-1096386.jpg)
 
 All prices below are *indicative — confirm with the operator* before committing.
 

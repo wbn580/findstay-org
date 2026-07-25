@@ -3,8 +3,8 @@ title: "Housing near Universidad Austral - Argentina: 2026 student guide"
 description: "What Campus Reviews Reveal  Universidad Austral in Pilar, Buenos Aires province, has a Google rating of 4.4 out of 5 from 307 reviews. This positiv"
 pubDatetime: 2026-07-02T02:47:37.000Z
 modDatetime: 2026-07-07T08:16:37.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1742954.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1742954.jpg"
 tags: ["university", "universidad-austral-argentina"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The journey by car from the campus to Buenos Aires city centre takes about 45 mi
 
 ## Budget Bands for Accommodation
 
-![Universidad Austral - Argentina](https://img.findstay.org/housing/p/amber-1742954.jpg)
+![Universidad Austral - Argentina](https://img.unistay.cn/housing/p/amber-1742954.jpg)
 
 Rental prices in the Pilar area vary based on property type, distance from the university, and included services. The figures below are indicative estimates in US dollars per month. All prices are subject to change and currency fluctuations — confirm with the operator.
 

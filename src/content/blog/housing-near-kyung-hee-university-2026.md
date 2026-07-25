@@ -3,8 +3,8 @@ title: "Housing near Kyung Hee University: 2026 student guide"
 description: "Housing Near Kyung Hee University: What Campus Reviews Reveal  Kyung Hee University sits in Seoul’s Dongdaemun District, about 2 km from the neares"
 pubDatetime: 2026-07-04T20:53:21.000Z
 modDatetime: 2026-07-07T08:54:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3315528.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3315528.jpg"
 tags: ["university", "kyung-hee-university"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ Reviewer Linh’s comment — “Nearest subway station is 2km away, better take
 
 To build a shortlist of housing options (for 2026 or 2027), follow this logic using the university’s location and the feedback above.
 
-![Kyung Hee University](https://img.findstay.org/housing/p/amber-3315528.jpg)
+![Kyung Hee University](https://img.unistay.cn/housing/p/amber-3315528.jpg)
 
 **Step 1: Define your top priority**
 

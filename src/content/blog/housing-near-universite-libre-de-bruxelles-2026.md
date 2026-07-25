@@ -3,8 +3,8 @@ title: "Housing near Université Libre de Bruxelles (ULB): 2026 student guide"
 description: "What the Campus Reviews Reveal  The Université Libre de Bruxelles (ULB) welcomes students with a campus that is both vast and lively. Its main site"
 pubDatetime: 2026-07-03T00:23:28.000Z
 modDatetime: 2026-07-07T09:08:28.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1274951.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1274951.jpg"
 tags: ["university", "universite-libre-de-bruxelles"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The student districts around ULB include Ixelles (Elsene), Etterbeek, and the Eu
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Université Libre de Bruxelles (ULB)](https://img.findstay.org/housing/p/amber-1274951.jpg)
+![Université Libre de Bruxelles (ULB)](https://img.unistay.cn/housing/p/amber-1274951.jpg)
 
 Housing near ULB spans a wide price range depending on whether you choose a private studio, a shared flat (colocation), or a residence with services. All figures below are **indicative — confirm with the operator** for exact current rates.
 

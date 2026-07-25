@@ -3,8 +3,8 @@ title: "Housing near Victoria University of Wellington: 2026 student guide"
 description: "Housing Near Victoria University of Wellington: A Practical Guide  Victoria University of Wellington (VUW) sits on a steep hill in the suburb of Ke"
 pubDatetime: 2026-07-06T01:55:42.000Z
 modDatetime: 2026-07-07T07:48:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-254712.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-254712.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ Because the dataset includes only one residence, students should treat the 334 N
 
 Walking to campus is a significant consideration given the hilly terrain. Reviews highlight “the walk” as a notable part of the experience. Students living in Kelburn or Aro Valley can typically reach the main campus on foot in 5–20 minutes, depending on their exact street and fitness level. The cable car from Lambton Quay to Kelburn runs every 10 minutes and is a popular option for those living in the city centre or near its base — a single trip costs about 5 NZD with a Snapper card.
 
-![Victoria University of Wellington](https://img.findstay.org/housing/p/amber-254712.jpg)
+![Victoria University of Wellington](https://img.unistay.cn/housing/p/amber-254712.jpg)
 
 For suburbs farther out (e.g., Newtown, Island Bay, Karori), bus travel time is 20–45 minutes each way. Buses run frequently during peak hours but less often late at night. The trade-off is clear: proximity often means higher rent and less space, while longer commutes offer more affordable housing and larger rooms but consume time and daily transportation fees.
 

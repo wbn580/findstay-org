@@ -3,8 +3,8 @@ title: "Housing near University of Southern California: 2026 student guide"
 description: "University of Southern California: What Campus Reviews Reveal  The University of Southern California (USC) holds a Google rating of 4.6 out of 5 ba"
 pubDatetime: 2026-07-04T23:35:00.000Z
 modDatetime: 2026-07-07T08:08:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1915403.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1915403.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Safety is a recurring concern. While the campus itself is secure, off-campus are
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![University of Southern California](https://img.findstay.org/housing/p/amber-1915403.jpg)
+![University of Southern California](https://img.unistay.cn/housing/p/amber-1915403.jpg)
 
 All prices listed below are indicative — confirm with the operator before making any financial commitment. Rental figures are quoted in USD per week, based on data available for the 2026/2027 academic year. The starting point from the current market is approximately USD 725 per week for the most economical shared options.
 

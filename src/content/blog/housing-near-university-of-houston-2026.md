@@ -3,8 +3,8 @@ title: "Housing near University of Houston: 2026 student guide"
 description: "Housing Near University of Houston: What Campus Reviews Reveal & Where to Look  Last reviewed: 2026  The University of Houston (UH) is a large publ"
 pubDatetime: 2026-07-05T01:25:17.000Z
 modDatetime: 2026-07-07T08:41:17.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1211588.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1211588.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ All prices are indicative — confirm with the operator when you inquire.
 
 **Trade-off summary**: If you value time and flexibility, pay more for walkability or a reliable shuttle. If you prioritise lower rent, plan for a longer commute and build in a traffic buffer.
 
-![University of Houston](https://img.findstay.org/housing/p/amber-1211588.jpg)
+![University of Houston](https://img.unistay.cn/housing/p/amber-1211588.jpg)
 
 ### Shortlist Logic Using Nearby Residences
 

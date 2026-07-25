@@ -3,8 +3,8 @@ title: "Housing near Anna University: 2026 student guide"
 description: "What Campus Reviews Reveal  Anna University, located in the Guindy area of Chennai, maintains a Google rating of 4.4 out of over 2,800 reviews. Whi"
 pubDatetime: 2026-07-03T08:28:23.000Z
 modDatetime: 2026-07-07T09:05:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1242291.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1242291.jpg"
 tags: ["university", "anna-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The university has a significant student population — over 12,000 enrolled acr
 
 ## Budget Considerations
 
-![Anna University](https://img.findstay.org/housing/p/amber-1242291.jpg)
+![Anna University](https://img.unistay.cn/housing/p/amber-1242291.jpg)
 
 Note: All figures in this section are indicative — confirm with the operator. No published rental data for Anna University surroundings was provided, so the following are general ranges observed in the Chennai rental market for similar neighbourhoods. Always verify current rents directly with landlords or platforms.
 

@@ -3,8 +3,8 @@ title: "Housing near Beihang University (former BUAA): 2026 student guide"
 description: "What Campus Reviews Reveal About Life at Beihang University  Located at 37 Xue Yuan Lu, Haidian District, Beijing, Beihang University (formerly BUA"
 pubDatetime: 2026-07-07T02:22:46.000Z
 modDatetime: 2026-07-07T08:08:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1343409.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1343409.jpg"
 tags: ["university", "beihang-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Key characteristics of the neighbourhood:
 
 ## Budget Bands (Indicative – confirm with the operator)
 
-![Beihang University (former BUAA)](https://img.findstay.org/housing/p/amber-1343409.jpg)
+![Beihang University (former BUAA)](https://img.unistay.cn/housing/p/amber-1343409.jpg)
 
 Rental prices in the university area vary by property type, distance, and quality. All prices below are indicative as of 2026–2027 and should be verified with individual operators before signing any contract.
 

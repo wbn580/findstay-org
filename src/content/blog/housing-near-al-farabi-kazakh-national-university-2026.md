@@ -3,8 +3,8 @@ title: "Housing near Al-Farabi Kazakh National University: 2026 student guide"
 description: "Housing Near Al-Farabi Kazakh National University: A Student’s Guide  Data as of 2026  Al-Farabi Kazakh National University (KazNU) stands as the t"
 pubDatetime: 2026-07-06T04:56:14.000Z
 modDatetime: 2026-07-07T08:54:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-269460.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-269460.jpg"
 tags: ["university", "al-farabi-kazakh-national-university"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Remember that advertised rents often exclude utility bills (electricity, water, 
 
 Deciding between a walking-distance apartment and one that requires public transport involves several factors:
 
-![Al-Farabi Kazakh National University](https://img.findstay.org/housing/p/amber-269460.jpg)
+![Al-Farabi Kazakh National University](https://img.unistay.cn/housing/p/amber-269460.jpg)
 
 - **Walking distance (up to 15–20 minutes)** : Saves you time and money on daily commuting. You avoid the hassle of public transport during rush hours, and you can easily return to campus between classes or for evening events. The trade-off is a higher rent per square metre, and the immediate neighbourhood around Al-Farabi Avenue may be more commercial and less quiet than residential suburbs.
 - **Public transport commute (20–40 minutes one way)** : Significantly expands your housing options, as you can consider areas like the Medeu district, parts of the city centre further north, or residential zones along the metro line. Monthly transport costs are modest (a travel card costs an indicative amount — confirm with the operator). The disadvantage is the time lost daily, especially in winter when waiting at bus stops can be uncomfortable. Reliability of buses during peak hours may also vary.

@@ -3,8 +3,8 @@ title: "Housing near National Taiwan Normal University: 2026 student guide"
 description: "Housing Near National Taiwan Normal University: A Practical Guide  National Taiwan Normal University (NTNU) is a comprehensive public research univ"
 pubDatetime: 2026-07-07T02:09:30.000Z
 modDatetime: 2026-07-07T08:40:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1466547.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1466547.jpg"
 tags: ["university", "national-taiwan-normal-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ NTNU’s main campus is compact, so many students prefer to live within a 15-min
 
 If you extend walking time to 20–25 minutes (about 1.2–1.5 km), you open up more affordable options in the quieter sections of Da’an District, such as near the MRT Liuzhangli or MRT Xinhai stations (on the Green and Brown lines respectively). These areas still offer good food options but are less central. The walk becomes a mild commute but also gives you a built-in daily exercise routine.
 
-![National Taiwan Normal University](https://img.findstay.org/housing/p/amber-1466547.jpg)
+![National Taiwan Normal University](https://img.unistay.cn/housing/p/amber-1466547.jpg)
 
 Using the MRT, the university is served by two stations: Daan Park (Red Line) and Technology Building (Green Line). Both are within a 5–8 minute walk. Living farther away (e.g., near MRT Zhongxiao Fuxing or MRT Taipower Building) adds 10–15 minutes by train but often yields lower rents or better apartment quality. The cost of a single MRT ride within Taipei is about NT$20–30, and a monthly transport pass (if you need both MRT and bus) runs roughly NT$1,280 for unlimited rides within a zone. Overall, for students who can tolerate a 20-minute commute, choosing a location one or two MRT stops away can save NT$2,000–4,000 per month compared to a walkable area.
 

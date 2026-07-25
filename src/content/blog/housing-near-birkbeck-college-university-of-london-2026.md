@@ -3,8 +3,8 @@ title: "Housing near Birkbeck College, University of London: 2026 student guide"
 description: "Housing Near Birkbeck College, University of London  Birkbeck College, University of London is located at Malet Street, in the Bloomsbury area of c"
 pubDatetime: 2026-07-01T02:12:22.000Z
 modDatetime: 2026-07-07T08:09:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00018562.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00018562.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ If you choose to live further out to save on rent, consider the cost and time of
 - **urbanest Westminster Bridge** – also in Zone 1, close to the college (15‑minute walk or 5‑minute bus).
 - **Scape Hammersmith** – in Hammersmith (Zone 2), about 20‑25 minutes by District line to Embankment then walking, or direct Circle/Hammersmith & City line to King’s Cross then a short walk.
 
-![Birkbeck College, University of London](https://img.findstay.org/housing/p/uh-s00018562.jpg)
+![Birkbeck College, University of London](https://img.unistay.cn/housing/p/uh-s00018562.jpg)
 
 Each option offers a different balance of price, travel time, and living environment. Because Birkbeck’s evening classes can run late, students who commute from outer zones should check last train times and consider the safety of walking from the station to home.
 

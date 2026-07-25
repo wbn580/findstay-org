@@ -3,8 +3,8 @@ title: "Housing near Murdoch University: 2026 student guide"
 description: "Housing Near Murdoch University: Campus Insights, City Context, and Your Options  Murdoch University’s main campus sits at 90 South St, Murdoch, We"
 pubDatetime: 2026-07-05T14:08:40.000Z
 modDatetime: 2026-07-07T08:31:40.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1106783.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1106783.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ The decision between walking distance and commuting via public transport depends
 - Pros: You can access a wider range of housing at lower rents. Suburbs like Fremantle offer cafés, markets, and a beach lifestyle. The train is reliable and runs frequently during semester.
 - Cons: You need to budget for transport (a SmartRider card; concession fares are about AUD 1.50 per trip within Zone 1). Peak-hour trains can be crowded. If you miss a connection, waiting time can add 15 minutes or more.
 
-![Murdoch University](https://img.findstay.org/housing/p/amber-1106783.jpg)
+![Murdoch University](https://img.unistay.cn/housing/p/amber-1106783.jpg)
 
 Reviews confirm the campus is well connected: Sateesh specifically praised “excellent public transportation connectivity.” The Murdoch train station is a 5-minute walk from the central campus area. Several bus routes also serve the university.
 

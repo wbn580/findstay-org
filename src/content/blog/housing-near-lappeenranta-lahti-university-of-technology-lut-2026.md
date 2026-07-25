@@ -3,8 +3,8 @@ title: "Housing near Lappeenranta-Lahti University of Technology LUT: 2026 stude
 description: "What Campus Reviews Reveal About the LUT Experience  Student feedback consistently highlights the welcoming, innovative atmosphere at Lappeenranta-"
 pubDatetime: 2026-07-06T20:53:46.000Z
 modDatetime: 2026-07-07T08:54:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-263990.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-263990.jpg"
 tags: ["university", "lappeenranta-lahti-university-of-technology-lut"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ Because LUT also has a campus in Lahti (about 100 km away), some programmes ma
 
 ## Budget Bands and the Walk‑vs‑Transit Trade‑off
 
-![Lappeenranta-Lahti University of Technology LUT](https://img.findstay.org/housing/p/amber-263990.jpg)
+![Lappeenranta-Lahti University of Technology LUT](https://img.unistay.cn/housing/p/amber-263990.jpg)
 
 Rental prices in Lappeenranta are generally lower than in Helsinki or Tampere, but they still vary by distance from campus, size, and contract type. **No specific rent figures are provided in the source data for this institution, so all financial information below is indicative — confirm exact costs with the operator before committing.**
 

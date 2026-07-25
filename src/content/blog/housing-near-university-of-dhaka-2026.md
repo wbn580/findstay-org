@@ -3,8 +3,8 @@ title: "Housing near University of Dhaka: 2026 student guide"
 description: "Housing Near the University of Dhaka: A Practical Guide for 2026–2027  The University of Dhaka (commonly called DU or ঢাবি) sits in the heart of th"
 pubDatetime: 2026-07-04T04:33:06.000Z
 modDatetime: 2026-07-07T09:05:06.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00014680.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00014680.jpg"
 tags: ["university", "university-of-dhaka"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ Your choice of housing will depend on how much you value convenience vs. cost.
 - **Walking distance (0–1 km)**  
   Areas like Nilkhet, TSC, and the blocks around the science annex mean you can walk to most lecture halls in under 15 minutes. This eliminates commuting costs and frees up time for studying or exploring campus. The downside: rents are higher, and units can be older or smaller. Noise from street vendors and bus routes is common.
 
-![University of Dhaka](https://img.findstay.org/housing/p/uh-s00014680.jpg)
+![University of Dhaka](https://img.unistay.cn/housing/p/uh-s00014680.jpg)
 
 - **Short transit (1–3 km)**  
   Rickshaw or CNG ride to campus costs 30–80 BDT one way (indicative). Dhanmondi Road 7, Road 10, and the area around Jhigatola are popular with students who want a quieter environment but still a quick trip. Monthly transport budget: roughly 2,000–4,000 BDT.

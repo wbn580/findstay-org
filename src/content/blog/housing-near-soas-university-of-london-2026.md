@@ -3,8 +3,8 @@ title: "Housing near SOAS University of London: 2026 student guide"
 description: "Housing Near SOAS University of London: A Guide for Students  SOAS University of London sits in the heart of Bloomsbury, at 10 Thornhaugh St, Londo"
 pubDatetime: 2026-07-05T21:00:00.000Z
 modDatetime: 2026-07-07T08:11:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00029064.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00029064.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ Which option is better depends on your priorities. If you have a packed schedule
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![SOAS University of London](https://img.findstay.org/housing/p/uh-s00029064.jpg)
+![SOAS University of London](https://img.unistay.cn/housing/p/uh-s00029064.jpg)
 
 Below are five sample student residences that SOAS students might consider. They are located in different parts of London, and each offers a distinct balance of cost, distance, and style. Use this list as a starting point; always verify current availability, prices, and contract terms with the operator.
 

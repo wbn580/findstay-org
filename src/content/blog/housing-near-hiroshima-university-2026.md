@@ -3,8 +3,8 @@ title: "Housing near Hiroshima University: 2026 student guide"
 description: "Campus Reviews: What Students Say  Hiroshima University holds a Google rating of 4.3 from 361 reviews. Student feedback highlights both academic re"
 pubDatetime: 2026-07-05T11:19:02.000Z
 modDatetime: 2026-07-07T09:15:02.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1598495.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1598495.jpg"
 tags: ["university", "hiroshima-university"]
 category: "university"
 draft: false
@@ -32,7 +32,7 @@ Hiroshima city, meanwhile, provides greater access to entertainment, part-time j
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Hiroshima University](https://img.findstay.org/housing/p/amber-1598495.jpg)
+![Hiroshima University](https://img.unistay.cn/housing/p/amber-1598495.jpg)
 
 Because housing prices vary significantly by location, type, and size, the figures below are **indicative — confirm with the operator**. No specific rental data was provided for this article, but general bands for the region are outlined based on common market patterns for student accommodation in Higashihiroshima and Hiroshima.
 

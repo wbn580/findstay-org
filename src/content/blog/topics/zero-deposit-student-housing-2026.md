@@ -2,7 +2,7 @@
 title: "Zero-Deposit Student Housing: Where It Exists and How It Works in 2026"
 description: "No-deposit student accommodation options across 10 countries. Find zero-deposit rentals, deposit replacement schemes, and how to reduce upfront housing costs."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c?w=1600"
 ogImage: "https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c?w=1200"
 tags: ["rental-tips", "student-accommodation", "budget"]

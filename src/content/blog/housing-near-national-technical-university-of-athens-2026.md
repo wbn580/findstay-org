@@ -3,8 +3,8 @@ title: "Housing near National Technical University of Athens: 2026 student guide
 description: "What Campus Reviews Reveal About Life at NTUA  The National Technical University of Athens (NTUA), located on the Zografou Campus at Leof. Alimou K"
 pubDatetime: 2026-07-06T07:25:37.000Z
 modDatetime: 2026-07-07T09:12:37.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3232139.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3232139.jpg"
 tags: ["university", "national-technical-university-of-athens"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Athens is Greece’s capital and largest city, with a population of over 3 milli
 
 ## Budget Bands: What to Expect (Indicative Only)
 
-![National Technical University of Athens](https://img.findstay.org/housing/p/amber-3232139.jpg)
+![National Technical University of Athens](https://img.unistay.cn/housing/p/amber-3232139.jpg)
 
 Because this article relies only on the data supplied, specific rental figures cannot be stated. However, based on the general Athens rental market and typical student housing patterns, budgets can be broadly grouped as follows:
 

@@ -3,8 +3,8 @@ title: "Housing near Hokkaido University: 2026 student guide"
 description: "Housing Near Hokkaido University in Sapporo (2026–2027)  Hokkaido University consistently ranks among Japan’s top institutions – QS World Universit"
 pubDatetime: 2026-07-01T17:32:42.000Z
 modDatetime: 2026-07-07T08:24:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2024444.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2024444.jpg"
 tags: ["university", "hokkaido-university"]
 category: "university"
 draft: false
@@ -64,7 +64,7 @@ Measure walking distance from the property to your main faculty building. Use a 
 
 Good candidates in this zone include:
 
-![Hokkaido University](https://img.findstay.org/housing/p/amber-2024444.jpg)
+![Hokkaido University](https://img.unistay.cn/housing/p/amber-2024444.jpg)
 
 - Apartments along **Kita 8-jo to Kita 15-jo**, between Nishi 5-chome and Nishi 15-chome.
 - Buildings near **Kita 12-jo Station** (Namboku Line) or **Kita 13-jo Higashi Station** (Toho Line).

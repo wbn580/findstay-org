@@ -3,8 +3,8 @@ title: "Housing near City University of Hong Kong: 2026 student guide"
 description: "Housing near City University of Hong Kong: What to Know Before You Move  City University of Hong Kong sits at 83 Tat Chee Avenue in Kowloon Tong, a"
 pubDatetime: 2026-06-30T16:58:21.000Z
 modDatetime: 2026-07-07T08:30:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00366961.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00366961.jpg"
 tags: ["university", "city-university-of-hong-kong"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Kowloon Tong MTR station serves both the East Rail Line (to Hung Hom and further
 
 ### Shortlist Logic for Choosing a Residence
 
-![City University of Hong Kong](https://img.findstay.org/housing/p/uh-s00366961.jpg)
+![City University of Hong Kong](https://img.unistay.cn/housing/p/uh-s00366961.jpg)
 
 When deciding where to live, consider your priorities: budget, commute time, and privacy level. The following logical approach can help narrow down options:
 

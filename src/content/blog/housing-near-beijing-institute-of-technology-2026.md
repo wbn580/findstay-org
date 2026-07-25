@@ -3,8 +3,8 @@ title: "Housing near Beijing Institute of Technology: 2026 student guide"
 description: "What Campus Reviews Reveal  The Beijing Institute of Technology (BIT) holds a QS ranking of 259 and a Google rating of 4.3 from 66 reviews, indicat"
 pubDatetime: 2026-07-04T16:23:33.000Z
 modDatetime: 2026-07-07T08:47:33.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-937300.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-937300.jpg"
 tags: ["university", "beijing-institute-of-technology"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For international students, Haidian offers many amenities: supermarkets, food co
 
 ## Budget Bands for Student Housing
 
-![Beijing Institute of Technology](https://img.findstay.org/housing/p/amber-937300.jpg)
+![Beijing Institute of Technology](https://img.unistay.cn/housing/p/amber-937300.jpg)
 
 No specific price data is available from the supplied dataset. However, general patterns in Haidian can guide budget planning. All figures below are **indicative — confirm with the operator** before committing.
 

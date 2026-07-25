@@ -3,8 +3,8 @@ title: "Housing near La Trobe University: 2026 student guide"
 description: "La Trobe University Campus Reviews: What Students Reveal  La Trobe University’s main campus sits on Plenty Road in Bundoora, approximately 16 kilom"
 pubDatetime: 2026-07-05T01:11:15.000Z
 modDatetime: 2026-07-07T09:11:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1742954.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1742954.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The academic year at La Trobe runs from late February to November, with a mid‑
 
 ## Budget Bands for Student Housing (2026‑2027 Estimates)
 
-![La Trobe University](https://img.findstay.org/housing/p/amber-1742954.jpg)
+![La Trobe University](https://img.unistay.cn/housing/p/amber-1742954.jpg)
 
 Rental prices in Bundoora and surrounding suburbs vary by property type, distance to campus, and inclusions. All figures below are indicative — confirm with the operator.
 

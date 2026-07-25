@@ -3,8 +3,8 @@ title: "Housing near Sabanci University: 2026 student guide"
 description: "Housing Near Sabancı University: What Campus Reviews Reveal & Where to Look  Sabancı University is located in Tuzla, on the Asian side of Istanbul"
 pubDatetime: 2026-07-03T23:29:45.000Z
 modDatetime: 2026-07-07T08:18:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01518022.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01518022.jpg"
 tags: ["university", "sabanci-university"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ For a modern 1-bedroom apartment with amenities (parking, gym, security) within 
 
 Living close enough to walk to campus (within 15–20 minutes) is the most convenient option, especially given the heavy traffic on the D-100 highway that often delays shuttle buses. The area immediately surrounding Sabancı University is not densely built, but there are some apartment blocks and dormitories within walking distance (e.g., along Üniversite Caddesi). The trade-off is that this immediate vicinity has limited entertainment, dining, or shopping options — the campus cafeteria and library become your primary social spaces.
 
-![Sabanci University](https://img.findstay.org/housing/p/uh-s01518022.jpg)
+![Sabanci University](https://img.unistay.cn/housing/p/uh-s01518022.jpg)
 
 Choosing to live further away (e.g., in Pendik, Kartal, or even Kadıköy) requires a daily commute of 30–60 minutes each way. You gain access to more vibrant neighbourhoods, supermarkets, cafes, and nightlife, but you lose time and incur transport costs (bus + Marmaray or shuttle). The university runs its own bus network, but schedules can be tight. Many international students prefer to live in Pendik (about 10 km west) where there is a large marina, shopping centres, and a direct bus to campus.
 

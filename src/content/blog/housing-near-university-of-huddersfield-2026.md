@@ -3,8 +3,8 @@ title: "Housing near University of Huddersfield: 2026 student guide"
 description: "Housing Guide for University of Huddersfield Students  The University of Huddersfield is a public university located in West Yorkshire, England. Ra"
 pubDatetime: 2026-07-05T00:51:26.000Z
 modDatetime: 2026-07-07T08:18:26.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01472837.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01472837.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -60,7 +60,7 @@ For most students, living within a 15-minute walk to campus offers the best bala
 
 ### Shortlist Logic Using Nearby Residences
 
-![University of Huddersfield](https://img.findstay.org/housing/p/uh-s01472837.jpg)
+![University of Huddersfield](https://img.unistay.cn/housing/p/uh-s01472837.jpg)
 
 When evaluating housing options, create a shortlist based on your priorities. The following logic can help you narrow choices.
 

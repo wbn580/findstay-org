@@ -3,8 +3,8 @@ title: "Housing near University of California, Los Angeles (UCLA): 2026 student 
 description: "UCLA Student Life as Seen Through Campus Reviews University of California, Los Angeles (UCLA) ranked 46 in the 2026 QS World University Rankings and is."
 pubDatetime: 2026-07-03T03:56:19.000Z
 modDatetime: 2026-07-07T08:19:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1953356.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1953356.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ The above prices are indicative; please confirm the actual costs with the operat
 
 ## Walking vs Public Transit Trade-offs
 
-![University of California, Los Angeles (UCLA)](https://img.findstay.org/housing/p/amber-1953356.jpg)
+![University of California, Los Angeles (UCLA)](https://img.unistay.cn/housing/p/amber-1953356.jpg)
 
 For UCLA students, the key variables in choosing a residence are daily commute time and total cost.
 

@@ -3,8 +3,8 @@ title: "Housing near Karlsruhe Institute of Technology (KIT): 2026 student guide
 description: "Housing Near Karlsruhe Institute of Technology (KIT): A Student Guide  Karlsruhe Institute of Technology (KIT) ranks 98th in the QS World Universit"
 pubDatetime: 2026-06-30T20:22:16.000Z
 modDatetime: 2026-07-07T08:59:16.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01636471.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01636471.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Living within walking distance of KIT’s central campus (say, the area around K
 
 Living further out—in neighbourhoods like Durlach, Rüppurr, or the east side—lowers rent by about €100–€300 per month, but adds a commute of 15–30 minutes by tram or bus. The semester ticket makes public transport free after paying the semester fee (about €150–€200 per semester), so the main trade-off is time versus money.
 
-![Karlsruhe Institute of Technology (KIT)](https://img.findstay.org/housing/p/uh-s01636471.jpg)
+![Karlsruhe Institute of Technology (KIT)](https://img.unistay.cn/housing/p/uh-s01636471.jpg)
 
 For students who rely heavily on campus facilities (libraries, labs), walking or cycling is a big plus. If you prefer quieter, cheaper accommodation and don’t mind the commute, distant suburbs are fine. Those attending Campus Nord often choose to live in Karlsruhe city centre (30–40 min tram) or in smaller towns like Leopoldshafen near the campus (walking distance).
 

@@ -3,8 +3,8 @@ title: "Housing near Satbayev University (previously Kazakh Technical University
 description: "About Satbayev University & What Student Reviews Say  Located at Satpaev St 22, Almaty 050000, Kazakhstan, Satbayev University (formerly Kazakh Tec"
 pubDatetime: 2026-07-01T20:41:58.000Z
 modDatetime: 2026-07-07T08:55:58.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00017721.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00017721.jpg"
 tags: ["university", "satbayev-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The rental market in Almaty is diverse: options range from older Soviet-era apar
 
 ## Budget Bands (Indicative – Confirm with the Operator)
 
-![Satbayev University (previously Kazakh Technical University named after K.I. Satpaev)](https://img.findstay.org/housing/p/uh-s00017721.jpg)
+![Satbayev University (previously Kazakh Technical University named after K.I. Satpaev)](https://img.unistay.cn/housing/p/uh-s00017721.jpg)
 
 Below are typical monthly rent ranges for accommodation near Satbayev University. These are estimates based on general market conditions in Almaty; you should verify exact amounts with the property owner or rental agency before signing any contract.
 

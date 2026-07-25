@@ -3,8 +3,8 @@ title: "Housing near Jadavpur University: 2026 student guide"
 description: "What Campus Reviews Reveal  Jadavpur University holds a Google rating of 4.6 from 3,042 reviews. Students consistently highlight the institution’s"
 pubDatetime: 2026-07-03T22:28:59.000Z
 modDatetime: 2026-07-07T08:40:59.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-135658.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-135658.jpg"
 tags: ["university", "jadavpur-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Jadavpur University is located in the southern part of Kolkata, on Raja Subodh C
 
 ## Budget Bands for Student Housing
 
-![Jadavpur University](https://img.findstay.org/housing/p/amber-135658.jpg)
+![Jadavpur University](https://img.unistay.cn/housing/p/amber-135658.jpg)
 
 Rental prices in the Jadavpur area vary depending on room type, furnishing, and distance from campus. Below are indicative monthly ranges for 2026–2027. All figures are indicative — confirm with the operator or landlord before committing.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Münster: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Münster sits at the heart of the city inside the historic Schloss (Castle), a building that was recon"
 pubDatetime: 2026-07-07T03:56:25.000Z
 modDatetime: 2026-07-07T09:10:25.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2072838.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2072838.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Affordability in Münster is moderate by German standards. While Munich or Frank
 
 ## Budget Bands (Indicative – Confirm with the Operator)
 
-![University of Münster](https://img.findstay.org/housing/p/amber-2072838.jpg)
+![University of Münster](https://img.unistay.cn/housing/p/amber-2072838.jpg)
 
 Because no specific rent data was provided with this guide, the figures below are general market observations for 2026–2027. Always check current listings directly with landlords or student housing operators.
 

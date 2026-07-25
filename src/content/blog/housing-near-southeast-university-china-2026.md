@@ -3,8 +3,8 @@ title: "Housing near Southeast University, China: 2026 student guide"
 description: "Housing Near Southeast University, China: A Student’s Guide  Southeast University (SEU) is a national key university under the direct administratio"
 pubDatetime: 2026-07-05T20:59:05.000Z
 modDatetime: 2026-07-07T08:53:05.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01548304.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01548304.jpg"
 tags: ["university", "southeast-university-china"]
 category: "university"
 draft: false
@@ -59,7 +59,7 @@ Choosing a place based on walking distance to campus versus reliance on public t
 - The downside: Older buildings close to the campus may lack modern insulation, reliable air conditioning, or security. Noise from student life can be a factor.
 - Typical options: Dormitories inside the campus (if available to international postgraduates) or small flats in the “students’ village” just south of the east gate.
 
-![Southeast University, China](https://img.findstay.org/housing/p/uh-s01548304.jpg)
+![Southeast University, China](https://img.unistay.cn/housing/p/uh-s01548304.jpg)
 
 **Transit zone (15–40 minutes by bus or metro)**:
 

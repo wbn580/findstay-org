@@ -3,8 +3,8 @@ title: "Housing near Auckland University of Technology: 2026 student guide"
 description: "What Campus Reviews Reveal About AUT’s Student Experience  Auckland University of Technology (AUT) holds a Google rating of 4.4 out of 5 based on 6"
 pubDatetime: 2026-06-30T18:06:54.000Z
 modDatetime: 2026-07-07T08:22:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-254691.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-254691.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Living in Auckland CBD means high density of apartments, purpose-built student a
 
 ## Student Housing Budget Bands
 
-![Auckland University of Technology](https://img.findstay.org/housing/p/amber-254691.jpg)
+![Auckland University of Technology](https://img.unistay.cn/housing/p/amber-254691.jpg)
 
 When planning housing near AUT, consider the following broad indicative price ranges (all weekly rents, NZD — confirm with operator):
 

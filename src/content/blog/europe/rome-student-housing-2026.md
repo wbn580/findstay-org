@@ -2,7 +2,7 @@
 title: "Rome Student Housing 2026: Accommodation Near La Sapienza, Roma Tre & LUISS"
 description: "Student housing in Rome — find affordable apartments near Sapienza University (Europe's largest), Roma Tre, and LUISS. 2026 rent, neighborhoods, and student life."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1600"
 ogImage: "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1200"
 tags: ["europe", "rome", "student-accommodation"]

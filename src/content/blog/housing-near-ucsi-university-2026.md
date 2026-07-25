@@ -3,8 +3,8 @@ title: "Housing near UCSI University: 2026 student guide"
 description: "What campus reviews reveal about UCSI University  UCSI University holds a QS World University Ranking of 269 (2026) and is located at UCSI Heights"
 pubDatetime: 2026-07-01T10:10:16.000Z
 modDatetime: 2026-07-07T08:10:16.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-997108.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-997108.jpg"
 tags: ["university", "ucsi-university"]
 category: "university"
 draft: false
@@ -63,7 +63,7 @@ For those living farther away, the MRT Kajang line is a reliable option. The nea
 
 Driving or using ride-hailing apps (e.g., Grab) is common. Parking on campus is available but can be limited during peak hours. Students who own motorcycles often find it easier to park and navigate the hill.
 
-![UCSI University](https://img.findstay.org/housing/p/amber-997108.jpg)
+![UCSI University](https://img.unistay.cn/housing/p/amber-997108.jpg)
 
 **Trade-off summary**
 

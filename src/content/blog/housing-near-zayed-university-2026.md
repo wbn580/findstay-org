@@ -3,8 +3,8 @@ title: "Housing near Zayed University: 2026 student guide"
 description: "Housing near Zayed University: Campus Reviews and Neighbourhood Guide  Zayed University’s Dubai campus is located in Academic City, a purpose-built"
 pubDatetime: 2026-07-01T20:25:26.000Z
 modDatetime: 2026-07-07T09:11:26.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2265510.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2265510.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ All figures are indicative — confirm with the operator.
 
 Walking is not a practical option for most students. The university sits within a car-oriented zone with few pedestrian-friendly paths connecting residential compounds. On-campus housing is limited to a few dormitory blocks, which are usually reserved for first-year students or certain programmes. If you live off campus, you will need to arrange transport.
 
-![Zayed University](https://img.findstay.org/housing/p/amber-2265510.jpg)
+![Zayed University](https://img.unistay.cn/housing/p/amber-2265510.jpg)
 
 - **Walking:** Only feasible if you live inside Academic City itself. A handful of apartment buildings (e.g., Makaan, a nearby residence) are within a 10–15 minute walk. Check if your potential housing is inside the same security gated area.
 - **Public transport:** Dubai’s Roads and Transport Authority (RTA) buses operate along Academic City Road (lines 367, 369). The nearest metro station is about 8 km away. A bus trip combined with a metro journey can take 45–60 minutes one way. Monthly passes cost about 300 AED (indicative).

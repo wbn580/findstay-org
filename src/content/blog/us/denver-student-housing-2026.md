@@ -2,7 +2,7 @@
 title: "Denver Student Housing 2026: Areas Near CU Denver, DU & MSU"
 description: "Student accommodation in Denver — affordable neighborhoods near CU Denver, University of Denver, and MSU Denver. 2026 rent prices and mountain lifestyle guide."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1546156929-a4c0ac411f47?w=1600"
 ogImage: "https://images.unsplash.com/photo-1546156929-a4c0ac411f47?w=1200"
 tags: ["us", "denver", "student-accommodation"]

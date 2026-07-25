@@ -3,8 +3,8 @@ title: "Housing near Flinders University: 2026 student guide"
 description: "What Campus Reviews Reveal  Flinders University’s Bedford Park campus receives a Google rating of 4.2 out of 5 from 739 reviews. Students consisten"
 pubDatetime: 2026-07-03T04:02:14.000Z
 modDatetime: 2026-07-07T08:08:14.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-238644.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-238644.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ The climate is Mediterranean: warm, dry summers (December to February) and cool,
 
 ## Budget Bands
 
-![Flinders University](https://img.findstay.org/housing/p/amber-238644.jpg)
+![Flinders University](https://img.unistay.cn/housing/p/amber-238644.jpg)
 
 The following indicative weekly rental ranges apply to accommodation within a 30-minute commute of Flinders University. All prices should be confirmed directly with the landlord, agent, or operator.
 

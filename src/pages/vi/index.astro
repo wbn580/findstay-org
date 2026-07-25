@@ -1,0 +1,50 @@
+---
+import LocaleLanding from "@/components/fs/LocaleLanding.astro";
+import { stats, fmtInt } from "@/utils/fsData";
+
+const t = {
+  title: `UniStay — Tìm chỗ ở sinh viên toàn cầu: ${fmtInt(stats.properties)} khu nhà tại ${stats.cities} thành phố (2026)`,
+  desc: `So sánh ${fmtInt(stats.properties)} khu nhà ở sinh viên tại ${stats.cities} thành phố thuộc ${stats.countries} quốc gia: đánh giá thật từ người ở, giá tham khảo, và đối chiếu với ${fmtInt(stats.universities)} trường trong bảng xếp hạng QS.`,
+  eyebrow: "Chỗ ở sinh viên toàn cầu · Niên khóa 2026",
+  h1: "Tìm chỗ ở của bạn",
+  h1em: "ngay gần trường",
+  lead: `<b>${fmtInt(stats.properties)} khu nhà</b> · <b>${stats.cities} thành phố</b> · <b>${stats.countries} quốc gia</b> — so sánh bằng đánh giá thật của người ở và giá tham khảo, không phải tờ rơi quảng cáo.`,
+  askRobin: "Hỏi Robin — trợ lý AI",
+  browse: "Xem theo thành phố",
+  stepsKicker: "Cách hoạt động",
+  stepsH2: "Ba bước, không phải đoán",
+  steps: [
+    { h: "Cho Robin biết trường và ngân sách", p: "Mở khung chat, nói rõ trường bạn học, ngân sách và tháng nhận phòng. Robin lọc hàng nghìn khu nhà xuống còn những lựa chọn thực sự phù hợp." },
+    { h: "So sánh giá và đánh giá thật", p: "Mỗi trang khu nhà hiển thị giá tham khảo, loại phòng và trích dẫn nguyên văn đánh giá của người ở — cả điểm tốt lẫn điểm chưa tốt." },
+    { h: "Có tư vấn viên theo sát", p: "Chốt xong danh sách, tư vấn viên chỗ ở sẽ liên hệ trong vòng một ngày làm việc để giúp bạn xác nhận chi tiết với đơn vị vận hành. Hợp đồng và thanh toán bạn làm việc trực tiếp với họ." },
+  ],
+  countriesKicker: "Điểm đến",
+  countriesH2: "Xem theo quốc gia",
+  residencesWord: "khu nhà",
+  citiesWord: "thành phố",
+  note: "Trang thành phố và trang khu nhà hiện có bằng tiếng Anh. Mọi mức giá đều là giá tham khảo — hãy xác nhận giá hiện hành với đơn vị vận hành trước khi ký.",
+  ctaH2: "Bắt đầu bằng một danh sách ngắn, không phải ba nghìn tab",
+  ctaP: `Robin đối chiếu dữ liệu của ${fmtInt(stats.properties)} khu nhà và ${fmtInt(stats.universities)} trường đại học — nơi dữ liệu dừng lại, tư vấn viên thật tiếp tục.`,
+  statResidences: "khu nhà",
+  statCities: "thành phố",
+  statCountries: "quốc gia",
+  statUnis: "trường QS",
+};
+
+const countryNames = {
+  "united-states": "Hoa Kỳ",
+  "united-kingdom": "Vương quốc Anh",
+  spain: "Tây Ban Nha",
+  australia: "Úc",
+  canada: "Canada",
+  germany: "Đức",
+  singapore: "Singapore",
+  france: "Pháp",
+  ireland: "Ireland",
+  "new-zealand": "New Zealand",
+  uae: "UAE",
+  italy: "Ý",
+};
+---
+
+<LocaleLanding locale="vi" htmlLang="vi" t={t} countryNames={countryNames} />

@@ -3,8 +3,8 @@ title: "Housing near University of Wollongong: 2026 student guide"
 description: "What student reviews say about the University of Wollongong  The University of Wollongong (UOW) holds a QS World University Ranking of 184 (2026) a"
 pubDatetime: 2026-07-02T14:25:52.000Z
 modDatetime: 2026-07-07T08:56:52.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3049635.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3049635.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Because Wollongong is a relatively compact city, it is feasible to walk or cycle
 
 ## Budget bands for student housing (2026/2027 indicative)
 
-![University of Wollongong](https://img.findstay.org/housing/p/amber-3049635.jpg)
+![University of Wollongong](https://img.unistay.cn/housing/p/amber-3049635.jpg)
 
 Rental prices in Wollongong are generally lower than in Sydney, but they have risen in recent years. The figures below are indicative — confirm with the operator before signing any agreement.
 

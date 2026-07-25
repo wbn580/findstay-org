@@ -1,67 +1,64 @@
 @import "tailwindcss";
 @import "./typography.css";
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-600.css";
+@import "@fontsource/space-grotesk/latin-500.css";
+@import "@fontsource/space-grotesk/latin-600.css";
+@import "@fontsource/space-grotesk/latin-700.css";
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
-/* Findstay skin · Premium travel & accommodation · Coastal Teal + Warm Sand */
+/* ══ UniStay skin v3 · "Campus·elevated" (大王 approved 2026-07-07) ══
+   indigo #4B3FE4 primary · lime #CDEB5A scalpel accent · ink #14122A dark
+   near-white #FAF9FC canvas · Space Grotesk display / Inter body
+   SSOT: site-builds/findstay-org/brand/brand-tokens.css
+   NOTE: legacy var names (--maple/--pine/--sun/--cream) kept so existing
+   pages/utilities re-skin without markup changes; values remapped to v3. */
 :root,
 html[data-theme="light"] {
-  --maple: #0F766E;       /* teal primary */
-  --maple-2: #115E59;     /* teal darker */
-  --pine: #D97706;        /* amber accent */
-  --pine-2: #B45309;      /* amber darker */
-  --bark: #78716C;        /* warm gray */
-  --sun: #F59E0B;         /* gold/yellow */
-  --sky: #38BDF8;         /* sky blue */
-  --blue: #0284C7;        /* blue */
-  --cream: #F0FDF4;       /* mint cream */
-  --paper: #FAFAF9;       /* warm white */
-  --ink: #1C1917;         /* warm black */
-  --ink-2: #57534E;       /* warm gray text */
-  --ink-3: #A8A29E;       /* muted gray */
-  --rule: #D6D3D1;        /* border */
-  --card: #FFFFFF;        /* card bg */
-
-  --background: var(--paper);
-  --foreground: var(--ink);
-  --accent: var(--maple);        /* teal */
-  --accent-2: var(--pine);       /* amber */
-  --accent-3: var(--sun);        /* gold */
-  --muted: var(--cream);
-  --border: var(--rule);
-}
-
-html[data-theme="dark"] {
-  --maple: #2DD4BF;
-  --maple-2: #14B8A6;
-  --pine: #FBBF24;
-  --pine-2: #F59E0B;
-  --bark: #A8A29E;
-  --sun: #FCD34D;
-  --sky: #7DD3FC;
-  --blue: #38BDF8;
-  --cream: #1C1917;
-  --paper: #0C0A09;
-  --ink: #E7E5E4;
-  --ink-2: #A8A29E;
-  --ink-3: #78716C;
-  --rule: #292524;
-  --card: #1C1917;
+  --maple: #4B3FE4;       /* primary (indigo) — brand, CTA, links */
+  --maple-2: #3A2FC4;     /* primary hover */
+  --pine: #4B3FE4;        /* legacy "coral CTA" → unified indigo */
+  --pine-2: #3A2FC4;
+  --lime: #CDEB5A;        /* scalpel accent — dots, marks, dark-card emphasis */
+  --star: #FF6455;        /* rating stars only */
+  --bark: #6B6880;        /* slate text */
+  --sun: #FF6455;         /* legacy stars/badges → coral */
+  --sky: #6E63FF;
+  --blue: #4B3FE4;
+  --cream: #EEECFF;       /* indigo tint — chips, ghost hover */
+  --paper: #FAF9FC;       /* premium near-white canvas */
+  --ink: #14122A;         /* near-black indigo — dark sections, headings */
+  --ink-2: #2C2946;
+  --ink-3: #6B6880;
+  --rule: #ECEAF4;        /* hairline border (never heavy black) */
+  --card: #FFFFFF;
 
   --background: var(--paper);
   --foreground: var(--ink);
   --accent: var(--maple);
-  --accent-2: var(--pine);
+  --accent-2: var(--maple);
   --accent-3: var(--sun);
-  --muted: #292524;
+  --muted: var(--cream);
   --border: var(--rule);
 }
 
+/* dark mode disabled sitewide — light only (mirror light so nothing breaks) */
+html[data-theme="dark"] {
+  --maple: #4B3FE4; --maple-2: #3A2FC4; --pine: #4B3FE4; --pine-2: #3A2FC4;
+  --lime: #CDEB5A; --star: #FF6455; --bark: #6B6880; --sun: #FF6455;
+  --sky: #6E63FF; --blue: #4B3FE4; --cream: #EEECFF; --paper: #FAF9FC;
+  --ink: #14122A; --ink-2: #2C2946; --ink-3: #6B6880; --rule: #ECEAF4; --card: #FFFFFF;
+  --background: var(--paper); --foreground: var(--ink);
+  --accent: var(--maple); --accent-2: var(--maple); --accent-3: var(--sun);
+  --muted: var(--cream); --border: var(--rule);
+}
+
 @theme inline {
-  --font-app:
-    "Inter", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --font-hand: "Caveat", "Inter", cursive;
+  --font-app: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --font-hand: "Space Grotesk", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display: "Space Grotesk", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono:
     "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
@@ -77,6 +74,8 @@ html[data-theme="dark"] {
   --color-maple-2: var(--maple-2);
   --color-pine: var(--pine);
   --color-pine-2: var(--pine-2);
+  --color-lime: var(--lime);
+  --color-star: var(--star);
   --color-bark: var(--bark);
   --color-sun: var(--sun);
   --color-sky: var(--sky);
@@ -88,4 +87,72 @@ html[data-theme="dark"] {
   --color-ink-3: var(--ink-3);
   --color-rule: var(--rule);
   --color-card: var(--card);
+}
+
+/* dark mode disabled - light only */
+#theme-btn { display: none !important; }
+
+body { font-family: var(--font-app); background: var(--paper); color: var(--ink); }
+h1,h2,h3,h4 { font-family: var(--font-display); letter-spacing: -.025em; font-weight: 600; }
+
+/* app-layout 容器：1280px 页头/页脚 + max-w-3xl 内容阅读列 */
+@utility max-w-app {
+  @apply max-w-3xl;
+}
+@utility app-layout {
+  @apply mx-auto w-full max-w-app px-4;
+}
+
+/* ── UniStay platform primitives (Campus·elevated) ── */
+.fs-display { font-family: var(--font-display); letter-spacing: -.03em; }
+.fs-num { font-variant-numeric: tabular-nums; }
+.fs-eyebrow { font-family: var(--font-display); font-weight: 600; font-size: .72rem;
+  letter-spacing: .2em; text-transform: uppercase; color: var(--maple); }
+
+.fs-btn {
+  display: inline-flex; align-items: center; gap: .5rem;
+  border-radius: 13px; padding: .8rem 1.5rem;
+  font-family: var(--font-display); font-weight: 600; font-size: .95rem; line-height: 1;
+  transition: transform 180ms cubic-bezier(.2,.7,.3,1), background 180ms, box-shadow 180ms;
+  cursor: pointer; text-decoration: none; border: 0;
+}
+.fs-btn-coral,
+.fs-btn-teal { background: var(--maple); color: #fff; box-shadow: 0 8px 22px rgba(75,63,228,.26); }
+.fs-btn-coral:hover,
+.fs-btn-teal:hover { background: var(--maple-2); transform: translateY(-2px); }
+.fs-btn-ghost { border: 1px solid var(--rule); color: var(--ink); background: #fff; }
+.fs-btn-ghost:hover { border-color: var(--ink); box-shadow: 0 2px 6px rgba(20,18,42,.05),0 14px 40px rgba(20,18,42,.08); }
+.fs-btn-lime { background: var(--lime); color: var(--ink); }
+.fs-btn-lime:hover { transform: translateY(-2px); }
+.fs-btn-dark { background: var(--ink); color: #fff; }
+.fs-btn-dark:hover { background: #201d3d; }
+
+.fs-card {
+  background: var(--card); border-radius: 18px; overflow: hidden;
+  border: 1px solid var(--rule);
+  box-shadow: 0 1px 2px rgba(20,18,42,.05);
+  transition: transform 200ms cubic-bezier(.2,.7,.3,1), box-shadow 200ms, border-color 200ms;
+}
+.fs-card:hover {
+  transform: translateY(-5px); border-color: #E2DFF0;
+  box-shadow: 0 2px 6px rgba(20,18,42,.05), 0 14px 40px rgba(20,18,42,.10);
+}
+
+.fs-chip {
+  display: inline-block; background: var(--cream); color: var(--maple);
+  border-radius: 999px; padding: .3rem .85rem; font-size: .8rem; font-weight: 600;
+}
+.fs-chip-verified { background: #E7F7EF; color: #12B76A; }
+
+.fs-stars { color: var(--star); letter-spacing: .05em; }
+
+/* dark section wrapper (contrast rhythm) */
+.fs-dark { background: var(--ink); color: #fff; }
+.fs-dark .fs-eyebrow { color: var(--lime); }
+
+/* scroll reveal（尊重 prefers-reduced-motion） */
+.fs-reveal { opacity: 0; transform: translateY(14px); transition: opacity 480ms ease, transform 480ms ease; }
+.fs-reveal.fs-in { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .fs-reveal { opacity: 1; transform: none; transition: none; }
 }

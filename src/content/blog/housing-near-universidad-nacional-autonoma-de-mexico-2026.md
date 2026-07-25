@@ -3,8 +3,8 @@ title: "Housing near Universidad Nacional Autónoma de México (UNAM): 2026 stud
 description: "Living Near Universidad Nacional Autónoma de México (UNAM): A Student Housing Guide  Finding a place to live when you're headed to a large, histori"
 pubDatetime: 2026-07-01T23:38:20.000Z
 modDatetime: 2026-07-07T08:47:20.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-288050.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-288050.jpg"
 tags: ["university", "universidad-nacional-autonoma-de-mexico"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ Choosing between walking distance and using public transport is a key decision w
 - *Cons*: Rent tends to be higher for properties directly adjacent to CU. Noise from student activity can be a factor. Also, the campus is huge – even if you live on its border, your faculty might be a 20-minute walk from the main entrance.
 - *Best for*: Students who prefer predictability, don’t mind spending slightly more on rent, and want to make the most of campus facilities.
 
-![Universidad Nacional Autónoma de México (UNAM)](https://img.findstay.org/housing/p/amber-288050.jpg)
+![Universidad Nacional Autónoma de México (UNAM)](https://img.unistay.cn/housing/p/amber-288050.jpg)
 
 **Public transit (Metrobús, Metro, RTP buses)**
 

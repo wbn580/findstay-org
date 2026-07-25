@@ -3,8 +3,8 @@ title: "Housing near Dalian University of Technology: 2026 student guide"
 description: "Housing Near Dalian University of Technology (DUT): A Practical Guide  Dalian University of Technology (DUT), ranked 482 (QS 2025), sits in the Gan"
 pubDatetime: 2026-07-02T04:15:30.000Z
 modDatetime: 2026-07-07T07:49:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3231855.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3231855.jpg"
 tags: ["university", "dalian-university-of-technology"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ A common compromise: choose a flat within 20 minutes’ walk or a 10‑minute bu
 
 Without a list of specific residences in the provided data, the following general logic applies when evaluating any rental near DUT. You can adapt it to listings you find on local rental platforms or through word-of-mouth.
 
-![Dalian University of Technology](https://img.findstay.org/housing/p/amber-3231855.jpg)
+![Dalian University of Technology](https://img.unistay.cn/housing/p/amber-3231855.jpg)
 
 1. **Proximity to campus**: Filter by listings within the Ganjingzi district, especially around Linggong Road, Xinzhaizi, or Xianglujiao. A geographic midpoint is the DUT East Gate (address above). Use the distance measure on any platform: under 1 km is walking, 1–2 km is an easy bike ride, over 2 km typically requires public transport.
 2. **Type of property**:

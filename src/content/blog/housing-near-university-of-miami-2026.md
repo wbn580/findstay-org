@@ -3,8 +3,8 @@ title: "Housing near University of Miami: 2026 student guide"
 description: "Miami University Housing Guide: Oxford, OH (2026–2027)      What Campus Reviews Reveal  Miami University (often called “Miami of Ohio”) sits in the"
 pubDatetime: 2026-07-05T06:47:42.000Z
 modDatetime: 2026-07-07T08:39:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-972276.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-972276.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -69,7 +69,7 @@ Based on the data, these five properties are available near Miami University. Al
 - *Why consider:* Very walkable to classes, library, and uptown. Newer construction with modern finishes, gym, and study lounges. Parking may be limited. Good for students who prioritize saving commute time.
 - *Trade-off:* Higher rent; may need a roommate to afford.
 
-![University of Miami](https://img.findstay.org/housing/p/amber-972276.jpg)
+![University of Miami](https://img.unistay.cn/housing/p/amber-972276.jpg)
 
 #### 2. Flatts at South Campus
 

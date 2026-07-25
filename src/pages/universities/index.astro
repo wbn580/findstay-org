@@ -1,0 +1,88 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FsBreadcrumb from "@/components/fs/FsBreadcrumb.astro";
+import FsCtaCard from "@/components/fs/FsCtaCard.astro";
+import {
+  countries,
+  universities,
+  cityByKey,
+  stats,
+  fmtInt,
+  flagOf,
+} from "@/utils/fsData";
+
+/* group universities by our 12 destination countries + everything else */
+const groups: { key: string; label: string; flag: string; unis: typeof universities }[] = [];
+for (const c of countries) {
+  const unis = universities.filter(u => u.country === c.slug).sort((a, b) => a.rank - b.rank);
+  if (unis.length) groups.push({ key: c.slug, label: c.name, flag: flagOf(c.slug), unis });
+}
+const other = universities.filter(u => !u.country).sort((a, b) => a.rank - b.rank);
+if (other.length) groups.push({ key: "worldwide", label: "Other destinations", flag: "🌍", unis: other });
+
+const title = `${fmtInt(stats.universities)} QS-Ranked Universities & Student Housing Nearby (2026) | UniStay`;
+const desc = `Browse ${fmtInt(stats.universities)} QS World Ranking universities with campus Google ratings and links to student housing in their cities — across ${countries.map(c => c.name).slice(0, 5).join(", ")} and more.`;
+---
+
+<Layout title={title} description={desc}>
+  <main id="main-content" class="fs-page">
+    <div class="page-hero">
+      <div class="wrap">
+        <FsBreadcrumb crumbs={[{ name: "Home", href: "/" }, { name: "Universities" }]} />
+        <h1>Universities, mapped to housing</h1>
+        <p class="intro">
+          <b>{fmtInt(stats.universities)} QS World Ranking universities</b>, each with campus Google
+          ratings and a direct route to student housing in its city. Start from your offer letter,
+          not from a map.
+        </p>
+        <nav class="anchor-toc" aria-label="Jump to country">
+          {groups.map(g => (
+            <a href={`#${g.key}`}>{g.flag} {g.label} ({g.unis.length})</a>
+          ))}
+        </nav>
+      </div>
+    </div>
+
+    {groups.map(g => (
+      <section class="fs-sec fs-sec--tight" id={g.key}>
+        <div class="wrap">
+          <div class="sec-head" style="margin-bottom:20px">
+            <div>
+              <p class="kicker">{g.flag} {g.unis.length} universities</p>
+              <h2>{g.label}</h2>
+            </div>
+            {g.key !== "worldwide" && <a href={`/housing/${g.key}/`} class="more-link">Housing in {g.label} →</a>}
+          </div>
+          <div>
+            {g.unis.map(u => {
+              const cityRec = u.city_key ? cityByKey.get(u.city_key) : null;
+              return (
+                <a href={`/university/${u.slug}/`} class="uni-row">
+                  <span class="rank">QS #{u.rank}</span>
+                  <span>
+                    <span class="u-name">{u.name}</span>
+                    {cityRec && <span class="u-meta">{cityRec.name} · {cityRec.property_count} residences listed</span>}
+                  </span>
+                  <span class="u-side">
+                    {u.g_rating && <span class="stars" aria-hidden="true">★ {u.g_rating.toFixed(1)}</span>}
+                    {u.g_reviews ? <span>{fmtInt(u.g_reviews)} reviews</span> : <span>Details →</span>}
+                  </span>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    ))}
+
+    <section class="fs-sec" style="padding-top:24px">
+      <div class="wrap">
+        <FsCtaCard
+          title="Got an offer? Start from the campus."
+          text="Tell Robin which university made you an offer — get housing options within commuting range, with prices and resident reviews side by side."
+          button="Ask Robin"
+        />
+      </div>
+    </section>
+  </main>
+</Layout>

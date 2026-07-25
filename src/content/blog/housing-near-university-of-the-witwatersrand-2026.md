@@ -3,8 +3,8 @@ title: "Housing near University of The Witwatersrand: 2026 student guide"
 description: "Housing Near University of the Witwatersrand  Located at 1 Jan Smuts Ave in Braamfontein, Johannesburg, the University of the Witwatersrand (Wits)"
 pubDatetime: 2026-07-01T08:05:50.000Z
 modDatetime: 2026-07-07T08:23:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-997585.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-997585.jpg"
 tags: ["university", "university-of-the-witwatersrand"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ Always ask about utility bills (electricity, water, internet) — many rentals c
 
 **Walking** is the most convenient option if you live in Braamfontein, Parktown, or Melville within a 20‑minute walk. The campus is compact in terms of facilities (restaurants, shops), but walking between lecture halls can take 20 minutes as one reviewer noted. If you live very close to your faculty building, you save time. However, walking after dark is not recommended alone — stick to well‑lit main roads or use campus shuttle services.
 
-![University of The Witwatersrand](https://img.findstay.org/housing/p/amber-997585.jpg)
+![University of The Witwatersrand](https://img.unistay.cn/housing/p/amber-997585.jpg)
 
 **Public transit** (minibus taxis, Rea Vaya, Gautrain) extends your housing options to cheaper suburbs further out, like Auckland Park, Westdene, or even Brixton. A typical commute from Melville (a popular student area) to Wits takes 10 minutes by minibus or 20 minutes walking. The minibus taxi fare is around ZAR 8–12 per trip (2026 indicative). The Gautrain from Rosebank to Park Station costs about ZAR 20–30 one way and runs frequently. Downsides: minibuses can be crowded, and during peak hours buses may have long queues.
 

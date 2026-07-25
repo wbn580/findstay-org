@@ -3,8 +3,8 @@ title: "Housing near INTI International University: 2026 student guide"
 description: "Housing Near INTI International University: What Campus Reviews Reveal  Finding suitable accommodation near INTI International University (Nilai ca"
 pubDatetime: 2026-07-05T14:21:19.000Z
 modDatetime: 2026-07-07T08:50:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3151391.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3151391.jpg"
 tags: ["university", "inti-international-university"]
 category: "university"
 draft: false
@@ -71,7 +71,7 @@ Given the timetable instability noted in reviews, walking-distance housing is st
 
 ### Shortlist Logic: How to Evaluate Nearby Residences
 
-![INTI International University](https://img.findstay.org/housing/p/amber-3151391.jpg)
+![INTI International University](https://img.unistay.cn/housing/p/amber-3151391.jpg)
 
 You do not need to settle on a specific property immediately. Use the following logic to create a shortlist based on the data and reviews.
 

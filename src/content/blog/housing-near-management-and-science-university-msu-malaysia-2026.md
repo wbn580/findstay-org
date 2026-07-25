@@ -3,8 +3,8 @@ title: "Housing near Management and Science University - MSU Malaysia: 2026 stud
 description: "What Campus Reviews Reveal  Student reviews of Management and Science University (MSU) offer a mixed but instructive picture for anyone planning to"
 pubDatetime: 2026-07-01T22:58:17.000Z
 modDatetime: 2026-07-07T09:13:17.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1123919.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1123919.jpg"
 tags: ["university", "management-and-science-university-msu-malaysia"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For students, Shah Alam offers lower rental costs compared to Kuala Lumpur, but 
 
 ## Budget Bands
 
-![Management and Science University - MSU Malaysia](https://img.findstay.org/housing/p/amber-1123919.jpg)
+![Management and Science University - MSU Malaysia](https://img.unistay.cn/housing/p/amber-1123919.jpg)
 
 Housing options around MSU span a wide range. All prices below are **indicative — confirm with the operator**.
 

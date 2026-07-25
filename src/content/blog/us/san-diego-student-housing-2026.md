@@ -2,7 +2,7 @@
 title: "San Diego Student Housing 2026: Areas Near UCSD, SDSU & USD"
 description: "Student accommodation in San Diego — from La Jolla near UCSD to College Area near SDSU. 2026 rent prices, beach life, and neighborhood guides."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1538685635157-b39a434d4380?w=1600"
 ogImage: "https://images.unsplash.com/photo-1538685635157-b39a434d4380?w=1200"
 tags: ["us", "san-diego", "student-accommodation"]

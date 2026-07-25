@@ -3,8 +3,8 @@ title: "Housing near Stony Brook University: 2026 student guide"
 description: "What Campus Reviews Reveal About Stony Brook University  Google rates Stony Brook University 4.4 out of 5 from about 1,240 reviews—a solid score, b"
 pubDatetime: 2026-07-06T23:41:47.000Z
 modDatetime: 2026-07-07T08:56:47.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1351140.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1351140.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Note that off-campus housing costs in Stony Brook are influenced by proximity to
 
 ## Walk vs. Transit Trade-off
 
-![Stony Brook University](https://img.findstay.org/housing/p/amber-1351140.jpg)
+![Stony Brook University](https://img.unistay.cn/housing/p/amber-1351140.jpg)
 
 ### Walking
 

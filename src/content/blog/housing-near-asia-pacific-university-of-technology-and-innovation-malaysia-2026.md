@@ -3,8 +3,8 @@ title: "Housing near Asia Pacific University of Technology and Innovation (APU) 
 description: "Housing Near Asia Pacific University of Technology and Innovation (APU) Malaysia  This guide covers what you should know about finding a place to l"
 pubDatetime: 2026-07-04T04:43:19.000Z
 modDatetime: 2026-07-07T09:12:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00479746.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00479746.jpg"
 tags: ["university", "asia-pacific-university-of-technology-and-innovation-malaysia"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Choosing between walking distance to campus and using transit depends on your pr
 
 **Walk to campus:** The only way to walk easily from home to APU is to live inside the Taman Teknologi Malaysia park itself. A few apartments and townhouses exist within the park, but availability is limited. The advantage is zero commute time and no transport cost. The downside is that these units may be more expensive per square foot, and the park itself has limited grocery shops or restaurants – you would still need transport for weekly shopping.
 
-![Asia Pacific University of Technology and Innovation (APU) Malaysia](https://img.findstay.org/housing/p/uh-s00479746.jpg)
+![Asia Pacific University of Technology and Innovation (APU) Malaysia](https://img.unistay.cn/housing/p/uh-s00479746.jpg)
 
 **Transit commuting:** Most students choose to live in nearby suburbs like Bukit Jalil, Sri Petaling, or Bandar Tasik Selatan. These areas are well-served by LRT and buses. The trade-off is a commute of 20 to 40 minutes each way, depending on traffic and the exact route. However, you gain access to more affordable housing, more dining options, and a livelier neighbourhood. Many students use a combination of Grab or shuttle to cover the last kilometre from the LRT station to campus.
 

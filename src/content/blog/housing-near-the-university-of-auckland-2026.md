@@ -3,8 +3,8 @@ title: "Housing near The University of Auckland: 2026 student guide"
 description: "Housing Near the University of Auckland: A Practical Guide for 2026–2027      Campus Reviews and What They Reveal About Student Life  The Universit"
 pubDatetime: 2026-06-30T22:11:46.000Z
 modDatetime: 2026-07-07T08:31:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1954921.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1954921.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Based on the indicative starting rent of NZD 280 per week, here is a typical bre
 - **Mid-range (NZD 350–450 per week):** A larger studio or a one-bedroom apartment in a modern complex close to campus. Examples include Empire Apartments or UniLodge Wellesley Apartments. Many of these offer communal lounges, gyms, and study areas. This band suits students who want more space and amenities without stretching the budget.
 - **Premium (NZD 450+ per week):** En-suite rooms in brand-new builds, serviced apartments, or luxury studios in prime locations. UniLodge Mayoral Drive Student Accommodation and similar options fall here. These properties often have concierge services, rooftop terraces, and prime city views.
 
-![The University of Auckland](https://img.findstay.org/housing/p/amber-1954921.jpg)
+![The University of Auckland](https://img.unistay.cn/housing/p/amber-1954921.jpg)
 
 All prices mentioned are indicative — you should confirm with the operator when booking. Also note that many providers require a deposit (typically 2–4 weeks’ rent) and a 12-month lease, though shorter contracts may be available for semester stays.
 

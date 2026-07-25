@@ -3,8 +3,8 @@ title: "Housing near Delft University of Technology: 2026 student guide"
 description: "What campus reviews reveal  Delft University of Technology (TU Delft) holds a 4.6 Google rating from 931 reviews. Students and visitors consistentl"
 pubDatetime: 2026-07-01T03:50:05.000Z
 modDatetime: 2026-07-07T08:53:05.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-945114.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-945114.jpg"
 tags: ["university", "delft-university-of-technology"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Delft’s student housing market consists of both university‑managed accommoda
 
 ## Budget bands
 
-![Delft University of Technology](https://img.findstay.org/housing/p/amber-945114.jpg)
+![Delft University of Technology](https://img.unistay.cn/housing/p/amber-945114.jpg)
 
 The cost of student housing in Delft varies widely depending on the type of room, the distance from campus, and whether utilities are included. The figures below are indicative — confirm with the operator before committing.
 

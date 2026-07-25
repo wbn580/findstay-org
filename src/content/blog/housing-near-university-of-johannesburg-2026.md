@@ -3,8 +3,8 @@ title: "Housing near University of Johannesburg: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Housing  The University of Johannesburg (UJ) holds a QS World University Ranking of 308 and sits at the in"
 pubDatetime: 2026-07-07T05:07:45.000Z
 modDatetime: 2026-07-07T08:53:45.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1141308.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1141308.jpg"
 tags: ["university", "university-of-johannesburg"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The cost of living in Johannesburg is moderate compared to other global cities, 
 
 ## Budget Bands
 
-![University of Johannesburg](https://img.findstay.org/housing/p/amber-1141308.jpg)
+![University of Johannesburg](https://img.unistay.cn/housing/p/amber-1141308.jpg)
 
 Accommodation costs near UJ vary widely depending on location, size, and amenities. Indicative monthly rent ranges (for 2027) are as follows — note these are indicative only; confirm with the operator before committing:
 

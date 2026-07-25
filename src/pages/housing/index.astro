@@ -1,0 +1,96 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import FsBreadcrumb from "@/components/fs/FsBreadcrumb.astro";
+import FsCtaCard from "@/components/fs/FsCtaCard.astro";
+import {
+  stats,
+  countries,
+  cities,
+  fmtInt,
+  fmtMoney,
+  flagOf,
+} from "@/utils/fsData";
+
+const citiesByCountry = new Map<string, typeof cities>();
+for (const c of countries) {
+  citiesByCountry.set(
+    c.slug,
+    cities
+      .filter(ci => ci.country === c.slug)
+      .sort((a, b) => b.property_count - a.property_count)
+  );
+}
+
+const title = `Student Housing Directory — ${stats.cities} Cities in ${stats.countries} Countries (2026) | UniStay`;
+const desc = `Browse ${fmtInt(stats.properties)} student residences by destination: ${countries
+  .slice(0, 6)
+  .map(c => c.name)
+  .join(", ")} and more. Indicative prices and resident reviews for every city.`;
+---
+
+<Layout title={title} description={desc}>
+  <main id="main-content" class="fs-page">
+    <div class="page-hero">
+      <div class="wrap">
+        <FsBreadcrumb crumbs={[{ name: "Home", href: "/" }, { name: "Housing" }]} />
+        <h1>Student housing, by destination</h1>
+        <p class="intro">
+          <b>{fmtInt(stats.properties)} residences</b> across <b>{stats.cities} cities</b> in
+          <b>{stats.countries} countries</b>, each with indicative prices and published resident
+          reviews. Pick a country below, or jump straight to a city.
+        </p>
+        <nav class="anchor-toc" aria-label="Jump to country">
+          {countries.map(c => (
+            <a href={`#${c.slug}`}>{flagOf(c.slug)} {c.name}</a>
+          ))}
+        </nav>
+      </div>
+    </div>
+
+    {countries.map(c => {
+      const cs = citiesByCountry.get(c.slug) ?? [];
+      return (
+        <section class="fs-sec--tight fs-sec" id={c.slug}>
+          <div class="wrap">
+            <div class="sec-head" style="margin-bottom:22px">
+              <div>
+                <p class="kicker">{flagOf(c.slug)} {fmtInt(c.property_count)} residences · {c.city_count} cities</p>
+                <h2><a href={`/housing/${c.slug}/`} style="color:inherit;text-decoration:none">{c.name}</a></h2>
+              </div>
+              <a href={`/housing/${c.slug}/`} class="more-link">{c.name} hub →</a>
+            </div>
+            <div class="fs-grid g-3">
+              {cs.map(ci => (
+                <a href={`/housing/${c.slug}/${ci.slug}/`} class="fs-card city-card">
+                  <div>
+                    <h3>{ci.name}</h3>
+                    <p class="c-meta">
+                      {ci.property_count} residence{ci.property_count === 1 ? "" : "s"}
+                      {ci.universities.length > 0 ? ` · ${ci.universities.length} universit${ci.universities.length === 1 ? "y" : "ies"}` : ""}
+                    </p>
+                  </div>
+                  {ci.min_price != null && (
+                    <div class="from">
+                      <b>from {fmtMoney(ci.currency, ci.min_price)}</b>
+                      <span>indicative</span>
+                    </div>
+                  )}
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+      );
+    })}
+
+    <section class="fs-sec" style="padding-top:24px">
+      <div class="wrap">
+        <FsCtaCard
+          title="Can’t see your city?"
+          text={`Robin can still help — coverage grows monthly, and an advisor can check options beyond the ${stats.cities} listed cities. All prices are indicative; confirm the current rate with the operator.`}
+          button="Ask Robin"
+        />
+      </div>
+    </section>
+  </main>
+</Layout>

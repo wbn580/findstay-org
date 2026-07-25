@@ -3,8 +3,8 @@ title: "Housing near Vilnius University: 2026 student guide"
 description: "Housing Near Vilnius University: What Campus Reviews Reveal and How to Choose    Data as of 2026    Vilnius University, founded in 1579, is part of"
 pubDatetime: 2026-07-02T13:02:36.000Z
 modDatetime: 2026-07-07T08:49:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1927543.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1927543.jpg"
 tags: ["university", "vilnius-university"]
 category: "university"
 draft: false
@@ -65,7 +65,7 @@ One of the biggest decisions is whether to live walking distance to the main Old
 - Cons: Rent is higher per square meter. Noise can be an issue, especially near popular bars (e.g., Pilies Street). Parking is extremely limited if you own a car.
 - Best for: Students whose faculties are in the Old Town (most humanities and social sciences). Also for students who want to soak up the historic atmosphere.
 
-![Vilnius University](https://img.findstay.org/housing/p/amber-1927543.jpg)
+![Vilnius University](https://img.unistay.cn/housing/p/amber-1927543.jpg)
 
 **Transit from outer neighbourhoods (2–6 km)**
 

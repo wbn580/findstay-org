@@ -2,7 +2,7 @@
 title: "LA Student Housing Guide 2026: Affordable Areas Near UCLA, USC & Cal State LA"
 description: "Find student accommodation in Los Angeles near UCLA, USC, and Cal State LA. Rent prices by neighborhood, car vs no-car strategy, and 2026 housing tips."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1580655653885-65763b2597d0?w=1600"
 ogImage: "https://images.unsplash.com/photo-1580655653885-65763b2597d0?w=1200"
 tags: ["us", "la", "student-accommodation"]

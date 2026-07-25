@@ -3,8 +3,8 @@ title: "Housing near Qatar University: 2026 student guide"
 description: "Housing near Qatar University: A Guide for Students  Qatar University (QU) is the country’s only public university, located on the northern outskir"
 pubDatetime: 2026-07-06T00:25:15.000Z
 modDatetime: 2026-07-07T09:07:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2182719.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2182719.jpg"
 tags: ["university", "qatar-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Because QU is a public university with a large student body, many private landlo
 
 ### Walk vs Transit Trade‑off
 
-![Qatar University](https://img.findstay.org/housing/p/amber-2182719.jpg)
+![Qatar University](https://img.unistay.cn/housing/p/amber-2182719.jpg)
 
 **Walking** from nearby residences to QU is feasible only if you live within a few kilometres. The campus is on the northern outskirts, so residential zones immediately adjacent to the university are limited. Students living in the Al Kharaitiyat or Al Daayen areas (within 2–3 km) can walk or cycle. However, Doha’s summer heat makes walking uncomfortable from June to September, so covered pathways or air‑conditioned bus stops are important.
 

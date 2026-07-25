@@ -3,8 +3,8 @@ title: "Housing near Humboldt-Universität zu Berlin: 2026 student guide"
 description: "Living near Humboldt-Universität zu Berlin: what the reviews and city data tell you      Campus reviews: historic grandeur, high academic standards"
 pubDatetime: 2026-07-01T20:47:16.000Z
 modDatetime: 2026-07-07T07:56:16.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2184740.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2184740.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Which option works best for you depends on your priorities: if you value time an
 
 ### Shortlist logic using the given nearby residences
 
-![Humboldt-Universität zu Berlin](https://img.findstay.org/housing/p/amber-2184740.jpg)
+![Humboldt-Universität zu Berlin](https://img.unistay.cn/housing/p/amber-2184740.jpg)
 
 The platform’s sample listings include five addresses within Berlin. None of these are official residence hall names; they appear to be building references or short codes. Here is how you might evaluate them when building your shortlist.
 

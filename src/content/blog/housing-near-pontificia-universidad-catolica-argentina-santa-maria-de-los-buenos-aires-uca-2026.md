@@ -3,8 +3,8 @@ title: "Housing near Pontificia Universidad Católica Argentina Santa María de 
 description: "Campus Reviews: What Students Say  Two reviews from the university’s Google profile offer contrasting but revealing perspectives. Diego Cuenca, rat"
 pubDatetime: 2026-07-01T01:07:28.000Z
 modDatetime: 2026-07-07T08:13:28.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1340684.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1340684.jpg"
 tags: ["university", "pontificia-universidad-catolica-argentina-santa-maria-de-los-buenos-aires-uca"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ UCA’s Buenos Aires campus is located on Av. Alicia Moreau de Justo at the hear
 
 ## Budget Bands: What to Expect
 
-![Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA](https://img.findstay.org/housing/p/amber-1340684.jpg)
+![Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA](https://img.unistay.cn/housing/p/amber-1340684.jpg)
 
 Rental prices in Buenos Aires vary widely depending on location, property type, and condition. In Puerto Madero, a one‑bedroom apartment may cost two to three times more than a similar unit in, say, Almagro or Caballito. As a general guide (indicative — confirm with the operator), monthly rents for a studio or one‑bedroom in Puerto Madero in 2026 might fall in a higher band, while shared apartments in adjacent barrios could be in a mid‑to‑lower band. Exact numbers change rapidly due to inflation and currency fluctuations, so always check current listings and confirm with the operator before committing. For students on a tight budget, it makes sense to expand the search radius to areas with good Subte connections — for example, taking Line B from areas like Villa Crespo or the northern part of the city to the Estación Callao or Alem stations, then walking or busing to Puerto Madero.
 

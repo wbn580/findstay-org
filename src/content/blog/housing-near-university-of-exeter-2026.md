@@ -3,8 +3,8 @@ title: "Housing near University of Exeter: 2026 student guide"
 description: "What Campus Reviews Reveal About Student Housing  The University of Exeter holds a QS rank of 155 globally and sits on a campus rated 4.3 out of 5"
 pubDatetime: 2026-07-02T18:11:15.000Z
 modDatetime: 2026-07-07T08:14:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2358142.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2358142.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ Bicycles are a popular alternative. Exeter has some cycle lanes, but the hills c
 
 The article does not provide a list of specific accommodation buildings. However, based on the campus location at Stocker Road and the city layout, students can apply a simple shortlisting logic:
 
-![University of Exeter](https://img.findstay.org/housing/p/amber-2358142.jpg)
+![University of Exeter](https://img.unistay.cn/housing/p/amber-2358142.jpg)
 
 1. **Start with the campus boundaries**: Residences within a 15-minute walk of the university library (which is near the centre of the Streatham campus) are top priority if you value convenience and plan to spend long hours on campus. Look for properties on or near Pennsylvania Road, Stocker Road, and Streatham Drive.
 2. **Check bus routes next**: If your budget does not stretch to that area, search along bus routes that serve the campus. The most reliable lines are H (Heavitree–University–City Centre) and U (University–St David’s station). Properties within 400 metres of a bus stop on those routes will keep your commute under 20 minutes.

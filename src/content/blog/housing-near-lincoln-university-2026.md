@@ -3,8 +3,8 @@ title: "Housing near Lincoln University: 2026 student guide"
 description: "Campus Location and What Students Reveal  Lincoln University sits on a 58‑hectare campus at 85084 Ellesmere Junction Road, Lincoln 7647, New Zealan"
 pubDatetime: 2026-07-01T17:38:36.000Z
 modDatetime: 2026-07-07T08:58:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-936668.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-936668.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Housing options are primarily standalone houses (often shared by three to six st
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Lincoln University](https://img.findstay.org/housing/p/amber-936668.jpg)
+![Lincoln University](https://img.unistay.cn/housing/p/amber-936668.jpg)
 
 All prices below are **indicative – confirm with the operator**. They reflect typical weekly rents for the 2026 and 2027 academic years, based on market trends in Lincoln.
 

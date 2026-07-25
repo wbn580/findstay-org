@@ -3,8 +3,8 @@ title: "Housing near Universität Bremen: 2026 student guide"
 description: "Universität Bremen: What Campus Reviews Reveal  The Universität Bremen, ranked 530th in the QS World University Rankings, is a mid-sized research u"
 pubDatetime: 2026-07-06T19:29:48.000Z
 modDatetime: 2026-07-07T08:22:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2105838.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2105838.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ The university is located in the northeastern district of Horn-Lehe, a quiet res
 
 ## Budget Bands for Student Housing
 
-![Universität Bremen](https://img.findstay.org/housing/p/amber-2105838.jpg)
+![Universität Bremen](https://img.unistay.cn/housing/p/amber-2105838.jpg)
 
 Student housing in Bremen varies widely. Based on current market data (indicative — confirm with the operator), you can expect the following approximate monthly rent ranges (cold rent, or warm rent including utilities):
 

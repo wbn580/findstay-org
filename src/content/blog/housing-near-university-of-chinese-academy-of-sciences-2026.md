@@ -3,8 +3,8 @@ title: "Housing near University of Chinese Academy of Sciences (UCAS): 2026 stud
 description: "What Campus Reviews Reveal About UCAS  The University of Chinese Academy of Sciences (UCAS) has earned an excellent 4.4 Google rating from 38 revie"
 pubDatetime: 2026-07-05T19:50:46.000Z
 modDatetime: 2026-07-07T08:45:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1257630.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1257630.jpg"
 tags: ["university", "university-of-chinese-academy-of-sciences"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Because UCAS is part of the Chinese Academy of Sciences network, the student bod
 
 ## Budget Bands for Student Housing
 
-![University of Chinese Academy of Sciences (UCAS)](https://img.findstay.org/housing/p/amber-1257630.jpg)
+![University of Chinese Academy of Sciences (UCAS)](https://img.unistay.cn/housing/p/amber-1257630.jpg)
 
 Housing costs in Huairou are significantly lower than in central Beijing, but they still vary depending on room type, distance from campus, and whether utilities are included. Because this guide does not have specific residence details from a database, the following bands are based on typical patterns in the area. **All prices are indicative – you must confirm current rates directly with the landlord, dormitory office, or housing operator.**
 

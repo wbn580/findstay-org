@@ -3,8 +3,8 @@ title: "Housing near Indian Institute of Technology Delhi (IITD): 2026 student g
 description: "Indian Institute of Technology Delhi (IITD) – Student Housing Guide      What campus reviews reveal  IIT Delhi consistently earns high praise from"
 pubDatetime: 2026-07-04T13:37:22.000Z
 modDatetime: 2026-07-07T07:51:22.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-937155.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-937155.jpg"
 tags: ["university", "indian-institute-of-technology-delhi"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ When shortlisting accommodation near IITD, consider these factors in order:
 
 1. **Location within walking distance or a short metro ride.** The ideal radius is 2 km from the campus gate. Areas like Hauz Khas Village, SDA Market, and Katwaria Sarai are popular among students. If you are willing to commute, look at Saket (about 3 km, one metro stop) or Malviya Nagar (4 km, two stops) for more options.
 
-![Indian Institute of Technology Delhi (IITD)](https://img.findstay.org/housing/p/amber-937155.jpg)
+![Indian Institute of Technology Delhi (IITD)](https://img.unistay.cn/housing/p/amber-937155.jpg)
 
 2. **Room type and sharing.** If you are on a tight budget, a shared room in a PG or student hostel can bring down costs. If you value privacy, a studio or 1BHK will cost more. Some co-living operators offer fully furnished rooms with shared common areas — an increasingly common choice.
 3. **Amenities included.** Check whether the rent covers electricity, water, Wi-Fi, housekeeping, and meals (if any). Many PGs provide dinner and breakfast, which can save cooking time and money. Ask whether there is a washing machine, refrigerator, and power backup.

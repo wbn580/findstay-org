@@ -3,8 +3,8 @@ title: "Housing near Beirut Arab University: 2026 student guide"
 description: "Housing Near Beirut Arab University: What Campus Reviews Reveal and How to Choose Your Student Home  Beirut Arab University (BAU) sits at the addre"
 pubDatetime: 2026-06-30T11:23:12.000Z
 modDatetime: 2026-07-07T08:40:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-143726.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-143726.jpg"
 tags: ["university", "beirut-arab-university"]
 category: "university"
 draft: false
@@ -62,7 +62,7 @@ Note: Most landlords require a deposit of one month’s rent plus agency fee (if
 - *Pros:* Avoid parking fees and traffic. You can arrive at campus relaxed, easily go home between classes, and not worry about power cuts affecting public transport. Walking in Tarik El Jdideh is feasible along main roads, but some side streets lack sidewalks.
 - *Cons:* Rent in the immediate vicinity (within 500 meters of BAU) tends to be slightly higher due to demand. The area can be noisy, especially near the university entrance. Also, the building quality varies — many older structures need renovation.
 
-![Beirut Arab University](https://img.findstay.org/housing/p/amber-143726.jpg)
+![Beirut Arab University](https://img.unistay.cn/housing/p/amber-143726.jpg)
 
 **Transit (public transport, service taxis, or private buses)**
 

@@ -3,8 +3,8 @@ title: "Housing near Eastern Mediterranean University: 2026 student guide"
 description: "Housing Near Eastern Mediterranean University: What You Need to Know  Eastern Mediterranean University (EMU) is located in Gazimağusa (Famagusta),"
 pubDatetime: 2026-07-06T20:35:23.000Z
 modDatetime: 2026-07-07T09:02:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2220476.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2220476.jpg"
 tags: ["university", "eastern-mediterranean-university"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ Remember that contracts are typically for 10 or 12 months, and you may need to p
 
 The EMU campus is compact enough that walking from the central classroom buildings to most faculty blocks takes less than 15 minutes. Many students live within a 1‑kilometre radius of the main university entrance, making walking the primary mode of daily transport. Streets are generally well‑lit and safe, though pavements can be uneven in some older neighbourhoods.
 
-![Eastern Mediterranean University](https://img.findstay.org/housing/p/amber-2220476.jpg)
+![Eastern Mediterranean University](https://img.unistay.cn/housing/p/amber-2220476.jpg)
 
 If you choose housing farther out — for example, towards the city centre or the coast — you will rely on public minibuses (dolmuş) or a personal scooter. Dolmuş routes pass along İsmet İnönü Bulvarı and run every 10–15 minutes during peak hours. A one‑way fare is roughly 0.5‑1 euro. Bicycles are also common, but dedicated bike lanes are limited. For students who prefer a quieter, less crowded living environment, the trade‑off of a 10‑minute minibus ride may be acceptable.
 

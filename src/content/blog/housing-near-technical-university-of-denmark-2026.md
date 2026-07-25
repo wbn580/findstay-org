@@ -3,8 +3,8 @@ title: "Housing near Technical University of Denmark: 2026 student guide"
 description: "What Campus Reviews Reveal  The Technical University of Denmark (DTU) holds a QS World University Ranking of 107 and a Google rating of 4.7 from 60"
 pubDatetime: 2026-07-05T06:53:55.000Z
 modDatetime: 2026-07-07T09:03:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1329018.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1329018.jpg"
 tags: ["university", "technical-university-of-denmark"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The Danish housing market for students is regulated but competitive. Most intern
 
 ## Budget Bands for Student Housing (Indicative – Confirm with the Operator)
 
-![Technical University of Denmark](https://img.findstay.org/housing/p/amber-1329018.jpg)
+![Technical University of Denmark](https://img.unistay.cn/housing/p/amber-1329018.jpg)
 
 Typical monthly rents for a single student room or studio near DTU in 2026 fall into these bands. All figures are indicative; exact prices depend on size, location, and amenities. Confirm with the landlord or housing operator before signing.
 

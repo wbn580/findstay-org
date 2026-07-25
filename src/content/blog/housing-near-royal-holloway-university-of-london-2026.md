@@ -3,8 +3,8 @@ title: "Housing near Royal Holloway University of London: 2026 student guide"
 description: "What Campus Reviews Reveal  Royal Holloway, University of London sits in Egham, a small market town in Surrey, about 40 minutes by train from centr"
 pubDatetime: 2026-07-04T19:18:35.000Z
 modDatetime: 2026-07-07T09:03:35.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-986395.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-986395.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Egham is a town of roughly 6,000 residents, located within the London commuter b
 
 ## Budget Bands for Student Housing
 
-![Royal Holloway University of London](https://img.findstay.org/housing/p/amber-986395.jpg)
+![Royal Holloway University of London](https://img.unistay.cn/housing/p/amber-986395.jpg)
 
 Student accommodation in the Egham area falls into three broad bands. Prices are indicative — confirm with the operator for current 2026/2027 academic year rates.
 

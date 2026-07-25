@@ -3,8 +3,8 @@ title: "Housing near Iran University of Science and Technology: 2026 student gui
 description: "Housing Near Iran University of Science and Technology: What Campus Reviews Reveal  Iran University of Science and Technology (IUST) is located in"
 pubDatetime: 2026-07-03T12:34:04.000Z
 modDatetime: 2026-07-07T08:00:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-936668.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-936668.jpg"
 tags: ["university", "iran-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ Deciding between walking distance and commuting via transit depends on your prio
 
 Living within a 15-minute walk (roughly 1–1.5 km) of IUST means you can roll out of bed and be in class quickly. The campus is located on Hengam Street, which has side streets with apartment blocks. Walking eliminates daily transport costs and time, and allows you to use the university facilities (library, labs, sports) whenever you want. Downside: rent in this immediate vicinity tends to be higher (medium to high budget), and options may be fewer due to limited residential buildings directly adjacent.
 
-![Iran University of Science and Technology](https://img.findstay.org/housing/p/amber-936668.jpg)
+![Iran University of Science and Technology](https://img.unistay.cn/housing/p/amber-936668.jpg)
 
 #### Transit Commute
 

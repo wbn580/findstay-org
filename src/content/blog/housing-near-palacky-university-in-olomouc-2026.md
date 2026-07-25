@@ -3,8 +3,8 @@ title: "Housing near Palacký University in Olomouc: 2026 student guide"
 description: "Housing Near Palacký University in Olomouc: What Campus Reviews Reveal    Data date: January 2026    Palacký University in Olomouc (PU) is a public"
 pubDatetime: 2026-07-04T14:18:00.000Z
 modDatetime: 2026-07-07T08:37:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013696.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013696.jpg"
 tags: ["university", "palacky-university-in-olomouc"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Because PU’s faculties are not all in one location, the choice between walking
 - **Centre-based faculties** (Arts, Science, Law, Education) – most teaching takes place in buildings around the old town. Walking from anywhere in the central district to a classroom usually takes 10–20 minutes. A flat near the main square or the university’s Křížkovského address is ideal.
 - **Medical and health faculties** – located near the hospital on Hněvotínská street, about 2 km from the centre. Walking from the old town takes 25–30 minutes. Many students use trams (lines 1, 4, 6) or buses (lines 11, 20) from the centre to the hospital stop; the ride is about 10 minutes. Living along those transit lines or in the Nová Ulice neighbourhood can save time.
 
-![Palacký University in Olomouc](https://img.findstay.org/housing/p/uh-s00013696.jpg)
+![Palacký University in Olomouc](https://img.unistay.cn/housing/p/uh-s00013696.jpg)
 
 For students who rely on public transport, a monthly student pass (with a discounted fare for those under 26) costs an **indicative — confirm with the operator** amount and covers all trams, buses, and trolleybuses in the city.
 

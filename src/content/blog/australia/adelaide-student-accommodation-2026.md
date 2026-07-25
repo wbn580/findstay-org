@@ -2,7 +2,7 @@
 title: "Adelaide Student Accommodation 2026: Affordable Housing Near UniAdelaide, UniSA & Flinders"
 description: "Adelaide offers Australia's most affordable student housing. Compare suburbs, rent prices, and housing types near all three major Adelaide universities for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1592165871027-c9dc38cd4bdc?w=1600"
 ogImage: "https://images.unsplash.com/photo-1592165871027-c9dc38cd4bdc?w=1200"
 tags: ["australia", "adelaide", "student-accommodation"]

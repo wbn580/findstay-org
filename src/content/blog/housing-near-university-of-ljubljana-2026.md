@@ -3,8 +3,8 @@ title: "Housing near University of Ljubljana: 2026 student guide"
 description: "Student Housing Near University of Ljubljana: What to Know in 2026-2027  Finding a place to live while studying at the University of Ljubljana star"
 pubDatetime: 2026-07-02T23:25:31.000Z
 modDatetime: 2026-07-07T08:27:31.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00018538.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00018538.jpg"
 tags: ["university", "university-of-ljubljana"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Ljubljana’s moderate size makes walking a genuine option for many students –
 
 **Walking (≤30 minutes to main campus):** Living in the central districts (Center, Trnovo, Krakovo, or parts of Vič and Rožna Dolina) means you can reach the university headquarters, the Faculty of Arts, Faculty of Economics, and the National University Library on foot in 10–25 minutes. The pedestrianised city centre is flat and pleasant. The downside: central flats are more expensive per square metre, quieter streets may have limited grocery stores, and nightlife noise can be a concern near the river.
 
-![University of Ljubljana](https://img.findstay.org/housing/p/uh-s00018538.jpg)
+![University of Ljubljana](https://img.unistay.cn/housing/p/uh-s00018538.jpg)
 
 **Transit/cycling (≤40 minutes total):** Ljubljana has an integrated bus network with a student-discounted monthly pass (indicative €20–€30, 2026 price). Buses run frequently (every 5–15 minutes on major routes) from districts like Šiška, Bežigrad, Moste, and even suburban areas like Dolgi Most or Črnuče. Cycling is also popular: the city is flat, bike lanes are widespread, and bike-sharing (Bicikelj) stations are located throughout. Choosing a less central area saves money and often yields larger rooms or quieter surroundings. The trade-off: you spend 10–20 minutes each way on commuting, which adds up over a semester, and bus schedules can be less reliable late at night.
 

@@ -3,8 +3,8 @@ title: "Housing near University of Liverpool: 2026 student guide"
 description: "What Campus Reviews Reveal  Current and former students consistently describe the University of Liverpool as a welcoming and practically oriented i"
 pubDatetime: 2026-07-04T03:26:55.000Z
 modDatetime: 2026-07-07T08:09:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00391926.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00391926.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Public transport is well‑developed: buses and the Merseyrail network connect t
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![University of Liverpool](https://img.findstay.org/housing/p/uh-s00391926.jpg)
+![University of Liverpool](https://img.unistay.cn/housing/p/uh-s00391926.jpg)
 
 All prices below are indicative — confirm with the operator before committing to a tenancy. The figures assume a 2026/2027 academic year contract, typically 44 to 51 weeks.
 

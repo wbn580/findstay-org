@@ -3,8 +3,8 @@ title: "Housing near Tecnológico de Monterrey (ITESM): 2026 student guide"
 description: "Campus Reviews and What Students Say  Tecnológico de Monterrey (ITESM) – Monterrey campus sits in the southern part of the city, in the district kn"
 pubDatetime: 2026-07-04T01:02:59.000Z
 modDatetime: 2026-07-07T08:35:59.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-286441.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-286441.jpg"
 tags: ["university", "tecnologico-de-monterrey"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city offers a range of cultural venues, museums, and parks, plus a vibrant f
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Tecnológico de Monterrey (ITESM)](https://img.findstay.org/housing/p/amber-286441.jpg)
+![Tecnológico de Monterrey (ITESM)](https://img.unistay.cn/housing/p/amber-286441.jpg)
 
 Housing costs in Monterrey vary significantly depending on location, size, and furnishings. Below are indicative bands – always confirm exact prices with the operator, as they change each semester.
 

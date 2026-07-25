@@ -3,8 +3,8 @@ title: "Housing near Universidade Federal do Rio de Janeiro: 2026 student guide"
 description: "What Campus Reviews Reveal About Universidade Federal do Rio de Janeiro  The Universidade Federal do Rio de Janeiro (UFRJ) holds a QS World Univers"
 pubDatetime: 2026-07-01T11:53:53.000Z
 modDatetime: 2026-07-07T08:42:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-218204.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-218204.jpg"
 tags: ["university", "universidade-federal-do-rio-de-janeiro"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Public transport in Rio includes the metro system (limited coverage to the South
 
 ## Budget Bands for Student Housing (2026–2027 Indicative)
 
-![Universidade Federal do Rio de Janeiro](https://img.findstay.org/housing/p/amber-218204.jpg)
+![Universidade Federal do Rio de Janeiro](https://img.unistay.cn/housing/p/amber-218204.jpg)
 
 All prices below are **indicative – confirm with the operator**. Rents are quoted in Brazilian reais (BRL) and assume shared apartments or studios near UFRJ. Exchange rate fluctuations should be factored in.
 

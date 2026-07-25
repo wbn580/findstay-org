@@ -3,8 +3,8 @@ title: "Housing near University of Lisbon: 2026 student guide"
 description: "What Campus Reviews Reveal About the University of Lisbon  The University of Lisbon’s main campus, Cidade Universitária, sits in the northern part"
 pubDatetime: 2026-07-02T00:14:04.000Z
 modDatetime: 2026-07-07T09:10:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1915030.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1915030.jpg"
 tags: ["university", "university-of-lisbon"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Lisbon has a large international student population, driven by the university’
 
 ## Budget Considerations
 
-![University of Lisbon](https://img.findstay.org/housing/p/amber-1915030.jpg)
+![University of Lisbon](https://img.unistay.cn/housing/p/amber-1915030.jpg)
 
 Student housing budgets in Lisbon depend on room type, distance from campus, and lease terms. While exact figures fluctuate and depend on the operator, typical monthly costs for a private room in a shared apartment near Cidade Universitária range from indicative €400 to €650 — confirm with the operator. Studios or one‑bedroom flats in the same area can cost indicative €700 to €1,000 — confirm with the operator. Residence halls (both university‑owned and private) often include utilities and sometimes meals, with prices that may be higher or lower than the private market.
 

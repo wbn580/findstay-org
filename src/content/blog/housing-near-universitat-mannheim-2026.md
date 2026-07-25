@@ -3,8 +3,8 @@ title: "Housing near Universität Mannheim: 2026 student guide"
 description: "What Campus Reviews Reveal The University of Mannheim holds a 4.5 rating on Google (512 reviews), with an overall positive impression, but students’."
 pubDatetime: 2026-07-04T15:32:53.000Z
 modDatetime: 2026-07-07T09:01:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1444811.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1444811.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The university itself does not operate a large number of student dormitories; ac
 
 ## Housing Budget Overview
 
-![Universität Mannheim](https://img.findstay.org/housing/p/amber-1444811.jpg)
+![Universität Mannheim](https://img.unistay.cn/housing/p/amber-1444811.jpg)
 
 Below are common rent ranges for student housing (all are market reference prices for 2026/2027, indicative — confirm with the operator):
 

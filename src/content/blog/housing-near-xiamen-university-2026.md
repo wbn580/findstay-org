@@ -3,8 +3,8 @@ title: "Housing near Xiamen University: 2026 student guide"
 description: "Xiamen University – Student Housing Guide (2026)  Xiamen University (XMU) is located in the heart of Xiamen, Fujian Province, at 422 Si Ming Nan Lu"
 pubDatetime: 2026-07-05T11:33:34.000Z
 modDatetime: 2026-07-07T09:02:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013881.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013881.jpg"
 tags: ["university", "xiamen-university"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Always check whether utilities (water, electricity, internet) are included in th
 
 The XMU campus is relatively compact, so if you live within a 15–20 minute walk, you can skip public transport entirely. Walkable neighbourhoods include the streets immediately south and east of campus, such as Nanputuo Temple area and Siming South Road. These areas also have the highest rent premiums.
 
-![Xiamen University](https://img.findstay.org/housing/p/uh-s00013881.jpg)
+![Xiamen University](https://img.unistay.cn/housing/p/uh-s00013881.jpg)
 
 If you choose to live further out to save money, the transit trade-off becomes important. Buses from areas like Jimei or Haicang take 30–60 minutes each way, and during peak hours, they can be crowded. The metro provides a faster, more reliable alternative where available, but stations may still require a feeder bus or bicycle ride. Electric scooters (e-bikes) are a common solution: they allow a door-to-door trip of up to 10–15 km without being stuck in traffic. However, students must ensure they have a safe place to park and charge the scooter (some apartments lack designated parking).
 

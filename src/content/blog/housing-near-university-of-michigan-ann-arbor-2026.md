@@ -3,8 +3,8 @@ title: "Housing near University of Michigan-Ann Arbor: 2026 student guide"
 description: "Housing Near the University of Michigan-Ann Arbor  The University of Michigan-Ann Arbor (QS world rank 45, Google rating 4.5 from 718 reviews) draw"
 pubDatetime: 2026-07-03T01:50:10.000Z
 modDatetime: 2026-07-07T08:52:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1449232.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1449232.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -83,7 +83,7 @@ Remember that the USD 729 figure is indicative; always verify current rent with 
 
 The University of Michigan campus is large — the main academic areas span from the Central Campus Diag to North Campus, about 1.5 miles apart. Walking from a typical rental near the stadium to the chemistry building can take 20–30 minutes. Many students choose to walk or bike in warmer months, but winter (November–March) can make this uncomfortable. Those who live farther out rely on the AAATA bus system, which offers free rides to anyone with a university ID. Buses run frequently along major corridors, but late-night service can be limited.
 
-![University of Michigan-Ann Arbor](https://img.findstay.org/housing/p/amber-1449232.jpg)
+![University of Michigan-Ann Arbor](https://img.unistay.cn/housing/p/amber-1449232.jpg)
 
 A walk-friendly location (within 0.5 miles of the central Diag) commands a premium. If you have classes in multiple buildings, you might save money by choosing a slightly more distant apartment near a bus stop. North Campus residents often prefer living on that side to avoid the daily bus commute.
 

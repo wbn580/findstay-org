@@ -2,7 +2,7 @@
 title: "Quebec City Student Accommodation 2026: Housing Near Université Laval"
 description: "Student housing in Quebec City — one of Canada's most affordable and beautiful student cities. Rent prices near Université Laval in a UNESCO World Heritage setting."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "/images/canada/quebec-city.jpg"
 ogImage: "/images/canada/quebec-city.jpg"
 tags: ["canada", "quebec-city", "student-accommodation"]

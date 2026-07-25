@@ -2,7 +2,7 @@
 title: "Leeds Student Accommodation 2026: Affordable Areas Near University of Leeds & Leeds Beckett"
 description: "Student housing in Leeds — the UK's best-value student city. Rent prices near Uni of Leeds, Leeds Beckett, and Leeds Trinity, with 2026 neighborhood guides."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1598386657283-67db70ed2d3d?w=1600"
 ogImage: "https://images.unsplash.com/photo-1598386657283-67db70ed2d3d?w=1200"
 tags: ["uk", "leeds", "student-accommodation"]

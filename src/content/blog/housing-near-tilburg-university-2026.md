@@ -3,8 +3,8 @@ title: "Housing near Tilburg University: 2026 student guide"
 description: "Living Near Tilburg University: A Practical Housing Guide for 2026–2027  Tilburg University, ranked 347th globally in the QS World University Ranki"
 pubDatetime: 2026-07-06T06:37:43.000Z
 modDatetime: 2026-07-07T09:07:43.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1921230.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1921230.jpg"
 tags: ["university", "tilburg-university"]
 category: "university"
 draft: false
@@ -90,7 +90,7 @@ Living further out (e.g., in the Reeshof district or near Tilburg Universiteit s
 
 Without naming specific providers, here is a logical process for shortlisting housing options near Tilburg University:
 
-![Tilburg University](https://img.findstay.org/housing/p/amber-1921230.jpg)
+![Tilburg University](https://img.unistay.cn/housing/p/amber-1921230.jpg)
 
 1. **Prioritise proximity to campus if you have early or late classes.**  
    The campus is compact, so any residence within a 15-minute walk will likely be mid-range in price. Look for listings that mention “Wandelend naar de universiteit” (walking to the university) or “5 min fietsen” (5 minutes by bike).

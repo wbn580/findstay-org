@@ -3,8 +3,8 @@ title: "Housing near Columbia University: 2026 student guide"
 description: "What Campus Reviews Reveal About Columbia University  Columbia University’s Google rating of 4.6 stars (from 2,781 reviews) paints a picture of a h"
 pubDatetime: 2026-07-06T15:19:49.000Z
 modDatetime: 2026-07-07T08:13:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00226810.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00226810.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -40,7 +40,7 @@ Given that 2781+ people have rated the university, the area sees constant reside
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Columbia University](https://img.findstay.org/housing/p/uh-s00226810.jpg)
+![Columbia University](https://img.unistay.cn/housing/p/uh-s00226810.jpg)
 
 All prices shown are indicative — confirm with the operator. These are typical ranges for a student housing unit (room in shared apartment or studio near Columbia) in the 2026–2027 academic year.
 

@@ -2,7 +2,7 @@
 title: "Barcelona Student Accommodation 2026: Housing Near UB, UAB & Pompeu Fabra"
 description: "Student housing in Barcelona — affordable apartments near Universitat de Barcelona, UAB, and Pompeu Fabra. Rent prices, best barrios, and 2026 tips."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=1600"
 ogImage: "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=1200"
 tags: ["europe", "barcelona", "student-accommodation"]

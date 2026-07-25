@@ -3,8 +3,8 @@ title: "Housing near Universiti Teknologi Petronas (UTP): 2026 student guide"
 description: "What Students Say About UTP Campus Life  The four reviews available from Google provide a consistent picture of Universiti Teknologi Petronas. Ahme"
 pubDatetime: 2026-07-02T17:32:10.000Z
 modDatetime: 2026-07-07T07:57:10.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-960709.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-960709.jpg"
 tags: ["university", "universiti-teknologi-petronas"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ UTP’s address is PETRONAS, 32610 Seri Iskandar, Perak, Malaysia. Seri Iskandar
 
 ## Budget Bands for Student Housing
 
-![Universiti Teknologi Petronas (UTP)](https://img.findstay.org/housing/p/amber-960709.jpg)
+![Universiti Teknologi Petronas (UTP)](https://img.unistay.cn/housing/p/amber-960709.jpg)
 
 Rental prices vary depending on location, property type, and whether it is furnished. All figures below are indicative — confirm with the operator.
 

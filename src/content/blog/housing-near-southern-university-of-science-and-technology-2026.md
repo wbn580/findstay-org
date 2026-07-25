@@ -3,8 +3,8 @@ title: "Housing near Southern University of Science and Technology (SUSTech): 20
 description: "Southern University of Science and Technology (SUSTech) – Housing Guide      What Campus Reviews Reveal  Southern University of Science and Technol"
 pubDatetime: 2026-07-03T11:48:26.000Z
 modDatetime: 2026-07-07T09:04:26.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-141023.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-141023.jpg"
 tags: ["university", "southern-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ The trade-off between walking distance and cost is sharp near SUSTech.
 - **Walking distance (≤ 15 minutes on foot):** Rent is typically in the mid-to-premium range. The convenience is obvious: no morning commute stress, more time for study, and easy access to campus facilities. However, the immediate vicinity (within 500 m) offers fewer daily shopping options — a small supermarket and a few eateries, but for larger groceries you would still take a short bus ride.
 - **Transit commute (≥ 20 minutes by bus/metro):** Rents can drop by 30–50% compared to the closest complexes. Many students choose to live further along Metro Line 5 (e.g., Xili, Liuxiandong, or Shenzhen North Station) or toward the east (e.g., Minzhi). A typical commute using the metro takes 20–30 minutes from platform to campus gate. The trade-off is time and monthly transit costs (≈ 200–400 RMB). Some apartment buildings also offer free shuttle buses to the university.
 
-![Southern University of Science and Technology (SUSTech)](https://img.findstay.org/housing/p/amber-141023.jpg)
+![Southern University of Science and Technology (SUSTech)](https://img.unistay.cn/housing/p/amber-141023.jpg)
 
 For those who own a bicycle (common on campus), cycling expands the affordable zone. A 15–20 minute bike ride can reach areas like Pingshan Village or Guihua Road, where rents are more moderate. Bicycle parking is secure inside the campus.
 

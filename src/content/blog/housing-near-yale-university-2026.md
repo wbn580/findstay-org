@@ -3,8 +3,8 @@ title: "Housing near Yale University: 2026 student guide"
 description: "Housing Near Yale University: What You Need to Know for 2026–2027  If you’re planning to study or work at Yale University in the 2026–2027 academic"
 pubDatetime: 2026-07-03T18:58:00.000Z
 modDatetime: 2026-07-07T08:48:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2044091.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2044091.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Yale’s campus is not a single block — it spans several neighborhoods. The ce
 
 **Transit** becomes useful if you want to live in cheaper neighborhoods like East Rock, Dwight, or Westville. The CT Transit bus system operates several routes that run through Yale’s campus. A student pass costs about $50 per month for unlimited rides. Bicycling is also popular, with bike lanes along major streets like Whitney Avenue. The trade-off is longer commute times (20–35 minutes one way) and the need to factor in weather during New England winters.
 
-![Yale University](https://img.findstay.org/housing/p/amber-2044091.jpg)
+![Yale University](https://img.unistay.cn/housing/p/amber-2044091.jpg)
 
 For a balanced approach, many students choose to live within walking distance of a bus line that can get them to campus in under 15 minutes. That way you can walk when weather is pleasant and ride the bus when it’s snowing.
 

@@ -2,7 +2,7 @@
 title: "Budapest Student Housing 2026: Affordable Accommodation Near ELTE, BME & Corvinus"
 description: "Student housing in Budapest — Hungary's beautiful and cheap student capital. Apartments near ELTE, BME, and Corvinus University for 2026, with neighborhood guides."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1549877452-9c387954fbc2?w=1600"
 ogImage: "https://images.unsplash.com/photo-1549877452-9c387954fbc2?w=1200"
 tags: ["europe", "budapest", "student-accommodation", "digital-nomad"]

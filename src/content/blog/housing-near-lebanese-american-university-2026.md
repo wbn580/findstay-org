@@ -3,8 +3,8 @@ title: "Housing near Lebanese American University: 2026 student guide"
 description: "What Campus Reviews Reveal  The Lebanese American University (LAU) holds a Google rating of 4.5 out of 5 from 331 reviews, reflecting a mix of stro"
 pubDatetime: 2026-07-04T01:52:46.000Z
 modDatetime: 2026-07-07T08:25:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-951845.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-951845.jpg"
 tags: ["university", "lebanese-american-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Currency matters: Lebanon uses the Lebanese pound (LBP), but many rents are quot
 
 ## Budget Bands
 
-![Lebanese American University](https://img.findstay.org/housing/p/amber-951845.jpg)
+![Lebanese American University](https://img.unistay.cn/housing/p/amber-951845.jpg)
 
 Housing costs in Beirut vary widely by neighborhood, size, and condition. The figures below are indicative — confirm with the operator before committing to any contract.
 

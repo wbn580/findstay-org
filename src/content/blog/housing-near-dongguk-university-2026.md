@@ -3,8 +3,8 @@ title: "Housing near Dongguk University: 2026 student guide"
 description: "Campus Evaluation Reveals Life Experiences Dongguk University is located at 1 Street, Bidong-ro, Jung-gu, Seoul, 30. It ranks 618th in the 2026 QS World."
 pubDatetime: 2026-07-01T16:42:35.000Z
 modDatetime: 2026-07-07T08:02:35.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-187750.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-187750.jpg"
 tags: ["university", "dongguk-university"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Note: Rent is higher in areas near Myeongdong and Chungmuro in the central distr
 
 ## Walking and Transportation Trade-off
 
-![Dongguk University](https://img.findstay.org/housing/p/amber-187750.jpg)
+![Dongguk University](https://img.unistay.cn/housing/p/amber-187750.jpg)
 
 The main campus of Dongguk University is built on the northern foot of Namsan, with a certain slope. The main entrances and exits of the campus are concentrated around Dongguk University Station (동국대입구), where subway Line 3 and Line 4 meet (Chungmuro Station is about 10～12 minutes on foot, and Dongguk University Station is about 8～10 minutes on foot). The school also has shuttle buses between the subway stations and the campus, but with limited frequency.
 

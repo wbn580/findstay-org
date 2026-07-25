@@ -3,8 +3,8 @@ title: "Housing near Ca' Foscari University of Venice: 2026 student guide"
 description: "Campus Setting and Surroundings  Ca' Foscari University of Venice is housed in a historic palazzo on the Grand Canal in the   Sestiere Dorsoduro"
 pubDatetime: 2026-06-30T20:19:01.000Z
 modDatetime: 2026-07-07T08:29:01.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1348705.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1348705.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Rents in Venice are among the highest in Italy, especially within the historic c
 
 ## Budget Bands for Student Housing
 
-![Ca' Foscari University of Venice](https://img.findstay.org/housing/p/amber-1348705.jpg)
+![Ca' Foscari University of Venice](https://img.unistay.cn/housing/p/amber-1348705.jpg)
 
 Rent prices in Venice vary sharply by location and property type. Below are approximate monthly figures for a single person sharing an apartment (room only) in 2026–2027. All prices are **indicative – confirm with the operator**, as the market changes quickly.
 

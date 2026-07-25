@@ -3,8 +3,8 @@ title: "Housing near University of Leicester: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Leicester holds a QS World University Ranking of 326 and a Google rating of 4.3 from 341 reviews. St"
 pubDatetime: 2026-07-03T10:34:54.000Z
 modDatetime: 2026-07-07T08:49:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01502973.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01502973.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ For those on a tighter budget, options further out like Knighton, Oadby, or Evin
 
 If you drive, note that on-campus parking is limited and permits are expensive. Many students choose a parking spot in a nearby residential street, but check for parking restrictions — the area around campus has controlled parking zones during weekdays. The safest bet for car owners is accommodation that includes a dedicated parking space.
 
-![University of Leicester](https://img.findstay.org/housing/p/uh-s01502973.jpg)
+![University of Leicester](https://img.unistay.cn/housing/p/uh-s01502973.jpg)
 
 **Short summary:**
 

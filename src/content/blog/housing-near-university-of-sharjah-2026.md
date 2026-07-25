@@ -3,8 +3,8 @@ title: "Housing near University of Sharjah: 2026 student guide"
 description: "Housing Near University of Sharjah: A Comprehensive Guide  The University of Sharjah, ranked 328th globally in the QS World University Rankings, si"
 pubDatetime: 2026-07-03T02:27:21.000Z
 modDatetime: 2026-07-07T08:55:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1681780.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1681780.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ The University of Sharjah campus is large, and most academic buildings, librarie
 **Walking distance (1‑2 km)**  
 Very few student‑friendly apartments are directly on campus. Some residential compounds (e.g., Al Khan area on the eastern side) are within walking distance, but this is uncommon. Living within a 15‑minute walk allows you to avoid traffic congestion (common during peak hours) and reduces dependence on transport. The downside: fewer retail options and higher rent per square metre for units that are close.
 
-![University of Sharjah](https://img.findstay.org/housing/p/amber-1681780.jpg)
+![University of Sharjah](https://img.unistay.cn/housing/p/amber-1681780.jpg)
 
 **Transit‑dependent (3‑10 km)**  
 The majority of students live in communities such as Al Taawun, Al Qasba, or near the Sharjah – Dubai border. These areas have more restaurants, supermarkets, and gyms, and rents can be lower per square metre. The commute by car is 10‑20 minutes; by bus, it may take 30‑45 minutes including waiting time. Public buses run on main corridors like Al Wahda Street, but do not serve every compound directly. Many students eventually buy a second‑hand car (AED 10,000‑20,000 upfront) because ride‑hailing costs add up.

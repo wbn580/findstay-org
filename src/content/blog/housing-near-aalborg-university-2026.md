@@ -3,8 +3,8 @@ title: "Housing near Aalborg University: 2026 student guide"
 description: "What Campus Reviews Reveal  Student reviews of Aalborg University paint a mixed picture that prospective students should weigh carefully when decid"
 pubDatetime: 2026-07-03T16:38:13.000Z
 modDatetime: 2026-07-07T08:34:13.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1425466.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1425466.jpg"
 tags: ["university", "aalborg-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Students coming from outside Denmark (like the Albanian reviewer mentioned) will
 
 ## Budget Bands for Student Housing
 
-![Aalborg University](https://img.findstay.org/housing/p/amber-1425466.jpg)
+![Aalborg University](https://img.unistay.cn/housing/p/amber-1425466.jpg)
 
 Because specific rental prices fluctuate and vary by lease type (private, dormitory, shared flat), only indicative bands can be given — confirm with the operator for exact figures. Based on typical Aalborg market conditions (not from the provided data), a rough framework for 2026 or 2027 is:
 

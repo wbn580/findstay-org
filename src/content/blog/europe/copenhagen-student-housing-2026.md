@@ -2,7 +2,7 @@
 title: "Copenhagen Student Housing 2026: Kollegier, Dorms & Areas Near KU, DTU & CBS"
 description: "Student housing in Copenhagen — from kollegier (student residences) to private rentals near University of Copenhagen, DTU, and CBS. 2026 prices and waiting list strategy."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?w=1600"
 ogImage: "https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?w=1200"
 tags: ["europe", "copenhagen", "student-accommodation"]

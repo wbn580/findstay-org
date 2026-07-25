@@ -3,8 +3,8 @@ title: "Housing near University of Limerick: 2026 student guide"
 description: "University of Limerick Student Housing Guide 2026  University of Limerick (UL) sits on a modern, well‑kept campus in Castletroy, about 5 km east of"
 pubDatetime: 2026-07-04T06:36:49.000Z
 modDatetime: 2026-07-07T08:57:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3132480.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3132480.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ Most UL students choose to live within walking distance of campus — the Castle
 
 **Cycling**: A bike is a practical option if on‑campus or Castletroy accommodation is full. The terrain is flat, and bike parking is plentiful. Cycling from the city centre takes 20 minutes. Bikes can be purchased second‑hand for €100‑€200.
 
-![University of Limerick](https://img.findstay.org/housing/p/amber-3132480.jpg)
+![University of Limerick](https://img.unistay.cn/housing/p/amber-3132480.jpg)
 
 **Transit**: If you rent in the city centre, the bus journey is typically 15‑20 minutes. The UL campus is served by Bus Éireann routes 304, 304A, and 310, plus the university’s own shuttle (free for students with a valid ID). Buses run every 15‑30 minutes during term, less frequently on weekends and evenings. The monthly student bus pass costs about €80. Some students also drive, but parking permits on campus are limited and cost around €200 per year.
 

@@ -3,8 +3,8 @@ title: "Housing near Daegu Gyeongbuk Institute of Science and Technology (DGIST)
 description: "What Campus Reviews Reveal  Daegu Gyeongbuk Institute of Science and Technology (DGIST) holds a QS World University Ranking of 370 and enjoys a so"
 pubDatetime: 2026-07-03T15:37:24.000Z
 modDatetime: 2026-07-07T08:47:24.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1013148.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1013148.jpg"
 tags: ["university", "daegu-gyeongbuk-institute-of-science-and-technology"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ DGIST is not a “walk from the subway” type of campus. Most off-campus housin
 - Advantages: no transportation cost, easy access to facilities.
 - Disadvantages: very limited dining and shopping options; you depend heavily on campus convenience stores and the dormitory cafeteria.
 
-![Daegu Gyeongbuk Institute of Science and Technology (DGIST)](https://img.findstay.org/housing/p/amber-1013148.jpg)
+![Daegu Gyeongbuk Institute of Science and Technology (DGIST)](https://img.unistay.cn/housing/p/amber-1013148.jpg)
 
 **Transit-dependent scenario**
 

@@ -3,8 +3,8 @@ title: "Housing near Xi'an Jiaotong University: 2026 student guide"
 description: "What Campus Reviews Reveal  Xi’an Jiaotong University (XJTU) holds a QS World University Ranking of 305 (2025), placing it among China’s top-tier i"
 pubDatetime: 2026-07-02T07:32:29.000Z
 modDatetime: 2026-07-07T08:33:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1275932.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1275932.jpg"
 tags: ["university", "xi-an-jiaotong-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For students, Xi’an offers a relatively lower cost of living compared to Beiji
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Xi'an Jiaotong University](https://img.findstay.org/housing/p/amber-1275932.jpg)
+![Xi'an Jiaotong University](https://img.unistay.cn/housing/p/amber-1275932.jpg)
 
 While exact 2026 prices are not provided in this dataset, typical student housing budgets in Xi’an fall into three broad categories. *All figures below are indicative and must be confirmed directly with the accommodation operator before committing.*
 

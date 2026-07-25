@@ -2,7 +2,7 @@
 title: "Short-Term Student Housing: Best Options for 1–6 Month Study Abroad Stays in 2026"
 description: "Short-stay student accommodation for exchange students, summer programs, and language courses. Compare coliving, sublets, homestays, and serviced apartments across 12 countries."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600"
 ogImage: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200"
 tags: ["short-term-rental", "student-accommodation", "rental-tips"]

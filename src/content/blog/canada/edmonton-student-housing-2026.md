@@ -2,7 +2,7 @@
 title: "Edmonton Student Housing 2026: Areas Near UAlberta & MacEwan"
 description: "Student accommodation in Edmonton — Canada's cheapest major student city. Rent prices near University of Alberta and MacEwan University for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "/images/canada/edmonton.jpg"
 ogImage: "/images/canada/edmonton.jpg"
 tags: ["canada", "edmonton", "student-accommodation"]

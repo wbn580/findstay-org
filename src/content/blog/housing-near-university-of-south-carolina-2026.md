@@ -3,8 +3,8 @@ title: "Housing near University of South Carolina: 2026 student guide"
 description: "University of South Carolina: What Campus Reviews Reveal  The University of South Carolina (USC) in Columbia holds a Google rating of 4.5 from 722"
 pubDatetime: 2026-07-05T03:20:18.000Z
 modDatetime: 2026-07-07T08:52:18.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1689358.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1689358.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For those concerned about the “boring” aspect mentioned in one review, Colum
 
 ## Budget Bands for Off-Campus Housing (2026-2027)
 
-![University of South Carolina](https://img.findstay.org/housing/p/amber-1689358.jpg)
+![University of South Carolina](https://img.unistay.cn/housing/p/amber-1689358.jpg)
 
 All prices listed below are indicative and subject to change — confirm with the operator for current rates and availability.
 

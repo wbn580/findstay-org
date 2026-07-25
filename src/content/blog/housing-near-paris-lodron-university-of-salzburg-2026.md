@@ -3,8 +3,8 @@ title: "Housing near Paris Lodron University of Salzburg: 2026 student guide"
 description: "Housing Near Paris Lodron University of Salzburg: What the Campus Reviews Reveal  Paris Lodron University of Salzburg (PLUS) is located at Univers"
 pubDatetime: 2026-07-07T03:46:49.000Z
 modDatetime: 2026-07-07T08:22:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1441381.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1441381.jpg"
 tags: ["university", "paris-lodron-university-of-salzburg"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ On the other hand, living further out (e.g., Liefering, Aigen, Grödig) will req
 
 Since no specific residence names are provided in this dataset, the following logic helps you create your own shortlist using general criteria:
 
-![Paris Lodron University of Salzburg](https://img.findstay.org/housing/p/amber-1441381.jpg)
+![Paris Lodron University of Salzburg](https://img.unistay.cn/housing/p/amber-1441381.jpg)
 
 1. **Define your maximum walking distance:** Use the university address (Universitätspl. 1) as the centre. Draw a 1‑km radius for a walk under 15 minutes. Within that circle, most properties are in the Altstadt or Neustadt. Outside that, factor in a bus ride.
 2. **Check your budget‑band limit:** Using the ranges above, filter listings (on general classifieds, not named here) to rooms or flats that fit. For a low‑budget search, focus on WGs in Maxglan or Taxham. For medium, look at Neustadt or Parscher Straße area. For high, consider the small Altstadt studios.

@@ -2,7 +2,7 @@
 title: "New Zealand International Student Accommodation: Complete 2026 Housing Guide"
 description: "Everything international students need to know about housing in New Zealand — accommodation types, rent prices, tenancy rights, and how to find a place before arrival."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1600"
 ogImage: "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1200"
 tags: ["new-zealand", "student-accommodation"]

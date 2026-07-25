@@ -3,8 +3,8 @@ title: "Housing near Western Sydney University: 2026 student guide"
 description: "Campus reviews in brief  Western Sydney University (WSU) operates multiple campuses across Greater Sydney, with its City campus at 4/255 Elizabeth"
 pubDatetime: 2026-07-05T15:06:09.000Z
 modDatetime: 2026-07-07T08:56:09.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2083788.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2083788.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The five sample residences provided — Scape Darling Square, UNSW Village, Scap
 
 ## Budget bands for 2026/2027
 
-![Western Sydney University](https://img.findstay.org/housing/p/amber-2083788.jpg)
+![Western Sydney University](https://img.unistay.cn/housing/p/amber-2083788.jpg)
 
 All prices below are indicative — confirm with the operator for exact rates for the 2026/2027 academic year. Prices are in Australian dollars per week (AUD/week).
 

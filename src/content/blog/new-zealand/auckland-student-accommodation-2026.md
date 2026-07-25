@@ -2,7 +2,7 @@
 title: "Auckland Student Accommodation Guide 2026: UoA, AUT & Massey Housing Compared"
 description: "Find student housing in Auckland near University of Auckland, AUT, and Massey. Updated rent prices, best suburbs, and PBSA options for international students in 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1600"
 ogImage: "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=1200"
 tags: ["new-zealand", "auckland", "student-accommodation"]

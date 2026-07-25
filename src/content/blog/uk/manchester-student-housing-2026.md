@@ -2,7 +2,7 @@
 title: "Manchester Student Housing 2026: Affordable Areas Near UoM & Manchester Met"
 description: "Student accommodation in Manchester — compare rent near University of Manchester and Manchester Metropolitan University. Best areas, PBSA, and 2026 price guide."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1525609004556-c46c7d1dcdc6?w=1600"
 ogImage: "https://images.unsplash.com/photo-1525609004556-c46c7d1dcdc6?w=1200"
 tags: ["uk", "manchester", "student-accommodation"]

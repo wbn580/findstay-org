@@ -3,8 +3,8 @@ title: "Housing near Jilin University: 2026 student guide"
 description: "Campus Reviews: What Students Reveal  Student reviews paint a picture of Jilin University (JLU) that goes beyond rankings. With a Google rating of"
 pubDatetime: 2026-07-02T03:31:54.000Z
 modDatetime: 2026-07-07T09:10:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1671889.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1671889.jpg"
 tags: ["university", "jilin-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Cost of living in Changchun is relatively low. A meal at a campus canteen may co
 
 ## Budget Bands for Student Housing
 
-![Jilin University](https://img.findstay.org/housing/p/amber-1671889.jpg)
+![Jilin University](https://img.unistay.cn/housing/p/amber-1671889.jpg)
 
 Based on typical market conditions near JLU’s Qianwei campus (and always cross-checked with operators), here is a rough guide to monthly rent ranges. These are indicative — confirm with the operator before signing any contract.
 

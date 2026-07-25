@@ -2,7 +2,7 @@
 title: "NYC Student Housing Guide 2026: Affordable Areas Near NYU, Columbia & CUNY"
 description: "Find student accommodation in New York City near NYU, Columbia, CUNY, and other universities. Rent prices by borough, roommate strategies, and 2026 housing tips."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1600"
 ogImage: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200"
 tags: ["us", "nyc", "student-accommodation"]

@@ -2,7 +2,7 @@
 title: "Edinburgh Student Accommodation 2026: Best Areas Near University of Edinburgh"
 description: "Complete guide to student housing in Edinburgh. Compare rent near Uni of Edinburgh, Napier, and Heriot-Watt — Old Town flats, New Town rooms, and 2026 prices."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1506377585622-bedcbb027af4?w=1600"
 ogImage: "https://images.unsplash.com/photo-1506377585622-bedcbb027af4?w=1200"
 tags: ["uk", "edinburgh", "student-accommodation"]

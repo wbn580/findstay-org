@@ -3,8 +3,8 @@ title: "Housing near University of Sussex: 2026 student guide"
 description: "What campus reviews reveal about life at Sussex  The University of Sussex holds a Google rating of 4.3 from 561 reviews, placing it in the solidly"
 pubDatetime: 2026-06-30T10:42:03.000Z
 modDatetime: 2026-07-07T08:15:03.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1636553.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1636553.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Living in Brighton city centre gives you access to the nightlife, shops, and sea
 
 ## Budget bands for student housing (2026/2027)
 
-![University of Sussex](https://img.findstay.org/housing/p/amber-1636553.jpg)
+![University of Sussex](https://img.unistay.cn/housing/p/amber-1636553.jpg)
 
 Housing costs in and around Brighton vary significantly by location and type. All figures below are indicative – confirm with the operator.
 

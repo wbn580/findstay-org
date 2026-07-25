@@ -3,8 +3,8 @@ title: "Housing near University of Pittsburgh: 2026 student guide"
 description: "What Campus Reviews Reveal  University of Pittsburgh’s main campus at 4200 Fifth Avenue holds a Google rating of 4.6 out of 5 from 853 reviews, but"
 pubDatetime: 2026-07-04T07:13:36.000Z
 modDatetime: 2026-07-07T08:50:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1191211.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1191211.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The marketplace currently lists **four residences** as sample options: SkyVue, T
 
 ## Budget Bands
 
-![University of Pittsburgh](https://img.findstay.org/housing/p/amber-1191211.jpg)
+![University of Pittsburgh](https://img.unistay.cn/housing/p/amber-1191211.jpg)
 
 Because exact rents fluctuate by season and unit type, the figures below are **indicative – confirm with the operator** before committing. Budget bands are organised by typical monthly rent for a single occupant in the 2026/2027 academic year:
 

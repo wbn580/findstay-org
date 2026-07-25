@@ -3,8 +3,8 @@ title: "Housing near University of Copenhagen: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Copenhagen holds a   4.5 Google rating   from 388 reviews, and the comments offer a glimpse into what"
 pubDatetime: 2026-07-06T13:58:50.000Z
 modDatetime: 2026-07-07T08:42:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-218881.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-218881.jpg"
 tags: ["university", "university-of-copenhagen"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Copenhagen’s housing market is tight. Demand outpaces supply, especially for a
 
 ## Budget Bands for Student Housing in Copenhagen (2026–2027)
 
-![University of Copenhagen](https://img.findstay.org/housing/p/amber-218881.jpg)
+![University of Copenhagen](https://img.unistay.cn/housing/p/amber-218881.jpg)
 
 All prices below are **indicative — confirm with the operator**. Figures are in Danish kroner (DKK) per month for a single person.
 

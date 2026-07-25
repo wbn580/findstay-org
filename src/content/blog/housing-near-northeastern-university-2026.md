@@ -3,8 +3,8 @@ title: "Housing near Northeastern University: 2026 student guide"
 description: "What Northeastern University Reviews Tell Us About the Campus and Surroundings  Northeastern University, located at 360 Huntington Ave in Boston,"
 pubDatetime: 2026-07-03T10:19:13.000Z
 modDatetime: 2026-07-07T08:06:13.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-188654.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-188654.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -87,7 +87,7 @@ Use a transit app (like Google Maps) to estimate door-to-door time from any pros
 
 The five sample residences provide a useful lens for creating a shortlist. Below is a neutral, fact-based evaluation of each, based on their likely neighborhoods and the general characteristics of those areas. Always confirm details with the operator.
 
-![Northeastern University](https://img.findstay.org/housing/p/amber-188654.jpg)
+![Northeastern University](https://img.unistay.cn/housing/p/amber-188654.jpg)
 
 **1. 31 Queensberry Street (Fenway)**
 

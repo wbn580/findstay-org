@@ -3,8 +3,8 @@ title: "Housing near Institut National des Sciences Appliquées de Lyon (INSA): 
 description: "Finding Student Housing Near INSA Lyon: A Practical Guide  INSA Lyon (Institut National des Sciences Appliquées de Lyon) is a selective engineering"
 pubDatetime: 2026-07-06T07:10:23.000Z
 modDatetime: 2026-07-07T08:20:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2199317.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2199317.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ These comments point to a large, self-contained campus that is undergoing improv
 
 ## Living in Villeurbanne and Lyon
 
-![Institut National des Sciences Appliquées de Lyon (INSA)](https://img.findstay.org/housing/p/amber-2199317.jpg)
+![Institut National des Sciences Appliquées de Lyon (INSA)](https://img.unistay.cn/housing/p/amber-2199317.jpg)
 
 INSA Lyon is situated in Villeurbanne, a densely populated suburb east of Lyon centre. Villeurbanne offers its own shops, parks, and services, but the city centre of Lyon is about 10–15 minutes away by tram or metro. Lyon itself is known for its culinary scene, historic districts (especially Vieux Lyon and Presqu’île), and a lively student population. The city has a well-developed public transport network operated by TCL, including tram lines T1 and T4, metro lines A and B, and numerous bus lines.
 

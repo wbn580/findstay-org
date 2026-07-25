@@ -3,8 +3,8 @@ title: "Housing near Universidade Nova de Lisboa: 2026 student guide"
 description: "What Campus Reviews Reveal  The Universidade Nova de Lisboa (NOVA) holds a QS World University Ranking of 327 and a Google rating of 4.4 from 171 r"
 pubDatetime: 2026-07-01T04:26:55.000Z
 modDatetime: 2026-07-07T08:50:55.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1049151.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1049151.jpg"
 tags: ["university", "universidade-nova-de-lisboa"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For housing search, the key landmarks are the NOVA campus at Campolide (often re
 
 ## Budget Bands for Student Housing
 
-![Universidade Nova de Lisboa](https://img.findstay.org/housing/p/amber-1049151.jpg)
+![Universidade Nova de Lisboa](https://img.unistay.cn/housing/p/amber-1049151.jpg)
 
 All prices below are **indicative — confirm with the operator** as rates change with season, demand, and contract length (2026–2027 academic year likely sees higher figures than 2025).
 

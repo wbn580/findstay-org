@@ -3,8 +3,8 @@ title: "Housing near Sungkyunkwan University: 2026 student guide"
 description: "Housing Near Sungkyunkwan University: A 2026 Guide from Campus Reviews  Sungkyunkwan University (SKKU) holds a unique position in South Korea. It i"
 pubDatetime: 2026-06-30T09:41:06.000Z
 modDatetime: 2026-07-07T07:53:06.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-140974.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-140974.jpg"
 tags: ["university", "sungkyunkwan-university"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ Choosing between walking and taking public transit depends on your tolerance for
 **Walking distance (under 15 minutes)**
 Living within a 10–15 minute walk of the main gate gives you the most convenience. The campus has about 40 buildings spread over a large area, so even if your accommodation is close to one entrance, you may still need to walk across campus to reach your lecture hall. The hilly terrain noted by reviewers means that a “shortcut” can involve steps and unpaved paths. Many students prefer the main streets along Seonggyungwan‑ro or the Dongsung‑gil area, which are flatter and well‑lit at night. Properties in this zone tend to be older and slightly more expensive per square metre because of the convenience. You save on transit costs (around 1,400 KRW per ride) and gain time.
 
-![Sungkyunkwan University](https://img.findstay.org/housing/p/amber-140974.jpg)
+![Sungkyunkwan University](https://img.unistay.cn/housing/p/amber-140974.jpg)
 
 **Transit‑dependent (15–30 minutes by subway or bus)**
 If you are willing to take the subway one or two stops, your housing options expand significantly. Stations like Jongno 3‑ga (Lines 1, 3, 5), Jonggak (Line 1), or even Euljiro 3‑ga (Lines 2, 3, 5) offer more modern officetels and lower rent per square metre. A one‑room near Jongno 3‑ga might be several hundred thousand won cheaper than a similar unit near Hyehwa. The trade‑off is the extra commute time (including walking to the station, riding, and walking to campus) — roughly 10–20 minutes each way. However, the subway is frequent and reliable. Some students also use the local bus (e.g., routes connecting Hyehwa to Anguk or Jongno) to cover the hilly northern parts.

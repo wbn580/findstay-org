@@ -2,7 +2,7 @@
 title: "Glasgow Student Accommodation 2026: Affordable Housing Near UofG, Strathclyde & GCU"
 description: "Student housing in Glasgow — the UK's most affordable major student city. Rent prices near University of Glasgow, Strathclyde, and Glasgow Caledonian for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1571495178161-c0ad1cea1f03?w=1600"
 ogImage: "https://images.unsplash.com/photo-1571495178161-c0ad1cea1f03?w=1200"
 tags: ["uk", "glasgow", "student-accommodation"]

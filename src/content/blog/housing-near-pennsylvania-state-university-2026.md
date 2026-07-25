@@ -3,8 +3,8 @@ title: "Housing near Pennsylvania State University: 2026 student guide"
 description: "Campus Reviews and What They Tell You  Pennsylvania State University (Penn State) holds a QS World University Ranking of 82 and a Google rating of"
 pubDatetime: 2026-07-07T00:16:32.000Z
 modDatetime: 2026-07-07T08:58:32.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2348320.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2348320.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Penn State requires most freshmen to live on campus (university residence halls)
 
 ## Budget Bands (indicative — confirm with the operator)
 
-![Pennsylvania State University](https://img.findstay.org/housing/p/amber-2348320.jpg)
+![Pennsylvania State University](https://img.unistay.cn/housing/p/amber-2348320.jpg)
 
 Rental costs in State College vary by property type, location, and lease term. As a general guide (always verify with current operators):
 

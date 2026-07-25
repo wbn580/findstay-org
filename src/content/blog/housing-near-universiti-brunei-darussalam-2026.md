@@ -3,8 +3,8 @@ title: "Housing near Universiti Brunei Darussalam (UBD): 2026 student guide"
 description: "What Campus Reviews Reveal  Universiti Brunei Darussalam (UBD) holds a QS World University Ranking of 367 and a Google rating of 4.4 from 209 revie"
 pubDatetime: 2026-07-03T13:47:08.000Z
 modDatetime: 2026-07-07T07:56:08.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1725595.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1725595.jpg"
 tags: ["university", "universiti-brunei-darussalam"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Housing options for students in Brunei are limited compared to larger Southeast 
 
 ## Budget Bands for Student Housing
 
-![Universiti Brunei Darussalam (UBD)](https://img.findstay.org/housing/p/amber-1725595.jpg)
+![Universiti Brunei Darussalam (UBD)](https://img.unistay.cn/housing/p/amber-1725595.jpg)
 
 Because no specific rental data is provided for this guide, the following information is a general orientation only. All prices mentioned are indicative — confirm with the operator.
 

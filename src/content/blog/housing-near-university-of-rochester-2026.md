@@ -3,8 +3,8 @@ title: "Housing near University of Rochester: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Rochester campus consistently earns high marks from visitors and affiliates. On Google, it holds a 4."
 pubDatetime: 2026-07-02T18:43:21.000Z
 modDatetime: 2026-07-07T09:13:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1732687.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1732687.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The address for the University of Rochester is 186 Cumberland St, Rochester, NY 
 
 ## Budget Bands for Off-Campus Housing
 
-![University of Rochester](https://img.findstay.org/housing/p/amber-1732687.jpg)
+![University of Rochester](https://img.unistay.cn/housing/p/amber-1732687.jpg)
 
 Housing costs in Rochester are generally lower than in many other U.S. college towns. From the reference data, the lowest listed price for a student housing option in Rochester is USD 764 per month. This is indicative — confirm with the operator. Prices vary widely based on unit type (studio, shared apartment, private room in a larger complex) and amenities.
 

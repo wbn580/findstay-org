@@ -3,8 +3,8 @@ title: "Housing near University of Antwerp: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Antwerp holds a QS World University Ranking of 280 and a Google rating of 4.4 from 277 reviews. On th"
 pubDatetime: 2026-07-05T17:15:25.000Z
 modDatetime: 2026-07-07T08:16:25.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-241504.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-241504.jpg"
 tags: ["university", "university-of-antwerp"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ When choosing housing, you are not just choosing a place to sleep – you are ch
 
 ## Budget Bands for Student Housing
 
-![University of Antwerp](https://img.findstay.org/housing/p/amber-241504.jpg)
+![University of Antwerp](https://img.unistay.cn/housing/p/amber-241504.jpg)
 
 Because the platform does not provide specific price data for individual residences, only general budget guidance is possible here. All figures mentioned below are **indicative — confirm with the operator** before making any commitments.
 

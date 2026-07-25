@@ -3,8 +3,8 @@ title: "Housing near Tampere University: 2026 student guide"
 description: "Campus Reviews: What Students Say  Tampere University’s City Campus, located at Kalevantie 4, has a strong 4.5 rating from 225 Google reviews. Stud"
 pubDatetime: 2026-07-02T18:13:16.000Z
 modDatetime: 2026-07-07T08:32:16.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-589445.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-589445.jpg"
 tags: ["university", "tampere-university"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ Tampere is Finland’s third-largest city, known for its lakes, industrial herit
 
 ## Budget Bands for Student Housing (indicative — confirm with the operator)
 
-![Tampere University](https://img.findstay.org/housing/p/amber-589445.jpg)
+![Tampere University](https://img.unistay.cn/housing/p/amber-589445.jpg)
 
 Student housing in Tampere comes in several budget tiers. Prices shown are indicative for 2026 and should be confirmed with the operator, as they can change due to demand, contract length, and included utilities.
 

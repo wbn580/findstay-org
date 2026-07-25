@@ -3,8 +3,8 @@ title: "Housing near Universidad de Santiago de Chile - USACH: 2026 student guid
 description: "Campus Reviews: What Students Say  The Universidad de Santiago de Chile (USACH) holds a Google rating of 4.6 out of 5 based on 868 reviews. Two ve"
 pubDatetime: 2026-07-06T16:12:01.000Z
 modDatetime: 2026-07-07T07:56:01.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1243973.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1243973.jpg"
 tags: ["university", "universidad-de-santiago-de-chile-usach"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Choosing between walking distance and transit-accessible housing involves severa
 - **Hybrid**  
   Some students combine a 10-minute walk to a metro station and then one or two stops. For example, living near Metro Los Héroes (Line 1) gives you a 3-minute ride to Estación Central station, plus walk to campus. This often yields a quieter residential setting with a total commute under 25 minutes.
 
-![Universidad de Santiago de Chile - USACH](https://img.findstay.org/housing/p/amber-1243973.jpg)
+![Universidad de Santiago de Chile - USACH](https://img.unistay.cn/housing/p/amber-1243973.jpg)
 
 When evaluating a property, use Google Maps transit directions during the times you would normally travel, to gauge real-world frequency and crowding. Also note that biker-friendly routes exist along Alameda, though cycling in Santiago traffic requires confidence.
 

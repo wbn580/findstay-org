@@ -3,8 +3,8 @@ title: "Housing near Institut Teknologi Sepuluh Nopember (ITS): 2026 student gui
 description: "Housing Near Institut Teknologi Sepuluh Nopember (ITS): A Guide for Students  Institut Teknologi Sepuluh Nopember (ITS) is a public university in S"
 pubDatetime: 2026-07-04T22:40:42.000Z
 modDatetime: 2026-07-07T08:08:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1211588.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1211588.jpg"
 tags: ["university", "institut-teknologi-sepuluh-nopember"]
 category: "university"
 draft: false
@@ -69,7 +69,7 @@ If you live in areas like Gebang, Manyar, or Kertajaya, commuting by motorised v
 
 ### Shortlist Logic for Nearby Residences
 
-![Institut Teknologi Sepuluh Nopember (ITS)](https://img.findstay.org/housing/p/amber-1211588.jpg)
+![Institut Teknologi Sepuluh Nopember (ITS)](https://img.unistay.cn/housing/p/amber-1211588.jpg)
 
 When selecting a place to stay near ITS, apply the following logic using criteria derived from student reviews and city context. Since no specific residence names are given in the source data, the logic below helps you evaluate any available option.
 

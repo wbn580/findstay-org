@@ -3,8 +3,8 @@ title: "Housing near Czech Technical University In Prague: 2026 student guide"
 description: "Housing near Czech Technical University in Prague  Czech Technical University in Prague (CTU) holds the 416th position in the QS World University R"
 pubDatetime: 2026-07-02T12:10:34.000Z
 modDatetime: 2026-07-07T08:26:34.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1850838.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1850838.jpg"
 tags: ["university", "czech-technical-university-in-prague"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ It is essential to confirm prices directly with landlords or accommodation opera
 
 Walking distance to campus offers obvious convenience: you can use the library late into the evening, attend early‑morning lectures without stress, and enjoy the quiet campus environment. Apartments within a 15‑minute walk of the main building are in high demand and tend to be more expensive. The trade‑off is that you pay a premium for proximity and may have a smaller selection of properties.
 
-![Czech Technical University In Prague](https://img.findstay.org/housing/p/amber-1850838.jpg)
+![Czech Technical University In Prague](https://img.unistay.cn/housing/p/amber-1850838.jpg)
 
 If you choose to commute via metro (line A), you can live in districts such as Dejvice itself (further from the metro still walkable), or along the same line in Žižkov (Prague 3), Vinohrady (Prague 2), or even Jižní Město (Prague 4) in the opposite direction. Commute times from the city centre to Dejvická station are about 10 minutes; from outer districts they can be 25–40 minutes. The metro is reliable and runs until midnight, with night trams available thereafter. A monthly student transport pass (available for a reduced fee) covers all public transport in Prague.
 

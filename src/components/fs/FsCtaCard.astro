@@ -1,0 +1,21 @@
+---
+/**
+ * End-of-page conversion card — opens the Robin chatbot (window.aiwOpen).
+ * Neutral advisor tone; no dead links (button always has a real handler).
+ */
+const {
+  title = "Not sure where to start?",
+  text = "Tell Robin your university, budget and move-in date — get a comparable shortlist and an advisor follow-up within one business day.",
+  button = "Ask Robin",
+} = Astro.props as { title?: string; text?: string; button?: string };
+---
+
+<div class="cta-card fs-reveal">
+  <div>
+    <h3>{title}</h3>
+    <p>{text}</p>
+  </div>
+  <button type="button" class="fs-btn fs-btn-white" onclick="window.aiwOpen?.()">
+    {button} →
+  </button>
+</div>

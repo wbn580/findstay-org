@@ -3,8 +3,8 @@ title: "Housing near Baku State University: 2026 student guide"
 description: "Campus Reviews Reveal the Dormitory Experience Baku State University is located in the center of Baku, the capital of Azerbaijan, at Akademik, 33 Zahid."
 pubDatetime: 2026-07-02T12:07:51.000Z
 modDatetime: 2026-07-07T08:49:51.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-141023.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-141023.jpg"
 tags: ["university", "baku-state-university"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ For living costs, grocery prices are relatively stable, and a single person’s 
 
 ## Housing Budget Overview
 
-![Baku State University](https://img.findstay.org/housing/p/amber-141023.jpg)
+![Baku State University](https://img.unistay.cn/housing/p/amber-141023.jpg)
 
 Since the data does not include specific nearby housing information, the price ranges below are based on the general student housing market in Baku city and are indicative—please confirm with the specific landlord or operator.
 

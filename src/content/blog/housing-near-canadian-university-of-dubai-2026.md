@@ -3,8 +3,8 @@ title: "Housing near Canadian University of Dubai: 2026 student guide"
 description: "Housing Near Canadian University Dubai: What Campus Reviews Reveal  Canadian University Dubai (CUD) is located in City Walk, a mixed-use developmen"
 pubDatetime: 2026-07-07T06:26:36.000Z
 modDatetime: 2026-07-07T08:45:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3018891.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3018891.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -81,7 +81,7 @@ Given the parking nightmare described in reviews, driving is strongly discourage
 
 The four residences listed in the supplementary data are all within a reasonable commuting distance from Canadian University Dubai. Here’s how they compare:
 
-![Canadian University of Dubai](https://img.findstay.org/housing/p/amber-3018891.jpg)
+![Canadian University of Dubai](https://img.unistay.cn/housing/p/amber-3018891.jpg)
 
 1. **Staybridge Suites – Al Maktoum Airport**
 

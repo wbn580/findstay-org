@@ -3,8 +3,8 @@ title: "Housing near Universidad Pontificia Comillas: 2026 student guide"
 description: "Overview of Universidad Pontificia Comillas and its campus  Universidad Pontificia Comillas is a private Catholic university located in Madrid, Spa"
 pubDatetime: 2026-06-30T14:12:42.000Z
 modDatetime: 2026-07-07T09:01:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-225830.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-225830.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ If you plan to live off-campus, the reviews of nearby residences (which are not 
 
 ## Madrid city context for students
 
-![Universidad Pontificia Comillas](https://img.findstay.org/housing/p/amber-225830.jpg)
+![Universidad Pontificia Comillas](https://img.unistay.cn/housing/p/amber-225830.jpg)
 
 Madrid is Spain’s capital and one of Europe’s most popular student destinations. The city is divided into districts (distritos), with the centre offering historic charm and a lively nightlife. For students at Comillas, the main campus lies in the Chamberí district, a safe, residential area with wide avenues and relatively quieter streets compared to the very centre (Sol or Gran Vía). Chamberí is also home to many young professionals and families, meaning rental prices are moderate for central Madrid.
 

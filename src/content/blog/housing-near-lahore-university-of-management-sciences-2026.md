@@ -3,8 +3,8 @@ title: "Housing near Lahore University of Management Sciences (LUMS): 2026 stude
 description: "Finding Student Housing Near Lahore University of Management Sciences (LUMS) – A Practical Guide for 2026–2027  Lahore University of Management Sci"
 pubDatetime: 2026-07-07T02:13:54.000Z
 modDatetime: 2026-07-07T08:39:54.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00017994.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00017994.jpg"
 tags: ["university", "lahore-university-of-management-sciences"]
 category: "university"
 draft: false
@@ -68,7 +68,7 @@ Blocks immediately adjacent to LUMS – especially Sector T, U, V, and W in DHA 
 - Pros: No transport cost; easy to attend early morning classes or evening events; safety is generally good with streetlights and security patrols in DHA.
 - Cons: Fewer rental options; higher rents due to proximity; limited grocery options directly outside campus (most shops are a 5-minute rickshaw ride away).
 
-![Lahore University of Management Sciences (LUMS)](https://img.findstay.org/housing/p/uh-s00017994.jpg)
+![Lahore University of Management Sciences (LUMS)](https://img.unistay.cn/housing/p/uh-s00017994.jpg)
 
 **Transit-dependent areas (1.5–5 km from campus)**  
 Neighbourhoods like Barkat Market (about 3 km), Cavalry Ground, and parts of Gulberg (5 km) offer more variety in housing and lower rents.

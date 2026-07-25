@@ -3,8 +3,8 @@ title: "Housing near University of Southern Queensland: 2026 student guide"
 description: "Campus Reviews: What Students Say About UniSQ  The University of Southern Queensland (UniSQ) main campus is located in Toowoomba, about 125 km west"
 pubDatetime: 2026-07-01T22:28:08.000Z
 modDatetime: 2026-07-07T08:25:08.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00669941.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00669941.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Prices vary by condition, proximity to campus, and inclusions (bills, internet).
 
 ## Budget Bands: Choosing Your Price Level
 
-![University of Southern Queensland](https://img.findstay.org/housing/p/uh-s00669941.jpg)
+![University of Southern Queensland](https://img.unistay.cn/housing/p/uh-s00669941.jpg)
 
 When searching for accommodation near UniSQ, divide your budget into three bands:
 

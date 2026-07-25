@@ -3,8 +3,8 @@ title: "Housing near Universiti Tenaga Nasional (UNITEN): 2026 student guide"
 description: "Universiti Tenaga Nasional (UNITEN) Student Housing Guide: Kajang, Bangi & Putrajaya  Universiti Tenaga Nasional (UNITEN) in Kajang, Selangor, occ"
 pubDatetime: 2026-07-02T21:29:52.000Z
 modDatetime: 2026-07-07T08:37:52.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-945379.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-945379.jpg"
 tags: ["university", "universiti-tenaga-nasional"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ What does this mean for housing? The combination of a developing campus and seve
 
 ## City Context – Kajang, Bangi, and Putrajaya
 
-![Universiti Tenaga Nasional (UNITEN)](https://img.findstay.org/housing/p/amber-945379.jpg)
+![Universiti Tenaga Nasional (UNITEN)](https://img.unistay.cn/housing/p/amber-945379.jpg)
 
 UNITEN’s location in Selangor places it at a crossroads of three distinct urban environments. Understanding their differences is key to choosing the right housing.
 

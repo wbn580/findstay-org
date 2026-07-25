@@ -3,8 +3,8 @@ title: "Housing near Cyprus University of Technology: 2026 student guide"
 description: "What campus reviews reveal  The Cyprus University of Technology (CUT) campus in Limassol draws mixed reactions from visitors and students. One revi"
 pubDatetime: 2026-07-03T14:13:04.000Z
 modDatetime: 2026-07-07T08:49:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-937032.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-937032.jpg"
 tags: ["university", "cyprus-university-of-technology"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Transport in Limassol is primarily by bus and car. The city has a public bus net
 
 ## Budget bands for student housing (2026–2027)
 
-![Cyprus University of Technology](https://img.findstay.org/housing/p/amber-937032.jpg)
+![Cyprus University of Technology](https://img.unistay.cn/housing/p/amber-937032.jpg)
 
 Rental prices in Limassol vary widely depending on location, property type, and condition. For the 2026–2027 academic year, these are indicative bands — always confirm with the operator or landlord before committing.
 

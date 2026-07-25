@@ -3,8 +3,8 @@ title: "Housing near Bangor University: 2026 student guide"
 description: "What Campus Reviews Reveal About Housing  Bangor University’s campus, set in the coastal city of Bangor in North Wales, receives consistently posit"
 pubDatetime: 2026-06-30T20:29:04.000Z
 modDatetime: 2026-07-07T08:49:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-238295.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-238295.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The local bus network is limited compared to larger cities, but many students fi
 
 ## Budget Bands (Indicative – Confirm with the Operator)
 
-![Bangor University](https://img.findstay.org/housing/p/amber-238295.jpg)
+![Bangor University](https://img.unistay.cn/housing/p/amber-238295.jpg)
 
 Rental prices in Bangor vary by property type, condition, and distance from campus. No specific pricing data was provided for this article, but based on typical student housing patterns in similar UK towns, you can expect the following indicative ranges. All figures are estimates and must be confirmed directly with the accommodation provider or landlord before committing.
 

@@ -2,7 +2,7 @@
 title: "Canberra Student Accommodation Guide 2026: ANU & UC Housing Options"
 description: "Find student housing in Canberra near ANU and the University of Canberra. Campus accommodation, private rentals, and sharehouse options for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1581172812131-a55154329eeb?w=1600"
 ogImage: "https://images.unsplash.com/photo-1581172812131-a55154329eeb?w=1200"
 tags: ["australia", "canberra", "student-accommodation"]

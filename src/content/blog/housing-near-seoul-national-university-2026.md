@@ -3,8 +3,8 @@ title: "Housing near Seoul National University: 2026 student guide"
 description: "What Campus Reviews Reveal About SNU Living  Seoul National University (SNU) is ranked 38th globally and situated at 1 Gwanak-ro in Gwanak-gu, Seou"
 pubDatetime: 2026-07-02T06:02:36.000Z
 modDatetime: 2026-07-07T08:14:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01442630.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01442630.jpg"
 tags: ["university", "seoul-national-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Seoul’s public transport network is extensive. The university is served by SNU
 
 ## Budget Bands for Student Housing
 
-![Seoul National University](https://img.findstay.org/housing/p/uh-s01442630.jpg)
+![Seoul National University](https://img.unistay.cn/housing/p/uh-s01442630.jpg)
 
 No two students spend the same amount on rent, but understanding typical ranges helps you set expectations. All prices listed below are **indicative — confirm with the operator** before signing any lease.
 

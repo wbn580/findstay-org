@@ -3,8 +3,8 @@ title: "Housing near Peking University: 2026 student guide"
 description: "What Campus Reviews Reveal  Peking University’s campus consistently earns high praise from visitors and students alike. Based on 544 Google reviews"
 pubDatetime: 2026-07-02T14:33:05.000Z
 modDatetime: 2026-07-07T07:58:05.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-610191.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-610191.jpg"
 tags: ["university", "peking-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The climate is continental – hot summers (up to 35°C) and cold, dry winters (
 
 ## Budget Bands for Off-Campus Housing (2026–2027)
 
-![Peking University](https://img.findstay.org/housing/p/amber-610191.jpg)
+![Peking University](https://img.unistay.cn/housing/p/amber-610191.jpg)
 
 Rental prices in Haidian vary significantly depending on distance from campus, apartment type, and whether the room is shared. Below are indicative monthly bands **as of 2026–2027**. All figures are indicative – confirm with the operator before signing any contract.
 

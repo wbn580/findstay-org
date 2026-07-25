@@ -3,8 +3,8 @@ title: "Housing near National Research Nuclear University MEPhI (Moscow Engineer
 description: "Housing Near National Research Nuclear University MEPhI: What Campus Reviews Reveal  National Research Nuclear University MEPhI (Moscow Engineering"
 pubDatetime: 2026-07-01T02:50:24.000Z
 modDatetime: 2026-07-07T09:10:24.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-138148.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-138148.jpg"
 tags: ["university", "national-research-nuclear-university-mephi"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Choosing between walking distance and commuting by metro involves balancing cost
 - Pros: No daily public transport cost, reliable during snow or metro disruptions, and easier to manage groceries and errands.
 - Cons: Apartments within walking distance are scarcer and tend to be in older buildings or smaller rooms. Rent may be slightly higher per square metre because of the convenience premium.
 
-![National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)](https://img.findstay.org/housing/p/amber-138148.jpg)
+![National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)](https://img.unistay.cn/housing/p/amber-138148.jpg)
 
 **Transit (metro + bus or walk from metro)**
 

@@ -3,8 +3,8 @@ title: "Housing near University of Guelph: 2026 student guide"
 description: "University of Guelph Campus Reviews: What Students Say About Life and Location  Student reviews of the University of Guelph consistently highlight"
 pubDatetime: 2026-07-04T01:14:04.000Z
 modDatetime: 2026-07-07T08:08:04.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1106783.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1106783.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Guelph’s rental market has tightened in recent years, especially near the univ
 
 ## Budget Bands: What You Can Expect to Pay (Indicative Only)
 
-![University of Guelph](https://img.findstay.org/housing/p/amber-1106783.jpg)
+![University of Guelph](https://img.unistay.cn/housing/p/amber-1106783.jpg)
 
 All prices below are indicative and should be confirmed directly with the operator. Currency is Canadian dollars (CAD). Based on market data from early 2026, the typical monthly rent for a single bedroom in a shared unit or a studio near the University of Guelph falls between 750 and 1,300 CAD.
 

@@ -3,8 +3,8 @@ title: "Housing near Eindhoven University of Technology: 2026 student guide"
 description: "What Campus Reviews Reveal About Living Near Eindhoven University of Technology  Eindhoven University of Technology (TU/e) is a public technical un"
 pubDatetime: 2026-07-02T06:40:21.000Z
 modDatetime: 2026-07-07T08:03:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-286411.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-286411.jpg"
 tags: ["university", "eindhoven-university-of-technology"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ Bus passes cost roughly €50–€70 per month for students (with a discount ca
 
 ### Shortlist Logic: How to Choose Using the Given Reviews
 
-![Eindhoven University of Technology](https://img.findstay.org/housing/p/amber-286411.jpg)
+![Eindhoven University of Technology](https://img.unistay.cn/housing/p/amber-286411.jpg)
 
 Take the review from Joaquín Figueira as a concrete example: the university “was very quick in providing affordable housing in Eindhoven 5 min. away from the campus.”
 

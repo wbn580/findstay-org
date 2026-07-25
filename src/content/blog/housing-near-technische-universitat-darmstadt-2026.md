@@ -3,8 +3,8 @@ title: "Housing near Technische Universität Darmstadt: 2026 student guide"
 description: "Campus Reviews: What Students Say  Technische Universität Darmstadt (TU Darmstadt) holds a QS World University Ranking of 253 and a Google rating o"
 pubDatetime: 2026-07-04T16:37:36.000Z
 modDatetime: 2026-07-07T08:45:36.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-931775.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-931775.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For students, the city offers a moderate cost of living compared to Munich or Fr
 
 ## Budget Bands (Indicative)
 
-![Technische Universität Darmstadt](https://img.findstay.org/housing/p/amber-931775.jpg)
+![Technische Universität Darmstadt](https://img.unistay.cn/housing/p/amber-931775.jpg)
 
 Because rents vary by location, room size, and amenities, here is a rough breakdown for accommodation near TU Darmstadt in the 2026/2027 academic year:
 

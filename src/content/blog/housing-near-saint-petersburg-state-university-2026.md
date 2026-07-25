@@ -3,8 +3,8 @@ title: "Housing near Saint Petersburg State University: 2026 student guide"
 description: "Campus Reviews and What They Tell You About Housing  Saint Petersburg State University (SPbU) holds a QS World University rank of 375 and a Google"
 pubDatetime: 2026-07-02T16:56:15.000Z
 modDatetime: 2026-07-07T08:00:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013888.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013888.jpg"
 tags: ["university", "saint-petersburg-state-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Cost of living in St. Petersburg is lower than in Moscow, but has risen in recen
 
 ## Budget Bands for 2027 (Indicative – Confirm with the Operator)
 
-![Saint Petersburg State University](https://img.findstay.org/housing/p/uh-s00013888.jpg)
+![Saint Petersburg State University](https://img.unistay.cn/housing/p/uh-s00013888.jpg)
 
 Below are typical monthly rent ranges for private accommodation near the main campus and in accessible districts. All prices are indicative. Actual rents vary by season, contract duration, and included utilities. Always confirm the final amount with the landlord or agency.
 

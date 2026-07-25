@@ -3,8 +3,8 @@ title: "Housing near Tokyo Institute of Technology: 2026 student guide"
 description: "What Campus Reviews Reveal  Current and former students describe Tokyo Institute of Technology’s O-okayama campus as welcoming and well-equipped."
 pubDatetime: 2026-07-05T17:08:07.000Z
 modDatetime: 2026-07-07T08:47:07.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2044184.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2044184.jpg"
 tags: ["university", "tokyo-institute-of-technology"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ The Tōkyū Meguro Line connects O-okayama to Meguro (5 min), while the Ōimachi
 
 Since no specific residence list was provided, the following logical framework helps you evaluate any housing options you find:
 
-![Tokyo Institute of Technology](https://img.findstay.org/housing/p/amber-2044184.jpg)
+![Tokyo Institute of Technology](https://img.unistay.cn/housing/p/amber-2044184.jpg)
 
 1. **Distance to campus** – Prioritise addresses within 1 km of O-okayama Station unless budget forces a longer commute. Use Google Maps walking times.
 2. **Transport cost** – If you live beyond walking range, check whether a student discount commuter pass is available; factor the monthly cost into your budget.

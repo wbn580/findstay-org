@@ -3,8 +3,8 @@ title: "Housing near Nanjing University: 2026 student guide"
 description: "What Campus Reviews Reveal  The user reviews for Nanjing University offer direct insight into what students and visitors experience. One reviewer,"
 pubDatetime: 2026-07-05T03:50:00.000Z
 modDatetime: 2026-07-07T09:00:00.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1460537.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1460537.jpg"
 tags: ["university", "nanjing-university"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Nanjing, the capital of Jiangsu Province, is a major historical and cultural cen
 
 ## Budget Bands for Student Housing
 
-![Nanjing University](https://img.findstay.org/housing/p/amber-1460537.jpg)
+![Nanjing University](https://img.unistay.cn/housing/p/amber-1460537.jpg)
 
 No specific rental figures are included in the provided data. However, general bands for Nanjing student housing (indicative — confirm with the operator) are:
 

@@ -3,8 +3,8 @@ title: "Housing near Universidade de Santiago de Compostela: 2026 student guide"
 description: "Housing near Universidade de Santiago de Compostela: a practical guide for 2026–2027  Founded in 1495, the Universidade de Santiago de Compostela ("
 pubDatetime: 2026-07-04T22:58:29.000Z
 modDatetime: 2026-07-07T08:10:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3166365.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3166365.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -74,7 +74,7 @@ Rental prices in Santiago de Compostela are moderate compared to other Spanish u
 - Bus lines 5, 12, and C5 connect to the centre (15–20 minutes). Walking from the centre takes about 30 minutes.
 - Trade-off: quieter residential area, more green space, but fewer shops and nightlife. Rents similar to the South Campus.
 
-![Universidade de Santiago de Compostela](https://img.findstay.org/housing/p/amber-3166365.jpg)
+![Universidade de Santiago de Compostela](https://img.unistay.cn/housing/p/amber-3166365.jpg)
 
 **General rule**: if your faculty is in the historic centre, prioritise walking distance. For South or North campuses, a 1–1.5 km buffer that keeps the bus or bike option viable will balance cost and convenience.
 

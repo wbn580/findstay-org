@@ -2,7 +2,7 @@
 title: "Rental Deposit & Bond Guide: How Security Deposits Work in 10 Countries"
 description: "Compare rental deposit rules across Australia, UK, US, Canada, NZ, Germany, France, Singapore, Japan, and South Korea. How much you pay, protection schemes, and how to get it back."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600"
 ogImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"
 tags: ["rental-tips", "student-accommodation"]

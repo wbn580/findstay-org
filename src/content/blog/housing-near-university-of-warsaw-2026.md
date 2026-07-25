@@ -3,8 +3,8 @@ title: "Housing near University of Warsaw: 2026 student guide"
 description: "What Campus Reviews Reveal  The University of Warsaw, a public research university founded in 1816, occupies a historic campus along Krakowskie Prz"
 pubDatetime: 2026-07-01T09:59:50.000Z
 modDatetime: 2026-07-07T08:10:50.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1236201.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1236201.jpg"
 tags: ["university", "university-of-warsaw"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Rental demand is high near the university, especially from domestic and internat
 
 ## Budget Bands for Student Housing
 
-![University of Warsaw](https://img.findstay.org/housing/p/amber-1236201.jpg)
+![University of Warsaw](https://img.unistay.cn/housing/p/amber-1236201.jpg)
 
 Housing costs vary by distance from campus, property condition, and whether utilities are included. The figures below are indicative – confirm with the operator or landlord before signing any agreement.
 

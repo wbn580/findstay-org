@@ -3,8 +3,8 @@ title: "Housing near Bandung Institute of Technology (ITB): 2026 student guide"
 description: "What Campus Reviews Reveal Bandung Institute of Technology (ITB) scores 4.8 on Google (5,913 reviews), with student and visitor feedback focusing on."
 pubDatetime: 2026-07-05T07:28:49.000Z
 modDatetime: 2026-07-07T07:59:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2176060.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2176060.jpg"
 tags: ["university", "bandung-institute-of-technology"]
 category: "university"
 draft: false
@@ -28,7 +28,7 @@ The cost of living in the city is 30–40% lower than Jakarta, but in recent yea
 
 ## Budget Range
 
-![Bandung Institute of Technology (ITB)](https://img.findstay.org/housing/p/amber-2176060.jpg)
+![Bandung Institute of Technology (ITB)](https://img.unistay.cn/housing/p/amber-2176060.jpg)
 
 The following rents are monthly prices, all **indicative—please confirm with the operator**. Data based on the common rental market in northern Bandung in early 2026 (excluding utilities):
 

@@ -3,8 +3,8 @@ title: "Housing near Tokyo Medical and Dental University: 2026 student guide"
 description: "Campus Location and Surrounding Area Tokyo Medical and Dental University (TMDU) main campus is located at 1-5-45 Yushima, Bunkyo-ku, Tokyo. Bunkyo-ku is a."
 pubDatetime: 2026-07-03T19:24:15.000Z
 modDatetime: 2026-07-07T08:59:15.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1193388.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1193388.jpg"
 tags: ["university", "tokyo-medical-and-dental-university"]
 category: "university"
 draft: false
@@ -22,7 +22,7 @@ Tokyo is one of the most densely populated cities in the world, but Bunkyo-ku is
 
 ## Budget Tiers
 
-![Tokyo Medical and Dental University](https://img.findstay.org/housing/p/amber-1193388.jpg)
+![Tokyo Medical and Dental University](https://img.unistay.cn/housing/p/amber-1193388.jpg)
 
 The following rent ranges are approximate prices for typical student housing in Tokyo's Bunkyo-ku and surrounding areas for 2026 (indicative — confirm with the operator). Actual prices may vary depending on room size, facilities, and distance to the station.
 

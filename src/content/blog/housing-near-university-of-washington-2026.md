@@ -3,8 +3,8 @@ title: "Housing near University of Washington: 2026 student guide"
 description: "Housing Guide for University of Washington (2026-2027)  What do students and visitors actually say about the University of Washington campus? Revie"
 pubDatetime: 2026-07-06T18:17:18.000Z
 modDatetime: 2026-07-07T08:44:18.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1344955.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1344955.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ Remember that rents in Seattle typically are listed per person for student housi
 
 One of the biggest decisions when choosing housing near UW is whether to walk or rely on public transit.
 
-![University of Washington](https://img.findstay.org/housing/p/amber-1344955.jpg)
+![University of Washington](https://img.unistay.cn/housing/p/amber-1344955.jpg)
 
 - **Walkable radius (0–1.5 km from campus):** Properties like Theory U District and Yugo Seattle Wilsonian are within a 5–15 minute walk. This eliminates the need for a bus pass and saves time. It also allows easy access to the Ave (University Way NE)—a strip of cheap eats, cafes, and shops. The downside: rent tends to be higher per square foot, and street noise can be an issue near main corridors.
 - **Transit-dependent (2–5 km):** Apartments like Trailside Student Living or Cielo may require a bus or the Link Light Rail. Seattle’s buses are frequent but can be crowded during peak hours. The Link Light Rail’s U District station connects campus to downtown and Capitol Hill in about 10 minutes. Living a bit farther out often gets you a larger apartment or lower rent, but you must factor in a monthly transit pass (about 100 USD for unlimited use) and 10–20 minutes each way.

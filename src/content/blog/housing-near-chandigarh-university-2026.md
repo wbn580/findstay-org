@@ -3,8 +3,8 @@ title: "Housing near Chandigarh University: 2026 student guide"
 description: "What Campus Reviews Reveal About Chandigarh University  Chandigarh University (CU), ranked 575 in the QS World University Rankings, sits on NH-05 i"
 pubDatetime: 2026-07-06T11:49:53.000Z
 modDatetime: 2026-07-07T08:56:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s01591621.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s01591621.jpg"
 tags: ["university", "chandigarh-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Most students live either in on-campus hostels (operated by the university) or i
 
 ## Budget Bands for Student Housing
 
-![Chandigarh University](https://img.findstay.org/housing/p/uh-s01591621.jpg)
+![Chandigarh University](https://img.unistay.cn/housing/p/uh-s01591621.jpg)
 
 Housing costs near Chandigarh University vary depending on distance, amenities, and whether meals are included. Prices are indicative — confirm with the operator.
 

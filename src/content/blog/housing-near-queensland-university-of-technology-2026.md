@@ -3,8 +3,8 @@ title: "Housing near Queensland University of Technology: 2026 student guide"
 description: "What Students Say About the QUT Brisbane Campus  Queensland University of Technology (QUT) holds a strong QS World University Ranking of 226 and an"
 pubDatetime: 2026-07-01T11:50:43.000Z
 modDatetime: 2026-07-07T09:07:43.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-137617.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-137617.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ The city is well-served by public transport, including buses, trains, and the ic
 
 ## Understanding Student Housing Budgets in Brisbane (2026–2027)
 
-![Queensland University of Technology](https://img.findstay.org/housing/p/amber-137617.jpg)
+![Queensland University of Technology](https://img.unistay.cn/housing/p/amber-137617.jpg)
 
 The student housing market in Brisbane offers a clear spectrum of price points. The lowest available entry point across the current listings is **$199 AUD per week** (indicative — confirm with the operator). Here is a neutral breakdown of typical budget bands for the 2026 and 2027 academic years.
 

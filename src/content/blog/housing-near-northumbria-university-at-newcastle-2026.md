@@ -3,8 +3,8 @@ title: "Housing near Northumbria University at Newcastle: 2026 student guide"
 description: "Housing Near Northumbria University at Newcastle: A Guide Based on Campus Reviews and City Context  Finding a place to live near Northumbria Univer"
 pubDatetime: 2026-07-04T05:13:49.000Z
 modDatetime: 2026-07-07T08:35:49.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-914633.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-914633.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -67,7 +67,7 @@ The decision between walking and using public transport largely depends on your 
 - **Trade-off:** Properties within immediate walking distance (e.g., city centre student blocks) often command a premium rent. Street noise can be higher than in residential suburbs.
 - **Typical walking zones:** Journey times from Jesmond (20–25 min), Sandyford (15–20 min), Heaton (25–30 min), and central quayside areas (10–15 min).
 
-![Northumbria University at Newcastle](https://img.findstay.org/housing/p/amber-914633.jpg)
+![Northumbria University at Newcastle](https://img.unistay.cn/housing/p/amber-914633.jpg)
 
 **Public transport**
 

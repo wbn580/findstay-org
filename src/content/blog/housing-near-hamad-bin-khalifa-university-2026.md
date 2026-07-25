@@ -3,8 +3,8 @@ title: "Housing near Hamad Bin Khalifa University: 2026 student guide"
 description: "What campus reviews reveal about life at HBKU  Hamad Bin Khalifa University (HBKU) sits within Education City, a dedicated academic and research hu"
 pubDatetime: 2026-07-04T11:37:31.000Z
 modDatetime: 2026-07-07T07:51:31.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2173506.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2173506.jpg"
 tags: ["university", "hamad-bin-khalifa-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Qatar’s climate is hot for much of the year, with summer temperatures often ab
 
 ## Budget bands for student housing
 
-![Hamad Bin Khalifa University](https://img.findstay.org/housing/p/amber-2173506.jpg)
+![Hamad Bin Khalifa University](https://img.unistay.cn/housing/p/amber-2173506.jpg)
 
 No specific rental data was provided with this article, and rental prices in Qatar fluctuate with market conditions. The following categories are based on typical arrangements in Education City and Al Rayyan – all amounts are indicative and must be confirmed with the operator.
 

@@ -2,7 +2,7 @@
 title: "Vancouver Student Housing 2026: UBC & SFU Accommodation Guide"
 description: "Student housing in Vancouver near UBC, SFU, and other universities. Rent prices by neighborhood, transit strategy, and 2026 accommodation options."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "/images/canada/vancouver.jpg"
 ogImage: "/images/canada/vancouver.jpg"
 tags: ["canada", "vancouver", "student-accommodation"]

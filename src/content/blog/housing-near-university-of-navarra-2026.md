@@ -3,8 +3,8 @@ title: "Housing near University of Navarra: 2026 student guide"
 description: "University of Navarra Campus & What Reviews Reveal  The University of Navarra’s main campus in Pamplona spans 110 hectares of green space just nort"
 pubDatetime: 2026-07-06T16:11:12.000Z
 modDatetime: 2026-07-07T08:49:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-924822.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-924822.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Rent for student accommodation in Pamplona ranges broadly. Based on available li
 
 ## Budget Bands for Student Housing
 
-![University of Navarra](https://img.findstay.org/housing/p/amber-924822.jpg)
+![University of Navarra](https://img.unistay.cn/housing/p/amber-924822.jpg)
 
 Understanding your budget helps narrow options. Below are typical monthly bands for furnished student accommodation in Pamplona (2026–2027 academic year, all prices indicative — confirm with the operator).
 

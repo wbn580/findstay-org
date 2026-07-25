@@ -3,8 +3,8 @@ title: "Housing near University of Gothenburg: 2026 student guide"
 description: "What campus reviews reveal about student life  The University of Gothenburg holds a Google rating of 4.2 from 491 reviews, reflecting generally po"
 pubDatetime: 2026-07-06T07:45:46.000Z
 modDatetime: 2026-07-07T08:59:46.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3166365.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3166365.jpg"
 tags: ["university", "university-of-gothenburg"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ The university’s multiple campuses make the walk-versus-transit decision depar
 - **If your lectures are at Universitetsplatsen or the Faculty of Arts (central campus):** Living in the city centre or nearby neighbourhoods like Haga or Vasastan allows you to walk. Rent tends to be higher, but the convenience is unmatched.
 - **If you study at Lindholmen (IT, design, maritime):** This campus is on the north shore, reachable by tram or a free ferry across the river. Living on the same side (e.g., in Eriksberg or Lindholmen itself) cuts commuting, while staying in the city centre adds 15–20 minutes by tram.
 
-![University of Gothenburg](https://img.findstay.org/housing/p/amber-3166365.jpg)
+![University of Gothenburg](https://img.unistay.cn/housing/p/amber-3166365.jpg)
 
 The trade-off is straightforward: walking proximity often means higher rent or less choice, while relying on transit expands your options and may lower costs. A typical tram ride from a peripheral student area (like Frölunda or Backaplan) to Medicinareberget or central campus takes 20–40 minutes. Factor in that some student housing contracts require you to sign for a full academic year, so test your commute during daylight hours before committing.
 

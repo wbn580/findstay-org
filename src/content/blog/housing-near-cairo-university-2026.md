@@ -3,8 +3,8 @@ title: "Housing near Cairo University: 2026 student guide"
 description: "What Campus Reviews Reveal  Cairo University sits at 1 شارع الجامعة in the Oula district of Giza. With a Google rating of 4.5 from 309 reviews, it"
 pubDatetime: 2026-07-02T12:36:29.000Z
 modDatetime: 2026-07-07T09:07:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-976907.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-976907.jpg"
 tags: ["university", "cairo-university"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ The university itself is set in a spacious campus with historic architecture. Th
 
 ## Budget Bands for Student Housing
 
-![Cairo University](https://img.findstay.org/housing/p/amber-976907.jpg)
+![Cairo University](https://img.unistay.cn/housing/p/amber-976907.jpg)
 
 Rental prices near Cairo University are generally lower than in central Cairo or Zamalek, but they still vary by location and quality. The figures below are indicative — confirm with the operator before committing.
 

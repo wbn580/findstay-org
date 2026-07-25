@@ -3,8 +3,8 @@ title: "Housing near University of Kent: 2026 student guide"
 description: "What Campus Reviews Reveal About Living at Kent  Student reviews of the University of Kent offer practical clues for anyone thinking about where to"
 pubDatetime: 2026-07-05T06:35:44.000Z
 modDatetime: 2026-07-07T08:55:44.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2186601.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2186601.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Because the campus is on higher ground, walking to and from town involves a stee
 
 ## Budget Bands (2026/27 — Indicative Prices)
 
-![University of Kent](https://img.findstay.org/housing/p/amber-2186601.jpg)
+![University of Kent](https://img.unistay.cn/housing/p/amber-2186601.jpg)
 
 All prices below are **indicative only** and should be confirmed directly with the operator. Do not treat them as fixed offers. Prices are based on typical 2026/27 academic year contracts (usually 44–51 weeks).
 

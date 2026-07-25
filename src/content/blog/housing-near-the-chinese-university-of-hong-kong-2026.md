@@ -3,8 +3,8 @@ title: "Housing near The Chinese University of Hong Kong: 2026 student guide"
 description: "Campus Reviews: What Students Say About CUHK  The Chinese University of Hong Kong (CUHK) consistently earns high praise from students and visitors."
 pubDatetime: 2026-07-05T23:27:23.000Z
 modDatetime: 2026-07-07T08:10:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2363988.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2363988.jpg"
 tags: ["university", "the-chinese-university-of-hong-kong"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Public transport is efficient: MTR (Mass Transit Railway) East Rail Line runs th
 
 ## Budget Bands for Student Housing Near CUHK
 
-![The Chinese University of Hong Kong](https://img.findstay.org/housing/p/amber-2363988.jpg)
+![The Chinese University of Hong Kong](https://img.unistay.cn/housing/p/amber-2363988.jpg)
 
 Rents are indicative — confirm with the operator. Prices vary significantly based on unit size, condition, and distance from campus. The following are approximate monthly rent ranges (in Hong Kong dollars, HKD) for studios or single rooms in shared flats, as of 2026.
 

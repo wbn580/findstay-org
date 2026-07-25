@@ -3,8 +3,8 @@ title: "Housing near Harvard University: 2026 student guide"
 description: "Campus Reviews: What Students and Visitors Say  Harvard University’s campus consistently earns high praise from visitors and students. With a Googl"
 pubDatetime: 2026-07-01T23:38:30.000Z
 modDatetime: 2026-07-07T07:51:30.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-936677.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-936677.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ However, the cost of living in Cambridge and the surrounding Boston area is sign
 
 ## Budget Bands and Cost of Living
 
-![Harvard University](https://img.findstay.org/housing/p/amber-936677.jpg)
+![Harvard University](https://img.unistay.cn/housing/p/amber-936677.jpg)
 
 Because rental data varies by season, unit condition, and exact location, all prices below are indicative only — confirm current rates directly with the operator. Generally, you can group student housing options around Harvard into three broad bands:
 

@@ -3,8 +3,8 @@ title: "Housing near Università degli Studi di Roma - Tor Vergata: 2026 student
 description: "Campus Reviews: What Students Say About Tor Vergata  The Università degli Studi di Roma – Tor Vergata sits in the eastern outskirts of Rome, with a"
 pubDatetime: 2026-07-06T04:52:23.000Z
 modDatetime: 2026-07-07T09:13:23.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1129541.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1129541.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Given the university’s academic reputation (QS World University Ranking 355) a
 
 ## Budget Bands for Student Housing
 
-![Università degli Studi di Roma - Tor Vergata](https://img.findstay.org/housing/p/amber-1129541.jpg)
+![Università degli Studi di Roma - Tor Vergata](https://img.unistay.cn/housing/p/amber-1129541.jpg)
 
 Rental prices near Tor Vergata are generally lower than in central Rome, but they still vary considerably depending on distance from campus, property condition, and contract type. Below is a factual breakdown of typical budget segments for the 2026/2027 academic year. All prices are indicative — confirm with the operator before signing any agreement.
 

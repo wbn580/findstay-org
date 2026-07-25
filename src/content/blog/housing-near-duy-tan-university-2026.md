@@ -3,8 +3,8 @@ title: "Housing near Duy Tan University: 2026 student guide"
 description: "What Campus Reviews Reveal About Duy Tan University  The student reviews collected on Google offer a mixed but useful picture of day-to-day life at"
 pubDatetime: 2026-07-04T15:16:21.000Z
 modDatetime: 2026-07-07T07:50:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-224855.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-224855.jpg"
 tags: ["university", "duy-tan-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The main campus is in Hải Châu district, the central commercial area. This me
 
 ## Budget Bands and Price Expectations
 
-![Duy Tan University](https://img.findstay.org/housing/p/amber-224855.jpg)
+![Duy Tan University](https://img.unistay.cn/housing/p/amber-224855.jpg)
 
 No specific rental figures were provided in the university data-set, so the following is a general outline based on typical conditions in Da Nang for the 2026–2027 academic year. **All prices are indicative — confirm with the operator before committing.**
 

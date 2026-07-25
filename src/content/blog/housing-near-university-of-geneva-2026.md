@@ -3,8 +3,8 @@ title: "Housing near University of Geneva: 2026 student guide"
 description: "What Campus Reviews Reveal  Before searching for accommodation, it pays to understand what current and former students say about the University of"
 pubDatetime: 2026-07-04T17:35:57.000Z
 modDatetime: 2026-07-07T08:14:57.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-3190336.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-3190336.jpg"
 tags: ["university", "university-of-geneva"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The public transport system (trams, buses, trains) is efficient and covered by a
 
 ## Budget Bands (Indicative – Confirm with the Operator)
 
-![University of Geneva](https://img.findstay.org/housing/p/amber-3190336.jpg)
+![University of Geneva](https://img.unistay.cn/housing/p/amber-3190336.jpg)
 
 Rents in Geneva vary sharply by location and room type. All prices below are indicative for the 2026–2027 academic year; always confirm directly with the landlord or residence operator.
 

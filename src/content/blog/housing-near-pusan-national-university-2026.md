@@ -3,8 +3,8 @@ title: "Housing near Pusan National University: 2026 student guide"
 description: "What Campus Reviews Reveal About Life at Pusan National University  Student feedback paints a clear picture of Pusan National University (PNU) as a"
 pubDatetime: 2026-07-03T08:00:53.000Z
 modDatetime: 2026-07-07T09:11:53.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013333.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013333.jpg"
 tags: ["university", "pusan-national-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ For international students, Busan offers a milder climate than Seoul and general
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Pusan National University](https://img.findstay.org/housing/p/uh-s00013333.jpg)
+![Pusan National University](https://img.unistay.cn/housing/p/uh-s00013333.jpg)
 
 Housing costs near PNU vary depending on room type, location, utilities included, and contract length. Because prices fluctuate and individual operator policies differ, all figures below are **indicative — confirm with the operator**. Generally, student housing in Geumjeong-gu falls into three broad bands:
 

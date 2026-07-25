@@ -3,8 +3,8 @@ title: "Housing near University of Ottawa: 2026 student guide"
 description: "University of Ottawa: Housing Guide for 2026–2027  The University of Ottawa sits at 75 Laurier Ave E, right in the heart of the nation’s capital. W"
 pubDatetime: 2026-07-06T15:57:48.000Z
 modDatetime: 2026-07-07T09:03:48.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1108974.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1108974.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ The available data lists seven student residences near the University of Ottawa.
 
 #### Byward Market Cluster (Alma @ Byward Market, Voda, 1Eleven, Theo)
 
-![University of Ottawa](https://img.findstay.org/housing/p/amber-1108974.jpg)
+![University of Ottawa](https://img.unistay.cn/housing/p/amber-1108974.jpg)
 
 These four properties are either directly in the Byward Market district or on the eastern edge of downtown, within a 10–15 minute walk of the university’s main gates. Byward Market is Ottawa’s oldest neighbourhood, packed with restaurants, bars, grocery stores (Loblaws at Rideau and the Byward Market Public Market), and nightlife. It is lively and convenient, but can be noisy, especially on weekends.
 

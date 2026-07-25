@@ -2,7 +2,7 @@
 title: "Ottawa Student Housing 2026: Areas Near uOttawa, Carleton & Algonquin"
 description: "Student accommodation in Canada's capital — affordable neighborhoods near University of Ottawa, Carleton University, and Algonquin College. 2026 rent prices and transit guide."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "/images/canada/ottawa.jpg"
 ogImage: "/images/canada/ottawa.jpg"
 tags: ["canada", "ottawa", "student-accommodation"]

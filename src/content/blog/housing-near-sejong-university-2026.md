@@ -3,8 +3,8 @@ title: "Housing near Sejong University: 2026 student guide"
 description: "What Campus Reviews Reveal  Sejong University, ranked 392nd in the QS World University Rankings, sits at 209 Neungdong-ro in Seoul’s Gwangjin Distr"
 pubDatetime: 2026-07-02T05:38:12.000Z
 modDatetime: 2026-07-07T08:11:12.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1237165.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1237165.jpg"
 tags: ["university", "sejong-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The neighbourhood is also popular among international students, particularly tho
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Sejong University](https://img.findstay.org/housing/p/amber-1237165.jpg)
+![Sejong University](https://img.unistay.cn/housing/p/amber-1237165.jpg)
 
 Rental prices in Seoul vary significantly by location, property type, and contract length. For a student living near Sejong University, you should expect the following **indicative** monthly rent ranges — always confirm directly with the operator. All figures are in South Korean won (KRW).
 

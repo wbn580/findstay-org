@@ -3,8 +3,8 @@ title: "Housing near Heriot-Watt University: 2026 student guide"
 description: "What current students say about Heriot-Watt – a campus perspective  Student reviews for Heriot-Watt University are divided. Some describe the campu"
 pubDatetime: 2026-06-30T15:21:19.000Z
 modDatetime: 2026-07-07T08:21:19.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00013883.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00013883.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city context matters for housing decisions. Living in the city centre means 
 
 ## Budget bands for student housing (2026/2027)
 
-![Heriot-Watt University](https://img.findstay.org/housing/p/uh-s00013883.jpg)
+![Heriot-Watt University](https://img.unistay.cn/housing/p/uh-s00013883.jpg)
 
 Student accommodation in Edinburgh varies widely in price. The indicative starting price for a room in one of the 34 properties listed near Heriot-Watt University is 139.3 GBP per week. This figure is indicative only – you must confirm the exact rent with the operator.
 

@@ -3,8 +3,8 @@ title: "Housing near University of East Anglia (UEA): 2026 student guide"
 description: "University of East Anglia (UEA) – What Campus Reviews Reveal About Student Life and Housing Choices  The University of East Anglia (UEA) holds a QS"
 pubDatetime: 2026-07-02T14:20:42.000Z
 modDatetime: 2026-07-07T08:51:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2122940.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2122940.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ Note: The UEA itself offers on-campus accommodation in a variety of halls (e.g.,
 
 **Using public transport**: Buses are the main option, with a frequent service from the city centre to UEA. A weekly bus pass costs around £15–20 (indicative – confirm with operator). The 15–20 minute journey is reliable but can be crowded during peak hours. Students living further out (e.g., in the north of Norwich or in surrounding villages like Eaton or Cringleford) can also use buses, but the commute may stretch to 30–40 minutes. The advantage is access to slightly cheaper rents (particularly for larger properties) and a quieter residential environment. The downside is the ongoing cost and reliance on bus timetables.
 
-![University of East Anglia (UEA)](https://img.findstay.org/housing/p/amber-2122940.jpg)
+![University of East Anglia (UEA)](https://img.unistay.cn/housing/p/amber-2122940.jpg)
 
 Cycling is also popular in Norwich, which is relatively flat. A bicycle can cover the distance from the city centre to UEA in about 15 minutes. Many students choose this option as a flexible middle ground.
 

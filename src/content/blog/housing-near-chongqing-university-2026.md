@@ -3,8 +3,8 @@ title: "Housing near Chongqing University: 2026 student guide"
 description: "Housing Near Chongqing University: A Practical Guide  Chongqing University (CQU) is situated in the Shapingba district, a major educational hub in"
 pubDatetime: 2026-07-04T16:16:06.000Z
 modDatetime: 2026-07-07T08:06:06.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00019067.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00019067.jpg"
 tags: ["university", "chongqing-university"]
 category: "university"
 draft: false
@@ -84,7 +84,7 @@ CQU’s three campuses are compact enough that walking is feasible for many stud
 - Cons: Rent tends to be higher in the immediate vicinity of the university. The area can be noisy due to student activity and street vendors.
 - Best for: Students who value convenience over space and quiet.
 
-![Chongqing University](https://img.findstay.org/housing/p/uh-s00019067.jpg)
+![Chongqing University](https://img.unistay.cn/housing/p/uh-s00019067.jpg)
 
 **Transit commute (15–40 minutes by bus or metro)**
 

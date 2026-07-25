@@ -3,8 +3,8 @@ title: "Housing near California Institute of Technology (Caltech): 2026 student 
 description: "Housing Near California Institute of Technology (Caltech): A Guide for International Students      What Campus Reviews Reveal  Before searching for"
 pubDatetime: 2026-07-06T17:06:21.000Z
 modDatetime: 2026-07-07T07:55:21.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-218189.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-218189.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Many graduate students and postdocs live with roommates to share costs. Universi
 
 **Bicycle/scooter** (5–10 minute ride) expands the search area to include neighborhoods like The Commons, San Rafael, and parts of South Pasadena. Caltech has bike racks and some covered parking. Be aware of hills west of campus.
 
-![California Institute of Technology (Caltech)](https://img.findstay.org/housing/p/amber-218189.jpg)
+![California Institute of Technology (Caltech)](https://img.unistay.cn/housing/p/amber-218189.jpg)
 
 **Public transit** (bus or light rail) becomes relevant if you live farther away – for instance, near the Lake Avenue Metro station or along the Bus 260 corridor. Travel time from Old Pasadena to campus is roughly 15–20 minutes by bus. The trade-off is flexibility: bus schedules can be less reliable late at night, and transfers add time. Some students choose this route for lower rent (e.g., rooms in Altadena or northeast Pasadena can be USD 200–300 cheaper per month).
 

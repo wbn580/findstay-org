@@ -3,8 +3,8 @@ title: "Housing near Johns Hopkins University: 2026 student guide"
 description: "What Campus Reviews Reveal  The Homewood campus of Johns Hopkins University receives an average rating of 4.4 out of 5 from over 1,000 public revie"
 pubDatetime: 2026-07-06T11:15:33.000Z
 modDatetime: 2026-07-07T08:49:33.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1541211.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1541211.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Safety varies by block, and students typically evaluate neighborhoods by speakin
 
 ## Budget Bands for Off-Campus Housing (2026-2027)
 
-![Johns Hopkins University](https://img.findstay.org/housing/p/amber-1541211.jpg)
+![Johns Hopkins University](https://img.unistay.cn/housing/p/amber-1541211.jpg)
 
 Rental prices for student-friendly apartments near Johns Hopkins University for the 2026-2027 academic year start around **$909 per month** (indicative — confirm with the operator). This figure represents the lower end of the market, typically for a shared room or a studio in an older building.
 

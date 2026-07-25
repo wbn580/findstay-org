@@ -3,8 +3,8 @@ title: "Housing near North Carolina State University: 2026 student guide"
 description: "Housing near North Carolina State University: A Practical Guide for 2026–2027  Finding suitable housing near North Carolina State University in Ral"
 pubDatetime: 2026-07-03T01:09:57.000Z
 modDatetime: 2026-07-07T08:11:57.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-589276.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-589276.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Students on a tight budget should consider sharing a two‑ or three‑bedroom u
 
 The decision between walking and using public transport depends on your daily schedule, budget, and tolerance for weather.
 
-![North Carolina State University](https://img.findstay.org/housing/p/amber-589276.jpg)
+![North Carolina State University](https://img.unistay.cn/housing/p/amber-589276.jpg)
 
 - **Walking distance (under 20 minutes to main campus)**: Properties such as Campus Edge and Uncommon Raleigh are within easy walking distance. This option saves time and eliminates transportation costs. However, rents are typically higher in walkable zones. Students who have early classes or heavy workloads may find this worthwhile.
 - **Bike or public transit (15–30 minutes one way)**: Properties like Signature 1505 or Maxwell may be slightly farther from campus but are well‑served by GoRaleigh bus routes or bike lanes. Monthly bus passes for students are subsidised. The trade‑off is lower rent — sometimes by USD 200–400 per month compared to walkable units. However, you should factor in route reliability and weather (summer heat and occasional storms).

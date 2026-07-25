@@ -3,8 +3,8 @@ title: "Housing near Comenius University Bratislava: 2026 student guide"
 description: "What campus reviews reveal  Comenius University in Bratislava is the largest and oldest university in Slovakia, located at Šafárikovo námestie 6 in"
 pubDatetime: 2026-06-30T10:54:28.000Z
 modDatetime: 2026-07-07T09:01:28.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/uh-s00018454.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/uh-s00018454.jpg"
 tags: ["university", "comenius-university-bratislava"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Student life revolves around the Old Town and the “Palisády” area near the 
 
 ## Budget bands for student housing
 
-![Comenius University Bratislava](https://img.findstay.org/housing/p/uh-s00018454.jpg)
+![Comenius University Bratislava](https://img.unistay.cn/housing/p/uh-s00018454.jpg)
 
 Without specific residence listings provided in the data, we can outline general budget tiers that students at Comenius University typically consider. Keep in mind that all prices are indicative — confirm with the operator before making any commitments.
 

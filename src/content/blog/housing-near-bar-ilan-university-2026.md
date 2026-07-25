@@ -3,8 +3,8 @@ title: "Housing near Bar-Ilan University: 2026 student guide"
 description: "What Campus Reviews Reveal  Bar-Ilan University sits in Ramat Gan, a city east of Tel Aviv. The student body is diverse, with a mix of Israeli and"
 pubDatetime: 2026-07-06T16:45:27.000Z
 modDatetime: 2026-07-07T08:28:27.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1082198.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1082198.jpg"
 tags: ["university", "bar-ilan-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city is well connected by bus lines to Tel Aviv and other suburbs. Most stud
 
 ## Budget Bands
 
-![Bar-Ilan University](https://img.findstay.org/housing/p/amber-1082198.jpg)
+![Bar-Ilan University](https://img.unistay.cn/housing/p/amber-1082198.jpg)
 
 Housing costs around Bar-Ilan University fall into three general bands. All figures are indicative; always confirm with the operator or landlord.
 

@@ -3,8 +3,8 @@ title: "Housing near Hunan University: 2026 student guide"
 description: "Housing Near Hunan University: A Practical Guide for 2026 and 2027  Hunan University, located in Changsha, Hunan Province, is a national public uni"
 pubDatetime: 2026-07-04T22:24:29.000Z
 modDatetime: 2026-07-07T08:07:29.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1344656.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1344656.jpg"
 tags: ["university", "hunan-university"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ The main campus of Hunan University lies along the foothills of Yuelu Mountain, 
 
 **Walking:** The immediate area around the South Gate (Lushan Road) has dense residential clusters. Apartments here are older but offer the shortest commute – you can be at class in under 10 minutes. Rents are moderately higher due to convenience. The biggest advantage is avoiding morning traffic and bike congestion. However, street noise can be an issue, and green space is limited.
 
-![Hunan University](https://img.findstay.org/housing/p/amber-1344656.jpg)
+![Hunan University](https://img.unistay.cn/housing/p/amber-1344656.jpg)
 
 **Transit:** Metro Line 4 (orange line) has a station called “Huna University” at the east side of campus. Two more stations – “Changsha South Railway Station” (transfer to high-speed rail) and “Guangdian” – are within a 5–10 minute bus ride. Using the metro, you can live further away in areas like “Wangcheng” (northwest) or “Yuhua” (south) and still reach campus in 30–40 minutes. Rents there can be 20–30% lower than near-campus options. The trade-off is the cost of a monthly metro pass (around 100–150 CNY) and the time spent commuting. Buses are also available but less frequent.
 

@@ -2,7 +2,7 @@
 title: "Helsinki Student Housing 2026: HOAS & AYY Apartments Near Aalto, UH & Hanken"
 description: "Student accommodation in Helsinki — Finland's affordable student housing system. HOAS apartments near Aalto University, University of Helsinki, and Hanken for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
-author: "Findstay Editorial"
+author: "UniStay Editorial"
 heroImage: "https://images.unsplash.com/photo-1516211854220-2d6f9ff92e82?w=1600"
 ogImage: "https://images.unsplash.com/photo-1516211854220-2d6f9ff92e82?w=1200"
 tags: ["europe", "helsinki", "student-accommodation"]

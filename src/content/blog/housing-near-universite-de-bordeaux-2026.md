@@ -3,8 +3,8 @@ title: "Housing near Université de Bordeaux: 2026 student guide"
 description: "What Campus Reviews Reveal  Université de Bordeaux holds a Google rating of 4.2 from 231 reviews. Students describe it in practical terms. “I love"
 pubDatetime: 2026-07-05T04:00:42.000Z
 modDatetime: 2026-07-07T07:58:42.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-2323822.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-2323822.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Climate-wise, Bordeaux enjoys 2,000+ hours of sunshine yearly. Winters are mild 
 
 ## Budget Bands: What to Expect for 2026–2027
 
-![Université de Bordeaux](https://img.findstay.org/housing/p/amber-2323822.jpg)
+![Université de Bordeaux](https://img.unistay.cn/housing/p/amber-2323822.jpg)
 
 Rents in Bordeaux continue to rise gradually due to student demand and limited supply. For the 2026–2027 academic year, plan for these indicative bands – always confirm with the operator:
 

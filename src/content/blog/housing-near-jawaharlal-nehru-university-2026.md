@@ -3,8 +3,8 @@ title: "Housing near Jawaharlal Nehru University: 2026 student guide"
 description: "Campus Reviews: What Students Say About JNU  The four student reviews provided offer a consistent picture of Jawaharlal Nehru University as a place"
 pubDatetime: 2026-07-04T03:21:57.000Z
 modDatetime: 2026-07-07T08:43:57.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-1275613.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-1275613.jpg"
 tags: ["university", "jawaharlal-nehru-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ New Delhi’s climate involves hot summers (April–June, up to 45°C), a monsoo
 
 ## Budget Bands for Off-Campus Housing
 
-![Jawaharlal Nehru University](https://img.findstay.org/housing/p/amber-1275613.jpg)
+![Jawaharlal Nehru University](https://img.unistay.cn/housing/p/amber-1275613.jpg)
 
 Rents near JNU vary significantly depending on distance from campus, room type (single or shared), and amenities (furnishing, internet, meals). The following bands are **indicative — confirm with the operator** before making any decision. Prices are in Indian rupees per month.
 

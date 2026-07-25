@@ -3,8 +3,8 @@ title: "Housing near Vienna University of Technology: 2026 student guide"
 description: "Campus Reviews: What Students Say  Vienna University of Technology (TU Wien) holds a QS World University rank of 197 and a Google rating of 4.3 fro"
 pubDatetime: 2026-07-06T03:46:59.000Z
 modDatetime: 2026-07-07T08:44:59.000Z
-author: "Findstay Editorial"
-ogImage: "https://img.findstay.org/housing/p/amber-187745.jpg"
+author: "UniStay Editorial"
+ogImage: "https://img.unistay.cn/housing/p/amber-187745.jpg"
 tags: ["university", "vienna-university-of-technology"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Living costs in Vienna (excluding tuition) are moderate for a Western European c
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Vienna University of Technology](https://img.findstay.org/housing/p/amber-187745.jpg)
+![Vienna University of Technology](https://img.unistay.cn/housing/p/amber-187745.jpg)
 
 All prices below are indicative — confirm with the operator.
 

@@ -12,6 +12,12 @@ import { getCollection } from "astro:content";
 import { SITE } from "@/config";
 import { getPath } from "@/utils/getPath";
 
+// 剥掉文章里的 affiliate 卡片（cowork-standards/affiliate-article-card-standard.md §3）——
+// 卡片是给人看的转化组件，不该进给 LLM 的正文全文。
+const stripAffCard = (s: string) =>
+  s.replace(/<!-- AFF-CARD:v1:START -->[\s\S]*?<!-- AFF-CARD:v1:END -->/g, "").trimEnd();
+
+
 export const GET: APIRoute = async ({ site }) => {
   const posts = (await getCollection("blog")).filter(p => !p.data.draft);
 
@@ -47,7 +53,7 @@ export const GET: APIRoute = async ({ site }) => {
       const tags = post.data.tags.join(", ");
       const date = post.data.pubDatetime.toISOString().slice(0, 10);
       // body 是 markdown 源文本（注意：不包含 frontmatter）
-      const body = post.body ?? "";
+      const body = stripAffCard(post.body ?? "");
       return [
         `# ${post.data.title}`,
         "",

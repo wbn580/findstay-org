@@ -1,0 +1,49 @@
+{
+  "site": "findstay-org",
+  "domain": "unistay.net",
+  "articles": [
+    {
+      "slug": "findstay-org-0506",
+      "title": "2026海外留学生活成本拆解：从房租到杂费的真实构成",
+      "release_date": "2026-02-12",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "a129a712b04dcb35c742de60e1f46289ab164daa8847ae17cfdfcb454362733b"
+    },
+    {
+      "slug": "findstay-org-0507",
+      "title": "2026年海外学费支付与跨境汇款路径：从电汇到第三方平台的完整操作指南",
+      "release_date": "2026-02-25",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "52676233b98e53ab257a08ac5b374d1c6ead5862f629176c241f477e5b814e3e"
+    },
+    {
+      "slug": "findstay-org-0508",
+      "title": "2026年留学落地三件事：电话卡、银行卡与交通卡办理指南",
+      "release_date": "2026-03-04",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "fc00fcffcbc65ed865d341fdd2f7a6f9e701f0a47765f12eb47e24bc079015a6"
+    },
+    {
+      "slug": "findstay-org-0509",
+      "title": "2026年家长陪同入境与首次落地实用清单",
+      "release_date": "2026-04-17",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "5a7fc29b65cec997800e8ffc9267c671d16bea54da64f15970a883f0723a7928"
+    },
+    {
+      "slug": "findstay-org-0505",
+      "title": "2026 学生公寓与校外租房怎么选：一份基于居住形态的决策框架",
+      "release_date": "2026-04-30",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "63f28c896023e0a15e01a29e2de92377643c3c8556ad80eaa07e4de525261f8e"
+    },
+    {
+      "slug": "findstay-org-0504",
+      "title": "2026年海外留学生租房渠道与避坑全指南",
+      "release_date": "2026-05-06",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "6ceacf36ef5fc71493b62e176ea8d9e0f512e6f76c14b9172a94a1b376e1ae92"
+    }
+  ],
+  "generated_at": "2026-08-01T12:36:20Z"
+}

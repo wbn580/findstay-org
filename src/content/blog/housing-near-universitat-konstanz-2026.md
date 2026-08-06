@@ -53,7 +53,7 @@ Since no official list of nearby residences is provided here, a logical shortlis
 
 **Step 2 – Decide walk vs transit.** Look at a map of Konstanz and measure the distance from your potential address to the university’s main building (Universitätsstraße 10). If walking time exceeds 20 minutes, you will likely rely on the bus. Factor in that the bus schedule changes in the evening (less frequent after 11 pm). If you plan to stay on campus late, a walking-distance flat offers more flexibility.
 
-**Step 3 – Use the university’s housing portal or contact the International Office.** The university does not own large halls of residence itself, but the Studierendenwerk for the region (Seezeit) operates several dormitories. Applications for the winter semester 2026/2027 usually open in June 2026. Private providers and individual landlords also list on local platforms; be cautious of deposits and always inspect the room or flat before transferring money.
+**Step 3 – Use the university’s housing portal.** The university does not own large halls of residence itself, but the Studierendenwerk for the region (Seezeit) operates several dormitories. Applications for the winter semester 2026/2027 usually open in June 2026. Private providers and individual landlords also list on local platforms; be cautious of deposits and always inspect the room or flat before transferring money.
 
 **Logical shortlist (indicative examples for 2026/2027):**
 

@@ -1,1 +1,32 @@
 /posts/housing-near-tashkent-institute-of-irrigation-and-agricultural-mechanization-engineers-national-research-unive/ /posts/housing-near-tashkent-institute-of-irrigation-and-agricultural-mechanization-engineers-national-research-university-2026/ 301
+
+# ─── BEGIN R181 language-crosstalk migration (2026-08-07) ───
+# 这 6 篇中文文章原本落在英文站 unistay.net 上（语言串台）。按 R181 已挪到中文同主题站
+# unistay.cn 并本地化（补 category、去 hideFromHome、重配切题封面图）。原地址已被搜索引擎
+# 收录，按 URL 保全 301 指到新地址，不留 404。
+/posts/findstay-org-0504/ https://unistay.cn/haiwai-liuxuesheng-zufang-qudao-bikeng-2026/ 301
+/posts/findstay-org-0505/ https://unistay.cn/xuesheng-gongyu-vs-xiaowai-zufang-2026/ 301
+/posts/findstay-org-0506/ https://unistay.cn/haiwai-liuxue-shenghuo-chengben-chaijie-2026/ 301
+/posts/findstay-org-0507/ https://unistay.cn/jiazhang-peitong-rujing-shouci-luodi-qingdan-2026/ 301
+/posts/findstay-org-0508/ https://unistay.cn/liuxue-luodi-sanjianshi-dianhuaka-yinhangka-jiaotongka-2026/ 301
+/posts/findstay-org-0509/ https://unistay.cn/haiwai-xuefei-zhifu-kuajing-huikuan-lujing-2026/ 301
+# ─── END R181 language-crosstalk migration ───
+
+# ─── BEGIN R181 tag/pagination follow-through (2026-08-07) ───
+# 6 篇文章挪去 unistay.cn 后，它们在本站的中文标签页与末页分页随之消失。
+# 标签名与原文标题一一对应，故各自 301 指向迁移后的那篇；分页尾页指回列表页。
+# 同时给百分号编码与未编码两种写法，避免客户端差异漏跳。
+/tags/%E6%B5%B7%E5%A4%96%E7%95%99%E5%AD%A6%E7%94%9F%E7%A7%9F%E6%88%BF%E6%B8%A0%E9%81%93%E4%B8%8E%E9%81%BF%E5%9D%91/ https://unistay.cn/haiwai-liuxuesheng-zufang-qudao-bikeng-2026/ 301
+/tags/海外留学生租房渠道与避坑/ https://unistay.cn/haiwai-liuxuesheng-zufang-qudao-bikeng-2026/ 301
+/tags/%E5%AD%A6%E7%94%9F%E5%85%AC%E5%AF%93-vs-%E6%A0%A1%E5%A4%96%E7%A7%9F%E6%88%BF%E6%80%8E%E4%B9%88%E9%80%89/ https://unistay.cn/xuesheng-gongyu-vs-xiaowai-zufang-2026/ 301
+/tags/学生公寓-vs-校外租房怎么选/ https://unistay.cn/xuesheng-gongyu-vs-xiaowai-zufang-2026/ 301
+/tags/%E6%B5%B7%E5%A4%96%E7%95%99%E5%AD%A6%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E6%8B%86%E8%A7%A3/ https://unistay.cn/haiwai-liuxue-shenghuo-chengben-chaijie-2026/ 301
+/tags/海外留学生活成本拆解/ https://unistay.cn/haiwai-liuxue-shenghuo-chengben-chaijie-2026/ 301
+/tags/%E5%AE%B6%E9%95%BF%E9%99%AA%E5%90%8C%E4%B8%8E%E9%A6%96%E6%AC%A1%E8%90%BD%E5%9C%B0%E6%B8%85%E5%8D%95/ https://unistay.cn/jiazhang-peitong-rujing-shouci-luodi-qingdan-2026/ 301
+/tags/家长陪同与首次落地清单/ https://unistay.cn/jiazhang-peitong-rujing-shouci-luodi-qingdan-2026/ 301
+/tags/%E8%90%BD%E5%9C%B0%E5%BF%85%E5%A4%87%EF%BC%9A%E7%94%B5%E8%AF%9D%E5%8D%A1%E3%80%81%E9%93%B6%E8%A1%8C%E5%8D%A1%E4%B8%8E%E4%BA%A4%E9%80%9A/ https://unistay.cn/liuxue-luodi-sanjianshi-dianhuaka-yinhangka-jiaotongka-2026/ 301
+/tags/落地必备：电话卡、银行卡与交通/ https://unistay.cn/liuxue-luodi-sanjianshi-dianhuaka-yinhangka-jiaotongka-2026/ 301
+/tags/%E6%B5%B7%E5%A4%96%E5%AD%A6%E8%B4%B9%E6%94%AF%E4%BB%98%E4%B8%8E%E8%B7%A8%E5%A2%83%E6%B1%87%E6%AC%BE%E8%B7%AF%E5%BE%84/ https://unistay.cn/haiwai-xuefei-zhifu-kuajing-huikuan-lujing-2026/ 301
+/tags/海外学费支付与跨境汇款路径/ https://unistay.cn/haiwai-xuefei-zhifu-kuajing-huikuan-lujing-2026/ 301
+/posts/68/ /posts/ 301
+# ─── END R181 tag/pagination follow-through ───

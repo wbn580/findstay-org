@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal about Student Life at VIT  Google’s 4
 pubDatetime: 2026-07-03T18:54:32.000Z
 modDatetime: 2026-07-07T09:03:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-187775.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-187775.jpg"
 tags: ["university", "vellore-institute-of-technology-vellore-india"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Public transport includes local buses, auto-rickshaws, and app-based cabs. Many 
 
 ## Budget Bands for Student Housing
 
-![Vellore Institute of Technology (VIT), Vellore, India](https://img.unistay.cn/housing/p/amber-187775.jpg)
+![Vellore Institute of Technology (VIT), Vellore, India](https://img.unistay.net/housing/p/amber-187775.jpg)
 
 No standardised price list exists for all properties near VIT, but broad bands help frame expectations. The following figures are indicative — confirm with the operator before committing to any rental.
 

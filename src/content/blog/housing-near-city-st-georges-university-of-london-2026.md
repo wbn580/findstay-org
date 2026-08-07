@@ -4,7 +4,7 @@ description: "City St George’s is based at Northampton Square in central Londo
 pubDatetime: 2026-07-05T06:15:51.000Z
 modDatetime: 2026-07-07T08:36:51.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01676612.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01676612.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ These reviews repeatedly mention “plenty of study space” and “reasonable p
 
 ## Accommodation Budget Range (2026-2027 Reference Data)
 
-![City St George’s, University of London](https://img.unistay.cn/housing/p/uh-s01676612.jpg)
+![City St George’s, University of London](https://img.unistay.net/housing/p/uh-s01676612.jpg)
 
 According to data from a London student accommodation platform, the starting price for available properties near City St George’s is **£130** per week (indicative — confirm with the operator). This price typically corresponds to a room in a shared house or a standard room in university halls located in Zone 3-4. Note that within the same area, different types of accommodation vary significantly in price:
 

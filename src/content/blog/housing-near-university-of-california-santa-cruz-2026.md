@@ -4,7 +4,7 @@ description: "University of California, Santa Cruz – Housing Guide  University
 pubDatetime: 2026-06-30T19:01:24.000Z
 modDatetime: 2026-07-07T09:01:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-225671.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-225671.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ These comments point to a campus that is both a natural sanctuary and a hub for 
 
 ## City Context
 
-![University of California, Santa Cruz](https://img.unistay.cn/housing/p/amber-225671.jpg)
+![University of California, Santa Cruz](https://img.unistay.net/housing/p/amber-225671.jpg)
 
 Santa Cruz is a coastal city about 30 miles south of San Jose, with a population of roughly 65,000. The city combines beach culture, redwood forests, and a historic downtown. It is part of the broader Bay Area innovation economy, which influences housing demand and rental prices.
 

@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  The Tashkent Institute of Irrig
 pubDatetime: 2026-07-02T10:17:34.000Z
 modDatetime: 2026-07-07T09:09:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1541553.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1541553.jpg"
 tags: ["university", "tashkent-institute-of-irrigation-and-agricultural-mechanization-engineers-national-research-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ When considering housing, remember that the official currency is the Uzbekistani
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU)](https://img.unistay.cn/housing/p/amber-1541553.jpg)
+![Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU)](https://img.unistay.net/housing/p/amber-1541553.jpg)
 
 Because the university does not provide on-campus accommodation, students rely on the private rental market. Budgets vary widely depending on location, room type, and amenities. Based on typical rental patterns in central Tashkent, you can expect the following general ranges (all prices are indicative — confirm with the operator):
 

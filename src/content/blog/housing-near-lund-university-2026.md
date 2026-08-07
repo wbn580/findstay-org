@@ -4,7 +4,7 @@ description: "Housing Near Lund University: What Campus Reviews Tell You About C
 pubDatetime: 2026-07-02T10:38:49.000Z
 modDatetime: 2026-07-07T08:36:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1467080.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1467080.jpg"
 tags: ["university", "lund-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The city’s small size means that even options a few kilometres from campus are
 
 ## Budget Bands: What Your Money Gets You
 
-![Lund University](https://img.unistay.cn/housing/p/amber-1467080.jpg)
+![Lund University](https://img.unistay.net/housing/p/amber-1467080.jpg)
 
 Housing costs in Lund are moderate by Swedish standards, though they can vary noticeably depending on type and location. Because exact prices change each semester and depend on rental type, all figures below are **indicative — confirm with the operator** before committing to any contract.
 

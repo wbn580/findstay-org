@@ -4,7 +4,7 @@ description: "Housing Near Renmin (People’s) University of China: A Practical 
 pubDatetime: 2026-07-06T14:22:37.000Z
 modDatetime: 2026-07-07T08:50:37.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1902201.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1902201.jpg"
 tags: ["university", "renmin-university-of-china"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ The campus is served by two subway stations: Renmin University Station (Line 4) 
 
 **Walkable zone (≤15 minutes to main gate):** Immediate neighbourhoods within the “Zhongguancun Street” corridor. These include the residential compounds that line the streets around the campus (e.g., “Shuangyushu” area, “Haidian East Street”). Prices are highest here, but you save on monthly transport costs (Beijing subway pass can cost 200–400 CNY/month for longer commutes) and gain study flexibility.
 
-![Renmin (People’s) University of China](https://img.unistay.cn/housing/p/amber-1902201.jpg)
+![Renmin (People’s) University of China](https://img.unistay.net/housing/p/amber-1902201.jpg)
 
 **Short transit (≤30 minutes door-to-door via bus or subway):** Areas such as Zhongguancun South Street, Suzhou Street, or Weigongcun. Buses run frequently, and subway Line 4 provides direct access. Rent drops by roughly 15–25% compared to the walkable zone. You can trade a longer walk to the subway station in exchange for a quieter residential street.
 

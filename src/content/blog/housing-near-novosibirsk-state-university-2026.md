@@ -4,7 +4,7 @@ description: "Novosibirsk State University – Student Housing Guide (2026–202
 pubDatetime: 2026-07-04T03:56:54.000Z
 modDatetime: 2026-07-07T09:02:54.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1412583.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1412583.jpg"
 tags: ["university", "novosibirsk-state-university"]
 category: "university"
 draft: false
@@ -82,7 +82,7 @@ NSU’s campus is not in the city centre. The main academic buildings are concen
 
 #### Transit‑Based Living (taking bus, marshrutka, or train)
 
-![Novosibirsk State University](https://img.unistay.cn/housing/p/amber-1412583.jpg)
+![Novosibirsk State University](https://img.unistay.net/housing/p/amber-1412583.jpg)
 
 - **Location:** Central Novosibirsk (e.g. near Ploshchad Lenina, Krasny Prospekt) or other suburbs along the Akademgorodok bus route (bus 15, 26, etc.). The journey from the city centre to NSU takes 30–50 minutes by public transport, depending on traffic.
 - **Advantages:** Much wider range of affordable apartments (10,000‑18,000 RUB for a room), better nightlife, access to shopping malls, hospitals, and cultural venues. Students who share an apartment in the city can pay less while still enjoying urban life.

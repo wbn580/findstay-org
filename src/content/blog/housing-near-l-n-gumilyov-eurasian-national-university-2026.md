@@ -4,7 +4,7 @@ description: "Student Housing Near L.N. Gumilyov Eurasian National University: A
 pubDatetime: 2026-07-06T22:15:08.000Z
 modDatetime: 2026-07-07T08:42:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1442120.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1442120.jpg"
 tags: ["university", "l-n-gumilyov-eurasian-national-university"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ The main decision for ENU students is whether to live within walking distance or
 - **Walking zones (0–1.5 km):** Apartments on or near Satpayev Street, as well as adjacent residential blocks, allow a 10‑ to 20‑minute walk to the main entrance. In summer, this is pleasant and free. In winter, you will need heavy coats and boots, but the commute is very short. Rents in this band tend to be higher per square metre.
 - **Transit‑dependent (2–5 km):** Cheaper apartments are found in districts like Almaty District fringes, Saryarka, or even further east. A bus ride of 15–30 minutes each way is common. Costs for a monthly bus pass are modest, but you add travel time – and waiting in cold weather reduces comfort significantly.
 
-![L.N. Gumilyov Eurasian National University](https://img.unistay.cn/housing/p/amber-1442120.jpg)
+![L.N. Gumilyov Eurasian National University](https://img.unistay.net/housing/p/amber-1442120.jpg)
 
 If you prioritize study time and hate commuting in freezing temperatures, the walkable zone is worth the extra rent. If your budget is tight and you can manage the bus schedule, a cheaper property further away can work. Many students compromise by living about 1.5 km away – a 20‑minute walk that also keeps rent slightly lower than the immediate campus perimeter.
 

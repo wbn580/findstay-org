@@ -4,7 +4,7 @@ description: "Housing near the University of Vienna: a guide for students  This 
 pubDatetime: 2026-07-01T05:21:56.000Z
 modDatetime: 2026-07-07T08:11:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-974639.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-974639.jpg"
 tags: ["university", "university-of-vienna"]
 category: "university"
 draft: false
@@ -70,7 +70,7 @@ Vienna has an excellent network of U-Bahn (subway), trams, and buses. The most r
 - **Trams 1, 2, 71, D** along the Ringstraße
 - **U4** station Friedensbrücke (for the 9th district campus extension)
 
-![University of Vienna](https://img.unistay.cn/housing/p/amber-974639.jpg)
+![University of Vienna](https://img.unistay.net/housing/p/amber-974639.jpg)
 
 A semester ticket for public transport costs about €75 (indicative – confirm with Wiener Linien). This covers all city transport for six months. If you live in outer districts, a transit pass can make commuting affordable and reliable. The trade-off is time: a 30-minute journey each way adds five hours per week.
 

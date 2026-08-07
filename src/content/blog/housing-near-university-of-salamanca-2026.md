@@ -4,7 +4,7 @@ description: "Housing Near the University of Salamanca: A Practical Guide  The U
 pubDatetime: 2026-07-06T17:38:37.000Z
 modDatetime: 2026-07-07T08:21:37.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-932743.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-932743.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ Because the university’s main buildings (Faculty of Philology, Law, etc.) are 
 - **Walking distance (0–1 km):** Rent is higher due to location (€450–€600+), but you save on transport costs and can easily pop home between classes. Noise from nightlife can be a downside near Plaza Mayor. Residences like **Canvas Luna** and **Amro Salamanca** are typically within this radius.
 - **Cycling / short bus (2–3 km):** Residences such as **Micampus Salamanca** and **Livensa Living Salamanca** may be located slightly outside the ring road (near the railway station or the hospital area). A bus pass costs about €0.80 per ride or €35/month. You gain quieter surroundings, larger rooms, and often lower rent (around €400–€480). The trade‑off is a 20‑ to 30‑minute commute (walk + bus) and less spontaneity for late‑night study sessions.
 
-![University of Salamanca](https://img.unistay.cn/housing/p/amber-932743.jpg)
+![University of Salamanca](https://img.unistay.net/housing/p/amber-932743.jpg)
 
 For students who rely on public transport, Salamanca’s bus network (routes 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12) covers most residential areas. The city is also bike‑friendly; a second‑hand bicycle can cost €100–€150. No metro exists.
 

@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Really Say About Universität Potsda
 pubDatetime: 2026-07-06T08:11:14.000Z
 modDatetime: 2026-07-07T09:14:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-263966.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-263966.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For student housing, the local student services organisation (Studentenwerk Pots
 
 ## Student Housing Budget Bands (2026–2027)
 
-![Universität Potsdam](https://img.unistay.cn/housing/p/amber-263966.jpg)
+![Universität Potsdam](https://img.unistay.net/housing/p/amber-263966.jpg)
 
 Indicative monthly rental costs for a student in Potsdam fall into three broad brackets. These prices are indicative – confirm with the operator before committing.
 

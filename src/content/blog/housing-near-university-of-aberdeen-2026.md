@@ -4,7 +4,7 @@ description: "Student Housing Guide for University of Aberdeen      What Campus 
 pubDatetime: 2026-07-01T09:11:06.000Z
 modDatetime: 2026-07-07T08:05:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-227732.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-227732.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ One of the biggest decisions you’ll make is whether to live within walking dis
 
 **Walking distance (approximately 0–1.5 miles from the Old Aberdeen campus):** This area includes the “Old Aberdeen” district itself (a compact, historic neighbourhood), parts of Seaton (north of the campus), and the southern edge of the Hilton area. Walking time from these neighbourhoods is 5–20 minutes. The advantages are clear: you save on bus fares, you feel deeply connected to campus life (especially if you attend evening events or use the library late), and you can easily pop home between lectures. The downside is that rental options are limited, especially for private houses, and prices per room can be higher due to demand. Also, the immediate vicinity is quiet — fewer shops, cafes, and nightlife than the city centre.
 
-![University of Aberdeen](https://img.unistay.cn/housing/p/amber-227732.jpg)
+![University of Aberdeen](https://img.unistay.net/housing/p/amber-227732.jpg)
 
 **Transit/bike zone (1.5–4 miles):** This covers most of the city centre (around Union Street), Rosemount, Kittybrewster, and the Foresterhill area. A bus journey from the city centre to King’s College takes about 10–15 minutes, and buses run every 5–10 minutes during peak times. A student bus pass or single fares can add £50–£80 per month to your expenses (indicative — check current First Aberdeen student prices). Cycling is popular; the city is relatively flat in the centre, though the climb from the city centre up to Old Aberdeen is gentle. If you have a bike, you can cover the 1.5 miles from the centre in about 10 minutes. The advantage here is a wider choice of accommodation, more shops, restaurants, and social venues within walking distance from your flat. The trade-off is the time and cost of commuting, and the need to schedule your day around bus timetables, especially at night or during holidays when service frequency drops.
 

@@ -4,7 +4,7 @@ description: "Housing Near the University of Melbourne: What Students Say and Ho
 pubDatetime: 2026-07-07T01:25:34.000Z
 modDatetime: 2026-07-07T08:01:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1084249.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1084249.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ For students who need to return home late, factor in safety and transport freque
 
 ### Shortlist Logic Using Reviews and Practical Factors
 
-![The University of Melbourne](https://img.unistay.cn/housing/p/amber-1084249.jpg)
+![The University of Melbourne](https://img.unistay.net/housing/p/amber-1084249.jpg)
 
 When deciding where to stay, combine what current students highlight with your own priorities:
 

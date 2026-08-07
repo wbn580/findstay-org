@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  Kazakh National Ag
 pubDatetime: 2026-07-04T08:33:15.000Z
 modDatetime: 2026-07-07T09:05:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2348275.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2348275.jpg"
 tags: ["university", "kazakh-national-agrarian-university"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ The city also offers a lively cultural scene – theatres, museums, concerts, an
 
 ## Budget Bands for Nearby Housing
 
-![Kazakh National Agrarian University](https://img.unistay.cn/housing/p/amber-2348275.jpg)
+![Kazakh National Agrarian University](https://img.unistay.net/housing/p/amber-2348275.jpg)
 
 Housing options around Kazakh National Agrarian University vary widely depending on distance, amenities, and flat type. The university is situated in a central area, so finding affordable accommodation within walking distance requires careful planning. Below are typical monthly rental bands (indicative – confirm with the operator):
 

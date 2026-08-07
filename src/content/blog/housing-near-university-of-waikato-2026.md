@@ -4,7 +4,7 @@ description: "Campus Character and Student Insights  The University of Waikato h
 pubDatetime: 2026-07-01T10:34:56.000Z
 modDatetime: 2026-07-07T08:17:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-997108.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-997108.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ As a university town, Hamilton has a significant student population, but the hou
 
 ## Budget Bands – What to Expect
 
-![University of Waikato](https://img.unistay.cn/housing/p/amber-997108.jpg)
+![University of Waikato](https://img.unistay.net/housing/p/amber-997108.jpg)
 
 Because specific rental figures are not provided in this guide, a general picture of Hamilton’s student housing market is drawn from typical conditions. Rental prices in Hamilton vary by property type, location, and inclusions. As a neutral guideline, students should expect the following indicative bands — confirm with the operator before committing:
 

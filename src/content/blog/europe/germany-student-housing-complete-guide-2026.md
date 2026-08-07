@@ -3,8 +3,8 @@ title: "Germany Student Housing 2026: Complete Guide to WG, Studentenwerk & Priv
 description: "Complete guide to student housing in Germany — from WG shared flats to Studentenwerk dorms. How the Sperrkonto works, rent prices, and the Anmeldung process explained."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600"
-ogImage: "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1200"
+heroImage: "https://img.unistay.net/rehost/8fe998b506da.jpg"
+ogImage: "https://img.unistay.net/rehost/e6453425f691.jpg"
 tags: ["germany", "student-accommodation"]
 category: "europe"
 draft: false

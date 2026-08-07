@@ -3,8 +3,8 @@ title: "San Francisco Student Housing 2026: Affordable Areas Near Stanford, UC B
 description: "Bay Area student accommodation — find housing near Stanford, UC Berkeley, and USF. Compare rent in Palo Alto, Berkeley, SF proper, and East Bay for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1600"
-ogImage: "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1200"
+heroImage: "https://img.unistay.net/rehost/603c83094023.jpg"
+ogImage: "https://img.unistay.net/rehost/54ac3ed5e430.jpg"
 tags: ["us", "sf", "student-accommodation"]
 category: "us"
 city: "sf"

@@ -3,8 +3,8 @@ title: "Amsterdam Student Housing 2026: Find Accommodation Near UvA & VU"
 description: "Student housing in Amsterdam — university housing, private rentals, and the housing crisis survival guide for UvA and VU international students in 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1600"
-ogImage: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200"
+heroImage: "https://img.unistay.net/rehost/5d57bf772527.jpg"
+ogImage: "https://img.unistay.net/rehost/b93679c1b22a.jpg"
 tags: ["europe", "amsterdam", "student-accommodation"]
 category: "europe"
 city: "amsterdam"

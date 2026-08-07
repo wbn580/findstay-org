@@ -4,7 +4,7 @@ description: "Campus Reviews Reveal: Princeton University’s Environment Prince
 pubDatetime: 2026-07-05T19:54:30.000Z
 modDatetime: 2026-07-07T08:05:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1011508.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1011508.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -28,7 +28,7 @@ Because the university is ranked 25th in the world (QS 2027 data), Princeton att
 
 ## Budget Range – Housing Cost Overview
 
-![Princeton University](https://img.unistay.cn/housing/p/amber-1011508.jpg)
+![Princeton University](https://img.unistay.net/housing/p/amber-1011508.jpg)
 
 Housing costs vary by room type, location, and lease type. Since rental data for the Princeton area was not provided in this material, the following is only a general description; specific prices must be confirmed directly with the landlord or property manager (indicative — confirm with the operator).
 

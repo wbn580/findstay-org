@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Warsaw, a public res
 pubDatetime: 2026-07-01T09:59:50.000Z
 modDatetime: 2026-07-07T08:10:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1236201.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1236201.jpg"
 tags: ["university", "university-of-warsaw"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Rental demand is high near the university, especially from domestic and internat
 
 ## Budget Bands for Student Housing
 
-![University of Warsaw](https://img.unistay.cn/housing/p/amber-1236201.jpg)
+![University of Warsaw](https://img.unistay.net/housing/p/amber-1236201.jpg)
 
 Housing costs vary by distance from campus, property condition, and whether utilities are included. The figures below are indicative – confirm with the operator or landlord before signing any agreement.
 

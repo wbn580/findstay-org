@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Huazhong University of Science 
 pubDatetime: 2026-07-03T06:48:38.000Z
 modDatetime: 2026-07-07T08:43:38.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00018754.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00018754.jpg"
 tags: ["university", "huazhong-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The area around HUST is a mix of student housing, tech company offices, shopping
 
 ## Budget Bands for Student Housing
 
-![Huazhong University of Science and Technology](https://img.unistay.cn/housing/p/uh-s00018754.jpg)
+![Huazhong University of Science and Technology](https://img.unistay.net/housing/p/uh-s00018754.jpg)
 
 Rents in the vicinity vary, but all prices below are **indicative – confirm with the operator**. No exact figures can be provided without current listings, but you can expect the following general bands:
 

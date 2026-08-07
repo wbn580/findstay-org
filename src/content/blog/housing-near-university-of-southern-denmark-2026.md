@@ -4,7 +4,7 @@ description: "University of Southern Denmark campus and what student reviews rev
 pubDatetime: 2026-07-06T12:14:43.000Z
 modDatetime: 2026-07-07T08:32:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2509709.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2509709.jpg"
 tags: ["university", "university-of-southern-denmark"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ International students should note that proof of sufficient funds (around 7,500 
 
 ## Budget bands for student housing near SDU (2026–2027)
 
-![University of Southern Denmark](https://img.unistay.cn/housing/p/amber-2509709.jpg)
+![University of Southern Denmark](https://img.unistay.net/housing/p/amber-2509709.jpg)
 
 When searching for accommodation, it helps to know typical price ranges for different types of housing within cycling distance of campus. Prices are indicative — confirm with the operator.
 

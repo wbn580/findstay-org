@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  Reviews for Bond U
 pubDatetime: 2026-07-05T03:27:01.000Z
 modDatetime: 2026-07-07T09:09:01.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1952828.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1952828.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The overall cost of living in Gold Coast is moderately high by Australian standa
 
 ## Budget Bands for Student Accommodation (Indicative – Confirm with Operator)
 
-![Bond University](https://img.unistay.cn/housing/p/amber-1952828.jpg)
+![Bond University](https://img.unistay.net/housing/p/amber-1952828.jpg)
 
 When searching for a place near Bond University in 2026 or 2027, expect the following weekly rental ranges:
 

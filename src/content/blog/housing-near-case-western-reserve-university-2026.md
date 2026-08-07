@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Case Western Reserve University
 pubDatetime: 2026-07-05T14:12:33.000Z
 modDatetime: 2026-07-07T08:25:33.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1742954.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1742954.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Cost of living in Cleveland is generally lower than in many major U.S. cities, b
 
 ## Budget Bands
 
-![Case Western Reserve University](https://img.unistay.cn/housing/p/amber-1742954.jpg)
+![Case Western Reserve University](https://img.unistay.net/housing/p/amber-1742954.jpg)
 
 When planning housing near Case Western Reserve University, consider three rough budget tiers. All prices are indicative — confirm with the operator.
 

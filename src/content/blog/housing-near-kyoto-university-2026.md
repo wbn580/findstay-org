@@ -4,7 +4,7 @@ description: "Housing Near Kyoto University: What Campus Reviews Reveal  Kyoto U
 pubDatetime: 2026-07-04T18:14:15.000Z
 modDatetime: 2026-07-07T08:26:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2713700.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2713700.jpg"
 tags: ["university", "kyoto-university"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ Choosing between walking and taking public transit depends on your priorities: t
 **Walking (0–30 minutes from campus)**  
 The most desirable neighborhoods for walking are Yoshida, Hyakumanben, and parts of Shimogamo. These areas offer immediate access to the university and its amenities, but rent tends to be higher. A typical one-bedroom apartment within a 15-minute walk can range from ¥55,000 to ¥75,000 per month (indicative). Walking saves commuting costs (no train or bus fare) and allows you to easily attend campus events, use the library late, or pop home between classes. However, the housing stock in these prime areas is older, with many buildings built before 1990.
 
-![Kyoto University](https://img.unistay.cn/housing/p/amber-2713700.jpg)
+![Kyoto University](https://img.unistay.net/housing/p/amber-2713700.jpg)
 
 **Public Transit (bicycle + train or bus)**  
 Bicycles are extremely popular among Kyoto students. A 15-minute bike ride can cover the same distance as a 30-minute walk, dramatically expanding your housing options. Many students combine cycling with occasional train rides (e.g., from Otsu or Kitano). Monthly transit passes for students can cost around ¥5,000–¥10,000 for a zone that covers campus and common residential areas. This trade-off allows you to rent in lower-cost neighborhoods while keeping total housing+transport costs equal to or lower than a prime-area apartment.

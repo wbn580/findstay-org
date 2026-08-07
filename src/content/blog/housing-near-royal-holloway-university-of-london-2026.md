@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Royal Holloway, University of London s
 pubDatetime: 2026-07-04T19:18:35.000Z
 modDatetime: 2026-07-07T09:03:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-986395.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-986395.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Egham is a town of roughly 6,000 residents, located within the London commuter b
 
 ## Budget Bands for Student Housing
 
-![Royal Holloway University of London](https://img.unistay.cn/housing/p/amber-986395.jpg)
+![Royal Holloway University of London](https://img.unistay.net/housing/p/amber-986395.jpg)
 
 Student accommodation in the Egham area falls into three broad bands. Prices are indicative — confirm with the operator for current 2026/2027 academic year rates.
 

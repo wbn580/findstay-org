@@ -4,7 +4,7 @@ description: "Understanding the Campus Feedback: What Student Reviews Reveal  Qu
 pubDatetime: 2026-07-04T05:54:50.000Z
 modDatetime: 2026-07-07T09:05:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00577672.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00577672.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Because QMUL is not located in the very centre (like universities near the West 
 
 ## 2026/2027 Budget Bands for Student Housing
 
-![Queen Mary University of London (QMUL)](https://img.unistay.cn/housing/p/uh-s00577672.jpg)
+![Queen Mary University of London (QMUL)](https://img.unistay.net/housing/p/uh-s00577672.jpg)
 
 All figures below are indicative — confirm with the operator. Based on the available market data for the 2026/2027 academic year, students looking for accommodation near QMUL can expect to pay within these rough weekly bands:
 

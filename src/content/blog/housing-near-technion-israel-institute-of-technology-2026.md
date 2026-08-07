@@ -4,7 +4,7 @@ description: "Campus and City Context  Technion – Israel Institute of Technolo
 pubDatetime: 2026-07-04T07:57:58.000Z
 modDatetime: 2026-07-07T09:08:58.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3290373.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3290373.jpg"
 tags: ["university", "technion-israel-institute-of-technology"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ These comments consistently highlight the campus’s natural beauty and research
 
 ## Budget Bands for Student Housing
 
-![Technion - Israel Institute of Technology](https://img.unistay.cn/housing/p/amber-3290373.jpg)
+![Technion - Israel Institute of Technology](https://img.unistay.net/housing/p/amber-3290373.jpg)
 
 Rental prices in Haifa are lower than in Tel Aviv but have risen in recent years alongside university growth. The following bands are indicative for the 2026/2027 academic year – confirm with the operator before signing any lease.
 

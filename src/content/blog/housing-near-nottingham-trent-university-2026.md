@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Student reviews on Google (642 
 pubDatetime: 2026-07-01T03:47:43.000Z
 modDatetime: 2026-07-07T07:55:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01480830.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01480830.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ Given the university’s location, walking is the most popular choice, but the s
 
 ### Shortlist of Nearby Residences
 
-![Nottingham Trent University](https://img.unistay.cn/housing/p/uh-s01480830.jpg)
+![Nottingham Trent University](https://img.unistay.net/housing/p/uh-s01480830.jpg)
 
 From the sample of student housing options in Nottingham (31 properties total, according to the platform), these five are recognised as being near the university or on direct bus routes. They are listed here for reference only – you must verify availability, contract terms, and prices directly with the operator.
 

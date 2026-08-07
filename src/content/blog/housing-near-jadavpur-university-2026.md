@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Jadavpur University holds a Google rat
 pubDatetime: 2026-07-03T22:28:59.000Z
 modDatetime: 2026-07-07T08:40:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-135658.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-135658.jpg"
 tags: ["university", "jadavpur-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Jadavpur University is located in the southern part of Kolkata, on Raja Subodh C
 
 ## Budget Bands for Student Housing
 
-![Jadavpur University](https://img.unistay.cn/housing/p/amber-135658.jpg)
+![Jadavpur University](https://img.unistay.net/housing/p/amber-135658.jpg)
 
 Rental prices in the Jadavpur area vary depending on room type, furnishing, and distance from campus. Below are indicative monthly ranges for 2026–2027. All figures are indicative — confirm with the operator or landlord before committing.
 

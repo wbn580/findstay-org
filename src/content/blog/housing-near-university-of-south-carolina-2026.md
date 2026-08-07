@@ -4,7 +4,7 @@ description: "University of South Carolina: What Campus Reviews Reveal  The Univ
 pubDatetime: 2026-07-05T03:20:18.000Z
 modDatetime: 2026-07-07T08:52:18.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1689358.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1689358.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For those concerned about the “boring” aspect mentioned in one review, Colum
 
 ## Budget Bands for Off-Campus Housing (2026-2027)
 
-![University of South Carolina](https://img.unistay.cn/housing/p/amber-1689358.jpg)
+![University of South Carolina](https://img.unistay.net/housing/p/amber-1689358.jpg)
 
 All prices listed below are indicative and subject to change — confirm with the operator for current rates and availability.
 

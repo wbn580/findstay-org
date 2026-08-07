@@ -4,7 +4,7 @@ description: "Housing Near Koç University: What Campus Reviews Reveal  Koç Uni
 pubDatetime: 2026-07-01T13:48:57.000Z
 modDatetime: 2026-07-07T08:46:57.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2345718.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2345718.jpg"
 tags: ["university", "koc-university"]
 category: "university"
 draft: false
@@ -69,7 +69,7 @@ For students with cars, parking on campus is available but limited. Fuel and ins
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![Koc University](https://img.unistay.cn/housing/p/amber-2345718.jpg)
+![Koc University](https://img.unistay.net/housing/p/amber-2345718.jpg)
 
 Because the university is in a relatively isolated location, housing options are concentrated in a few corridors. The following logic helps narrow down choices. (Note: the term “given nearby residences” here refers to the types of housing commonly found in the areas mentioned; no specific residence names are provided in the data, so you must verify actual listings.)
 

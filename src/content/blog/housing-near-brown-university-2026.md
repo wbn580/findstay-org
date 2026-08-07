@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Brown University’s campus consistent
 pubDatetime: 2026-07-05T07:37:40.000Z
 modDatetime: 2026-07-07T08:34:40.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-286522.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-286522.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Climate: Summer is warm (25–30°C), winter is cold (‑5 to 5°C) with snowfal
 
 ## Budget Bands for Student Housing (2026–2027 indicative — confirm with the operator)
 
-![Brown University](https://img.unistay.cn/housing/p/amber-286522.jpg)
+![Brown University](https://img.unistay.net/housing/p/amber-286522.jpg)
 
 Housing prices in Providence vary significantly depending on proximity to campus, building age, and whether utilities are included. The following bands are based on typical listings seen in 2026 and 2027, but actual rents change frequently. Always verify current rates with the landlord or agency.
 

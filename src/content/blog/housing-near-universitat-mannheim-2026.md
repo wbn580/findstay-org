@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal The University of Mannheim holds a 4.5 
 pubDatetime: 2026-07-04T15:32:53.000Z
 modDatetime: 2026-07-07T09:01:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1444811.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1444811.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The university itself does not operate a large number of student dormitories; ac
 
 ## Housing Budget Overview
 
-![Universität Mannheim](https://img.unistay.cn/housing/p/amber-1444811.jpg)
+![Universität Mannheim](https://img.unistay.net/housing/p/amber-1444811.jpg)
 
 Below are common rent ranges for student housing (all are market reference prices for 2026/2027, indicative — confirm with the operator):
 

@@ -4,7 +4,7 @@ description: "Housing Near James Cook University: What Campus Reviews Reveal  Lo
 pubDatetime: 2026-07-03T20:11:30.000Z
 modDatetime: 2026-07-07T08:45:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1451216.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1451216.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ JCU’s campus is not in a very dense urban area. Walking directly from housing 
 
 However, many residential streets in Douglas are quiet but lack continuous footpaths, and tropical heat can make walking uncomfortable in summer. For such days, or if you live further out, the local bus network (Sunbus) services the campus. A standard bus trip from suburbs like Annandale or Mount Louisa takes 15–25 minutes. Students in Queensland are eligible for concession fares (currently around A$2–3 per trip, indicative — confirm with operator). If you drive, parking on campus is plentiful (as noted in Elfie Wandrey’s review) but may require a permit.
 
-![James Cook University](https://img.unistay.cn/housing/p/amber-1451216.jpg)
+![James Cook University](https://img.unistay.net/housing/p/amber-1451216.jpg)
 
 **Trade-off**: Walking saves money and time but limits your housing pool; transit expands options but adds weekly travel costs and schedule dependency. If your priority is the “green surroundings” highlighted in reviews, choosing a room within a 20-minute walk yields the best experience.
 

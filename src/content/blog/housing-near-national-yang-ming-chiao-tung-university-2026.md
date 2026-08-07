@@ -4,7 +4,7 @@ description: "What campus reviews reveal about housing near National Yang Ming C
 pubDatetime: 2026-07-06T05:47:52.000Z
 modDatetime: 2026-07-07T08:45:52.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1191048.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1191048.jpg"
 tags: ["university", "national-yang-ming-chiao-tung-university"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ Hsinchu is a technology hub in northern Taiwan, home to the Hsinchu Science Park
 
 ## Budget Ranges
 
-![National Yang Ming Chiao Tung University](https://img.unistay.cn/housing/p/amber-1191048.jpg)
+![National Yang Ming Chiao Tung University](https://img.unistay.net/housing/p/amber-1191048.jpg)
 
 All prices below are indicative — confirm with the operator, as actual rates fluctuate with season, location, and property condition. Figures are for the 2026/2027 academic year based on typical market data in Hsinchu.
 

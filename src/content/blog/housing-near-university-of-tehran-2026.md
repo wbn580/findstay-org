@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About the University of Tehran  The Uni
 pubDatetime: 2026-07-07T04:55:00.000Z
 modDatetime: 2026-07-07T08:46:00.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1469134.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1469134.jpg"
 tags: ["university", "university-of-tehran"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For international students, it is worth noting that property rental transactions
 
 ## Budget Bands for Student Housing (Indicative — Confirm with the Operator)
 
-![University of Tehran](https://img.unistay.cn/housing/p/amber-1469134.jpg)
+![University of Tehran](https://img.unistay.net/housing/p/amber-1469134.jpg)
 
 Rental prices in Tehran vary widely by district, apartment size, and condition. Below are rough monthly rent ranges for single-room or shared accommodation near the university, expressed in Iranian Rials. These figures are indicative and subject to change – always verify with local landlords or agencies.
 

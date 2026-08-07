@@ -4,7 +4,7 @@ description: "Housing Near Sharif University of Technology: A Student Guide  Sha
 pubDatetime: 2026-07-03T07:06:56.000Z
 modDatetime: 2026-07-07T08:00:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2022009.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2022009.jpg"
 tags: ["university", "sharif-university-of-technology"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Living within walking distance of Sharif University has clear advantages. The ca
 
 However, apartments directly adjacent to the university tend to have higher rents. The area immediately around the campus is also busy with traffic noise and limited green space. For students on a tight budget, a 20–30 minute commute using the metro or a bus can save a significant amount each month. The metro line near Azadi Avenue is relatively efficient compared to Tehran’s road traffic, but during rush hours, trains can be crowded.
 
-![Sharif University of Technology](https://img.unistay.cn/housing/p/amber-2022009.jpg)
+![Sharif University of Technology](https://img.unistay.net/housing/p/amber-2022009.jpg)
 
 A third option is a compromise — choosing a flat that is a 15-minute walk to the metro and then a 10-minute ride to campus. This often gives better value for money while still keeping the total commute under 30 minutes. Students who own bicycles can also combine cycling with public transport, but Tehran’s cycling infrastructure is still limited.
 

@@ -4,7 +4,7 @@ description: "Housing Near the University of Stirling: What Campus Reviews Revea
 pubDatetime: 2026-07-04T00:25:05.000Z
 modDatetime: 2026-07-07T08:14:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1240286.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1240286.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Your choice of housing location involves balancing walking distance with cost an
 
 **Transit commute (15–30 minutes by bus or bike):** Stirling’s bus network runs regularly between the city centre and the campus. The reviewer Lindsey Ilsley noted “regular buses”, so the service is reliable. Bikes are available to hire on campus, and the area is flat enough for cycling. Living in the city centre means you have more options for groceries, evening activities, and transport to Edinburgh or Glasgow. Rent may be slightly lower for similar quality housing compared to the immediate campus area. The trade-off is the time and cost of commuting (a student bus pass often costs around £200 per year, depending on the operator).
 
-![University of Stirling](https://img.unistay.cn/housing/p/amber-1240286.jpg)
+![University of Stirling](https://img.unistay.net/housing/p/amber-1240286.jpg)
 
 **Car or bike only:** If you have a car, parking on campus is limited (Roy mentioned parking as an issue two years ago). Bike parking is generally available. For most students, the walk or bus trade-off is the main decision.
 

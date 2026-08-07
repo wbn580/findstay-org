@@ -4,7 +4,7 @@ description: "Campus Life and What Reviews Reveal  The University of Missouri, C
 pubDatetime: 2026-07-02T18:52:25.000Z
 modDatetime: 2026-07-07T09:01:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-825822.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-825822.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Columbia’s public transit system, GO COMO, operates bus routes that serve the 
 
 ## Budget Bands for Student Housing
 
-![University of Missouri, Columbia](https://img.unistay.cn/housing/p/amber-825822.jpg)
+![University of Missouri, Columbia](https://img.unistay.net/housing/p/amber-825822.jpg)
 
 When planning your 2026-2027 academic year budget, it helps to think in broad spending tiers. All prices below are indicative — confirm with the operator before signing a lease.
 

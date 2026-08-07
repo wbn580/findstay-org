@@ -4,7 +4,7 @@ description: "Housing Near the University of Birmingham: A Practical Guide for 2
 pubDatetime: 2026-07-01T06:49:57.000Z
 modDatetime: 2026-07-07T08:39:57.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01524930.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01524930.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -99,7 +99,7 @@ Living close to campus saves time and money but usually costs more in rent. Livi
 
 **Transit (5-15 minutes by train or bus)**
 
-![University of Birmingham](https://img.unistay.cn/housing/p/uh-s01524930.jpg)
+![University of Birmingham](https://img.unistay.net/housing/p/uh-s01524930.jpg)
 
 - **Pros:** You have access to the city centre and its amenities. You may find more affordable accommodation in the wider area. You are less isolated from the general city life.
 - **Cons:** You need to budget for a bus pass (approx. £15-£25 per week for an unlimited bus pass) or train season ticket (approx. £10-£15 per week for the short university-to-city journey). Your daily commute adds 20-30 minutes each way. You must check the reliability of your bus or train route.

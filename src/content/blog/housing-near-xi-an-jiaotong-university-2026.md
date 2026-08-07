@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Xi’an Jiaotong University (XJTU) hol
 pubDatetime: 2026-07-02T07:32:29.000Z
 modDatetime: 2026-07-07T08:33:29.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1275932.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1275932.jpg"
 tags: ["university", "xi-an-jiaotong-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For students, Xi’an offers a relatively lower cost of living compared to Beiji
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Xi'an Jiaotong University](https://img.unistay.cn/housing/p/amber-1275932.jpg)
+![Xi'an Jiaotong University](https://img.unistay.net/housing/p/amber-1275932.jpg)
 
 While exact 2026 prices are not provided in this dataset, typical student housing budgets in Xi’an fall into three broad categories. *All figures below are indicative and must be confirmed directly with the accommodation operator before committing.*
 

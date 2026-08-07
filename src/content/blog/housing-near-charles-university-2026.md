@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Charles University holds a QS W
 pubDatetime: 2026-07-01T06:00:10.000Z
 modDatetime: 2026-07-07T08:07:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1364476.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1364476.jpg"
 tags: ["university", "charles-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ While the university does not operate its own large dormitory system exclusively
 
 ## Budget Bands for Student Housing
 
-![Charles University](https://img.unistay.cn/housing/p/amber-1364476.jpg)
+![Charles University](https://img.unistay.net/housing/p/amber-1364476.jpg)
 
 Prices below are indicative – confirm with the operator. All figures are monthly and in Euro (EUR) unless noted. The Czech currency is the koruna (CZK), but many student residences advertise in EUR.
 

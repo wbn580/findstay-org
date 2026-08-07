@@ -4,7 +4,7 @@ description: "Housing Near Universitat Politècnica de Catalunya: A Practical Gu
 pubDatetime: 2026-07-02T07:46:52.000Z
 modDatetime: 2026-07-07T08:53:52.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2673299.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2673299.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ Properties within a 1‑km radius of UPC (e.g., Carrer De L’Equador 77 or Sant
 **Transit (20–40 minutes one way)**  
 Neighbourhoods such as Sants‑Montjuïc (where Rambla Del Brasil 7 is located) or lower Eixample offer cheaper rents and more dining options. Metro L3 or bus H6 run directly to UPC, with a monthly travel pass costing around €40–€60 (2026 youth fare). If you have a tight budget (€300–€400), this trade‑off is often necessary. The extra 20 minutes each way can be used for reading or listening to lectures, but it also reduces flexibility to attend evening events on campus.
 
-![Universitat Politècnica de Catalunya](https://img.unistay.cn/housing/p/amber-2673299.jpg)
+![Universitat Politècnica de Catalunya](https://img.unistay.net/housing/p/amber-2673299.jpg)
 
 A good rule of thumb: if your total weekly commuting cost (time + fare) exceeds the rent difference you’d save, the cheaper apartment is not worthwhile. For example, saving €150 per month but spending 10 extra hours a month on transport is a personal choice — some prefer the money, others the time.
 

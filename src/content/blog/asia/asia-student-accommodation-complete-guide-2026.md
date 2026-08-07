@@ -3,8 +3,8 @@ title: "Student Accommodation Asia Complete Guide 2026: Comparing Housing Across
 description: "Complete comparison of student housing across Asia — from Tokyo's key money system to Bangkok's condo pools. Rent, deposits, and local tips for China, Japan, Korea, Singapore, Malaysia, Thailand, Vietnam, Philippines, Taiwan & Hong Kong."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=1600"
-ogImage: "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=1200"
+heroImage: "https://img.unistay.net/rehost/632a32598df9.jpg"
+ogImage: "https://img.unistay.net/rehost/f3cfc5159c20.jpg"
 tags: ["asia", "student-accommodation", "rental-tips"]
 category: "asia"
 draft: false

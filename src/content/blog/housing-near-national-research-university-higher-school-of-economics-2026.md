@@ -4,7 +4,7 @@ description: "Housing Near HSE Moscow: A Practical Guide for 2026–2027  The Na
 pubDatetime: 2026-07-03T02:01:15.000Z
 modDatetime: 2026-07-07T08:47:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1241911.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1241911.jpg"
 tags: ["university", "national-research-university-higher-school-of-economics"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ HSE’s campus is at Myasnitskaya Ulitsa 20, within a 10‑minute walk of the me
 
 ### Shortlist Logic Using Typical Nearby Residences
 
-![National Research University Higher School of Economics (HSE, Moscow)](https://img.unistay.cn/housing/p/amber-1241911.jpg)
+![National Research University Higher School of Economics (HSE, Moscow)](https://img.unistay.net/housing/p/amber-1241911.jpg)
 
 While no specific residence list is provided in the dataset, you can build a shortlist based on the university’s address and general Moscow housing patterns. The logic is:
 

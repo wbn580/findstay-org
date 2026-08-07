@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Australian National Unive
 pubDatetime: 2026-07-02T12:04:45.000Z
 modDatetime: 2026-07-07T08:09:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-936060.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-936060.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Rental prices in Canberra are generally lower than in Sydney but higher than in 
 
 ## Budget Bands for Student Housing
 
-![Australian National University](https://img.unistay.cn/housing/p/amber-936060.jpg)
+![Australian National University](https://img.unistay.net/housing/p/amber-936060.jpg)
 
 Indicative price ranges for student accommodation near ANU (weekly, in Australian dollars — confirm with the operator):
 

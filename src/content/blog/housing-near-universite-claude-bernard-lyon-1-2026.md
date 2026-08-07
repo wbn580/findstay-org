@@ -4,7 +4,7 @@ description: "What the Campus Reviews Reveal  Current and former students consis
 pubDatetime: 2026-06-30T18:06:56.000Z
 modDatetime: 2026-07-07T09:06:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-144010.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-144010.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Rents in Villeurbanne are generally lower than in central Lyon. A typical studio
 
 ## Budget Bands
 
-![Université Claude Bernard Lyon 1](https://img.unistay.cn/housing/p/amber-144010.jpg)
+![Université Claude Bernard Lyon 1](https://img.unistay.net/housing/p/amber-144010.jpg)
 
 When planning your housing budget for the 2026/2027 academic year, note that rents are indicative – confirm with the operator before signing a contract. Below is a general framework based on common student housing types in the area.
 

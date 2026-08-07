@@ -4,7 +4,7 @@ description: "Campus reviews and what they reveal  Student reviews of The Americ
 pubDatetime: 2026-07-05T03:04:25.000Z
 modDatetime: 2026-07-07T08:04:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1449232.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1449232.jpg"
 tags: ["university", "the-american-university-in-cairo"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ New Cairo has several districts with varying housing densities: the “Fifth Set
 
 ## Budget bands for student housing
 
-![The American University in Cairo](https://img.unistay.cn/housing/p/amber-1449232.jpg)
+![The American University in Cairo](https://img.unistay.net/housing/p/amber-1449232.jpg)
 
 Rents in New Cairo vary widely based on location, building age, compound amenities, and whether the unit is furnished. The following bands are indicative — confirm with the operator before signing any lease. Prices are in Egyptian pounds (EGP) and are based on typical 2025–2026 rates (note: we only reference years 2026 or 2027 in this guide).
 

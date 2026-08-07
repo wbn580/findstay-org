@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Notice First  Yonsei University’s 
 pubDatetime: 2026-07-05T12:31:53.000Z
 modDatetime: 2026-07-07T08:21:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1312204.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1312204.jpg"
 tags: ["university", "yonsei-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Rents in this part of Seoul are moderate compared to central Gangnam, but still 
 
 ## Budget Bands for Student Housing (2027)
 
-![Yonsei University](https://img.unistay.cn/housing/p/amber-1312204.jpg)
+![Yonsei University](https://img.unistay.net/housing/p/amber-1312204.jpg)
 
 When planning your accommodation near Yonsei University, it helps to think in broad bands. Keep in mind that these figures are based on typical market observations and should always be verified with the current operator.
 

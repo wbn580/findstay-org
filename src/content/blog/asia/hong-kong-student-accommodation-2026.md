@@ -3,8 +3,8 @@ title: "Hong Kong Student Accommodation 2026: Housing Near HKU, CUHK & CityU"
 description: "Student housing in Hong Kong — university halls, private rentals, and co-living near HKU, CUHK, CityU, and PolyU. Updated 2026 rental costs and tips."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1562774053-701939374585?w=1600"
-ogImage: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200"
+heroImage: "https://img.unistay.net/rehost/47fb01a5c951.jpg"
+ogImage: "https://img.unistay.net/rehost/7d5b433067e0.jpg"
 tags: ["hong-kong", "student-accommodation"]
 category: "asia"
 city: "hong-kong"

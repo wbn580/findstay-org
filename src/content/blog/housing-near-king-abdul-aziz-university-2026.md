@@ -4,7 +4,7 @@ description: "Finding Student Housing Near King Abdul Aziz University (KAU)  Kin
 pubDatetime: 2026-07-06T23:10:49.000Z
 modDatetime: 2026-07-07T08:52:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1096802.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1096802.jpg"
 tags: ["university", "king-abdul-aziz-university"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ Choosing between walking distance and commuting involves balancing cost, time, c
 - Cons: Typically higher rent; less choice of flats; may be noisy if the building faces a main road; limited grocery stores within immediate walking distance (car needed for big shopping).
 - Typical areas: Directly on Idara Street, or in the first block off the street. Many students rent in the Al-Salamah residential complex adjacent to the university.
 
-![King Abdul Aziz University (KAU)](https://img.unistay.cn/housing/p/amber-1096802.jpg)
+![King Abdul Aziz University (KAU)](https://img.unistay.net/housing/p/amber-1096802.jpg)
 
 **Transit commute (5–15 minutes by car/taxi)**
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Rensselaer Polytechnic Institute 
 pubDatetime: 2026-07-02T07:16:14.000Z
 modDatetime: 2026-07-07T08:55:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1533724.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1533724.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ When choosing housing, students balance proximity to campus, price, and the qual
 
 ## Budget Bands for Student Housing in Troy
 
-![Rensselaer Polytechnic Institute](https://img.unistay.cn/housing/p/amber-1533724.jpg)
+![Rensselaer Polytechnic Institute](https://img.unistay.net/housing/p/amber-1533724.jpg)
 
 Based on available data, the indicative starting price for student housing near RPI is **575 USD per week**. That figure is indicative and must be confirmed with the operator. It typically covers a private bedroom in a shared apartment or studio in a managed complex. Actual rents vary by:
 

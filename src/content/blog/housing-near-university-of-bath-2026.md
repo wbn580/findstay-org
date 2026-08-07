@@ -4,7 +4,7 @@ description: "University of Bath: A Campus and Housing Guide  The University of 
 pubDatetime: 2026-07-03T02:45:05.000Z
 modDatetime: 2026-07-07T08:46:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-248644.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-248644.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Finally, the campus itself is often described as having a great atmosphere. Fred
 
 ## City Context: Bath as a Student City
 
-![University of Bath](https://img.unistay.cn/housing/p/amber-248644.jpg)
+![University of Bath](https://img.unistay.net/housing/p/amber-248644.jpg)
 
 Bath is a UNESCO World Heritage city, famous for its Roman-built baths, Georgian architecture, and natural hot springs. It is relatively small compared to other UK university cities — the population is around 90,000 — but it draws a high number of tourists year-round. This has two direct effects on the student housing market.
 

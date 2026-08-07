@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About NYU Living  New York University (
 pubDatetime: 2026-07-02T07:46:51.000Z
 modDatetime: 2026-07-07T08:24:51.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00018454.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00018454.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ Each area has different rent levels, commute times, and lifestyle vibes. The uni
 
 ## Budget Bands for Housing Near NYU (2026–2027)
 
-![New York University (NYU)](https://img.unistay.cn/housing/p/uh-s00018454.jpg)
+![New York University (NYU)](https://img.unistay.net/housing/p/uh-s00018454.jpg)
 
 The rental market in New York is dynamic. Prices vary by season, building age, amenities, and lease length. The following bands are indicative — confirm with the operator before committing.
 

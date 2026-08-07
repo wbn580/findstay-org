@@ -3,8 +3,8 @@ title: "OSHC Australia Explained 2026: Compare Student Health Cover Plans & Pric
 description: "Everything international students need to know about Overseas Student Health Cover (OSHC) in Australia — 6 providers compared, prices, what's covered, and how to choose."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1600"
-ogImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200"
+heroImage: "https://img.unistay.net/rehost/06af1c79be93.jpg"
+ogImage: "https://img.unistay.net/rehost/1f9460ef3a58.jpg"
 tags: ["australia", "insurance", "student-accommodation"]
 category: "australia"
 draft: false

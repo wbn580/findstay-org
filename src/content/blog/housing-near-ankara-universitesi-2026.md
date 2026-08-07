@@ -4,7 +4,7 @@ description: "Housing Near Ankara Üniversitesi: What Students Need to Know for 
 pubDatetime: 2026-06-30T15:24:50.000Z
 modDatetime: 2026-07-07T08:56:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1093484.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1093484.jpg"
 tags: ["university", "ankara-universitesi"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ These bands are based on general Ankara market trends and should be cross-checke
 
 The university’s “central location” — praised in reviews — gives students a meaningful choice between walking and using public transport.
 
-![Ankara Üniversitesi](https://img.unistay.cn/housing/p/amber-1093484.jpg)
+![Ankara Üniversitesi](https://img.unistay.net/housing/p/amber-1093484.jpg)
 
 - **Walking distance (up to 1 km):** Properties within a 10–15 minute walk to the main campus gates are ideal for those who prefer to avoid commuting costs and time. The area directly south of Dögol Caddesi (the university’s street) contains many apartment blocks. Rents here tend to be higher due to convenience. Students who walk save approximately 1,500–3,000 TRY per month on transport (indicative).
 - **Transit commute (2–5 km):** Moving slightly farther out — for example, to Bahçelievler, Maltepe, or Kızılay — offers lower rents (often 15–25% less per square metre) and quieter neighbourhoods. The Ankara Metro’s M1 line runs near the university, with a station at Emniyet stop (a short walk). A 3–4 km distance adds about 15–20 minutes each way by metro or bus. A monthly transport pass (2026/2027) costs around 600–1,000 TRY (indicative).

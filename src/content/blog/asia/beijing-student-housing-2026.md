@@ -3,8 +3,8 @@ title: "Beijing Student Housing 2026: Areas Near Peking University & Tsinghua"
 description: "Student accommodation in Beijing — find housing near Peking, Tsinghua, Renmin, and BLCU. 2026 rent, campus dorms, and Wudaokou student life."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1600"
-ogImage: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200"
+heroImage: "https://img.unistay.net/rehost/746faaa6851d.jpg"
+ogImage: "https://img.unistay.net/rehost/c4ff3f3d4b40.jpg"
 tags: ["asia", "beijing", "student-accommodation"]
 category: "asia"
 city: "beijing"

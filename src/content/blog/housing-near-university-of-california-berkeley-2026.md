@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal University of California, Berkeley (UCB
 pubDatetime: 2026-07-06T14:05:50.000Z
 modDatetime: 2026-07-07T08:00:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-290730.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-290730.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ Please note that all prices are indicative; actual rent fluctuates with seasonal
 
 ## Walking and Transit Trade-offs
 
-![University of California, Berkeley (UCB)](https://img.unistay.cn/housing/p/amber-290730.jpg)
+![University of California, Berkeley (UCB)](https://img.unistay.net/housing/p/amber-290730.jpg)
 
 The UCB campus is centralized and compact; walking from one end to the other usually takes no more than 15 minutes. Ideally, living within walking distance of campus (within 15 minutes) maximizes time savings and campus life enjoyment. However, rents in central Berkeley are often 30%–50% higher than in the surrounding areas. Typical monthly rent for a place within walking distance is usually above 1,200 USD.
 

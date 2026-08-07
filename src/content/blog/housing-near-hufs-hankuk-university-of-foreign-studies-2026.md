@@ -4,7 +4,7 @@ description: "What campus reviews reveal about living near HUFS  Student reviews
 pubDatetime: 2026-07-04T11:28:24.000Z
 modDatetime: 2026-07-07T08:43:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1722277.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1722277.jpg"
 tags: ["university", "hufs-hankuk-university-of-foreign-studies"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Being on the north-eastern side of Seoul, Imun-dong is well connected by Line 1 
 
 ## Budget bands for student housing near HUFS (2026–2027)
 
-![HUFS - Hankuk (Korea) University of Foreign Studies](https://img.unistay.cn/housing/p/amber-1722277.jpg)
+![HUFS - Hankuk (Korea) University of Foreign Studies](https://img.unistay.net/housing/p/amber-1722277.jpg)
 
 Rental prices in Seoul vary depending on room type, distance from campus, and whether utilities are included. Below are typical monthly rent ranges for common student housing options near HUFS. All figures are indicative — confirm with the operator before committing.
 

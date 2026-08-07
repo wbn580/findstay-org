@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The public reviews for Inha University
 pubDatetime: 2026-07-01T05:39:05.000Z
 modDatetime: 2026-07-07T08:18:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00017448.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00017448.jpg"
 tags: ["university", "inha-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Living costs in Incheon tend to be 15–25% lower than in central Seoul, especia
 
 ## Budget Bands for 2026/2027
 
-![Inha University](https://img.unistay.cn/housing/p/uh-s00017448.jpg)
+![Inha University](https://img.unistay.net/housing/p/uh-s00017448.jpg)
 
 For the 2026–2027 academic year, monthly rent ranges (indicative — confirm with the operator) for typical student housing options near Inha University are as follows:
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Flinders University’s Bedford Park c
 pubDatetime: 2026-07-03T04:02:14.000Z
 modDatetime: 2026-07-07T08:08:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-238644.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-238644.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ The climate is Mediterranean: warm, dry summers (December to February) and cool,
 
 ## Budget Bands
 
-![Flinders University](https://img.unistay.cn/housing/p/amber-238644.jpg)
+![Flinders University](https://img.unistay.net/housing/p/amber-238644.jpg)
 
 The following indicative weekly rental ranges apply to accommodation within a 30-minute commute of Flinders University. All prices should be confirmed directly with the landlord, agent, or operator.
 

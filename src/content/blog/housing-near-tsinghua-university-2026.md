@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Tsinghua University’s campus consist
 pubDatetime: 2026-07-04T15:42:08.000Z
 modDatetime: 2026-07-07T08:00:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-231073.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-231073.jpg"
 tags: ["university", "tsinghua-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Housing prices in Haidian vary greatly depending on distance from campus and the
 
 ## Budget Bands for Student Housing Near Tsinghua
 
-![Tsinghua University](https://img.unistay.cn/housing/p/amber-231073.jpg)
+![Tsinghua University](https://img.unistay.net/housing/p/amber-231073.jpg)
 
 Prices in this guide are indicative – confirm with the operator. All figures are in CNY per month for 2026–2027.
 

@@ -4,7 +4,7 @@ description: "Housing Near Universidade Federal do Rio Grande do Sul      Campus
 pubDatetime: 2026-07-05T12:22:48.000Z
 modDatetime: 2026-07-07T08:52:48.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1636622.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1636622.jpg"
 tags: ["university", "universidade-federal-do-rio-grande-do-sul"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ Always verify current market rates through independent housing platforms or loca
 
 UFRGS’s central campus is walkable from several neighbourhoods. Living in Farroupilha, Bom Fim, or parts of Cidade Baixa means you can reach the main academic buildings within 10 to 20 minutes on foot. This eliminates daily transit costs and provides flexibility. The trade-off is that rents in these immediate areas are typically higher.
 
-![Universidade Federal do Rio Grande Do Sul](https://img.unistay.cn/housing/p/amber-1636622.jpg)
+![Universidade Federal do Rio Grande Do Sul](https://img.unistay.net/housing/p/amber-1636622.jpg)
 
 If you choose accommodation further away — such as in Partenon, Santana, or along the Trensurb line to São Leopoldo — you will rely on public transport. The bus system is extensive, and a student transport pass (if eligible) reduces per-trip costs. The Trensurb trains connect the city centre to suburbs, but the main campus is not directly served by a metro station. A combined walk or bus ride is usually needed.
 

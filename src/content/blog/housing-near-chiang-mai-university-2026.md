@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal Chiang Mai University (CMU) has receive
 pubDatetime: 2026-07-03T00:13:22.000Z
 modDatetime: 2026-07-07T08:20:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2756491.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2756491.jpg"
 tags: ["university", "chiang-mai-university"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Note: Chiang Mai's dry season (11月–4月) has warm weather, while the rainy s
 
 ## Housing Budget Range (2026–2027 Academic Year)
 
-![Chiang Mai University](https://img.unistay.cn/housing/p/amber-2756491.jpg)
+![Chiang Mai University](https://img.unistay.net/housing/p/amber-2756491.jpg)
 
 The following are common price ranges for private rentals around CMU. All prices are **indicative — confirm with the operator**.
 

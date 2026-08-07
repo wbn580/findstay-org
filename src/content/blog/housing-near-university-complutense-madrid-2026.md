@@ -4,7 +4,7 @@ description: "Housing Near University Complutense Madrid: What Campus Reviews Re
 pubDatetime: 2026-07-04T02:19:49.000Z
 modDatetime: 2026-07-07T08:36:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-225830.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-225830.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ Choosing where to live near University Complutense Madrid is a classic trade‑o
 - **Pros:** More affordable rents, especially in Lavapiés or Aluche. You live in a more culturally diverse and exciting part of Madrid, with shops, markets, and nightlife at your doorstep. Metro Line 6 (circular) connects directly to Ciudad Universitaria station.
 - **Cons:** Commute time ranges from 20 to 45 minutes each way. Monthly transport pass costs about €20 (indicative) for under‑26s, but that adds up over a year. Late‑night buses are less frequent, so you may need to plan your schedule.
 
-![University Complutense Madrid](https://img.unistay.cn/housing/p/amber-225830.jpg)
+![University Complutense Madrid](https://img.unistay.net/housing/p/amber-225830.jpg)
 
 **Somosaguas campus note:** If your studies are on the Somosaguas campus, living near Moncloa is still possible – take bus 160 from Moncloa interchange (runs every 15 minutes, journey about 20 minutes). Alternatively, live in Pozuelo de Alarcón or Aravaca (closer to the campus), where rents are similar to Moncloa but with fewer amenities.
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About the Neighbourhood  Korea Universi
 pubDatetime: 2026-07-06T06:53:58.000Z
 modDatetime: 2026-07-07T08:28:58.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2360306.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2360306.jpg"
 tags: ["university", "korea-university"]
 category: "university"
 draft: false
@@ -42,7 +42,7 @@ Living in Seongbuk District means you are within 30 minutes of central Seoul by 
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Korea University](https://img.unistay.cn/housing/p/amber-2360306.jpg)
+![Korea University](https://img.unistay.net/housing/p/amber-2360306.jpg)
 
 Housing costs in Anam-dong and neighbouring areas vary by room type, distance from campus, and whether utilities are included. All prices below are **indicative — confirm with the operator**, as actual rates depend on season, contract terms, and exact location. The prices reflect the 2026–2027 academic year expectations, based on pre-pandemic trends and current inflation in Seoul’s rental market.
 

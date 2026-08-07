@@ -4,7 +4,7 @@ description: "Where to Live Near Universidad Adolfo Ibáñez: A Practical Guide 
 pubDatetime: 2026-07-01T22:12:29.000Z
 modDatetime: 2026-07-07T08:58:29.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2223190.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2223190.jpg"
 tags: ["university", "universidad-adolfo-ibanez"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ No fixed rental figures are published in the given data, but from general knowle
 
 Because UAI sits in a relatively open area, the immediate surroundings are residential, with few high-rise apartment towers right at the gate. The university runs its own internal shuttle buses (as mentioned in the review), and there is also public bus service along Avenida Las Torres and nearby streets.
 
-![Universidad Adolfo Ibáñez](https://img.unistay.cn/housing/p/amber-2223190.jpg)
+![Universidad Adolfo Ibáñez](https://img.unistay.net/housing/p/amber-2223190.jpg)
 
 - **Walking distance (0–15 mins):** Properties directly on Avenida Las Torres or the adjacent streets. You can walk to campus, no bus needed. However, such options are limited because the campus is somewhat isolated; many buildings are slightly further out. The benefit: no commuting time, no waiting for shuttles.
 - **Transit-dependent (15–40 mins):** Most other housing options – in Peñalolén proper, La Reina, or even Las Condes. The university shuttle buses have defined routes and stops, or you can take a public bus to the nearest intersection and walk. The commute itself is not long by Santiago standards, but you must factor in waiting and traffic (peak hours can be slow).

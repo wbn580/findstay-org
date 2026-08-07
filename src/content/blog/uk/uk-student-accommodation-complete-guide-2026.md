@@ -3,8 +3,8 @@ title: "UK Student Accommodation Guide 2026: Complete Housing Overview for Inter
 description: "Everything international students need to know about housing in the UK — accommodation types, costs by city, tenancy rights, council tax, and how to find a place."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1600"
-ogImage: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1200"
+heroImage: "https://img.unistay.net/rehost/5e5640134bf4.jpg"
+ogImage: "https://img.unistay.net/rehost/634e8129f8b6.jpg"
 tags: ["uk", "student-accommodation", "rental-tips"]
 category: "uk"
 draft: false

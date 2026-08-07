@@ -4,7 +4,7 @@ description: "Housing Near Pontificia Universidad Javeriana: A Practical Guide  
 pubDatetime: 2026-07-05T13:24:14.000Z
 modDatetime: 2026-07-07T08:48:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1425092.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1425092.jpg"
 tags: ["university", "pontificia-universidad-javeriana"]
 category: "university"
 draft: false
@@ -54,7 +54,7 @@ Walking is the most reliable option – no traffic, no fare. However, rents with
 
 ### Shortlist Logic Using Nearby Residences
 
-![Pontificia Universidad Javeriana](https://img.unistay.cn/housing/p/amber-1425092.jpg)
+![Pontificia Universidad Javeriana](https://img.unistay.net/housing/p/amber-1425092.jpg)
 
 While no official list of residences is pre‑selected here, you can apply the following logic to filter options on any housing platform. (The examples below are generic types; specific properties can be found by searching the campus address on your preferred site.)
 

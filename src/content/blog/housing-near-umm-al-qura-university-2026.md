@@ -4,7 +4,7 @@ description: "Housing Near Umm Al-Qura University: What Campus Reviews Reveal  U
 pubDatetime: 2026-07-03T18:19:22.000Z
 modDatetime: 2026-07-07T08:04:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-933727.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-933727.jpg"
 tags: ["university", "umm-al-qura-university"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ UQU’s main campus in Al-Aziziyah is relatively compact, but the university als
 
 **Walking distance (0–2 km from campus):** Many students prefer to live within a 10–20-minute walk of their lecture halls. This saves time and money, and allows flexibility for prayer breaks (especially during term when classes may be scheduled around prayer times). Neighbourhoods like Al-Aziziyah itself have many apartment buildings and shops. However, walking in Mecca’s heat (often exceeding 40°C in summer) can be challenging. Evaluate whether the route has shaded pathways or air-conditioned pedestrian bridges.
 
-![Umm Al-Qura University](https://img.unistay.cn/housing/p/amber-933727.jpg)
+![Umm Al-Qura University](https://img.unistay.net/housing/p/amber-933727.jpg)
 
 **Transit-oriented living (use of bus or metro):** Students who live farther out (e.g., in Al-Khalidiyyah, Al-Misfalah, or even near the Haram area) rely on public buses or ride-hailing apps like Careem and Uber. The Mecca city bus network serves many residential areas and connects to the university. Fares are low (around 5–8 SAR per ride). Transit commutes typically range from 15 to 40 minutes, depending on traffic. During Hajj, traffic can be severe, so plan accordingly. A monthly transit pass (if available) may cost around 200–300 SAR — worth factoring into your budget.
 

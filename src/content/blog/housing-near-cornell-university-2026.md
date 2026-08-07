@@ -4,7 +4,7 @@ description: "Cornell University Housing Guide: What to Know Before You Move to 
 pubDatetime: 2026-07-01T16:39:25.000Z
 modDatetime: 2026-07-07T07:59:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1541278.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1541278.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Students who value quiet and lower cost may prefer a transit-oriented location, 
 
 The following residences are examples of purpose-built student housing in Ithaca, each catering to different preferences. Prices are indicative and should be confirmed directly with the operator. All four are within a reasonable commute to Cornell.
 
-![Cornell University](https://img.unistay.cn/housing/p/amber-1541278.jpg)
+![Cornell University](https://img.unistay.net/housing/p/amber-1541278.jpg)
 
 #### 1. The Ithacan
 

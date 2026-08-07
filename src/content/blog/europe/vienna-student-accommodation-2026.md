@@ -3,8 +3,8 @@ title: "Vienna Student Accommodation 2026: Housing Near Uni Wien, TU Wien & WU"
 description: "Student housing in Vienna — one of the world's most livable cities. Affordable dorms, WG rooms, and apartments near University of Vienna, TU, and WU for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=1600"
-ogImage: "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=1200"
+heroImage: "https://img.unistay.net/rehost/aa33849dee37.jpg"
+ogImage: "https://img.unistay.net/rehost/29100523cb39.jpg"
 tags: ["europe", "vienna", "student-accommodation"]
 category: "europe"
 city: "vienna"

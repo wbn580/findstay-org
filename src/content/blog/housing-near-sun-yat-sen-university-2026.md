@@ -4,7 +4,7 @@ description: "Campus and City Context  Sun Yat-sen University (SYSU) is consiste
 pubDatetime: 2026-07-03T21:06:43.000Z
 modDatetime: 2026-07-07T08:13:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-957395.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-957395.jpg"
 tags: ["university", "sun-yat-sen-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ High-end apartments, including those in modern high-rises with security and conc
 
 ## Walk vs Transit Trade-Off
 
-![Sun Yat-sen University](https://img.unistay.cn/housing/p/amber-957395.jpg)
+![Sun Yat-sen University](https://img.unistay.net/housing/p/amber-957395.jpg)
 
 Living within walking distance of the South Campus — say, a 10- to 15-minute stroll — offers the obvious advantage of not relying on public transport. The area immediately around the main gate on Xin’gang West Road has several residential compounds (e.g., Luhu Road, Jiangnan Avenue) where you can find apartments. However, these locations tend to be more expensive per square metre, and the available stock may be older or require a longer search.
 

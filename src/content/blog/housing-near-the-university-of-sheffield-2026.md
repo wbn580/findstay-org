@@ -4,7 +4,7 @@ description: "Housing near the University of Sheffield: a practical guide  The U
 pubDatetime: 2026-07-02T11:47:30.000Z
 modDatetime: 2026-07-07T08:52:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01474427.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01474427.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -67,7 +67,7 @@ Buses are the main option if you live further out, for example in Hillsborough, 
 - Walkable radius (0–1.5 miles from campus): higher rent, no transport cost, faster commute.
 - Outer zones (2–3 miles): lower rent, but you’ll need a bus ticket (approx. £30–£60 per month for a student pass) and add 20–30 minutes to each journey.
 
-![The University of Sheffield](https://img.unistay.cn/housing/p/uh-s01474427.jpg)
+![The University of Sheffield](https://img.unistay.net/housing/p/uh-s01474427.jpg)
 
 Given the city’s compact size, many students find the walkable band the best compromise. If you have a tight budget, consider a slightly longer walk (up to 30 minutes) from areas like Upperthorpe or parts of Netherthorpe, where rents can be lower.
 

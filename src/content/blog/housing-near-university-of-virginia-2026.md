@@ -4,7 +4,7 @@ description: "University of Virginia: Housing Guide for 2026–2027      What Ca
 pubDatetime: 2026-07-01T20:43:03.000Z
 modDatetime: 2026-07-07T08:13:03.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1012051.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1012051.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ The University of Virginia campus (often called “Grounds”) is about 1.6 km f
 
 The source data did not list specific nearby residences. Therefore, the shortlist below is based on typical housing categories available in Charlottesville for University of Virginia students. When you search online, look for properties that match your priorities:
 
-![University of Virginia](https://img.unistay.cn/housing/p/amber-1012051.jpg)
+![University of Virginia](https://img.unistay.net/housing/p/amber-1012051.jpg)
 
 1. **Proximity to your school/department** – Science and engineering classes cluster around Thornton Hall and the Engineering Quad; arts and humanities are near the Rotunda and New Cabell Hall. Filter by distance to those buildings.
 2. **Lease length and move-in date** – Most private apartments offer 12-month leases starting August. If you arrive in January, search for subleases or shorter-term options.

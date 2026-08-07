@@ -4,7 +4,7 @@ description: "Campus Life and Housing Near Kyungpook National University  Kyungp
 pubDatetime: 2026-07-02T19:28:47.000Z
 modDatetime: 2026-07-07T08:14:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-921862.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-921862.jpg"
 tags: ["university", "kyungpook-national-university"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Shared housing (hasukjib or share houses) is also common and can fall into any b
 
 Walking distance is a major consideration because the campus is large. The main academic buildings cluster near the central area, but some departments (especially engineering, agriculture) are located toward the northern or western edges. Living within a 10-minute walk of the main gate (Daehak-ro) gives you easy access to the bus stop and campus entrance, but you might still need 10–15 minutes on foot to reach a specific lecture hall inside the campus. Buildings are numbered on the topmost as mentioned in reviews, but the campus has slopes — walking from the eastern residential area (e.g., Sinam-dong) can involve uphill climbs.
 
-![Kyungpook National University](https://img.unistay.cn/housing/p/amber-921862.jpg)
+![Kyungpook National University](https://img.unistay.net/housing/p/amber-921862.jpg)
 
 If you choose to live slightly further (e.g., near Dongcheon Station on Metro Line 3), you can reach the campus in 15–20 minutes by bus (routes that stop at the campus main gate) or by a combination of metro and bus. The trade-off is lower rent — a one-room in Dongcheon or Chilgok may be 10–20% cheaper than those immediately adjacent to campus — but you add 30–40 minutes of commuting each day (waiting included). Buses run frequently until around 11 pm, but late-night intervals may be longer. Walking after dark around campus is generally safe, but the hilly areas have limited lighting in some spots.
 

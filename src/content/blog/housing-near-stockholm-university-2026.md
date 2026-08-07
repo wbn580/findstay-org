@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Stockholm University holds a Google ra
 pubDatetime: 2026-07-03T18:36:53.000Z
 modDatetime: 2026-07-07T08:49:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-932766.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-932766.jpg"
 tags: ["university", "stockholm-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Stockholm is also home to several other universities and higher education instit
 
 ## Budget Bands for Student Housing
 
-![Stockholm University](https://img.unistay.cn/housing/p/amber-932766.jpg)
+![Stockholm University](https://img.unistay.net/housing/p/amber-932766.jpg)
 
 Student housing costs in Stockholm fall into three broad indicative bands. Prices change frequently, so always confirm with the operator before committing.
 

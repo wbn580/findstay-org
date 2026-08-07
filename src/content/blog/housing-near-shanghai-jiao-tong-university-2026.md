@@ -4,7 +4,7 @@ description: "Campus Reviews Reveal What Shanghai Jiao Tong University (SJTU) ra
 pubDatetime: 2026-07-04T18:30:39.000Z
 modDatetime: 2026-07-07T08:20:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-277664.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-277664.jpg"
 tags: ["university", "shanghai-jiao-tong-university"]
 category: "university"
 draft: false
@@ -40,7 +40,7 @@ Shanghai Jiao Tong University's Minhang campus is located in Minhang District, s
 
 ## Budget Range and Housing Options
 
-![Shanghai Jiao Tong University](https://img.unistay.cn/housing/p/amber-277664.jpg)
+![Shanghai Jiao Tong University](https://img.unistay.net/housing/p/amber-277664.jpg)
 
 The following budgets are based on the 2026 rental market in Shanghai's Minhang District; all prices are “indicative — confirm with the operator.” Unit: RMB/month.
 

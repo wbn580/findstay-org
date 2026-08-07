@@ -4,7 +4,7 @@ description: "Universität Hamburg ranks 193rd globally and holds a 4.1-star rat
 pubDatetime: 2026-07-03T01:57:00.000Z
 modDatetime: 2026-07-07T08:41:00.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1934863.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1934863.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Public transport in Hamburg is reliable, and many students live in neighbourhood
 
 ## Hamburg as a student city
 
-![Universität Hamburg](https://img.unistay.cn/housing/p/amber-1934863.jpg)
+![Universität Hamburg](https://img.unistay.net/housing/p/amber-1934863.jpg)
 
 Hamburg is Germany’s second‑largest city, with a strong economy, a vibrant cultural scene, and a large port. For students, the city offers many part‑time job opportunities, numerous parks, and a nightlife focused around the Reeperbahn and Schanzenviertel. Rent levels are moderate compared to Munich or Frankfurt, but have risen over the past decade.
 

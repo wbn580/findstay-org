@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Jinan University  The 119 Google 
 pubDatetime: 2026-06-30T09:55:23.000Z
 modDatetime: 2026-07-07T08:28:23.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01507705.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01507705.jpg"
 tags: ["university", "jinan-university"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Note that utility bills (electricity, water, gas, internet) are usually separate
 
 Because the university is located in a dense commercial strip, the majority of student‑oriented housing is within walking distance — roughly a 5‑ to 15‑minute stroll. The main trade‑off is between rent cost and physical effort.
 
-![Jinan University (China)](https://img.unistay.cn/housing/p/uh-s01507705.jpg)
+![Jinan University (China)](https://img.unistay.net/housing/p/uh-s01507705.jpg)
 
 - **Walking zone (within 1 km):** This covers the residential blocks immediately north and south of Huangpu Avenue. You can reach the main teaching buildings, library, and sports facilities in under 15 minutes on foot. Rent per square metre is slightly higher than in areas a bit further out, but you save the monthly cost of a metro or bus pass (roughly ¥150–¥300). Walking also keeps you close to the street‑side food stalls and small restaurants that Yan Lin mentioned as a relief from the “terrible” canteen. The downside is noise: traffic on Huangpu Avenue can be heavy during the day, and some older buildings lack double‑glazed windows.
 - **Transit‑assisted zone (2–5 km):** If you want a quieter, greener environment or a larger apartment for the same budget, you can look east toward Tianhe Park (a huge public park) or south toward the border with Haizhu District. Commuting by metro takes 10–20 minutes plus a 5‑minute walk at each end. Monthly transport cost is low (¥2–¥5 per ride with a Yangchengtong card). This trade‑off works well for students who do not need to be on campus every day (e.g., research‑based master’s or doctoral students who work off‑site part of the time). The rent may be 10–20% lower than in the immediate walking zone.

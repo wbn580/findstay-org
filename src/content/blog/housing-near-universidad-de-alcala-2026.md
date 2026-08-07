@@ -4,7 +4,7 @@ description: "Housing Options Near Universidad de Alcalá  Universidad de Alcal�
 pubDatetime: 2026-07-01T17:55:59.000Z
 modDatetime: 2026-07-07T08:59:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2408029.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2408029.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ Living in Madrid city gives you 24/7 public transport (metro, bus, Cercanías tr
 
 The system provided two reference residences in Madrid: **Cantoblanco** and **Yugo Lope De Vega**. Neither is located in Alcalá de Henares, so they are not walkable to the university. However, they can serve as starting points for students who decide to live in the capital. Here is how to evaluate them:
 
-![Universidad de Alcalá](https://img.unistay.cn/housing/p/amber-2408029.jpg)
+![Universidad de Alcalá](https://img.unistay.net/housing/p/amber-2408029.jpg)
 
 - **Cantoblanco** is situated near the Universidad Autónoma de Madrid (UAM) campus, in the northern outskirts of Madrid. It is about 35–40 minutes by public transport to Alcalá de Henares (bus + train or direct train from Chamartín). It typically offers shared flats or en-suite rooms. The residence’s location is quiet and green, popular among students from UAM, so if you want a suburban vibe and are willing to commute, it could work. The price (indicative) starts around 755 EUR and includes some utilities.
 - **Yugo Lope De Vega** is located in the centre of Madrid, near Gran Vía, within walking distance of Callao metro station. It is a more urban, social residence with private studios and shared apartments. Commute time to Alcalá is about 50 minutes (walk to Sol or Atocha + train). The rent is higher (indicative from 900 EUR and up) but you are steps away from shopping, nightlife, and the main train station.

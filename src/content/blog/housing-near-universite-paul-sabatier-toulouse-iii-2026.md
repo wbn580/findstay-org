@@ -4,7 +4,7 @@ description: "Housing Near Université Paul Sabatier Toulouse III: What Students
 pubDatetime: 2026-07-05T04:24:53.000Z
 modDatetime: 2026-07-07T09:07:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2364215.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2364215.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Cycling is also popular in Toulouse. The city has a bike-sharing system (VélôT
 
 ### Shortlist Logic Using Nearby Residences
 
-![Université Paul Sabatier Toulouse III](https://img.unistay.cn/housing/p/amber-2364215.jpg)
+![Université Paul Sabatier Toulouse III](https://img.unistay.net/housing/p/amber-2364215.jpg)
 
 We have two residence examples in the area, based on available data: **Thalès Residence** and **Atlas Residence**. These are student residences typically offering furnished studios, with shared amenities such as laundry, common rooms, and sometimes a gym or parking. Both are located near the UPS campus (within walking distance or a short bus ride). Prices quoted are indicative — confirm with the operator.
 

@@ -4,7 +4,7 @@ description: "Housing Near Nanyang Technological University, Singapore (NTU Sing
 pubDatetime: 2026-07-04T03:28:45.000Z
 modDatetime: 2026-07-07T07:56:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1902427.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1902427.jpg"
 tags: ["university", "singapore"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ NTU’s campus is large – walking from one building to another can take 15 min
 
 **Walk advantage**: If you live in a condo or HDB block within a 1 km radius of campus, you save SGD 50–80 per month on transport and gain flexibility for late-night study. Sample properties like “5 Starlight” (exact location not given) – if near NTU – could be a walkable option. However, most listed samples are centrally located, so you would rely on transit.
 
-![Nanyang Technological University, Singapore (NTU Singapore)](https://img.unistay.cn/housing/p/amber-1902427.jpg)
+![Nanyang Technological University, Singapore (NTU Singapore)](https://img.unistay.net/housing/p/amber-1902427.jpg)
 
 **Trade-off**: Choose walkable if you prioritise time and dislike commuting. Choose transit (cheaper rent, wider options) if budget is tight and you can handle a 15–20 minute bus ride. The Singapore MRT and bus system operate until around midnight, which is adequate for most class schedules.
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal The main campus of the University of Br
 pubDatetime: 2026-07-03T11:34:34.000Z
 modDatetime: 2026-07-07T08:54:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-996967.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-996967.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ These prices are **indicative** – the final amount depends on room size, wheth
 
 ## Budget Segmentation: Three Main Tiers
 
-![University of Brescia](https://img.unistay.cn/housing/p/amber-996967.jpg)
+![University of Brescia](https://img.unistay.net/housing/p/amber-996967.jpg)
 
 Housing budgets can be roughly divided into three tiers:
 

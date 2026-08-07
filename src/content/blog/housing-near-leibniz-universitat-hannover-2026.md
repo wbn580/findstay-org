@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Reviews of Leibniz Universität Hannov
 pubDatetime: 2026-07-03T05:22:43.000Z
 modDatetime: 2026-07-07T08:39:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-937264.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-937264.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ The city has a strong bicycle culture. Many students cycle year-round because th
 
 ## Budget Bands for Student Housing
 
-![Leibniz Universität Hannover](https://img.unistay.cn/housing/p/amber-937264.jpg)
+![Leibniz Universität Hannover](https://img.unistay.net/housing/p/amber-937264.jpg)
 
 The following are indicative monthly rent ranges for student housing in Hannover for the academic year 2026‑2027. Confirm all prices directly with the operator before signing any contract.
 

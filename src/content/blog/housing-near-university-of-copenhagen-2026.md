@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Copenhagen holds a  
 pubDatetime: 2026-07-06T13:58:50.000Z
 modDatetime: 2026-07-07T08:42:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-218881.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-218881.jpg"
 tags: ["university", "university-of-copenhagen"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Copenhagen’s housing market is tight. Demand outpaces supply, especially for a
 
 ## Budget Bands for Student Housing in Copenhagen (2026–2027)
 
-![University of Copenhagen](https://img.unistay.cn/housing/p/amber-218881.jpg)
+![University of Copenhagen](https://img.unistay.net/housing/p/amber-218881.jpg)
 
 All prices below are **indicative — confirm with the operator**. Figures are in Danish kroner (DKK) per month for a single person.
 

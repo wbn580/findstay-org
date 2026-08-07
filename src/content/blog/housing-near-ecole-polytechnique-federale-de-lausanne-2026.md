@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Studying at EPFL  Google reviews 
 pubDatetime: 2026-07-01T06:13:30.000Z
 modDatetime: 2026-07-07T08:48:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1243973.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1243973.jpg"
 tags: ["university", "ecole-polytechnique-federale-de-lausanne"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Housing demand is high, especially at the start of the academic year. Many stude
 
 ## Budget Bands for Student Housing (Indicative — Confirm with the Operator)
 
-![École Polytechnique Fédérale de Lausanne](https://img.unistay.cn/housing/p/amber-1243973.jpg)
+![École Polytechnique Fédérale de Lausanne](https://img.unistay.net/housing/p/amber-1243973.jpg)
 
 Rents in Lausanne are among the highest in Switzerland, but student housing options vary widely. No single source applies to all, so the ranges below are based on typical market observations and should be verified directly with each provider.
 

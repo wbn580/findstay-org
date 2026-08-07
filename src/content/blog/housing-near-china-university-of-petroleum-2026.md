@@ -4,7 +4,7 @@ description: "Housing near China University of Petroleum: What you need to know 
 pubDatetime: 2026-07-02T19:34:22.000Z
 modDatetime: 2026-07-07T08:48:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2026246.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2026246.jpg"
 tags: ["university", "china-university-of-petroleum"]
 category: "university"
 draft: false
@@ -67,7 +67,7 @@ Properties within a 15-minute walk of the main gate are the most convenient. The
 **Bicycle/scooter distance (1.5–4 km)**  
 This is the sweet spot for most students in Dongying. A bicycle commute of 10–20 minutes opens up many more older compounds with lower rents (low to mid budget). Electric scooters are extremely popular; they are affordable to buy (second-hand from CNY 500) and can be charged in ground-floor parking areas of most compounds. The city is flat, making cycling easy year-round except during heavy rain or snow.
 
-![China University of Petroleum](https://img.unistay.cn/housing/p/amber-2026246.jpg)
+![China University of Petroleum](https://img.unistay.net/housing/p/amber-2026246.jpg)
 
 **Public transport (5 km and beyond)**  
 Buses are cheap (CNY 1–2 per ride) but infrequent on some routes. The main bus stops near the university are along Ji Nan Lu and Huanghe Road. A 30–45 minute bus ride can reach the far east or west of the city, where rents drop further (low budget). The trade-off is longer commute time and less flexibility for evening classes or lab sessions. Ride-hailing via apps like Didi costs about CNY 10–25 for a 5 km trip, which adds up if used daily. For most students, living beyond 5 km is not recommended unless you have a scooter.

@@ -3,8 +3,8 @@ title: "Sheffield Student Housing 2026: Best Areas Near UoS & Sheffield Hallam"
 description: "Student accommodation in Sheffield — the cheapest major student city in England. Affordable rooms near the University of Sheffield and Sheffield Hallam for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=1600"
-ogImage: "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=1200"
+heroImage: "https://img.unistay.net/rehost/ffbe0572eb08.jpg"
+ogImage: "https://img.unistay.net/rehost/575258a3f7a7.jpg"
 tags: ["uk", "sheffield", "student-accommodation"]
 category: "uk"
 city: "sheffield"

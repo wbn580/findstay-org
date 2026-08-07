@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Student reviews of Kingston University
 pubDatetime: 2026-07-07T00:14:36.000Z
 modDatetime: 2026-07-07T08:29:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2173132.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2173132.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Surrounding neighbourhoods include Norbiton, New Malden, Surbiton, and Teddingto
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Kingston University, London](https://img.unistay.cn/housing/p/amber-2173132.jpg)
+![Kingston University, London](https://img.unistay.net/housing/p/amber-2173132.jpg)
 
 All prices below are indicative – confirm with the operator. Figures are per week for the academic year 2026/27, based on typical market ranges for Kingston upon Thames.
 

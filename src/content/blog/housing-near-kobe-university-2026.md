@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Kobe University  Perched 
 pubDatetime: 2026-07-07T04:11:03.000Z
 modDatetime: 2026-07-07T07:51:03.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1274737.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1274737.jpg"
 tags: ["university", "kobe-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Compared to Tokyo or Osaka, Kobe has a moderate cost of living. Rent, utilities,
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Kobe University](https://img.unistay.cn/housing/p/amber-1274737.jpg)
+![Kobe University](https://img.unistay.net/housing/p/amber-1274737.jpg)
 
 Housing costs in Kobe vary widely by type, location, and condition. The figures below are indicative — confirm with the operator before committing.
 

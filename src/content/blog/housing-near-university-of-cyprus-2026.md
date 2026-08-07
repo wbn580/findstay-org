@@ -4,7 +4,7 @@ description: "University of Cyprus Student Housing Guide       What Campus Revie
 pubDatetime: 2026-07-05T16:29:32.000Z
 modDatetime: 2026-07-07T08:57:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1896161.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1896161.jpg"
 tags: ["university", "university-of-cyprus"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Living within walking distance of the University of Cyprus (in Aglantzia or near
 
 Choosing a neighbourhood further out, such as Strovolos or Latsia, typically lowers rent by 20–30% for a similar room. The trade-off is reliance on public buses (e.g., routes 100, 101, 102) or a personal bicycle. Bus frequency can be every 30 minutes during peak times, dropping to hourly off-peak. Commute times range from 15 to 30 minutes by bus, plus waiting time. For students with a car, parking on campus is limited and may require a permit, so even driving can involve a walk from an outer parking lot.
 
-![University of Cyprus](https://img.unistay.cn/housing/p/amber-1896161.jpg)
+![University of Cyprus](https://img.unistay.net/housing/p/amber-1896161.jpg)
 
 The best choice depends on your budget, tolerance for commuting, and whether you value independent study space. If you plan to spend most of your day on campus, a longer commute might be acceptable. If you prefer to study at home, a better room in a cheaper area could be worth the travel.
 

@@ -4,7 +4,7 @@ description: "What the Campus Reviews Reveal About Vrije Universiteit Brussel (V
 pubDatetime: 2026-07-06T15:51:49.000Z
 modDatetime: 2026-07-07T08:52:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-940954.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-940954.jpg"
 tags: ["university", "vrije-universiteit-brussel"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Brussels has two main student hubs: the VUB–ULB area (around the Solbosch and 
 
 ## Budget Bands for Housing Near VUB (Indicative – Confirm with the Operator)
 
-![Vrije Universiteit Brussel (VUB)](https://img.unistay.cn/housing/p/amber-940954.jpg)
+![Vrije Universiteit Brussel (VUB)](https://img.unistay.net/housing/p/amber-940954.jpg)
 
 Rental prices in the VUB vicinity vary by distance, room type, and amenities. The following figures are approximate monthly costs for a single tenant (shared or studio) in 2026–2027. **All prices are indicative – confirm with the operator.**
 

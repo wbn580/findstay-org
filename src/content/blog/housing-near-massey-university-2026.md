@@ -4,7 +4,7 @@ description: "Campus Reviews Reveal What Matters for Housing  Student reviews of
 pubDatetime: 2026-07-03T18:24:55.000Z
 modDatetime: 2026-07-07T09:09:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1954921.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1954921.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For students who prefer to live close to campus, private rentals in the Albany a
 
 ## Budget Bands for Auckland Student Housing
 
-![Massey University](https://img.unistay.cn/housing/p/amber-1954921.jpg)
+![Massey University](https://img.unistay.net/housing/p/amber-1954921.jpg)
 
 All prices below are indicative and should be confirmed with the operator. They reflect typical weekly rents for purpose‑built student accommodation in Auckland as of 2026/2027.
 

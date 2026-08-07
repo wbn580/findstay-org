@@ -4,7 +4,7 @@ description: "Housing Near the University of Surrey: What Student Reviews Reveal
 pubDatetime: 2026-07-01T11:34:23.000Z
 modDatetime: 2026-07-07T08:06:23.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1096386.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1096386.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ The campus’s location on Stag Hill means that many popular off‑campus housin
 
 **Using transit from town centre.** Living in the town centre gives you easier access to shops, restaurants, and the railway station. The journey to campus involves either a 15‑ to 20‑minute uphill walk or a short bus ride. Guildford has frequent bus services (routes 1, 2, 3, 4, and others) that stop on campus. A bus pass or pay‑as‑you‑go card is cheap, but you should factor in the timetable and occasional delays. The trade‑off is that you pay a little more time and money for transport, but gain a livelier environment in the evenings and more choice of independent housing.
 
-![University of Surrey](https://img.unistay.cn/housing/p/amber-1096386.jpg)
+![University of Surrey](https://img.unistay.net/housing/p/amber-1096386.jpg)
 
 Most second‑year students who move off‑campus choose town‑centre flats or shared houses. If you rely on public transport, look for accommodation within a 5‑minute walk of a bus stop on a frequent line to campus. The town centre is also walkable to the campus if you are comfortable with the hill, but that may not suit everyone.
 

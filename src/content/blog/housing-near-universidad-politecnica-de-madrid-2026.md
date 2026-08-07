@@ -4,7 +4,7 @@ description: "Housing Near Universidad Politécnica de Madrid: What Campus Revie
 pubDatetime: 2026-07-07T08:08:28.000Z
 modDatetime: 2026-07-07T08:59:28.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-225830.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-225830.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ UPM has several campuses. The main one – Escuela Técnica Superior de Ingenier
 
 **Walking distance** (under 1 km): Typical properties around Calle de la Princesa, Avenida de la Memoria, or near the Moncloa interchange. Expect to pay €800+ for a room in a shared flat. The convenience of rolling out of bed and arriving in class in 10 minutes appeals to many, especially during exams.
 
-![Universidad Politécnica de Madrid](https://img.unistay.cn/housing/p/amber-225830.jpg)
+![Universidad Politécnica de Madrid](https://img.unistay.net/housing/p/amber-225830.jpg)
 
 **Transit-dependent** (15–30 minutes): Areas like Argüelles, Chamberí, or even as far as Tetuán are a short metro ride away. The sample residence **Cantoblanco** is located in the Cantoblanco neighbourhood (near the Universidad Autónoma campus, not UPM). To reach UPM’s main campus, you would need a metro + bus, about 30–40 minutes. Rent is typically lower – around €600–€700 for a room. The other sample, **Yugo Lope De Vega**, is closer to the centre (Calle Lope de Vega, near Atocha). That property offers a mix of studios and shared apartments, with a commute to Moncloa of about 25–30 minutes by metro (Línea 1 to Sol, then transfer to Línea 6). Rent is around €755–€850 per month (indicative).
 

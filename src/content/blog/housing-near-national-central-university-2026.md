@@ -4,7 +4,7 @@ description: "Living Near National Central University: A Student’s Guide  Nati
 pubDatetime: 2026-07-04T21:38:23.000Z
 modDatetime: 2026-07-07T09:06:23.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1130840.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1130840.jpg"
 tags: ["university", "national-central-university"]
 category: "university"
 draft: false
@@ -65,7 +65,7 @@ Buses (e.g., route 112, 132, 155, 156) run frequently along Zhongda Road and con
 **Scooter or bike**  
 Many students in Zhongli own a scooter. If you have an international driver’s permit and a valid Taiwanese scooter licence (or are willing to ride a bicycle), you can access a wider radius of housing options – including lower-cost apartments 2–3 km away. Bicycle parking is abundant on campus.
 
-![National Central University](https://img.unistay.cn/housing/p/amber-1130840.jpg)
+![National Central University](https://img.unistay.net/housing/p/amber-1130840.jpg)
 
 **Longer commute (20+ minutes by train/bus)**  
 Some students choose to live near Zhongli Station (the main train station) or even in nearby communities like Pingzhen or Taoyuan City centre. The commute by train+bus can reach 40–50 minutes one way. This trade-off is mostly suitable if you need frequent access to Taipei or if your budget is very tight.

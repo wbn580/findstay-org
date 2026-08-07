@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Student Life  Abu Dhabi Universit
 pubDatetime: 2026-07-03T21:58:35.000Z
 modDatetime: 2026-07-07T08:10:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2043730.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2043730.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The UAE’s rental market is typically priced in UAE dirhams (AED) and leases ar
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Abu Dhabi University](https://img.unistay.cn/housing/p/amber-2043730.jpg)
+![Abu Dhabi University](https://img.unistay.net/housing/p/amber-2043730.jpg)
 
 *No specific housing rates for ADU were provided in the source data. The following bands are based on typical market conditions in the Zayed City / Abu Dhabi periphery as of 2026–2027, and all figures are indicative — confirm with the operator.*
 

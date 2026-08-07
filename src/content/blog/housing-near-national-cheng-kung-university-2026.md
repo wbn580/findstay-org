@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  National Cheng Kung University (NCKU) 
 pubDatetime: 2026-07-02T20:03:09.000Z
 modDatetime: 2026-07-07T08:49:09.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1357349.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1357349.jpg"
 tags: ["university", "national-cheng-kung-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Tainan’s public bus system covers the city, but many students rely on bicycles
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![National Cheng Kung University (NCKU)](https://img.unistay.cn/housing/p/amber-1357349.jpg)
+![National Cheng Kung University (NCKU)](https://img.unistay.net/housing/p/amber-1357349.jpg)
 
 Housing costs near NCKU vary depending on room type, distance from campus, and amenities. As a general guide, rental prices fall into three bands. Note that these are **indicative — confirm with the operator** before making any decisions.
 

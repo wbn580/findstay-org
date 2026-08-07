@@ -4,7 +4,7 @@ description: "Housing Near York University: What Campus Reviews Reveal  York Uni
 pubDatetime: 2026-07-05T16:39:51.000Z
 modDatetime: 2026-07-07T08:56:51.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-589296.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-589296.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ The decision between walking and commuting by transit largely depends on your to
 - **Walking distance (under 15 minutes)**: Properties on Keele Street, Ian Macdonald Boulevard, or the Village at York (a cluster of student‑oriented housing) are within a 5–10‑minute walk to most classrooms. This saves the TTC fare (currently $3.35 per ride or $156 per month for a post‑secondary student Metropass). However, rent in this immediate radius tends to be 10–20% higher than in areas a 20‑minute walk or one bus stop away.
 - **Transit‑dependant (15–30 minutes via subway or bus)**: Living near a subway station further north (e.g., Finch, Sheppard West, or Pioneer Village) or along a bus route (e.g., the 106, 35, or 199) can reduce rent significantly. A one‑bedroom apartment near Finch Station (10 minutes by subway to campus) might cost $200–$400 per month less than a similar unit on‑campus. The trade‑off is a 25–35‑minute door‑to‑door trip each way, plus the monthly transit pass cost.
 
-![York University](https://img.unistay.cn/housing/p/amber-589296.jpg)
+![York University](https://img.unistay.net/housing/p/amber-589296.jpg)
 
 - **Car commuters**: With multiple parking lots on campus, driving can be convenient if you have a car. However, parking permits cost between $800 and $1,200 per academic year (indicative — confirm with the operator), and traffic on Keele Street and the 401 can add 10–15 minutes during peak hours. If you live off‑campus with free street parking, you may still need a permit for on‑campus lots or use ParkMobile daily rates.
 

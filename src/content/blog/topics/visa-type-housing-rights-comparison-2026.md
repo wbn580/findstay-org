@@ -3,8 +3,8 @@ title: "Student Visa vs Work Visa vs PR: Housing Rights & Restrictions Compared"
 description: "How your visa type affects your housing options in Australia, UK, US, and Canada. Rental rights, discrimination rules, and practical differences between student, work, and PR status."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1600"
-ogImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200"
+heroImage: "https://img.unistay.net/rehost/102be007d605.jpg"
+ogImage: "https://img.unistay.net/rehost/0a7adfcf3bc7.jpg"
 tags: ["visa-housing", "student-accommodation", "rental-tips"]
 category: "topics"
 draft: false

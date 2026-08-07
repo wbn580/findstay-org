@@ -4,7 +4,7 @@ description: "What student reviews say about the University of Wollongong  The U
 pubDatetime: 2026-07-02T14:25:52.000Z
 modDatetime: 2026-07-07T08:56:52.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3049635.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3049635.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Because Wollongong is a relatively compact city, it is feasible to walk or cycle
 
 ## Budget bands for student housing (2026/2027 indicative)
 
-![University of Wollongong](https://img.unistay.cn/housing/p/amber-3049635.jpg)
+![University of Wollongong](https://img.unistay.net/housing/p/amber-3049635.jpg)
 
 Rental prices in Wollongong are generally lower than in Sydney, but they have risen in recent years. The figures below are indicative — confirm with the operator before signing any agreement.
 

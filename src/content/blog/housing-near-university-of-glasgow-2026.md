@@ -4,7 +4,7 @@ description: "University of Glasgow: An Overview from Visitor Reviews  The Unive
 pubDatetime: 2026-07-05T05:55:38.000Z
 modDatetime: 2026-07-07T08:42:38.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01467825.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01467825.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ When budgeting, students should also factor in utilities (often included in PBSA
 
 ## Walk vs Transit: Choosing Your Location
 
-![University of Glasgow](https://img.unistay.cn/housing/p/uh-s01467825.jpg)
+![University of Glasgow](https://img.unistay.net/housing/p/uh-s01467825.jpg)
 
 The University of Glasgow’s main campus is at Gilmorehill, postcode G12 8QQ. Students have two broad trade-offs: rent within walking distance (West End neighbourhoods like Hillhead, Partick, Kelvinbridge, and Hyndland) or rent further away (city centre, south side, or east end) and rely on public transport.
 

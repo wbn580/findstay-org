@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Hanyang University  Hanya
 pubDatetime: 2026-07-04T02:06:06.000Z
 modDatetime: 2026-07-07T08:17:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1362421.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1362421.jpg"
 tags: ["university", "hanyang-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The neighbourhood has a student atmosphere but is not as crowded or expensive as
 
 ## Budget Bands for 2026–2027 (Indicative – Confirm with the Operator)
 
-![Hanyang University](https://img.unistay.cn/housing/p/amber-1362421.jpg)
+![Hanyang University](https://img.unistay.net/housing/p/amber-1362421.jpg)
 
 All figures below are indicative for the 2026/2027 academic year. Actual prices depend on deposit, contract length, and furnishings.
 

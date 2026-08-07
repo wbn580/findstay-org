@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About York Living  The University of Yo
 pubDatetime: 2026-07-06T10:45:02.000Z
 modDatetime: 2026-07-07T08:24:02.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2147094.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2147094.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ Understanding this geography is the foundation of any housing search near York.
 
 ## Budget Bands
 
-![University of York](https://img.unistay.cn/housing/p/amber-2147094.jpg)
+![University of York](https://img.unistay.net/housing/p/amber-2147094.jpg)
 
 Because specific price data for York is not included in the given information, the bands below are based on typical UK student market trends and must be treated as **indicative — confirm with the operator** for current rates. Generally, student housing in York falls into three rough categories.
 

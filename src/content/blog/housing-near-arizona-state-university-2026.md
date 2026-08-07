@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal Arizona State University's (ASU) Tempe 
 pubDatetime: 2026-07-01T20:30:27.000Z
 modDatetime: 2026-07-07T08:55:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00564288.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00564288.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ The cost of living in Tempe is lower than in most large U.S. cities, but rents h
 
 ## Budget Range
 
-![Arizona State University](https://img.unistay.cn/housing/p/uh-s00564288.jpg)
+![Arizona State University](https://img.unistay.net/housing/p/uh-s00564288.jpg)
 
 The following budget breakdown is a general reference; actual prices need to be confirmed with the specific operator (indicative — confirm with the operator). Students should adjust expectations based on their own financial situation.
 

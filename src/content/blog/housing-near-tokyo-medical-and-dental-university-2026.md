@@ -4,7 +4,7 @@ description: "Campus Location and Surrounding Area Tokyo Medical and Dental Univ
 pubDatetime: 2026-07-03T19:24:15.000Z
 modDatetime: 2026-07-07T08:59:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1193388.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1193388.jpg"
 tags: ["university", "tokyo-medical-and-dental-university"]
 category: "university"
 draft: false
@@ -22,7 +22,7 @@ Tokyo is one of the most densely populated cities in the world, but Bunkyo-ku is
 
 ## Budget Tiers
 
-![Tokyo Medical and Dental University](https://img.unistay.cn/housing/p/amber-1193388.jpg)
+![Tokyo Medical and Dental University](https://img.unistay.net/housing/p/amber-1193388.jpg)
 
 The following rent ranges are approximate prices for typical student housing in Tokyo's Bunkyo-ku and surrounding areas for 2026 (indicative — confirm with the operator). Actual prices may vary depending on room size, facilities, and distance to the station.
 

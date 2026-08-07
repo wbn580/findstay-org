@@ -4,7 +4,7 @@ description: "Housing Near De La Salle University: A Student’s Guide  De La Sa
 pubDatetime: 2026-06-30T18:58:55.000Z
 modDatetime: 2026-07-07T08:56:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-187832.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-187832.jpg"
 tags: ["university", "de-la-salle-university"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ Given DLSU’s location on Taft Avenue, you have two main commuting options: wal
 
 **Walking** is the most convenient for students living within a 1-2 km radius. A 10-15 minute walk to campus means you avoid traffic delays, save on transport costs, and can easily return home for meals or breaks. Many of the nearby condominiums mentioned by reviewers are likely within a comfortable walking distance. A walkable area also offers better access to the campus library, cafeterias, and church, as noted in reviews. The downside is that during the hot midday sun or heavy rain, a longer walk becomes uncomfortable. Look for units with covered walkways or shaded paths.
 
-![De La Salle University](https://img.unistay.cn/housing/p/amber-187832.jpg)
+![De La Salle University](https://img.unistay.net/housing/p/amber-187832.jpg)
 
 **Public transit** becomes necessary if you choose a cheaper unit farther from Taft Avenue or on a side street beyond walking range. LRT-1 is the fastest option: Vito Cruz and Gil Puyat stations are about 1 km north and south of DLSU, respectively. A jeepney or tricycle ride from your accommodation to a station adds 5-10 minutes and PHP 10-20 per trip. The trade-off is lower rent for a slightly longer, more variable commute. If you plan to stay out late on campus or attend early classes, walking gives you more schedule flexibility.
 

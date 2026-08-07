@@ -4,7 +4,7 @@ description: "Campus reviews and what they reveal about housing  Laval Universit
 pubDatetime: 2026-06-30T10:36:05.000Z
 modDatetime: 2026-07-07T09:09:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01577535.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01577535.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because the university is a major employer and draws thousands of students, rent
 
 ## Budget bands for student housing (indicative — confirm with the operator)
 
-![Laval University](https://img.unistay.cn/housing/p/uh-s01577535.jpg)
+![Laval University](https://img.unistay.net/housing/p/uh-s01577535.jpg)
 
 No exact rent figures are provided in the data, so the bands below are general guidelines based on the local market. Always verify current prices with the landlord or residence operator.
 

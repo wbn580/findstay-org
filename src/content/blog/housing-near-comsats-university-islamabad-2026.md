@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  COMSATS University Islamabad’
 pubDatetime: 2026-07-06T23:33:27.000Z
 modDatetime: 2026-07-07T08:31:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-144010.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-144010.jpg"
 tags: ["university", "comsats-university-islamabad"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Islamabad’s climate features a moderate summer (May to August, often reaching 
 
 ## Budget Bands for Student Housing
 
-![COMSATS University Islamabad](https://img.unistay.cn/housing/p/amber-144010.jpg)
+![COMSATS University Islamabad](https://img.unistay.net/housing/p/amber-144010.jpg)
 
 Student rental prices in Islamabad vary significantly depending on distance from campus, room type, and included utilities. The following bands are **indicative — confirm with the operator** before committing.
 

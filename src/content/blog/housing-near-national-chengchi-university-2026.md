@@ -4,7 +4,7 @@ description: "Housing Near National Chengchi University: A Practical Guide  Nati
 pubDatetime: 2026-07-01T09:03:22.000Z
 modDatetime: 2026-07-07T07:52:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2292597.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2292597.jpg"
 tags: ["university", "national-chengchi-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ No review criticised the safety or transport, which suggests the area is general
 
 ## City Context: Wenshan District and Taipei
 
-![National Chengchi University](https://img.unistay.cn/housing/p/amber-2292597.jpg)
+![National Chengchi University](https://img.unistay.net/housing/p/amber-2292597.jpg)
 
 NCCU’s address is No. 64, Section 2, Zhinan Rd, Wanxing Village, Wenshan District, Taipei City. Wenshan is a largely residential and green area at the southern edge of Taipei. The campus sits at the foot of hills, near the Taipei Zoo and the Maokong Gondola.
 

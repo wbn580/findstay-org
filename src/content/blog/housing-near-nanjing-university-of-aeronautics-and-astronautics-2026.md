@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Nanjing University of Aeronauti
 pubDatetime: 2026-07-03T06:26:14.000Z
 modDatetime: 2026-07-07T08:44:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00683739.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00683739.jpg"
 tags: ["university", "nanjing-university-of-aeronautics-and-astronautics"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Nanjing is a major educational hub with dozens of universities, meaning the rent
 
 ## Budget Bands
 
-![Nanjing University of Aeronautics and Astronautics](https://img.unistay.cn/housing/p/uh-s00683739.jpg)
+![Nanjing University of Aeronautics and Astronautics](https://img.unistay.net/housing/p/uh-s00683739.jpg)
 
 Rental costs in the area vary significantly based on distance, building age, and room type. Below is a general guide (all prices are indicative — confirm with the operator):
 

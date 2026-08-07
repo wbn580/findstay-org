@@ -4,7 +4,7 @@ description: "What Do Campus Reviews Reveal? Universiti Sains Malaysia (USM) is 
 pubDatetime: 2026-07-04T14:19:44.000Z
 modDatetime: 2026-07-07T07:59:44.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-218147.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-218147.jpg"
 tags: ["university", "universiti-sains-malaysia"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ Public transportation in Penang is mainly Rapid Penang buses, covering major rou
 
 ## Budget Ranges (2026 Reference)
 
-![Universiti Sains Malaysia (USM)](https://img.unistay.cn/housing/p/amber-218147.jpg)
+![Universiti Sains Malaysia (USM)](https://img.unistay.net/housing/p/amber-218147.jpg)
 
 Below are typical rental ranges in Gelugor and surrounding areas (all are indicative prices, **please confirm with landlords or operators**).
 

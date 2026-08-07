@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Antwerp holds a QS W
 pubDatetime: 2026-07-05T17:15:25.000Z
 modDatetime: 2026-07-07T08:16:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-241504.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-241504.jpg"
 tags: ["university", "university-of-antwerp"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ When choosing housing, you are not just choosing a place to sleep – you are ch
 
 ## Budget Bands for Student Housing
 
-![University of Antwerp](https://img.unistay.cn/housing/p/amber-241504.jpg)
+![University of Antwerp](https://img.unistay.net/housing/p/amber-241504.jpg)
 
 Because the platform does not provide specific price data for individual residences, only general budget guidance is possible here. All figures mentioned below are **indicative — confirm with the operator** before making any commitments.
 

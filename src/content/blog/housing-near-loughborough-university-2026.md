@@ -4,7 +4,7 @@ description: "Housing Near Loughborough University: What Campus Reviews Reveal  
 pubDatetime: 2026-07-04T19:27:43.000Z
 modDatetime: 2026-07-07T09:06:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1318448.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1318448.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ The campus is large: from the western edge (near the town) to the easternmost ac
 
 Because no single accommodation provider dominates Loughborough, your shortlist should be based on your priorities. Here is a logical framework to narrow down options, using common types of housing available near the university.
 
-![Loughborough University](https://img.unistay.cn/housing/p/amber-1318448.jpg)
+![Loughborough University](https://img.unistay.net/housing/p/amber-1318448.jpg)
 
 **1. On-campus university halls**  
 These are typically reserved for first-year undergraduates and international students, though some graduate accommodation exists. They are the most convenient — you are within a 5–10 minute walk of most teaching buildings. However, availability is limited, and you must apply through the university’s accommodation service early. Contracts are usually 39–40 weeks. Indicative rent for 2026/2027: £120–£180 per week (self-catered en-suite). Confirm exact pricing with the university.

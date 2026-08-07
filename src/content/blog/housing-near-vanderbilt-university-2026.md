@@ -4,7 +4,7 @@ description: "Housing Near Vanderbilt University: What to Know Before You Move  
 pubDatetime: 2026-06-30T22:15:33.000Z
 modDatetime: 2026-07-07T07:56:33.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-957310.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-957310.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ These reviews consistently mention the “gorgeous buildings,” “amazing magn
 
 ## City Context: Nashville
 
-![Vanderbilt University](https://img.unistay.cn/housing/p/amber-957310.jpg)
+![Vanderbilt University](https://img.unistay.net/housing/p/amber-957310.jpg)
 
 Nashville is the capital of Tennessee and a growing metropolitan area known for country music, healthcare, and higher education. The city has a moderate cost of living compared to coastal US cities, but rental demand is high, especially near universities. Public transportation options include the WeGo Public Transit bus system, but many students rely on walking, biking, or ride-shares to get around.
 

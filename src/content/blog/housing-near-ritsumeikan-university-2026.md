@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Student feedback on Ritsumeikan
 pubDatetime: 2026-07-05T08:08:33.000Z
 modDatetime: 2026-07-07T09:00:33.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1182711.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1182711.jpg"
 tags: ["university", "ritsumeikan-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For those studying at Biwako Campus, living near the Shiga side (e.g., Otsu City
 
 ## Budget Bands for Student Housing
 
-![Ritsumeikan University](https://img.unistay.cn/housing/p/amber-1182711.jpg)
+![Ritsumeikan University](https://img.unistay.net/housing/p/amber-1182711.jpg)
 
 While no specific price data for residences was available from the university at the time of writing, student housing in the Kinugasa area generally falls into three broad categories. All prices below are indicative – confirm with the operator.
 

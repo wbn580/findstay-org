@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Stony Brook University  Google ra
 pubDatetime: 2026-07-06T23:41:47.000Z
 modDatetime: 2026-07-07T08:56:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1351140.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1351140.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Note that off-campus housing costs in Stony Brook are influenced by proximity to
 
 ## Walk vs. Transit Trade-off
 
-![Stony Brook University](https://img.unistay.cn/housing/p/amber-1351140.jpg)
+![Stony Brook University](https://img.unistay.net/housing/p/amber-1351140.jpg)
 
 ### Walking
 

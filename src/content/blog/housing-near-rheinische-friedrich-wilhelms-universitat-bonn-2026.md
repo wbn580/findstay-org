@@ -4,7 +4,7 @@ description: "Housing Guide for Rheinische Friedrich-Wilhelms-Universität Bonn 
 pubDatetime: 2026-07-05T00:30:15.000Z
 modDatetime: 2026-07-07T08:53:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-187748.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-187748.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ For students who value the garden and social atmosphere mentioned in reviews, a 
 
 ### Shortlist Logic Using Typical Nearby Neighbourhoods
 
-![Rheinische Friedrich-Wilhelms-Universität Bonn](https://img.unistay.cn/housing/p/amber-187748.jpg)
+![Rheinische Friedrich-Wilhelms-Universität Bonn](https://img.unistay.net/housing/p/amber-187748.jpg)
 
 Although no specific residence names are provided in the data, the following neighbourhoods are commonly used by University of Bonn students. Use these areas as a starting point when searching for housing. The shortlist logic below helps you decide where to focus.
 

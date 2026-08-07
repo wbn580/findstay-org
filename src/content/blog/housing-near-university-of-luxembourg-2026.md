@@ -4,7 +4,7 @@ description: "Housing Near University of Luxembourg: A Practical Guide  The Univ
 pubDatetime: 2026-07-05T09:30:31.000Z
 modDatetime: 2026-07-07T08:05:31.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-258006.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-258006.jpg"
 tags: ["university", "university-of-luxembourg"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ The Belval campus is in a pedestrian-friendly zone. Many academic buildings, the
 
 If you live in Esch-sur-Alzette centre, the walk to campus takes about 25–30 minutes, or you can take bus lines that run every 10–15 minutes. A monthly bus pass for students costs approximately €30–€40. Living in Luxembourg City means a 15–20 minute train ride plus a 5–10 minute walk on either end. The train is reliable and frequent (every 10–20 minutes), but the round-trip commute adds about an hour daily.
 
-![University of Luxembourg](https://img.unistay.cn/housing/p/amber-258006.jpg)
+![University of Luxembourg](https://img.unistay.net/housing/p/amber-258006.jpg)
 
 The trade-off is simple: walkability saves time and money but often comes with a higher rent because Belval and central Esch are in higher demand. Transit access gives you more affordable options further out but adds daily travel time and expense. For students with early classes or heavy workloads, walking is usually the better choice. For those on a tighter budget, living further out and commuting can bring monthly rent down by €100–€200.
 

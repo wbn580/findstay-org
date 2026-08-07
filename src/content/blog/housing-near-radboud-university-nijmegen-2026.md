@@ -4,7 +4,7 @@ description: "Radboud University Nijmegen – Housing Guide Based on Campus Revi
 pubDatetime: 2026-06-30T15:39:23.000Z
 modDatetime: 2026-07-07T08:50:23.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2723102.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2723102.jpg"
 tags: ["university", "radboud-university-nijmegen"]
 category: "university"
 draft: false
@@ -73,7 +73,7 @@ The campus is located in the Heyendaal district, about 1.5–2 km from the city 
 
 **If you live close to campus (Heyendaal, Galgenveld):** You can walk to lectures, the library, and the Albert Heijn XL. Rent may be slightly higher, but you save on transport time and costs.
 
-![Radboud University Nijmegen](https://img.unistay.cn/housing/p/amber-2723102.jpg)
+![Radboud University Nijmegen](https://img.unistay.net/housing/p/amber-2723102.jpg)
 
 **If you live in the city centre or beyond (Stadscentrum, Bottendaal, Wolfskuil):** You will be closer to nightlife, shops, and the main train station. Commuting to campus by bike takes 10–20 minutes. Walking is possible but less common for distances over 1.5 km.
 

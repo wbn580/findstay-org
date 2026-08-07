@@ -4,7 +4,7 @@ description: "Housing Near The Hong Kong Polytechnic University: A Practical Gui
 pubDatetime: 2026-07-01T15:24:12.000Z
 modDatetime: 2026-07-07T08:24:12.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2083786.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2083786.jpg"
 tags: ["university", "the-hong-kong-polytechnic-university"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ The central location makes walking feasible for many students:
 - **Transit-dependent (MTR 1–3 stations):** Stations on the Tuen Ma Line (e.g., Ho Man Tin, Mong Kok East) or East Rail Line (e.g., Kowloon Tong, Tai Wai) offer lower rents (HKD 4,000–6,500 for a room). Commute is 10–20 minutes plus walking. Monthly MTR pass (student concession) costs around HKD 400–600, depending on distance. The trade-off is clear: lower rent offset by transit cost and time.
 - **Further out (5+ stations):** Districts like Sha Tin, Tai Po, or Tsuen Wan may have significantly cheaper rooms (HKD 3,500–5,000) but a commute of 30–50 minutes. This works for students who value space and quiet over proximity.
 
-![The Hong Kong Polytechnic University](https://img.unistay.cn/housing/p/amber-2083786.jpg)
+![The Hong Kong Polytechnic University](https://img.unistay.net/housing/p/amber-2083786.jpg)
 
 **Calculation example:** A room in Hung Hom at HKD 8,500/month vs. a room in Sha Tin at HKD 5,500/month + HKD 600 transit = HKD 6,100/month. The Hung Hom option saves about 20 minutes each way (40 minutes/day). Over 22 study days a month, that’s 14.7 hours saved. Many students prefer the convenience, especially with late classes.
 

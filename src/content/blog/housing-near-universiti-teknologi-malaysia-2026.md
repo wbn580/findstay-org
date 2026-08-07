@@ -4,7 +4,7 @@ description: "Housing Near Universiti Teknologi Malaysia (UTM)  Universiti Tekno
 pubDatetime: 2026-07-01T21:54:13.000Z
 modDatetime: 2026-07-07T08:51:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-291701.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-291701.jpg"
 tags: ["university", "universiti-teknologi-malaysia"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Collectively, these reviews confirm that UTM offers a quiet, well-facilitated en
 
 ## City Context: Skudai and Johor Bahru
 
-![Universiti Teknologi Malaysia (UTM)](https://img.unistay.cn/housing/p/amber-291701.jpg)
+![Universiti Teknologi Malaysia (UTM)](https://img.unistay.net/housing/p/amber-291701.jpg)
 
 UTM’s official address is Jalan Iman, 81310 Skudai, Johor Darul Ta’zim, Malaysia. Skudai is a township located about 8 kilometres north-west of Johor Bahru city centre, the state capital. Johor Bahru is a major transit hub connecting Malaysia to Singapore via the Causeway, and Skudai sits on the main route (Skudai Highway) linking the city to other parts of the region.
 

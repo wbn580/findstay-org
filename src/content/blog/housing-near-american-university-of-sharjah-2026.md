@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About AUS  Student reviews paint
 pubDatetime: 2026-06-30T22:51:24.000Z
 modDatetime: 2026-07-07T08:11:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2400970.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2400970.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ Utility bills (electricity, water, cooling, internet) average AED 500–800 per 
 
 ### Shortlist Logic: How to Choose a Residence (No Specific List Provided)
 
-![American University of Sharjah (AUS)](https://img.unistay.cn/housing/p/amber-2400970.jpg)
+![American University of Sharjah (AUS)](https://img.unistay.net/housing/p/amber-2400970.jpg)
 
 No specific nearby residences were supplied in the dataset for this guide. In the absence of a curated list, you can apply the following logic to any potential housing option near AUS:
 

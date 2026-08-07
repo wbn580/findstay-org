@@ -3,8 +3,8 @@ title: "Sydney Student Accommodation Guide 2026: 12 Areas Compared"
 description: "Complete guide to student housing in Sydney — compare rent prices, suburbs, and accommodation types across 12 areas near USYD, UNSW, UTS and Macquarie University."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1600"
-ogImage: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1200"
+heroImage: "https://img.unistay.net/rehost/8d50d91042ab.jpg"
+ogImage: "https://img.unistay.net/rehost/33643ba8028a.jpg"
 tags: ["australia", "sydney", "student-accommodation", "rental-tips"]
 category: "australia"
 city: "sydney"
@@ -20,7 +20,7 @@ Sydney's rental market has tightened considerably since 2024. Vacancy rates hove
 
 The good news? Purpose-built student accommodation (PBSA) has expanded rapidly. Scape, Iglu, and UniLodge have added over 3,000 new beds since 2024, and competition among providers has started to bring prices down in some areas.
 
-![Sydney skyline from Darling Harbour](https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=1600)
+![Sydney skyline from Darling Harbour](https://img.unistay.net/rehost/740063a2e4a6.jpg)
 
 ## 12 Sydney Suburbs for Students: Price & Vibe
 
@@ -131,7 +131,7 @@ In NSW, the maximum bond is 4 weeks' rent. You'll also usually pay 2 weeks' rent
 ### 4. Watch for Scams
 Reverse image search listing photos. Never wire money via Western Union. If it seems too cheap (AUD 200/week studio in the CBD), it's a scam.
 
-![Student room interior](https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1600)
+![Student room interior](https://img.unistay.net/rehost/3b9ae82e4fe4.jpg)
 
 ## Student Visa & Housing
 

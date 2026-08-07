@@ -4,7 +4,7 @@ description: "What Student Reviews Reveal About Kazan Federal University  Kazan 
 pubDatetime: 2026-07-04T19:13:52.000Z
 modDatetime: 2026-07-07T08:52:52.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2723747.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2723747.jpg"
 tags: ["university", "kazan-federal-university"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Winter temperatures average –10°C to –15°C in January, while summer can re
 
 ## Budget Bands for Student Housing
 
-![Kazan Federal University](https://img.unistay.cn/housing/p/amber-2723747.jpg)
+![Kazan Federal University](https://img.unistay.net/housing/p/amber-2723747.jpg)
 
 Rental prices in Kazan vary depending on the location, condition, and whether utilities are included. All prices below are **indicative – confirm with the operator** before any commitment. As of 2027, typical monthly rents for student-oriented housing near KFU fall into three bands:
 

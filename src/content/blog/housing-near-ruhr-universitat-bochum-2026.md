@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About Ruhr-Universität Bochum  
 pubDatetime: 2026-07-05T02:52:35.000Z
 modDatetime: 2026-07-07T08:13:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1447461.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1447461.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ Bochum is part of the Ruhr region, a former industrial heartland that has reinve
 
 ## Budget Bands: Walk vs. Transit Trade‑Off
 
-![Ruhr-Universität Bochum](https://img.unistay.cn/housing/p/amber-1447461.jpg)
+![Ruhr-Universität Bochum](https://img.unistay.net/housing/p/amber-1447461.jpg)
 
 Your housing budget and tolerance for commute time will determine where you look. Below is a rough guide based on typical 2026 rents in Bochum (indicative — confirm with the operator at time of search).
 

@@ -4,7 +4,7 @@ description: "Living in Shah Alam: UiTM Main Campus Accommodation Guide Universi
 pubDatetime: 2026-07-05T06:32:41.000Z
 modDatetime: 2026-07-07T08:30:41.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2360447.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2360447.jpg"
 tags: ["university", "universiti-teknologi-mara-uitm"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ Since the UiTM main campus is located on the outskirts of a large city, accommod
 
 When choosing accommodation, the commuting method directly affects daily time management and study efficiency.
 
-![Universiti Teknologi MARA - UiTM](https://img.unistay.cn/housing/p/amber-2360447.jpg)
+![Universiti Teknologi MARA - UiTM](https://img.unistay.net/housing/p/amber-2360447.jpg)
 
 - **Walking Distance (approx. 1-2 km)**: If you live in on-campus dormitories or private apartments right next to the campus gate, walking to lecture halls takes only 10-20 minutes. This saves transportation costs and time, and makes it easy to use the library in the evening or attend campus events. The downside is limited choices, and some on-campus dormitories may require early application or have restrictions.
 - **Short Public Transport (bus or shuttle)**: Many students live in apartment areas in Seksyen 7 or Seksyen 9 and take RapidKL buses or campus free shuttles (if operating) to the campus. Shuttle frequency is usually every 15-30 minutes during peak hours, with longer intervals off-peak. You need to get familiar with routes and schedules in advance.

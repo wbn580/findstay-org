@@ -4,7 +4,7 @@ description: "Housing Near the University of Alberta: A 2026–2027 Guide  Choos
 pubDatetime: 2026-07-02T08:33:09.000Z
 modDatetime: 2026-07-07T08:55:09.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1106094.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1106094.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -77,7 +77,7 @@ The University of Alberta main campus is roughly 1.5–2 km from the centre of O
 
 For most students, a hybrid strategy works: walk or bike in mild months (September–October, April–May), and take transit in deep winter. If you live at 1Ten on Whyte, you are within a 10-minute walk to the Health Sciences LRT station, making the commute about 15 minutes door-to-door to campus. Alternatively, a 25-minute walk is feasible for those who enjoy the exercise.
 
-![University of Alberta](https://img.unistay.cn/housing/p/amber-1106094.jpg)
+![University of Alberta](https://img.unistay.net/housing/p/amber-1106094.jpg)
 
 ### Shortlist Logic: Using 1Ten on Whyte as a Reference
 

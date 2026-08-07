@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Ulster’s Belfast c
 pubDatetime: 2026-07-05T22:36:50.000Z
 modDatetime: 2026-07-07T07:57:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2594752.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2594752.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Public transport is reliable: buses run frequently, and a monthly student bus pa
 
 ## Budget Bands for Student Housing
 
-![University of Ulster](https://img.unistay.cn/housing/p/amber-2594752.jpg)
+![University of Ulster](https://img.unistay.net/housing/p/amber-2594752.jpg)
 
 Student housing near the University of Ulster falls into three broad budget bands. All prices listed below are indicative – always confirm with the operator, as rates vary by season and lease length.
 

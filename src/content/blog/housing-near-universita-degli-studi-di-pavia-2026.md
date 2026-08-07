@@ -4,7 +4,7 @@ description: "Housing near Università degli Studi di Pavia: A Practical Guide  
 pubDatetime: 2026-07-07T02:29:03.000Z
 modDatetime: 2026-07-07T08:33:03.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-941183.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-941183.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ Given Pavia’s size, walking is the default mode for most students. The univers
 
 Public buses exist but are infrequent (every 20–30 minutes on most lines). They are useful if you live near the outskirts (e.g., near the hospital or along Viale Lodi) or if you have mobility issues. A monthly bus pass costs about €35 (indicative – confirm with the operator). In practice, the walk-versus-bus decision is simple: if you live inside the ring road (the historic centre), walk. If you live beyond the ring, cycle or occasionally take a bus.
 
-![Università degli Studi di Pavia](https://img.unistay.cn/housing/p/amber-941183.jpg)
+![Università degli Studi di Pavia](https://img.unistay.net/housing/p/amber-941183.jpg)
 
 **Trade-off summary:**
 

@@ -4,7 +4,7 @@ description: "Housing Near London School of Economics and Political Science (LSE
 pubDatetime: 2026-07-02T01:16:32.000Z
 modDatetime: 2026-07-07T08:25:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013926.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013926.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ London’s public transport is extensive. The Tube runs from about 5:00 a.m. to 
 
 The five sample properties represent a cross‑section of what is available near LSE. Here is a shortlist logic to help you decide which type of residence might suit your priorities.
 
-![London School of Economics and Political Science (LSE)](https://img.unistay.cn/housing/p/uh-s00013926.jpg)
+![London School of Economics and Political Science (LSE)](https://img.unistay.net/housing/p/uh-s00013926.jpg)
 
 **1. One Penrhyn Road Kingston** – Located in Kingston upon Thames, this is one of the cheapest options among the sample (indicative price around £150–£180 per week). It is a modern PBSA with en suite rooms and shared kitchens. The trade‑off: a commute of roughly 45 minutes to LSE (train from Kingston to Waterloo, then Tube to Holborn). Best for students who prioritise low rent and don’t mind a longer journey.
 

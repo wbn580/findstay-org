@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  On Google, the university holds
 pubDatetime: 2026-07-01T00:18:16.000Z
 modDatetime: 2026-07-07T08:22:16.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1014345.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1014345.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ As of 2026, the cost of living in Milan continues to be among the highest in Ita
 
 ## Budget Bands for Housing (Indicative Rents – 2026)
 
-![Università Cattolica del Sacro Cuore](https://img.unistay.cn/housing/p/amber-1014345.jpg)
+![Università Cattolica del Sacro Cuore](https://img.unistay.net/housing/p/amber-1014345.jpg)
 
 Because no two students have the same financial situation, here are three broad budget bands. All prices below are indicative – confirm with the operator.
 

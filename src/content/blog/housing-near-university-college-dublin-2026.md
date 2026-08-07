@@ -4,7 +4,7 @@ description: "Housing Near University College Dublin: A Practical Guide  Univers
 pubDatetime: 2026-07-03T21:37:01.000Z
 modDatetime: 2026-07-07T09:11:01.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2734934.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2734934.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -69,7 +69,7 @@ UCD Belfield is well served by Dublin Bus routes (e.g., 11, 39A, 46A, 145) and t
 
 **Public transport:** If you live further out (e.g., near Mountjoy, which is about 3 km from campus), you will rely on buses. The journey from the city centre to UCD takes roughly 20–30 minutes, depending on traffic. A student Leap Card offers discounted fares. The trade-off: lower rent if you live farther from campus, but a longer commute and dependence on bus schedules.
 
-![University College Dublin](https://img.unistay.cn/housing/p/amber-2734934.jpg)
+![University College Dublin](https://img.unistay.net/housing/p/amber-2734934.jpg)
 
 For those who value a quick, predictable commute, look for housing within walking distance (under 2 km). If budget is tighter, you may prefer to walk a bit further or use a bus pass.
 

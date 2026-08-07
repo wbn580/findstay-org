@@ -4,7 +4,7 @@ description: "What the Campus Reviews Reveal  The Federal University of Minas Ge
 pubDatetime: 2026-07-06T11:03:13.000Z
 modDatetime: 2026-07-07T09:11:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-937413.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-937413.jpg"
 tags: ["university", "universidade-federal-de-minas-gerais"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city’s bus system is the primary public transport; there is no metro line 
 
 ## Budget Bands for Student Housing
 
-![Universidade Federal de Minas Gerais](https://img.unistay.cn/housing/p/amber-937413.jpg)
+![Universidade Federal de Minas Gerais](https://img.unistay.net/housing/p/amber-937413.jpg)
 
 Because UFMG is a tuition-free public university (most courses are free), students — domestic and international — can allocate more of their overall budget to rent and living expenses. However, the city’s cost of living is moderate by Brazilian standards, and housing prices vary widely.
 

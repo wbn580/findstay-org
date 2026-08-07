@@ -4,7 +4,7 @@ description: "Campus reviews and what they reveal about student life  A universi
 pubDatetime: 2026-07-06T01:45:04.000Z
 modDatetime: 2026-07-07T08:32:04.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00017379.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00017379.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Public transport includes buses and trains, but many students choose to walk or 
 
 ## Budget bands for student housing
 
-![Cardiff University](https://img.unistay.cn/housing/p/uh-s00017379.jpg)
+![Cardiff University](https://img.unistay.net/housing/p/uh-s00017379.jpg)
 
 Student housing in Cardiff can be grouped into three broad budget bands. All prices quoted are indicative – confirm with the operator.
 

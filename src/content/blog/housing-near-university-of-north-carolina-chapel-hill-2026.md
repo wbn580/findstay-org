@@ -4,7 +4,7 @@ description: "What campus reviews reveal  Data as of 2026: The University of Nor
 pubDatetime: 2026-07-04T01:25:45.000Z
 modDatetime: 2026-07-07T08:04:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-589378.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-589378.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Chapel Hill is a small city in North Carolina, home to roughly 60,000 residents 
 
 ## Budget bands for student housing
 
-![University of North Carolina, Chapel Hill](https://img.unistay.cn/housing/p/amber-589378.jpg)
+![University of North Carolina, Chapel Hill](https://img.unistay.net/housing/p/amber-589378.jpg)
 
 Rental prices near UNC Chapel Hill vary depending on distance, building age, and amenities. Below are indicative budget bands for the 2026–2027 academic year. All figures are indicative — confirm with the operator.
 

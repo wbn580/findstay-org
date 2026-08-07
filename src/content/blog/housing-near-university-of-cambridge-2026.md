@@ -4,7 +4,7 @@ description: "University of Cambridge: A Housing Guide Based on Campus Reviews  
 pubDatetime: 2026-07-02T21:05:47.000Z
 modDatetime: 2026-07-07T08:45:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-945413.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-945413.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ No single band is “best” — the right choice depends on your tolerance for 
 
 Cambridge is a walking city for those who live within the inner ring. The main university buildings, libraries, and college dining halls are concentrated near the city centre. If you live within a 15-minute walk of The Old Schools, you can avoid bus or bike costs and enjoy the atmospheric streets Felicity described. However, rents in this zone are at the top of the range.
 
-![University of Cambridge](https://img.unistay.cn/housing/p/amber-945413.jpg)
+![University of Cambridge](https://img.unistay.net/housing/p/amber-945413.jpg)
 
 If you choose a location outside the centre, you will likely rely on a bicycle (most practical) or the bus network. Bicycle purchase and maintenance are one-time and recurring costs but generally lower than the difference in rent. Bus passes for students cost in the range of a few hundred pounds per academic year, but frequency in outer areas can be lower. The trade-off is simple: paying more for time saved (walking) versus paying less for time invested (transit). The reviews note that the campus is “quite busy year round,” so walking through crowded streets every day might be less enjoyable for some — a point to consider.
 

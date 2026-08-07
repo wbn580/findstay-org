@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal The University of California, Riverside
 pubDatetime: 2026-07-04T07:48:45.000Z
 modDatetime: 2026-07-07T08:48:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1539548.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1539548.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ UCR is located on the east side of the city, with the main gate near the interse
 
 ## Budget Ranges
 
-![University of California, Riverside](https://img.unistay.cn/housing/p/amber-1539548.jpg)
+![University of California, Riverside](https://img.unistay.net/housing/p/amber-1539548.jpg)
 
 Using $1,129 as a reference baseline, three budget ranges can be defined based on financial capacity:
 

@@ -4,7 +4,7 @@ description: "Housing Near Goethe University Frankfurt: A Practical Guide  Goeth
 pubDatetime: 2026-07-06T00:14:08.000Z
 modDatetime: 2026-07-07T08:41:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-291614.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-291614.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ To organise your search, think in three broad bands. All figures are indicative 
 
 Choosing where to live involves balancing walkability (or bikeability) against travel time and cost.
 
-![Goethe Universität Frankfurt am Main](https://img.unistay.cn/housing/p/amber-291614.jpg)
+![Goethe Universität Frankfurt am Main](https://img.unistay.net/housing/p/amber-291614.jpg)
 
 - **Walking distance (under 15 minutes):** Properties located directly on or adjacent to a campus, typically in Bockenheim (for the old Bockenheim campus) or Riedberg (for natural sciences). Walking saves transport costs and time, but apartments here are in high demand and rents tend toward the medium or premium band. The “Neon Wood Frankfurt Riedberg” residence, by its name, is almost certainly within walking distance of the Riedberg campus. That gives you immediate access to the green, well-maintained environment praised in reviews.
 - **Transit commute (15–30 minutes):** Many students choose districts like Bornheim, Ostend, or Nordend. These have good U-Bahn / tram connections to Bockenheim or Westend. Travel costs are about €90 per month for a student semester ticket (which covers all regional public transport). You trade a slightly longer commute for more affordable rent or a more lively neighbourhood.

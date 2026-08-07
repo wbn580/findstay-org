@@ -4,7 +4,7 @@ description: "What Campus Reviews Tell Us  Ton Duc Thang University (TDTU) holds
 pubDatetime: 2026-07-05T00:36:32.000Z
 modDatetime: 2026-07-07T08:47:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-921367.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-921367.jpg"
 tags: ["university", "ton-duc-thang-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ For TDTU students, the most practical neighbourhoods are within District 7 itsel
 
 ## Budget Bands (indicative — confirm with the operator)
 
-![Ton Duc Thang University](https://img.unistay.cn/housing/p/amber-921367.jpg)
+![Ton Duc Thang University](https://img.unistay.net/housing/p/amber-921367.jpg)
 
 All rents below are typical monthly figures for 2026. They are indicative only — always confirm directly with the landlord or operator.
 

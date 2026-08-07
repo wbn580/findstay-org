@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Taiwan Tech  National Tai
 pubDatetime: 2026-07-06T23:43:39.000Z
 modDatetime: 2026-07-07T09:05:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1309841.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1309841.jpg"
 tags: ["university", "national-taiwan-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ For those who need to travel elsewhere in Taipei, the MRT provides access to dow
 
 ## Budget Bands for Student Housing (Indicative — Confirm with the Operator)
 
-![National Taiwan University of Science and Technology (Taiwan Tech)](https://img.unistay.cn/housing/p/amber-1309841.jpg)
+![National Taiwan University of Science and Technology (Taiwan Tech)](https://img.unistay.net/housing/p/amber-1309841.jpg)
 
 Rent near Taiwan Tech varies by room type, building age, and distance from campus. The figures below are indicative ranges for the 2026‑2027 academic year; always confirm with the landlord or operator before signing any agreement.
 

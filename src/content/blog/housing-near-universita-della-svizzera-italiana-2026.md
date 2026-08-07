@@ -4,7 +4,7 @@ description: "Housing Near Università della Svizzera Italiana (USI) in Lugano: 
 pubDatetime: 2026-07-04T23:28:31.000Z
 modDatetime: 2026-07-07T09:12:31.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1351353.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1351353.jpg"
 tags: ["university", "universita-della-svizzera-italiana"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ USI’s main campus is at Via Giuseppe Buffi 13, in the heart of Lugano. Many pa
 
 If you choose to live in the outskirts – such as Breganzona, Pazzallo, or Sorengo – you will need public transport. Buses 1, 2, 3, 5, and 6 connect these areas to the USI campus. A bus ride takes 10–20 minutes, and the frequency is every 10–15 minutes during peak hours. The cost of a semester bus pass (around 150 CHF) should be factored into your budget.
 
-![Università della Svizzera Italiana](https://img.unistay.cn/housing/p/amber-1351353.jpg)
+![Università della Svizzera Italiana](https://img.unistay.net/housing/p/amber-1351353.jpg)
 
 Trade‑off summary:
 

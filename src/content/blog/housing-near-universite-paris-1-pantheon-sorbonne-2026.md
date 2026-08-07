@@ -4,7 +4,7 @@ description: "University at a Glance  Université Paris 1 Panthéon‑Sorbonne h
 pubDatetime: 2026-07-02T07:51:35.000Z
 modDatetime: 2026-07-07T08:46:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1893910.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1893910.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ All figures mentioned in this guide are indicative — always confirm current pr
 
 ## Budget Bands and What They Get You
 
-![Université Paris 1 Panthéon-Sorbonne](https://img.unistay.cn/housing/p/amber-1893910.jpg)
+![Université Paris 1 Panthéon-Sorbonne](https://img.unistay.net/housing/p/amber-1893910.jpg)
 
 Based on the data available (27 residences, starting at 365 EUR), you can roughly split the options into three bands.
 

@@ -4,7 +4,7 @@ description: "Campus Location and What Reviews Tell Us  The University of Liège
 pubDatetime: 2026-07-04T14:17:53.000Z
 modDatetime: 2026-07-07T08:02:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00179605.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00179605.jpg"
 tags: ["university", "university-of-liege"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The cost of living in Liège is generally lower than in Brussels or Antwerp, whi
 
 ## Budget Bands for Student Housing
 
-![University of Liege](https://img.unistay.cn/housing/p/uh-s00179605.jpg)
+![University of Liege](https://img.unistay.net/housing/p/uh-s00179605.jpg)
 
 Student accommodation in Liège falls into several broad price ranges. All figures below are **indicative — confirm with the operator**.
 

@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Aston University’s location i
 pubDatetime: 2026-06-30T11:18:59.000Z
 modDatetime: 2026-07-07T08:12:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01478183.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01478183.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because multiple universities cluster in the area – Aston, Birmingham City, Un
 
 ## Housing Budget Bands (2026/2027)
 
-![Aston University](https://img.unistay.cn/housing/p/uh-s01478183.jpg)
+![Aston University](https://img.unistay.net/housing/p/uh-s01478183.jpg)
 
 The lowest observed weekly rent among nearby residences is 133.60 GBP. This is a starting point. Typical student accommodation in Birmingham falls into these indicative bands (all prices are per week and indicative — confirm with the operator):
 

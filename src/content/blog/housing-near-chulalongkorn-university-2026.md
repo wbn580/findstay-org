@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Chulalongkorn University (QS global ra
 pubDatetime: 2026-07-04T13:45:22.000Z
 modDatetime: 2026-07-07T09:04:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2734934.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2734934.jpg"
 tags: ["university", "chulalongkorn-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The cost of living in Bangkok varies widely. Siam and Sukhumvit areas tend to be
 
 ## Budget Bands
 
-![Chulalongkorn University](https://img.unistay.cn/housing/p/amber-2734934.jpg)
+![Chulalongkorn University](https://img.unistay.net/housing/p/amber-2734934.jpg)
 
 Rental prices for private studios and condos in Bangkok change frequently. As a general guide (indicative – confirm with the operator):
 

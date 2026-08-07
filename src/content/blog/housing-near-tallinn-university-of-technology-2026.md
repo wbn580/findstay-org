@@ -4,7 +4,7 @@ description: "Housing Near Tallinn University of Technology: What Students Say a
 pubDatetime: 2026-07-05T05:19:20.000Z
 modDatetime: 2026-07-07T08:12:20.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-186287.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-186287.jpg"
 tags: ["university", "tallinn-university-of-technology"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ On the other hand, living closer to the city centre (for example, in the Kalamaj
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![Tallinn University of Technology](https://img.unistay.cn/housing/p/amber-186287.jpg)
+![Tallinn University of Technology](https://img.unistay.net/housing/p/amber-186287.jpg)
 
 While the data provided does not list specific apartment buildings, the “nearby residences” can be understood as the typical student housing options in the Mustamäe and adjacent districts. Here is a logical approach to shortlisting:
 

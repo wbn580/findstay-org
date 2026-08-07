@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life Near Ewha Womans University 
 pubDatetime: 2026-07-04T07:24:45.000Z
 modDatetime: 2026-07-07T08:06:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2561500.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2561500.jpg"
 tags: ["university", "ewha-womans-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Seoul’s rental market is segmented. Most international students rent one-room 
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Ewha Womans University](https://img.unistay.cn/housing/p/amber-2561500.jpg)
+![Ewha Womans University](https://img.unistay.net/housing/p/amber-2561500.jpg)
 
 Because rental data changes rapidly and depends on contract terms (deposit size, utilities included, furnishings), all figures below are **indicative** and should be verified with the individual accommodation provider before any commitment.
 

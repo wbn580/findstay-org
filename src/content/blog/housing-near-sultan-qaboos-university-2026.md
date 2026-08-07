@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Reviews of Sultan Qaboos University (S
 pubDatetime: 2026-07-01T13:26:11.000Z
 modDatetime: 2026-07-07T08:58:11.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1990249.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1990249.jpg"
 tags: ["university", "sultan-qaboos-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The climate in Muscat is hot and humid for much of the year, particularly from M
 
 ## Budget Bands for Student Housing
 
-![Sultan Qaboos University](https://img.unistay.cn/housing/p/amber-1990249.jpg)
+![Sultan Qaboos University](https://img.unistay.net/housing/p/amber-1990249.jpg)
 
 No specific rental prices for properties near SQU are provided in the data you are reading now. Rental rates in the Al Khoudh area vary widely depending on property type, size, and proximity to the campus. The following bands are based on typical market patterns in Sib and should be treated as purely indicative. Confirm all prices directly with the landlord or operator before committing.
 

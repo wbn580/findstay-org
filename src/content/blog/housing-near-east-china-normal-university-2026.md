@@ -4,7 +4,7 @@ description: "What the Campus Reviews Reveal  East China Normal University (ECNU
 pubDatetime: 2026-07-01T04:30:59.000Z
 modDatetime: 2026-07-07T08:38:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01566371.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01566371.jpg"
 tags: ["university", "east-china-normal-university"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ The university is ranked 433rd in the QS World University Rankings (2026 data). 
 
 ## Budget Bands: From Dormitories to Private Studios
 
-![East China Normal University](https://img.unistay.cn/housing/p/uh-s01566371.jpg)
+![East China Normal University](https://img.unistay.net/housing/p/uh-s01566371.jpg)
 
 Housing near ECNU falls into three broad price ranges. All figures that follow are **indicative — confirm with the operator** before signing any lease.
 

@@ -4,7 +4,7 @@ description: "Housing Near University of California, Irvine: A Practical Guide  
 pubDatetime: 2026-07-02T05:18:17.000Z
 modDatetime: 2026-07-07T08:52:17.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-997253.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-997253.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ UC Irvine’s main campus is located at the intersection of Campus Drive and Uni
 - **Transit options**: OC Bus routes 79, 167, and 178 serve the campus. A bus stop near 2885 Fairview Road or 2801 Main St can get you to campus in 15–20 minutes. The Irvine Station is about 3 miles from campus and offers Metrolink commuter rail.
 - **Driving**: Most students own cars. Parking permits at UCI cost around USD 1,000 per year (2025–2026 rates; 2026–2027 may increase). Parking is limited, so many opt for off‑campus housing with a parking spot included.
 
-![University of California, Irvine](https://img.unistay.cn/housing/p/amber-997253.jpg)
+![University of California, Irvine](https://img.unistay.net/housing/p/amber-997253.jpg)
 
 **Trade‑off**: Living close to campus (e.g., 2777 Alton Parkway) saves commute time but typically costs more. Living farther away (e.g., 2885 Fairview Road or 393 Topeka) offers lower rent but requires a car or a longer bus ride. Consider your class schedule and whether you value a 10‑minute walk over a 20‑minute drive.
 

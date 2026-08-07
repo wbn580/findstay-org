@@ -4,7 +4,7 @@ description: "Why Location Matters: What Campus Reviews Reveal  When choosing ho
 pubDatetime: 2026-07-02T23:33:17.000Z
 modDatetime: 2026-07-07T08:35:17.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-937062.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-937062.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Given that the campus is not in the dense Paris city centre, the housing market 
 
 ## Budget Bands (Indicative Prices — Confirm with the Operator)
 
-![Université Paris-Saclay](https://img.unistay.cn/housing/p/amber-937062.jpg)
+![Université Paris-Saclay](https://img.unistay.net/housing/p/amber-937062.jpg)
 
 All prices below are indicative for the 2026–2027 academic year and may vary by property, season, and contract length. Always verify with the accommodation provider.
 

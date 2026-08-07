@@ -4,7 +4,7 @@ description: "Real Life Revealed by Campus Reviews The Singapore University of T
 pubDatetime: 2026-07-06T03:15:32.000Z
 modDatetime: 2026-07-07T08:15:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3222723.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3222723.jpg"
 tags: ["university", "singapore"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ According to current market data, there are about 129 rental listings near SUTD 
 
 ## Budget Ranges and Typical Room Types
 
-![Singapore University of Technology and Design](https://img.unistay.cn/housing/p/amber-3222723.jpg)
+![Singapore University of Technology and Design](https://img.unistay.net/housing/p/amber-3222723.jpg)
 
 Based on indicative prices (indicative — confirm with the operator), here are three common budget ranges for reference when filtering:
 

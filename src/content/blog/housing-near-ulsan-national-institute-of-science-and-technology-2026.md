@@ -4,7 +4,7 @@ description: "Housing near Ulsan National Institute of Science and Technology (U
 pubDatetime: 2026-06-30T10:58:24.000Z
 modDatetime: 2026-07-07T08:38:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01623847.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01623847.jpg"
 tags: ["university", "ulsan-national-institute-of-science-and-technology"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ The key decision is whether to live within walking distance of campus or to acce
 
 When evaluating specific properties (whether dorms, private apartments, or sharehouses), apply this logic:
 
-![Ulsan National Institute of Science and Technology](https://img.unistay.cn/housing/p/uh-s01623847.jpg)
+![Ulsan National Institute of Science and Technology](https://img.unistay.net/housing/p/uh-s01623847.jpg)
 
 1. **Prioritise distance to campus** – UNIST’s isolation means that a 10‑minute walk is worth far more than a 10‑minute bus ride due to bus frequency and weather. Start by filtering on walking distance.
 2. **Check deposit structure** – Korean rentals typically require a large key money deposit. Students who cannot afford 5–10 million KRW upfront should look at dorms, goshiwons, or properties offering monthly payment schemes (often called “monthly rent with low deposit”). Some landlords near UNIST accept foreign tenants with a deposit of 1–3 million KRW.

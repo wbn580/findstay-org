@@ -4,7 +4,7 @@ description: "Campus Reviews and What They Reveal  National Sun Yat-sen Universi
 pubDatetime: 2026-06-30T19:44:00.000Z
 modDatetime: 2026-07-07T09:05:00.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1601907.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1601907.jpg"
 tags: ["university", "national-sun-yat-sen-university"]
 category: "university"
 draft: false
@@ -67,7 +67,7 @@ Students who live farther, for example near the KMRT stations along the Orange L
 - Pros: more housing choices, often lower rent, quieter residential streets.
 - Cons: monthly transit cost, schedule dependence, less spontaneous access to campus facilities.
 
-![National Sun Yat-sen University](https://img.unistay.cn/housing/p/amber-1601907.jpg)
+![National Sun Yat-sen University](https://img.unistay.net/housing/p/amber-1601907.jpg)
 
 **Bicycle option**  
 Kaohsiung is relatively flat, and cycling is a viable middle ground. Many students use YouBike (public bike rental) or own a bicycle. A 2–3 km ride from the Hamasen area to campus takes about 10 minutes. Cycling bridges the gap between walk and transit zones and reduces monthly outflow.

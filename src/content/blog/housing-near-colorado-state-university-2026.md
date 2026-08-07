@@ -4,7 +4,7 @@ description: "Housing Near Colorado State University: What to Know Before You Ar
 pubDatetime: 2026-07-04T17:57:45.000Z
 modDatetime: 2026-07-07T08:59:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1692538.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1692538.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ If you plan to bike, aim for properties within 3 miles of campus; the ride takes
 
 ### Shortlist Logic: How to Choose Among Nearby Residences
 
-![Colorado State University](https://img.unistay.cn/housing/p/amber-1692538.jpg)
+![Colorado State University](https://img.unistay.net/housing/p/amber-1692538.jpg)
 
 The sample properties available for the 2026–2027 academic year offer a range of price points and distances. Here is a factual breakdown of what each option generally provides (detailed amenities and exact pricing must be confirmed directly with the operator):
 

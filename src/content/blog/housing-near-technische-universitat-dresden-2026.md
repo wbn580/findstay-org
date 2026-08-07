@@ -4,7 +4,7 @@ description: "Housing Near Technische Universität Dresden: A Practical Guide fo
 pubDatetime: 2026-07-04T08:41:02.000Z
 modDatetime: 2026-07-07T09:02:02.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-259347.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-259347.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -59,7 +59,7 @@ TU Dresden’s main campus is in the Südvorstadt, near the main train station (
 - Cons: higher rent; less space; older buildings may have thin walls.
 - Best areas: Südvorstadt (between Hauptbahnhof and campus), parts of Altstadt (teuer but close), and Löbtau (southwest, 15 min walk).
 
-![Technische Universität Dresden](https://img.unistay.cn/housing/p/amber-259347.jpg)
+![Technische Universität Dresden](https://img.unistay.net/housing/p/amber-259347.jpg)
 
 **Transit (20–45 minutes)**:
 

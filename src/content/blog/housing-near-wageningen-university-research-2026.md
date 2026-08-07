@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Studying at Wageningen University
 pubDatetime: 2026-06-30T15:13:59.000Z
 modDatetime: 2026-07-07T08:51:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1257630.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1257630.jpg"
 tags: ["university", "wageningen-university-research"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The town’s size means that almost everything – grocery stores, bars, sports 
 
 ## Budget Bands: What to Expect for Student Housing
 
-![Wageningen University & Research](https://img.unistay.cn/housing/p/amber-1257630.jpg)
+![Wageningen University & Research](https://img.unistay.net/housing/p/amber-1257630.jpg)
 
 Because housing data for specific residences is not provided, we cannot quote exact prices. However, typical student housing in Wageningen falls into three broad categories, each with indicative ranges – always confirm with the operator.
 

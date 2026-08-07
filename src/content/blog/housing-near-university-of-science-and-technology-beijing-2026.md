@@ -4,7 +4,7 @@ description: "Housing Near University of Science and Technology Beijing  Univers
 pubDatetime: 2026-07-02T10:12:44.000Z
 modDatetime: 2026-07-07T08:45:44.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1567828.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1567828.jpg"
 tags: ["university", "university-of-science-and-technology-beijing"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ All prices are indicative—confirm with the operator before signing any contrac
 
 **Transit-accessible but cheaper** means living one or two metro stops away (e.g., south to Zhichunli or north to Liu Daokou). The trade-off is 5–10 minutes on Line 15 or 13 plus walking time, which adds 15–20 minutes daily. Rent can drop by 10–20% compared to being right next to the university. Also, living close to a metro station gives you access to the rest of Beijing, which might matter if you have internships in another district.
 
-![University of Science and Technology Beijing](https://img.unistay.cn/housing/p/amber-1567828.jpg)
+![University of Science and Technology Beijing](https://img.unistay.net/housing/p/amber-1567828.jpg)
 
 For PhD students (like Syed Ejaz Hussaini) who spend long hours in the lab, walkable housing saves energy. For undergrads who take many courses across campus (as dragon wukong implied), proximity to the main gate is key. If you plan to cook at home, consider a short commute to access better or cheaper groceries outside the university zone.
 

@@ -4,7 +4,7 @@ description: "Institut Polytechnique de Paris – Housing Near Campus      Campu
 pubDatetime: 2026-07-04T02:14:53.000Z
 modDatetime: 2026-07-07T08:15:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3176018.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3176018.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -48,7 +48,7 @@ Choosing between a short walk and a longer public transit commute depends on per
 
 - **Walking distance (≤1.5 km from campus)** : You can reach the main buildings in 10–20 minutes on foot, avoiding the steep climb if you live near the top of the hill. The downside is that the immediate area is quiet; you may rely on a bike or car for grocery shopping. Rental prices are moderate. This is ideal for students who have heavy lab schedules or prefer to avoid public transport.
 
-![Institut Polytechnique de Paris](https://img.unistay.cn/housing/p/amber-3176018.jpg)
+![Institut Polytechnique de Paris](https://img.unistay.net/housing/p/amber-3176018.jpg)
 
 - **Transit commute (RER B + bus/walk)** : If you live in Orsay, Massy, or farther north, you will take the RER B to Palaiseau station, then either wait for a bus (which runs every 15–30 minutes) or walk 25–35 minutes uphill (the steep stairs Mano Mathew mentioned). The total travel time from central Paris (e.g., Denfert) to campus is about 50–70 minutes one way. On rainy days or in winter, this is unpleasant. However, living in a larger town gives you access to supermarkets, cafés, gyms, and better social life. Many students find this trade-off acceptable for a lower rent and more amenities.
 - **Cycling** is a viable middle ground: a 15-minute bike ride from Orsay or a 20-minute ride from Massy is feasible, given the hills (electric bikes help). Palaiseau and Orsay have some bike lanes. Bike storage is available on campus.

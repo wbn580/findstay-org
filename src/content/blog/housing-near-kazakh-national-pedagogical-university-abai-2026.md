@@ -4,7 +4,7 @@ description: "Housing Near Kazakh National Pedagogical University Abai  Kazakh N
 pubDatetime: 2026-07-05T03:44:01.000Z
 modDatetime: 2026-07-07T08:50:01.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1952611.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1952611.jpg"
 tags: ["university", "kazakh-national-pedagogical-university-abai"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ The university’s central location gives students three main commuting patterns
 
 Although no specific residence names are provided in the data, students can apply a systematic shortlist approach when searching on a student-housing platform. Use these criteria:
 
-![Kazakh National Pedagogical University Abai](https://img.unistay.cn/housing/p/amber-1952611.jpg)
+![Kazakh National Pedagogical University Abai](https://img.unistay.net/housing/p/amber-1952611.jpg)
 
 1. **Define radius by budget:** If your budget is 150,000 KZT or less, filter for properties 2–5 km from campus. If your budget is above 250,000 KZT, look within 1.5 km.
 2. **Check transit connectivity:** For properties beyond 1.5 km, verify the nearest metro station (Abay or Almaly) or direct bus route to Dostyk Ave. Use mapping tools to calculate door-to-door time during peak hours.

@@ -4,7 +4,7 @@ description: "Housing Near IPB University: A Guide for Students  IPB University 
 pubDatetime: 2026-07-03T15:19:25.000Z
 modDatetime: 2026-07-07T08:15:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01502973.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01502973.jpg"
 tags: ["university", "ipb-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ These reviews suggest that housing near campus should prioritise access to green
 
 ## Bogor City Context
 
-![IPB University (aka Bogor Agricultural University)](https://img.unistay.cn/housing/p/uh-s01502973.jpg)
+![IPB University (aka Bogor Agricultural University)](https://img.unistay.net/housing/p/uh-s01502973.jpg)
 
 Bogor city lies about 60 kilometres south of Jakarta, the capital. It has a cooler, wetter climate than Jakarta thanks to its higher elevation, which makes walking or cycling more comfortable. The city is known for its botanical gardens and relaxed pace of life. However, traffic can be heavy on the main roads, especially during peak hours and on weekends when Jakarta residents visit.
 

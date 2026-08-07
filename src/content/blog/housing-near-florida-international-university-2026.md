@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  Florida Internatio
 pubDatetime: 2026-07-05T12:27:41.000Z
 modDatetime: 2026-07-07T09:02:41.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2442081.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2442081.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The surrounding Westchester and Sweetwater neighborhoods are largely residential
 
 ## Budget Bands for Student Housing (2026)
 
-![Florida International University](https://img.unistay.cn/housing/p/amber-2442081.jpg)
+![Florida International University](https://img.unistay.net/housing/p/amber-2442081.jpg)
 
 Rental prices in the FIU area vary significantly by distance, unit size, and building age. As a general reference (indicative — confirm with the operator):
 

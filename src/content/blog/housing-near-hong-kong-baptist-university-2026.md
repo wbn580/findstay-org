@@ -4,7 +4,7 @@ description: "Campus reviews: what to expect at Hong Kong Baptist University  Ho
 pubDatetime: 2026-07-04T01:19:29.000Z
 modDatetime: 2026-07-07T07:52:29.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1239118.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1239118.jpg"
 tags: ["university", "hong-kong-baptist-university"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ Students often choose to live in these areas or slightly further away in Mong Ko
 
 ## Budget bands for student housing
 
-![Hong Kong Baptist University](https://img.unistay.cn/housing/p/amber-1239118.jpg)
+![Hong Kong Baptist University](https://img.unistay.net/housing/p/amber-1239118.jpg)
 
 Rental prices in Hong Kong vary greatly by location, building age, and room type. Below are indicative bands — confirm with the operator before any commitment.
 

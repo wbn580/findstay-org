@@ -3,8 +3,8 @@ title: "Stockholm Student Housing 2026: SSSB Queues, Corridors & Areas Near SU, 
 description: "Student accommodation in Stockholm — the legendary SSSB queue system, student corridors, and neighborhoods near Stockholm University, KTH, and Karolinska for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=1600"
-ogImage: "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=1200"
+heroImage: "https://img.unistay.net/rehost/aa8c7242b361.jpg"
+ogImage: "https://img.unistay.net/rehost/f3017fd3055d.jpg"
 tags: ["europe", "stockholm", "student-accommodation"]
 category: "europe"
 city: "stockholm"

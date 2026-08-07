@@ -4,7 +4,7 @@ description: "Where to Live Near the University of Otago in 2026  The University
 pubDatetime: 2026-07-05T18:38:15.000Z
 modDatetime: 2026-07-07T08:44:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1141028.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1141028.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ The University of Otago campus is compact and mostly flat. Most lecture theatres
 - **Cycling zone (15–25 minutes)**: If you’re fit and don’t mind Dunedin’s hilly terrain, cycling extends your options. Suburbs like Maori Hill, Roslyn, or Mornington are 20–25 minutes by bike. Rent is noticeably lower, and you get quiet, leafy streets. You need a good lock and lights.
 - **Bus zone (25–40 minutes)**: The city’s bus network (run by Otago Regional Council) connects outer suburbs to the university. A single trip costs around NZD 2.50 with a Bee Card. Suburbs like Anderson Bay, Corstorphine, or even Mosgiel offer lower rent but require planning around bus schedules. Buses can be less reliable late at night, which matters if you have evening classes or social commitments.
 
-![University of Otago](https://img.unistay.cn/housing/p/amber-1141028.jpg)
+![University of Otago](https://img.unistay.net/housing/p/amber-1141028.jpg)
 
 - **Car**: On-campus parking is limited and expensive (often NZD 300–600 per semester). Most students do not drive to campus. If you own a car, live further out and park on a side street.
 

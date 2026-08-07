@@ -3,8 +3,8 @@ title: "Rental Contract Red Flags: 15 Clauses to Watch Before Signing Abroad"
 description: "Protect yourself from bad rental contracts. Common unfair clauses in tenancy agreements across Australia, UK, US, Canada, Europe & Asia — and what to do about them."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600"
-ogImage: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200"
+heroImage: "https://img.unistay.net/rehost/df942a38c00c.jpg"
+ogImage: "https://img.unistay.net/rehost/16933bfc8aa5.jpg"
 tags: ["rental-tips", "student-accommodation"]
 category: "topics"
 draft: false

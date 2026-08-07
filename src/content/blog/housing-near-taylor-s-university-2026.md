@@ -4,7 +4,7 @@ description: "Housing Near Taylor's University: Campus Reviews and Neighbourhood
 pubDatetime: 2026-07-02T09:21:17.000Z
 modDatetime: 2026-07-07T07:58:17.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00512742.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00512742.jpg"
 tags: ["university", "taylor-s-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ The choice between walking and using public transport depends on your budget, sc
 
 **Transit:** If you live further away (e.g., SS15, USJ, or Bandar Sunway), the LRT and MRT lines can get you to the campus area. The closest LRT station to Taylor’s is **Taipan** (on the Kelana Jaya line), which is about 2.5 km from campus. From there, you can take a feeder bus or ride‑hailing service for the last mile. Buses operated by RapidKL and local shuttle services also serve the campus. Transit commutes typically take 20–45 minutes one‑way, depending on the distance and waiting time. This trade‑off can reduce rent but adds daily travel costs and schedule planning.
 
-![Taylor's University (Malaysia)](https://img.unistay.cn/housing/p/uh-s00512742.jpg)
+![Taylor's University (Malaysia)](https://img.unistay.net/housing/p/uh-s00512742.jpg)
 
 **Parking:** If you drive, note the negative review about valet and security on weekends. On‑campus parking can be limited during peak hours. Some students rent parking spots in nearby condos. Consider this when evaluating properties with or without dedicated parking.
 

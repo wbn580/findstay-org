@@ -4,7 +4,7 @@ description: "What Student Reviews Reveal About KU Leuven  KU Leuven, ranked 60t
 pubDatetime: 2026-07-01T22:26:47.000Z
 modDatetime: 2026-07-07T08:55:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-964530.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-964530.jpg"
 tags: ["university", "ku-leuven"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For students, the main residential zones are:
 
 ## 2027 Housing Budgets: What to Expect
 
-![KU Leuven](https://img.unistay.cn/housing/p/amber-964530.jpg)
+![KU Leuven](https://img.unistay.net/housing/p/amber-964530.jpg)
 
 Belgian student housing costs vary by type and location. As of 2027, indicative price ranges (confirm with the operator) are not fixed in the provided data, but based on typical market patterns, students can plan for:
 

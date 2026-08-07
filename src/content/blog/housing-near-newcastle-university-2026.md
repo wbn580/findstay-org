@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Newcastle University holds a 4.
 pubDatetime: 2026-07-04T07:03:19.000Z
 modDatetime: 2026-07-07T08:01:19.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00179575.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00179575.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Newcastle has a large student population spread across several neighbourhoods: J
 
 ## Budget Bands
 
-![Newcastle University](https://img.unistay.cn/housing/p/uh-s00179575.jpg)
+![Newcastle University](https://img.unistay.net/housing/p/uh-s00179575.jpg)
 
 Student housing budgets in Newcastle vary widely depending on type, location, and amenities. Below is a general indication of typical weekly costs in 2026/2027 — all prices are indicative and should be confirmed with the operator.
 

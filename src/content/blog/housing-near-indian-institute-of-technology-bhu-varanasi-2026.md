@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Student Life at IIT BHU Varanasi 
 pubDatetime: 2026-07-06T04:53:51.000Z
 modDatetime: 2026-07-07T08:58:51.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1143122.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1143122.jpg"
 tags: ["university", "indian-institute-of-technology-bhu-varanasi"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ The cost of living in Varanasi is moderate by Indian standards, but it varies si
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi)](https://img.unistay.cn/housing/p/amber-1143122.jpg)
+![Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi)](https://img.unistay.net/housing/p/amber-1143122.jpg)
 
 Housing options near IIT BHU Varanasi can be broadly divided into three budget ranges. All figures are **indicative — confirm with the operator** and reflect monthly rent per person.
 

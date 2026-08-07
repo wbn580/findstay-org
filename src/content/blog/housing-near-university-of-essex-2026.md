@@ -4,7 +4,7 @@ description: "University of Essex: A Practical Guide to Finding Student Housing 
 pubDatetime: 2026-07-06T03:46:24.000Z
 modDatetime: 2026-07-07T09:06:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-913915.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-913915.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -62,7 +62,7 @@ The University of Essex campus is located on Wivenhoe Park, roughly 2.5 miles so
 
 **Transit‑dependent (1–3 miles from campus):**
 
-![University of Essex](https://img.unistay.cn/housing/p/amber-913915.jpg)
+![University of Essex](https://img.unistay.net/housing/p/amber-913915.jpg)
 
 - Areas: Colchester city centre, Greenstead, Old Heath, Rowhedge.
 - Pros: Lower rents, more housing variety, closer to shops, restaurants, and the train station. Frequent bus services (First Essex routes 65, 66, 68, 69) run from the centre to the university every 10–15 minutes during term time. A student bus pass costs around £200–£300 per academic year (indicative).

@@ -4,7 +4,7 @@ description: "Housing Near Johannes Gutenberg Universität Mainz: Campus Reviews
 pubDatetime: 2026-07-02T20:25:15.000Z
 modDatetime: 2026-07-07T09:06:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1346282.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1346282.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ Campus is located in the Oberstadt district, about 3 kilometres south-west of th
 - **Walking distance (under 20 minutes)**: Residential zones directly around the university (e.g., Saarstraße, Friedrich-von-Pfeiffer-Weg) are convenient but have limited supply. Apartments here are in high demand and tend to be pricier. If you value rolling out of bed and getting to class quickly, be prepared to pay a premium (indicative — confirm with the operator) and start your search early.
 - **Short tram/bus ride (5–15 minutes)**: The tram line 51 and several bus lines connect the Hauptbahnhof and the city centre to the campus stop “Universität”. Living along these routes (e.g., in Neustadt, along Rheinallee, or in Hartenberg) gives you a short, direct commute. Rent is often lower than in the immediate campus zone, and you still have good access to shops and restaurants.
 
-![Johannes Gutenberg Universität Mainz](https://img.unistay.cn/housing/p/amber-1346282.jpg)
+![Johannes Gutenberg Universität Mainz](https://img.unistay.net/housing/p/amber-1346282.jpg)
 
 - **Longer commute by bike or bus (20–35 minutes)**: Districts like Bretzenheim, Hechtsheim, or Mainz-Mombach are more residential and quiet. A bicycle ride to campus is perfectly feasible (Mainz is relatively flat). The semester ticket makes bus travel free, so many students accept a 25-minute bus ride in exchange for lower rent and a larger room.
 

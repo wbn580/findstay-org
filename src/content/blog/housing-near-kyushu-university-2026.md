@@ -4,7 +4,7 @@ description: "What Student Reviews Reveal About Kyushu University’s Campuses  
 pubDatetime: 2026-07-01T18:16:24.000Z
 modDatetime: 2026-07-07T08:25:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3125008.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3125008.jpg"
 tags: ["university", "kyushu-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Since specific rent figures are not provided in the available data, students sho
 
 ## Walk vs. Transit: Deciding Where to Live
 
-![Kyushu University](https://img.unistay.cn/housing/p/amber-3125008.jpg)
+![Kyushu University](https://img.unistay.net/housing/p/amber-3125008.jpg)
 
 The biggest housing decision for a Kyushu University student is whether to live within walking distance of Ito Campus or to rely on public transit.
 

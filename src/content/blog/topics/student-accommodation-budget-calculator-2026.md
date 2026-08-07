@@ -3,8 +3,8 @@ title: "Student Accommodation Budget Calculator: Estimate Your Housing Costs in 
 description: "Interactive budgeting framework for international student housing. Compare rent, deposits, utilities, and hidden costs across Australia, UK, US, Canada, Europe & Asia."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600"
-ogImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"
+heroImage: "https://img.unistay.net/rehost/9ef158210d85.jpg"
+ogImage: "https://img.unistay.net/rehost/2f8daaf6abf9.jpg"
 tags: ["rental-tips", "student-accommodation", "budget"]
 category: "topics"
 draft: false

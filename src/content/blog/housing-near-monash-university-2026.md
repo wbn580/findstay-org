@@ -4,7 +4,7 @@ description: "Monash University Campus Life and Location  With a QS World Univer
 pubDatetime: 2026-07-02T05:39:27.000Z
 modDatetime: 2026-07-07T08:12:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1312266.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1312266.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Monash University’s main campus sits in Clayton, about 20 km southeast of Melb
 
 ## Budget Bands for Student Accommodation
 
-![Monash University](https://img.unistay.cn/housing/p/amber-1312266.jpg)
+![Monash University](https://img.unistay.net/housing/p/amber-1312266.jpg)
 
 Student housing near Monash Clayton falls into broad budget ranges. All figures below are indicative — confirm with the operator.
 

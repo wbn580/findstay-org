@@ -4,7 +4,7 @@ description: "What campus reviews reveal  Oxford Brookes University’s main cam
 pubDatetime: 2026-07-06T20:38:27.000Z
 modDatetime: 2026-07-07T07:59:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3166237.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3166237.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Public transport includes frequent bus services connecting Headington to the cit
 
 ## Budget bands (2026/27 indicative)
 
-![Oxford Brookes University](https://img.unistay.cn/housing/p/amber-3166237.jpg)
+![Oxford Brookes University](https://img.unistay.net/housing/p/amber-3166237.jpg)
 
 Rental prices for the 2026/27 academic year are indicative – confirm with the operator or landlord. The figures below are representative of typical student accommodation in Oxford as of early 2026.
 

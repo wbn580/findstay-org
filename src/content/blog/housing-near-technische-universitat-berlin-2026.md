@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal about TU Berlin  Current student and vi
 pubDatetime: 2026-07-03T21:33:07.000Z
 modDatetime: 2026-07-07T08:07:07.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2552837.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2552837.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The city is well served by public transport: U-Bahn, S-Bahn, buses, and trams co
 
 ## Budget Bands for Student Housing
 
-![Technische Universität Berlin](https://img.unistay.cn/housing/p/amber-2552837.jpg)
+![Technische Universität Berlin](https://img.unistay.net/housing/p/amber-2552837.jpg)
 
 When planning your housing budget for the 2026–2027 academic year, it helps to think in broad bands. All figures below are indicative – confirm with the operator.
 

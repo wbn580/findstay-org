@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Charles Darwin University (CDU) has a 
 pubDatetime: 2026-07-04T06:16:06.000Z
 modDatetime: 2026-07-07T09:04:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01654770.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01654770.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Housing in Darwin is generally more affordable than in Sydney or Melbourne, but 
 
 ## Budget Bands for Student Housing
 
-![Charles Darwin University](https://img.unistay.cn/housing/p/uh-s01654770.jpg)
+![Charles Darwin University](https://img.unistay.net/housing/p/uh-s01654770.jpg)
 
 Because rental data changes frequently, exact figures are not provided here. Instead, use these bands as a starting point for your search. All mentioned prices are indicative — confirm with the operator.
 

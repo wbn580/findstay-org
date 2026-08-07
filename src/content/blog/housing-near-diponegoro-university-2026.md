@@ -4,7 +4,7 @@ description: "Campus Location and What Students Say  Diponegoro University (Undi
 pubDatetime: 2026-07-03T11:56:23.000Z
 modDatetime: 2026-07-07T08:48:23.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00221625.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00221625.jpg"
 tags: ["university", "diponegoro-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ International students often choose to live in Tembalang itself or in neighbouri
 
 ## Budget Bands for Accommodation (Indicative – Confirm with Operator)
 
-![Diponegoro University](https://img.unistay.cn/housing/p/uh-s00221625.jpg)
+![Diponegoro University](https://img.unistay.net/housing/p/uh-s00221625.jpg)
 
 Rental prices around Undip vary depending on room size, furnishing, and distance from campus. Below are typical monthly ranges for 2026. Note that prices are indicative – always confirm directly with the property operator.
 

@@ -4,7 +4,7 @@ description: "Housing Near Lancaster University: What the Campus Reviews Tell Yo
 pubDatetime: 2026-07-05T17:26:41.000Z
 modDatetime: 2026-07-07T08:15:41.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2713605.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2713605.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ For students with early morning lectures or late lab sessions, the convenience o
 
 Because no specific on-campus or private residence names are provided in the data, the following general logic helps you narrow down options. When you start your search for the 2026/2027 academic year, apply these criteria to any residence you consider.
 
-![Lancaster University](https://img.unistay.cn/housing/p/amber-2713605.jpg)
+![Lancaster University](https://img.unistay.net/housing/p/amber-2713605.jpg)
 
 **Step 1: Define your budget and room type.**
 

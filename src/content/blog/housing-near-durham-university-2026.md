@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Durham University holds a QS World Uni
 pubDatetime: 2026-07-06T12:26:13.000Z
 modDatetime: 2026-07-07T08:54:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01524977.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01524977.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Local amenities include supermarkets, cafes, restaurants, and a weekly market on
 
 ## Budget Bands for Student Housing
 
-![Durham University](https://img.unistay.cn/housing/p/uh-s01524977.jpg)
+![Durham University](https://img.unistay.net/housing/p/uh-s01524977.jpg)
 
 Students looking for housing near Durham University should expect a range of price points, though exact figures depend on property type, contract length, and location. Because rents can shift from year to year, all estimates below are **indicative — confirm with the operator** before signing any agreement.
 

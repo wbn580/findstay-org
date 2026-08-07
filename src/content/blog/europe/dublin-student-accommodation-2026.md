@@ -3,8 +3,8 @@ title: "Dublin Student Accommodation 2026: Housing Near TCD, UCD & DCU"
 description: "Student housing in Dublin — university accommodation, private rentals, and digs near Trinity College, UCD, and DCU. Updated 2026 rent prices and search strategies."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1590089415225-401ed6f9db8e?w=1600"
-ogImage: "https://images.unsplash.com/photo-1590089415225-401ed6f9db8e?w=1200"
+heroImage: "https://img.unistay.net/rehost/afa05744fd89.jpg"
+ogImage: "https://img.unistay.net/rehost/9d46665c5206.jpg"
 tags: ["europe", "dublin", "student-accommodation"]
 category: "europe"
 city: "dublin"

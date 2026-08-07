@@ -4,7 +4,7 @@ description: "University of Arizona: What Campus Reviews Reveal  Over 1,500 Goog
 pubDatetime: 2026-07-05T05:35:35.000Z
 modDatetime: 2026-07-07T08:22:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1610094.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1610094.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The city itself offers a rich cultural scene: the Tucson Museum of Art, the Univ
 
 ## Budget Bands for Near-Campus Housing
 
-![University of Arizona](https://img.unistay.cn/housing/p/amber-1610094.jpg)
+![University of Arizona](https://img.unistay.net/housing/p/amber-1610094.jpg)
 
 Using the available reference data, the lowest listed rate for purpose-built student housing near the University of Arizona is $599 per month (indicative — confirm with the operator). That figure likely represents a shared room or a small studio in a property with multiple tenants. Across the eight sampled residences (including Malibu, Yugo Tucson Campus, The Pacific, Aspire Tucson, Ari on Four, and others), prices climb to around $1,200–$1,500 per month for private studios or one-bedroom units with premium amenities.
 

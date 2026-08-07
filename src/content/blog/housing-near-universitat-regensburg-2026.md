@@ -4,7 +4,7 @@ description: "What campus reviews reveal  The Universität Regensburg holds an a
 pubDatetime: 2026-07-04T14:38:07.000Z
 modDatetime: 2026-07-07T09:02:07.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-258006.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-258006.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Regensburg is relatively affordable compared to other German university cities s
 
 ## Budget bands for student housing
 
-![Universität Regensburg](https://img.unistay.cn/housing/p/amber-258006.jpg)
+![Universität Regensburg](https://img.unistay.net/housing/p/amber-258006.jpg)
 
 All prices below are indicative — confirm with the operator before committing to any contract.
 

@@ -4,7 +4,7 @@ description: "Universität Bremen: What Campus Reviews Reveal  The Universität 
 pubDatetime: 2026-07-06T19:29:48.000Z
 modDatetime: 2026-07-07T08:22:48.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2105838.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2105838.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -38,7 +38,7 @@ The university is located in the northeastern district of Horn-Lehe, a quiet res
 
 ## Budget Bands for Student Housing
 
-![Universität Bremen](https://img.unistay.cn/housing/p/amber-2105838.jpg)
+![Universität Bremen](https://img.unistay.net/housing/p/amber-2105838.jpg)
 
 Student housing in Bremen varies widely. Based on current market data (indicative — confirm with the operator), you can expect the following approximate monthly rent ranges (cold rent, or warm rent including utilities):
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at UT Austin  The University
 pubDatetime: 2026-07-04T09:57:50.000Z
 modDatetime: 2026-07-07T08:33:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-179104.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-179104.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ For a student, living in Austin means choosing between the immediate campus area
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![University of Texas at Austin](https://img.unistay.cn/housing/p/amber-179104.jpg)
+![University of Texas at Austin](https://img.unistay.net/housing/p/amber-179104.jpg)
 
 All prices below are indicative—confirm with the operator before committing. Data from the housing platform shows that available listings in Austin start from **USD 369** (indicative — confirm with the operator). This lowest price likely represents a room in a shared apartment or a small studio in a less central area. Realistic monthly budgets fall into three broad bands:
 

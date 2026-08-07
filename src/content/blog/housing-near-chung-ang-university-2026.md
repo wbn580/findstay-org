@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Chung-Ang University’s campus
 pubDatetime: 2026-07-04T18:35:27.000Z
 modDatetime: 2026-07-07T09:14:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2323735.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2323735.jpg"
 tags: ["university", "chung-ang-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For students, the key advantage of Heukseok-dong is that almost everything you n
 
 ## Budget Bands for Student Housing
 
-![Chung-Ang University](https://img.unistay.cn/housing/p/amber-2323735.jpg)
+![Chung-Ang University](https://img.unistay.net/housing/p/amber-2323735.jpg)
 
 Housing costs in Heukseok-dong tend to be moderate compared to central Seoul, though they have been rising gradually. These are typical bands for student accommodation in the area (indicative — confirm with the operator):
 

@@ -4,7 +4,7 @@ description: "University of Iowa: What Campus Reviews Reveal  The University of 
 pubDatetime: 2026-07-07T08:05:55.000Z
 modDatetime: 2026-07-07T08:23:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-954162.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-954162.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ These complexes are part of the “Rise” brand, which operates multiple studen
 
 ## Budget Bands
 
-![University of Iowa](https://img.unistay.cn/housing/p/amber-954162.jpg)
+![University of Iowa](https://img.unistay.net/housing/p/amber-954162.jpg)
 
 Housing near the University of Iowa generally falls into three budget ranges. All prices are indicative and should be confirmed with the operator before signing a lease.
 

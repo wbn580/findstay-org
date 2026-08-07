@@ -3,8 +3,8 @@ title: "Ho Chi Minh City Student Housing 2026: Districts Near RMIT Vietnam & VNU
 description: "Student accommodation in Ho Chi Minh City (Saigon) — affordable rooms near RMIT Vietnam, VNU-HCM, and Ton Duc Thang. District-by-district guide for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1600"
-ogImage: "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=1200"
+heroImage: "https://img.unistay.net/rehost/fc3f54c7a0e7.jpg"
+ogImage: "https://img.unistay.net/rehost/0a27f2b1d35f.jpg"
 tags: ["asia", "ho-chi-minh-city", "student-accommodation"]
 category: "asia"
 city: "ho-chi-minh-city"

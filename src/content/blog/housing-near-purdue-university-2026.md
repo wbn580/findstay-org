@@ -4,7 +4,7 @@ description: "Housing Near Purdue University: A Practical Guide for 2026–2027 
 pubDatetime: 2026-06-30T15:02:52.000Z
 modDatetime: 2026-07-07T08:50:52.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1364756.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1364756.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Another reviewer described Purdue as “a global forge of innovation” and “m
 
 ## City Context: Lafayette and West Lafayette
 
-![Purdue University](https://img.unistay.cn/housing/p/amber-1364756.jpg)
+![Purdue University](https://img.unistay.net/housing/p/amber-1364756.jpg)
 
 Purdue’s campus sits on the west bank of the Wabash River, in West Lafayette. Directly across the river lies the city of Lafayette. Together, these two cities form the primary living area for Purdue students, faculty, and staff.
 

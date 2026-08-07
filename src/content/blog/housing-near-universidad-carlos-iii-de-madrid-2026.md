@@ -4,7 +4,7 @@ description: "Campus Reviews at a Glance  Universidad Carlos III de Madrid (UC3M
 pubDatetime: 2026-07-05T06:20:14.000Z
 modDatetime: 2026-07-07T08:30:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-225830.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-225830.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ The average rental price for a room in Madrid is around €400–€700 per mont
 
 ## Budget Bands for Student Housing
 
-![Universidad Carlos III de Madrid](https://img.unistay.cn/housing/p/amber-225830.jpg)
+![Universidad Carlos III de Madrid](https://img.unistay.net/housing/p/amber-225830.jpg)
 
 Housing costs in the Madrid area can be grouped into rough bands. All figures are indicative – confirm with the operator before committing.
 

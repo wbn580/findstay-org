@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Wuhan University  Wuhan Universit
 pubDatetime: 2026-07-02T13:43:15.000Z
 modDatetime: 2026-07-07T08:35:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00227242.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00227242.jpg"
 tags: ["university", "wuhan-university"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ Cost of living in Wuhan is moderate compared to Beijing or Shanghai. Monthly exp
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Wuhan University](https://img.unistay.cn/housing/p/uh-s00227242.jpg)
+![Wuhan University](https://img.unistay.net/housing/p/uh-s00227242.jpg)
 
 Rental prices around Wuhan University vary by distance, room type, and building age. The following bands are indicative – confirm with the operator or landlord before signing any contract.
 

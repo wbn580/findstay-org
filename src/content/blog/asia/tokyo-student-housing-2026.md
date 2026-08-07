@@ -3,8 +3,8 @@ title: "Tokyo Student Housing Guide 2026: Accommodation Near Todai, Waseda & Kei
 description: "Find student accommodation in Tokyo — from university dorms to share houses near University of Tokyo, Waseda, and Keio. Updated 2026 rent prices and tips."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600"
-ogImage: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1200"
+heroImage: "https://img.unistay.net/rehost/af5d1d2d95ec.jpg"
+ogImage: "https://img.unistay.net/rehost/e7221961a6c4.jpg"
 tags: ["japan", "tokyo", "student-accommodation"]
 category: "asia"
 city: "tokyo"

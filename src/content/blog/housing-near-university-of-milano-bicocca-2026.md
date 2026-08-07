@@ -4,7 +4,7 @@ description: "University of Milano-Bicocca: What Campus Reviews Reveal and Where
 pubDatetime: 2026-07-04T14:19:43.000Z
 modDatetime: 2026-07-07T08:54:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2442081.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2442081.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -71,7 +71,7 @@ All prices below are indicative for 2026–2027 and should be confirmed directly
 
 Living within walking distance of the University of Milano‑Bicocca (say, within 1.5 km) gives you a 15‑ to 20‑minute walk to lectures. The main campus is compact, so you can reach most buildings quickly. The advantage is saving on a monthly transport pass (€22 for youth under 27 on ATM). The disadvantage is that the Bicocca residential zone is limited — you may end up in a less lively area compared to central Milan.
 
-![University of Milano-Bicocca](https://img.unistay.cn/housing/p/amber-2442081.jpg)
+![University of Milano-Bicocca](https://img.unistay.net/housing/p/amber-2442081.jpg)
 
 Choosing a room further out — for example, near the M5 line towards Garibaldi or near Centrale station — trades a longer commute (25–35 min by metro) for more nightlife, shopping, and job opportunities. A monthly public transport pass for Milan (full price) is €39 for the urban area. If you are under 27, the annual “Io Studio” pass costs €130 per year for unlimited travel — a good deal.
 

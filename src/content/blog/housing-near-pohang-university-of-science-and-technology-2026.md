@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Student Life at POSTECH  POSTECH 
 pubDatetime: 2026-07-03T08:42:31.000Z
 modDatetime: 2026-07-07T08:43:31.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01518266.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01518266.jpg"
 tags: ["university", "pohang-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The university sits at 77 Cheongam-ro, Nam-gu, about a 20-minute bus ride from P
 
 ## Budget Bands: What You Can Expect to Pay (2026–2027)
 
-![Pohang University of Science And Technology (POSTECH)](https://img.unistay.cn/housing/p/uh-s01518266.jpg)
+![Pohang University of Science And Technology (POSTECH)](https://img.unistay.net/housing/p/uh-s01518266.jpg)
 
 All prices below are indicative — confirm with the operator at the time of booking. They reflect typical ranges for the 2026–2027 academic year.
 

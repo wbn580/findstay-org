@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Karl-Franzens-Universität Graz  
 pubDatetime: 2026-07-07T02:31:38.000Z
 modDatetime: 2026-07-07T08:35:38.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00264189.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00264189.jpg"
 tags: ["university", "karl-franzens-universitat-graz"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Because the university is centrally located, neighbourhoods close to the old tow
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![Karl-Franzens-Universität Graz](https://img.unistay.cn/housing/p/uh-s00264189.jpg)
+![Karl-Franzens-Universität Graz](https://img.unistay.net/housing/p/uh-s00264189.jpg)
 
 Rental prices in Graz have remained relatively stable compared to other European student cities. The following bands are indicative—confirm with the operator.
 

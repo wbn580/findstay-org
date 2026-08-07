@@ -4,7 +4,7 @@ description: "Housing near University of Brawijaya: What Students Say and Where 
 pubDatetime: 2026-07-02T16:37:01.000Z
 modDatetime: 2026-07-07T08:46:01.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1134917.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1134917.jpg"
 tags: ["university", "university-of-brawijaya"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Some students use bicycles. Malang is hilly in parts, but the area around UB is 
 
 ### Shortlist Logic: How to Narrow Your Options
 
-![University of Brawijaya](https://img.unistay.cn/housing/p/amber-1134917.jpg)
+![University of Brawijaya](https://img.unistay.net/housing/p/amber-1134917.jpg)
 
 Without a specific list of nearby residences to evaluate, the shortlisting process relies on your own criteria. Here is a logical sequence to apply, based on what real students mention.
 

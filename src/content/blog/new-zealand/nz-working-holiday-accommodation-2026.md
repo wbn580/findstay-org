@@ -3,8 +3,8 @@ title: "New Zealand Working Holiday Accommodation 2026: First Month Housing for 
 description: "Accommodation guide for Working Holiday Visa holders arriving in New Zealand. Hostels, flatting, seasonal worker housing, and regional tips for fruit pickers and ski season workers."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?w=1600"
-ogImage: "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?w=1200"
+heroImage: "https://img.unistay.net/rehost/73532b3308d2.jpg"
+ogImage: "https://img.unistay.net/rehost/8b66c43d9045.jpg"
 tags: ["new-zealand", "short-term-rental", "rental-tips"]
 category: "new-zealand"
 draft: false

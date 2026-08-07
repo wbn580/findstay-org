@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Lebanese University  Lebanese Uni
 pubDatetime: 2026-07-06T05:11:36.000Z
 modDatetime: 2026-07-07T08:52:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3119541.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3119541.jpg"
 tags: ["university", "lebanese-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Lebanese University’s main campus is in Hadat, a suburb about 8 kilometers sou
 
 ## Budget Bands for Student Housing
 
-![Lebanese University](https://img.unistay.cn/housing/p/amber-3119541.jpg)
+![Lebanese University](https://img.unistay.net/housing/p/amber-3119541.jpg)
 
 Rental prices in Beirut and its suburbs fluctuate significantly due to economic conditions and currency volatility. The Lebanese pound has lost substantial value against the US dollar, and many landlords quote rents in USD or a combination. Student housing options typically include shared apartments (often with 2–4 housemates), studios, or small one-bedroom flats. The table below is not applicable per the formatting rule; instead, here is a narrative breakdown.
 

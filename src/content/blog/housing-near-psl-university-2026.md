@@ -4,7 +4,7 @@ description: "Housing Near PSL University: A Student’s Guide to Paris Accommod
 pubDatetime: 2026-07-04T18:50:20.000Z
 modDatetime: 2026-07-07T08:07:20.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2359783.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2359783.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ The trade-off is clear: spend more on rent to save time, or spend more time comm
 
 ### Shortlist Logic Using Nearby Residences
 
-![PSL University](https://img.unistay.cn/housing/p/amber-2359783.jpg)
+![PSL University](https://img.unistay.net/housing/p/amber-2359783.jpg)
 
 Given the sample of nearby student residences in the Paris area – Villejuif, XO 92800, Noisy-Le-Grand, XO 94800, and XO 75017 – a logical shortlisting method is to map each option to typical student needs:
 

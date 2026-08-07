@@ -4,7 +4,7 @@ description: "Campus reviews: what the Swinburne community says  Student reviews
 pubDatetime: 2026-07-01T00:34:10.000Z
 modDatetime: 2026-07-07T08:26:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2253840.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2253840.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Melbourne’s rental market is generally competitive, especially for properties 
 
 ## Budget bands for student housing near Swinburne
 
-![Swinburne University of Technology](https://img.unistay.cn/housing/p/amber-2253840.jpg)
+![Swinburne University of Technology](https://img.unistay.net/housing/p/amber-2253840.jpg)
 
 When planning accommodation, it helps to think in three broad budget bands. All prices below are indicative — confirm with the operator.
 

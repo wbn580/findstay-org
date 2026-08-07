@@ -4,7 +4,7 @@ description: "Universität Jena: What Student Reviews Reveal About Campus Life  
 pubDatetime: 2026-07-02T08:46:42.000Z
 modDatetime: 2026-07-07T08:57:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1096386.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1096386.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Cost of living in Jena is generally lower than in major German cities like Munic
 
 ## Housing Budget Bands (Indicative)
 
-![Universität Jena](https://img.unistay.cn/housing/p/amber-1096386.jpg)
+![Universität Jena](https://img.unistay.net/housing/p/amber-1096386.jpg)
 
 All prices below are *indicative — confirm with the operator* before committing.
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Universidad Nacional de Colombia sits 
 pubDatetime: 2026-07-01T05:07:45.000Z
 modDatetime: 2026-07-07T08:03:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-698844.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-698844.jpg"
 tags: ["university", "universidad-nacional-de-colombia"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Traffic congestion is notable, especially during peak hours. Students who live w
 
 ## Budget Bands for Student Housing
 
-![Universidad Nacional de Colombia](https://img.unistay.cn/housing/p/amber-698844.jpg)
+![Universidad Nacional de Colombia](https://img.unistay.net/housing/p/amber-698844.jpg)
 
 While exact prices depend on room type, location, and utilities, here is a general breakdown for 2026–2027. All figures are indicative — confirm with the operator.
 

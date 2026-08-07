@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Tohoku University’s main Kata
 pubDatetime: 2026-07-02T10:12:28.000Z
 modDatetime: 2026-07-07T09:05:28.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2197768.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2197768.jpg"
 tags: ["university", "tohoku-university"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Sendai is the largest city in the Tohoku region, about 90 minutes north of Tokyo
 
 ## Budget Bands
 
-![Tohoku University](https://img.unistay.cn/housing/p/amber-2197768.jpg)
+![Tohoku University](https://img.unistay.net/housing/p/amber-2197768.jpg)
 
 Rental costs in Sendai vary depending on distance from campus, property type, and furnishings. Generally, closer to the city centre and campuses, prices are higher. Below are indicative bands — always confirm exact pricing with the operator, as figures change with availability and season (indicative — confirm with the operator).
 

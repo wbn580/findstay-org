@@ -4,7 +4,7 @@ description: "Uppsala University Housing Guide: What to Know for 2026–2027  Fo
 pubDatetime: 2026-07-01T10:26:18.000Z
 modDatetime: 2026-07-07T08:53:18.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00181694.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00181694.jpg"
 tags: ["university", "uppsala-university"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ Uppsala University’s main campus (the historic centre) is walkable from many c
     *Pros:* Lower rent (often 3,500–5,000 SEK); quiet neighbourhoods; good for exercise.  
     *Cons:* Winter cycling (snow/ice possible Nov–Mar, though cycle paths are cleared); bike maintenance; need secure parking.
 
-![Uppsala University](https://img.unistay.cn/housing/p/uh-s00181694.jpg)
+![Uppsala University](https://img.unistay.net/housing/p/uh-s00181694.jpg)
 
 - **Bus (10–25 minutes)**  
   Uppsala has an efficient bus network. Students buy a monthly pass (about 500–600 SEK) or use single tickets (about 30 SEK). Journeys from Flogsta to city centre: 15–20 min. Buses run frequently (every 10–15 min during peak).  

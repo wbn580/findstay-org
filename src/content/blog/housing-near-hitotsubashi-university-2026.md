@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal about Hitotsubashi University  Hitotsub
 pubDatetime: 2026-07-02T16:57:38.000Z
 modDatetime: 2026-07-07T08:38:38.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2557630.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2557630.jpg"
 tags: ["university", "hitotsubashi-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For international students, the university’s International Society (mentioned 
 
 ## Budget Bands for Student Housing (2027)
 
-![Hitotsubashi University](https://img.unistay.cn/housing/p/amber-2557630.jpg)
+![Hitotsubashi University](https://img.unistay.net/housing/p/amber-2557630.jpg)
 
 Rental prices in the Kunitachi area for 2027 are indicative and should be confirmed with the operator before any commitment. The bands below reflect typical monthly rent for a single person, based on current market trends adjusted for inflation – always check directly with property agents or university housing offices.
 

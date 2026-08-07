@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at the University of Bern  B
 pubDatetime: 2026-07-01T18:24:58.000Z
 modDatetime: 2026-07-07T08:33:58.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2713555.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2713555.jpg"
 tags: ["university", "university-of-bern"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The university itself has several locations: the main campus on Hochschulstrasse
 
 ## Walk vs Transit Trade-off
 
-![University of Bern](https://img.unistay.cn/housing/p/amber-2713555.jpg)
+![University of Bern](https://img.unistay.net/housing/p/amber-2713555.jpg)
 
 Because Bern is relatively small, **walking is the most practical option for many students**. A room within a 20-minute walk of Hochschulstrasse 4 means you can skip public transport entirely. The main downside is cost: apartments in the old town or the Länggasse neighbourhood are in high demand and can be expensive (CHF 900–1,200/month for a room). They also tend to be smaller and older.
 

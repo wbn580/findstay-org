@@ -4,7 +4,7 @@ description: "Housing near Singapore Management University (SMU)  SMU’s centra
 pubDatetime: 2026-07-02T12:33:27.000Z
 modDatetime: 2026-07-07T08:10:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3132479.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3132479.jpg"
 tags: ["university", "singapore"]
 category: "university"
 draft: false
@@ -64,7 +64,7 @@ Properties farther out, such as 18 Penhas (near Jalan Besar) or 5 Starlight (lik
 
 ### Shortlist Logic: Looking at Nearby Residences
 
-![Singapore Management University](https://img.unistay.cn/housing/p/amber-3132479.jpg)
+![Singapore Management University](https://img.unistay.net/housing/p/amber-3132479.jpg)
 
 When evaluating a potential home, start with your non-negotiables: maximum acceptable rent, walkability, and whether you prefer a shared apartment or a solo unit. Then use the sample properties below (all indicative prices — confirm with operator) to understand trade-offs.
 

@@ -4,7 +4,7 @@ description: "Living near the University of Kansas: campus insights and housing 
 pubDatetime: 2026-07-01T06:17:04.000Z
 modDatetime: 2026-07-07T09:07:04.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-231240.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-231240.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ All prices are indicative and may change with season, lease duration, and occupa
 
 The choice between walking and using transit depends on your tolerance for commuting time, weather, and budget. KU’s campus is hilly and covers about 1,000 acres. Many academic buildings are clustered near Jayhawk Boulevard, but some departments are located further off, such as the School of Engineering (west campus) or the Lied Center (south edge). Parking on campus is notoriously limited and expensive, as the review by Peyton Parker underscores. Most students opt to walk, bike, take the bus, or live close enough to avoid driving altogether.
 
-![University of Kansas](https://img.unistay.cn/housing/p/amber-231240.jpg)
+![University of Kansas](https://img.unistay.net/housing/p/amber-231240.jpg)
 
 - **Walking**: If you live within a half-mile of your main classroom building, walking is the most reliable and cost-free option. The trade-off is higher rent for properties in that radius. Properties like Hawks Pointe and HERE Kansas are both located within a few miles of central campus, making walking feasible if you don’t mind a 20–30 minute brisk walk.
 - **Biking**: A popular compromise. Lawrence is relatively flat near downtown, and campus has ample bike racks. Many student apartments include bike storage.

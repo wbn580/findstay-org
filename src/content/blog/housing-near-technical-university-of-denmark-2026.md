@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The Technical University of Denmark (D
 pubDatetime: 2026-07-05T06:53:55.000Z
 modDatetime: 2026-07-07T09:03:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1329018.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1329018.jpg"
 tags: ["university", "technical-university-of-denmark"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The Danish housing market for students is regulated but competitive. Most intern
 
 ## Budget Bands for Student Housing (Indicative – Confirm with the Operator)
 
-![Technical University of Denmark](https://img.unistay.cn/housing/p/amber-1329018.jpg)
+![Technical University of Denmark](https://img.unistay.net/housing/p/amber-1329018.jpg)
 
 Typical monthly rents for a single student room or studio near DTU in 2026 fall into these bands. All figures are indicative; exact prices depend on size, location, and amenities. Confirm with the landlord or housing operator before signing.
 

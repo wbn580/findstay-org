@@ -4,7 +4,7 @@ description: "Housing near Ludwig-Maximilians-Universität München  Choosing wh
 pubDatetime: 2026-07-05T04:27:25.000Z
 modDatetime: 2026-07-07T08:54:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2277833.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2277833.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ Private studio or 1-bedroom apartment in central Munich, or a large room in a ve
 
 LMU’s main building at Geschwister-Scholl-Platz is in Maxvorstadt, a leafy district with 19th-century buildings, museums, and many cafés. Living in Maxvorstadt or neighbouring Schwabing allows you to walk to campus in 5–20 minutes. The trade-off is significantly higher rent – a room in that area can cost €200–€400 more per month than a comparable room 30 minutes away.
 
-![Ludwig-Maximilians-Universität München](https://img.unistay.cn/housing/p/amber-2277833.jpg)
+![Ludwig-Maximilians-Universität München](https://img.unistay.net/housing/p/amber-2277833.jpg)
 
 If you choose to live farther out (e.g. in Freimann, Garching, or Pasing), you will rely on public transport. With the semester ticket, monthly transport costs are effectively zero after the initial fee. But you spend 40–60 minutes daily commuting. For students with a tight schedule, that lost time can be a real cost.
 

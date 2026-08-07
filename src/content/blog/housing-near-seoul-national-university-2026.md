@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About SNU Living  Seoul National Univer
 pubDatetime: 2026-07-02T06:02:36.000Z
 modDatetime: 2026-07-07T08:14:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01442630.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01442630.jpg"
 tags: ["university", "seoul-national-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Seoul’s public transport network is extensive. The university is served by SNU
 
 ## Budget Bands for Student Housing
 
-![Seoul National University](https://img.unistay.cn/housing/p/uh-s01442630.jpg)
+![Seoul National University](https://img.unistay.net/housing/p/uh-s01442630.jpg)
 
 No two students spend the same amount on rent, but understanding typical ranges helps you set expectations. All prices listed below are **indicative — confirm with the operator** before signing any lease.
 

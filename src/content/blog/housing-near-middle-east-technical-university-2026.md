@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Middle East Technical University (METU
 pubDatetime: 2026-07-01T20:17:42.000Z
 modDatetime: 2026-07-07T08:09:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1191048.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1191048.jpg"
 tags: ["university", "middle-east-technical-university"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The cost of living in Ankara is lower than in Istanbul, but higher than in small
 
 ## Budget Bands for Student Housing
 
-![Middle East Technical University](https://img.unistay.cn/housing/p/amber-1191048.jpg)
+![Middle East Technical University](https://img.unistay.net/housing/p/amber-1191048.jpg)
 
 All prices below are indicative — confirm with the operator before signing any contract. The following bands cover the typical options for students at METU, based on current market trends in Ankara (2026/2027 academic year).
 

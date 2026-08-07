@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Plymouth sits at the
 pubDatetime: 2026-07-03T01:49:10.000Z
 modDatetime: 2026-07-07T08:01:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01405403.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01405403.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The local job market for students includes retail, hospitality, and tourism, esp
 
 ## Budget Bands
 
-![University of Plymouth](https://img.unistay.cn/housing/p/uh-s01405403.jpg)
+![University of Plymouth](https://img.unistay.net/housing/p/uh-s01405403.jpg)
 
 When looking for housing near the University of Plymouth, you can broadly split options into three budget bands. All prices are indicative — confirm with the operator.
 

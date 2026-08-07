@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  University College Cork (UCC) holds a 
 pubDatetime: 2026-06-30T20:49:20.000Z
 modDatetime: 2026-07-07T07:53:20.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-209413.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-209413.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Typical lease periods for the 2026/27 academic year run from September to May or
 
 ## Budget Bands for Student Housing
 
-![University College Cork](https://img.unistay.cn/housing/p/amber-209413.jpg)
+![University College Cork](https://img.unistay.net/housing/p/amber-209413.jpg)
 
 Rent in Cork varies by location, room type, and amenities. The following bands are based on 2026/27 indicative prices for the PBSA mentioned in this guide. **All prices are indicative—confirm with the operator before making any commitments.**
 

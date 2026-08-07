@@ -3,8 +3,8 @@ title: "Osaka Student Housing 2026: Accommodation Near Osaka University & Kansai
 description: "Student housing in Osaka — Japan's food capital with cheaper rent than Tokyo. Find accommodation near Osaka University and Kansai Gaidai for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=1600"
-ogImage: "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=1200"
+heroImage: "https://img.unistay.net/rehost/7c899883eb9b.jpg"
+ogImage: "https://img.unistay.net/rehost/af5aab897e6f.jpg"
 tags: ["asia", "osaka", "student-accommodation"]
 category: "asia"
 city: "osaka"

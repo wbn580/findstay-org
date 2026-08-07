@@ -4,7 +4,7 @@ description: "What campus reviews reveal about living near University of Marylan
 pubDatetime: 2026-07-04T13:12:58.000Z
 modDatetime: 2026-07-07T08:53:58.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1464157.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1464157.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The housing market around UMD is competitive, especially during the August moveâ
 
 ## Budget bands for housing near UMD
 
-![University of Maryland, College Park](https://img.unistay.cn/housing/p/amber-1464157.jpg)
+![University of Maryland, College Park](https://img.unistay.net/housing/p/amber-1464157.jpg)
 
 As of 2026, the rental market in College Park offers a range of options. Based on current listings, the starting price is around $123 per week (indicative â€” confirm with the operator). At that price point, you would likely be looking at a shared room or a room in a group house farther from campus. For a private bedroom in a shared apartment or a studio, expect to pay more.
 

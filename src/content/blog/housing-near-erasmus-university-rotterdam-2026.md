@@ -4,7 +4,7 @@ description: "Housing near Erasmus University Rotterdam: What campus reviews rev
 pubDatetime: 2026-07-04T11:07:08.000Z
 modDatetime: 2026-07-07T08:04:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1539548.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1539548.jpg"
 tags: ["university", "erasmus-university-rotterdam"]
 category: "university"
 draft: false
@@ -68,7 +68,7 @@ The trade-off is clear: on-campus living saves time and effort but may offer les
 
 ### Shortlist logic: using the known residences
 
-![Erasmus University Rotterdam](https://img.unistay.cn/housing/p/amber-1539548.jpg)
+![Erasmus University Rotterdam](https://img.unistay.net/housing/p/amber-1539548.jpg)
 
 Based on the available data, two on-campus residences are directly mentioned: **Hatta Building** and **Xior**. Neither has published reviews in our dataset, but their location is described as “inside the campus area” and “very convenient.” When building a shortlist, these two should be the first candidates if you prioritise proximity and want to avoid daily commuting.
 

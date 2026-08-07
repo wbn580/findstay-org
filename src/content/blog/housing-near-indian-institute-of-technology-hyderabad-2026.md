@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About IITH  Indian Institute of Technol
 pubDatetime: 2026-07-03T14:17:13.000Z
 modDatetime: 2026-07-07T08:32:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2229914.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2229914.jpg"
 tags: ["university", "indian-institute-of-technology-hyderabad"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ For students enrolled at IITH, the primary housing decision is whether to live o
 
 ## Budget Bands for Student Housing
 
-![Indian Institute of Technology Hyderabad (IITH)](https://img.unistay.cn/housing/p/amber-2229914.jpg)
+![Indian Institute of Technology Hyderabad (IITH)](https://img.unistay.net/housing/p/amber-2229914.jpg)
 
 Rental prices near IITH vary depending on location, type of accommodation, and amenities. The following bands are indicative — confirm with the operator.
 

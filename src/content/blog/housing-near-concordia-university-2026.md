@@ -4,7 +4,7 @@ description: "Housing Near Concordia University: What Campus Reviews Reveal  Con
 pubDatetime: 2026-07-03T05:27:58.000Z
 modDatetime: 2026-07-07T09:05:58.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-945212.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-945212.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -70,7 +70,7 @@ Concordia’s main campus (Sir George Williams) is located at Guy‑Concordia me
 
 **Cycling** is another strong option. Montreal has an extensive bike lane network, and many students mention “excellent biking options.” If you choose to live 2–3 km away, a 10‑minute bike ride can replace a 20‑minute bus trip. However, winter cycling requires proper gear and tolerance for cold.
 
-![Concordia University](https://img.unistay.cn/housing/p/amber-945212.jpg)
+![Concordia University](https://img.unistay.net/housing/p/amber-945212.jpg)
 
 Given the reviews praising transit and biking, many students find that living a small distance from campus and using a bike or metro is a good balance between affordability and convenience.
 

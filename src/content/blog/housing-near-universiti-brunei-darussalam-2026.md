@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Universiti Brunei Darussalam (UBD) hol
 pubDatetime: 2026-07-03T13:47:08.000Z
 modDatetime: 2026-07-07T07:56:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1725595.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1725595.jpg"
 tags: ["university", "universiti-brunei-darussalam"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Housing options for students in Brunei are limited compared to larger Southeast 
 
 ## Budget Bands for Student Housing
 
-![Universiti Brunei Darussalam (UBD)](https://img.unistay.cn/housing/p/amber-1725595.jpg)
+![Universiti Brunei Darussalam (UBD)](https://img.unistay.net/housing/p/amber-1725595.jpg)
 
 Because no specific rental data is provided for this guide, the following information is a general orientation only. All prices mentioned are indicative — confirm with the operator.
 

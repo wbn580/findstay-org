@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Bauman Moscow State Technical U
 pubDatetime: 2026-07-04T18:48:34.000Z
 modDatetime: 2026-07-07T08:44:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1097087.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1097087.jpg"
 tags: ["university", "bauman-moscow-state-technical-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The university itself has a compact, multi-building campus. Most lectures and la
 
 ## Budget Bands for Student Housing
 
-![Bauman Moscow State Technical University](https://img.unistay.cn/housing/p/amber-1097087.jpg)
+![Bauman Moscow State Technical University](https://img.unistay.net/housing/p/amber-1097087.jpg)
 
 All prices below are indicative – confirm with the operator. Actual costs depend on room type, location, season, and contract terms. Use these bands as a starting point when comparing options.
 

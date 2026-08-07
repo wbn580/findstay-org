@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal: A Glimpse into USJ  Student reviews of
 pubDatetime: 2026-07-04T01:19:10.000Z
 modDatetime: 2026-07-07T08:03:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013493.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013493.jpg"
 tags: ["university", "saint-joseph-university-of-beirut"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Rental prices in Beirut have fluctuated in recent years due to economic conditio
 
 ## Budget Bands for Student Housing Near USJ
 
-![Saint Joseph University of Beirut (USJ)](https://img.unistay.cn/housing/p/uh-s00013493.jpg)
+![Saint Joseph University of Beirut (USJ)](https://img.unistay.net/housing/p/uh-s00013493.jpg)
 
 When searching for accommodation within walking distance or a short commute to USJ, students can roughly divide their options into three budget bands:
 

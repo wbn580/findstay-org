@@ -4,7 +4,7 @@ description: "Griffith University Student Housing Guide: What to Know Before You
 pubDatetime: 2026-07-07T08:07:05.000Z
 modDatetime: 2026-07-07T08:09:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3259873.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3259873.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ For cyclists, dedicated bike paths are limited but present on parts of the campu
 
 ### Shortlist Logic Using Nearby Residences
 
-![Griffith University](https://img.unistay.cn/housing/p/amber-3259873.jpg)
+![Griffith University](https://img.unistay.net/housing/p/amber-3259873.jpg)
 
 When you search for housing near Griffith Nathan, apply a systematic shortlist logic rather than randomly browsing. Use the following criteria with your budget band in mind:
 

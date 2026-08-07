@@ -4,7 +4,7 @@ description: "Housing Near the University of Siena: What Students Say & Where to
 pubDatetime: 2026-07-02T02:59:11.000Z
 modDatetime: 2026-07-07T07:54:11.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-259347.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-259347.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Because this guide does not have a pre-defined list of nearby properties, you ca
 
 1. **Proximity to your faculty**: The University of Siena has multiple sites—the main campus is in the centre, but departments like Engineering (located in the San Niccolò area) or Economics (near Piazza San Francesco) are slightly different. Check your lecture addresses. If you are in a science programme, you may need to use a bus to reach the San Niccolò science campus (10–15 min by bus from the centre). Housing near Porta San Marco or San Prospero would then be more convenient.
 
-![University of Siena](https://img.unistay.cn/housing/p/amber-259347.jpg)
+![University of Siena](https://img.unistay.net/housing/p/amber-259347.jpg)
 
 2. **Contract type**: Italian rental contracts for students are typically:
 

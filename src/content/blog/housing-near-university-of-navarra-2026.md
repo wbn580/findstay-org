@@ -4,7 +4,7 @@ description: "University of Navarra Campus & What Reviews Reveal  The University
 pubDatetime: 2026-07-06T16:11:12.000Z
 modDatetime: 2026-07-07T08:49:12.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-924822.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-924822.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Rent for student accommodation in Pamplona ranges broadly. Based on available li
 
 ## Budget Bands for Student Housing
 
-![University of Navarra](https://img.unistay.cn/housing/p/amber-924822.jpg)
+![University of Navarra](https://img.unistay.net/housing/p/amber-924822.jpg)
 
 Understanding your budget helps narrow options. Below are typical monthly bands for furnished student accommodation in Pamplona (2026–2027 academic year, all prices indicative — confirm with the operator).
 

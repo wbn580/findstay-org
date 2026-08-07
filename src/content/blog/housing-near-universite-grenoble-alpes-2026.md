@@ -4,7 +4,7 @@ description: "Housing Near Université Grenoble Alpes: A Practical Guide     Wha
 pubDatetime: 2026-07-07T07:21:21.000Z
 modDatetime: 2026-07-07T08:45:21.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00229230.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00229230.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ Overall, the reviews suggest that students appreciate the campus setting near th
 
 ## City Context: Grenoble as a Student City
 
-![Université Grenoble Alpes](https://img.unistay.cn/housing/p/uh-s00229230.jpg)
+![Université Grenoble Alpes](https://img.unistay.net/housing/p/uh-s00229230.jpg)
 
 Grenoble is a mid-sized city in the French Alps, known for its research and technology sectors. Université Grenoble Alpes (UGA) is the main university, with approximately 60,000 students across its campuses. The university’s address — 621 Av. Centrale, 38400 Saint-Martin-d’Hères — places it in the “Domaine Universitaire” (University Domain), a dedicated campus area that also houses the Grenoble Institute of Technology and several research labs. The city itself has a vibrant student life, with numerous cafés, bars, and cultural events. The surrounding mountains offer outdoor activities like hiking and skiing, which are a major draw for many students.
 

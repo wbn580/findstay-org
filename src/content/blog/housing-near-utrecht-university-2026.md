@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Utrecht University holds a global QS r
 pubDatetime: 2026-07-07T00:25:29.000Z
 modDatetime: 2026-07-07T09:01:29.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01518080.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01518080.jpg"
 tags: ["university", "utrecht-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The city has a population of around 360,000, of which roughly 70,000 are student
 
 ## Budget Bands (2026–2027)
 
-![Utrecht University](https://img.unistay.cn/housing/p/uh-s01518080.jpg)
+![Utrecht University](https://img.unistay.net/housing/p/uh-s01518080.jpg)
 
 Rental prices in Utrecht vary significantly by room type, location, and whether utilities are included. The figures below are **indicative — confirm with the operator** before signing any agreement. These bands are typical for the 2026–2027 academic year based on current market trends in the city.
 

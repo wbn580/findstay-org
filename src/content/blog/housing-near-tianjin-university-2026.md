@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Tianjin University (TJU) holds a QS Wo
 pubDatetime: 2026-07-03T18:43:56.000Z
 modDatetime: 2026-07-07T08:01:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1350204.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1350204.jpg"
 tags: ["university", "tianjin-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The local economy has experienced slower growth in recent years compared to boom
 
 ## Budget Bands for Housing
 
-![Tianjin University](https://img.unistay.cn/housing/p/amber-1350204.jpg)
+![Tianjin University](https://img.unistay.net/housing/p/amber-1350204.jpg)
 
 Housing options near Tianjin University range from dormitory-style student apartments to single-bedroom flats. All figures below are **indicative — confirm with the operator**, represent monthly rent in Chinese Yuan (RMB), and are based on typical listings in the area as of early 2026.
 

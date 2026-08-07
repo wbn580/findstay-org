@@ -4,7 +4,7 @@ description: "What campus reviews reveal about student life at University of Dun
 pubDatetime: 2026-07-05T18:58:11.000Z
 modDatetime: 2026-07-07T08:36:11.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3132481.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3132481.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For international students, Dundee’s size can be an advantage: everything is a
 
 ## Budget bands for student housing near University of Dundee
 
-![University of Dundee](https://img.unistay.cn/housing/p/amber-3132481.jpg)
+![University of Dundee](https://img.unistay.net/housing/p/amber-3132481.jpg)
 
 Rental costs in Dundee vary by property type and distance from campus. Below is a breakdown of typical monthly rents (indicative — confirm with the operator). These figures are based on general local market trends for the 2026–2027 academic year; always verify with individual landlords or operators.
 

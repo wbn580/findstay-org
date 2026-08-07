@@ -4,7 +4,7 @@ description: "Housing Near Boston College: What the Campus and Neighborhood Reve
 pubDatetime: 2026-07-06T15:08:44.000Z
 modDatetime: 2026-07-07T08:19:44.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2301658.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2301658.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ Boston College’s main academic buildings are clustered along Commonwealth Aven
 
 ### Shortlist Logic: How to Choose a Residence Area
 
-![Boston College](https://img.unistay.cn/housing/p/amber-2301658.jpg)
+![Boston College](https://img.unistay.net/housing/p/amber-2301658.jpg)
 
 Because no single set of residences is provided by the data, a shortlist logic can be built from the combination of budget, lifestyle, and campus feedback. Use the following criteria to narrow down areas:
 

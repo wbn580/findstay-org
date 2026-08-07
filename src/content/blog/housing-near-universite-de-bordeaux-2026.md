@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Université de Bordeaux holds a Google
 pubDatetime: 2026-07-05T04:00:42.000Z
 modDatetime: 2026-07-07T07:58:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2323822.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2323822.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Climate-wise, Bordeaux enjoys 2,000+ hours of sunshine yearly. Winters are mild 
 
 ## Budget Bands: What to Expect for 2026–2027
 
-![Université de Bordeaux](https://img.unistay.cn/housing/p/amber-2323822.jpg)
+![Université de Bordeaux](https://img.unistay.net/housing/p/amber-2323822.jpg)
 
 Rents in Bordeaux continue to rise gradually due to student demand and limited supply. For the 2026–2027 academic year, plan for these indicative bands – always confirm with the operator:
 

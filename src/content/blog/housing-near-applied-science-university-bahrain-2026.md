@@ -4,7 +4,7 @@ description: "About Applied Science University – Bahrain Applied Science Unive
 pubDatetime: 2026-07-06T04:43:35.000Z
 modDatetime: 2026-07-07T07:58:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3224445.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3224445.jpg"
 tags: ["university", "applied-science-university-bahrain"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ A review by Sheikh fahroz introduced ASU’s background: “The Applied Science 
 
 ## City Background: Al Eker, Bahrain
 
-![Applied Science University - Bahrain](https://img.unistay.cn/housing/p/amber-3224445.jpg)
+![Applied Science University - Bahrain](https://img.unistay.net/housing/p/amber-3224445.jpg)
 
 Al Eker is located in the northern part of Bahrain’s main island, near the southern suburbs of the capital Manama. This area is a rapidly developing residential zone, with many new apartment buildings and villa communities built in recent years. Compared to downtown Manama, Al Eker has a lower residential density and wider streets, but commercial facilities are relatively limited. Daily shopping, dining, and entertainment needs often require traveling to nearby Manama suburbs (such as Isa Town, Riffa) or the city center.
 

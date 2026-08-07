@@ -3,8 +3,8 @@ title: "Gold Coast Student Housing 2026: Griffith & Bond University Accommodatio
 description: "Student accommodation on the Gold Coast — from Surfers Paradise studios to Southport sharehouses. Updated rent prices for Griffith GC and Bond University students."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600"
-ogImage: "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1200"
+heroImage: "https://img.unistay.net/rehost/dc7b72369752.jpg"
+ogImage: "https://img.unistay.net/rehost/8cf58909b4c0.jpg"
 tags: ["australia", "gold-coast", "student-accommodation"]
 category: "australia"
 city: "gold-coast"

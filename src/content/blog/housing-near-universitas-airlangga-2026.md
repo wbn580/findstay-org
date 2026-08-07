@@ -4,7 +4,7 @@ description: "Understanding the Campus Through Reviews  Universitas Airlangga (U
 pubDatetime: 2026-06-30T18:23:54.000Z
 modDatetime: 2026-07-07T08:21:54.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-257629.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-257629.jpg"
 tags: ["university", "universitas-airlangga"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ Key factors for housing:
 
 ## Budget Bands for Student Housing
 
-![Universitas Airlangga](https://img.unistay.cn/housing/p/amber-257629.jpg)
+![Universitas Airlangga](https://img.unistay.net/housing/p/amber-257629.jpg)
 
 Housing options near UNAIR fall into three typical bands. All prices are indicative — confirm with the operator.
 

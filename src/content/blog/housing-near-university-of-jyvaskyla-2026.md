@@ -4,7 +4,7 @@ description: "Housing Near the University of Jyväskylä: What Students Say and 
 pubDatetime: 2026-07-02T01:16:28.000Z
 modDatetime: 2026-07-07T08:01:28.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00017685.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00017685.jpg"
 tags: ["university", "university-of-jyvaskyla"]
 category: "university"
 draft: false
@@ -68,7 +68,7 @@ The University of Jyväskylä’s main campus is at Seminaarinkatu 15, within wa
 - Pros: Cheaper rent, more green space, quieter. Free parking for bikes.
 - Cons: In winter, cycling becomes difficult; buses run less frequently after 10 pm. A bus pass costs around €35–€50 per month for students.
 
-![University of Jyväskylä](https://img.unistay.cn/housing/p/uh-s00017685.jpg)
+![University of Jyväskylä](https://img.unistay.net/housing/p/uh-s00017685.jpg)
 
 **Further out (over 3 km)**
 

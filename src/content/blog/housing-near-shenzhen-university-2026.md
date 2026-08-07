@@ -4,7 +4,7 @@ description: "Housing near Shenzhen University (SZU): student reviews, indicativ
 pubDatetime: 2026-07-04T16:37:49.000Z
 modDatetime: 2026-07-07T08:55:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2345719.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2345719.jpg"
 tags: ["university", "shenzhen-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The local economy is driven by tech companies, so the neighbourhood attracts man
 
 ## Budget Overview
 
-![Shenzhen University](https://img.unistay.cn/housing/p/amber-2345719.jpg)
+![Shenzhen University](https://img.unistay.net/housing/p/amber-2345719.jpg)
 
 Off-campus housing near SZU can be broadly grouped into three budget tiers. Keep in mind that all prices mentioned are indicative — confirm with the operator, as they change with market conditions and lease terms.
 

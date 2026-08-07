@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About UVic  The University of Vi
 pubDatetime: 2026-06-30T13:37:15.000Z
 modDatetime: 2026-07-07T09:15:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3223596.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3223596.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For the 2026–2027 academic year, typical monthly rents for a one‑bedroom apa
 
 ## Budget Bands
 
-![University of Victoria](https://img.unistay.cn/housing/p/amber-3223596.jpg)
+![University of Victoria](https://img.unistay.net/housing/p/amber-3223596.jpg)
 
 To help you plan, here are rough monthly budgets for a single student (CAD). All figures are indicative — confirm with the operator.
 

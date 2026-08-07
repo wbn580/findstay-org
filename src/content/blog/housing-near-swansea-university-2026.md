@@ -4,7 +4,7 @@ description: "Campus Vibe and What Reviews Tell You  Swansea University holds a 
 pubDatetime: 2026-07-05T14:01:27.000Z
 modDatetime: 2026-07-07T08:24:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-258006.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-258006.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Swansea is a coastal city in South Wales, officially designated as an Area of Ou
 
 ## Budget Bands for Student Housing
 
-![Swansea University](https://img.unistay.cn/housing/p/amber-258006.jpg)
+![Swansea University](https://img.unistay.net/housing/p/amber-258006.jpg)
 
 No specific rent figures are given in the provided data, so the bands below are indicative of typical Swansea student accommodation in 2026 or 2027 — confirm with the operator.
 

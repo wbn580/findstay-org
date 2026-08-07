@@ -4,7 +4,7 @@ description: "Campus Reviews and What They Reveal  Konkuk University (KU), locat
 pubDatetime: 2026-07-02T16:39:39.000Z
 modDatetime: 2026-07-07T08:25:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-945413.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-945413.jpg"
 tags: ["university", "konkuk-university"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Students considering housing near KU should expect a mix of Korean‑style studi
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Konkuk University](https://img.unistay.cn/housing/p/amber-945413.jpg)
+![Konkuk University](https://img.unistay.net/housing/p/amber-945413.jpg)
 
 Rental prices near Konkuk University vary significantly based on room size, distance to campus, and whether utilities/internet are included. The figures below are indicative ranges for 2026 or 2027:
 

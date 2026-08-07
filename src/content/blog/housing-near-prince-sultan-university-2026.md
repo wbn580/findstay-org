@@ -4,7 +4,7 @@ description: "Finding Student Housing Near Prince Sultan University  Choosing wh
 pubDatetime: 2026-07-05T16:58:19.000Z
 modDatetime: 2026-07-07T08:26:19.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1309962.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1309962.jpg"
 tags: ["university", "prince-sultan-university"]
 category: "university"
 draft: false
@@ -54,7 +54,7 @@ Your choice between living within walking distance or relying on transit depends
 - Cons: Rent premium; units near PSU are more expensive. Also, Riyadh summers (May–September) can exceed 45°C, making even a short walk uncomfortable. You would need to plan your walks early morning or late evening.
 - Best for: Students who value time and have a mid-range to premium budget.
 
-![Prince Sultan University](https://img.unistay.cn/housing/p/amber-1309962.jpg)
+![Prince Sultan University](https://img.unistay.net/housing/p/amber-1309962.jpg)
 
 **Transit (bus or car, commute 20–45 minutes)**
 

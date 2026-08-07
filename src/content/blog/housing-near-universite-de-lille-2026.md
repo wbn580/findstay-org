@@ -4,7 +4,7 @@ description: "Campus Evaluation of Université de Lille: Real Experiences from S
 pubDatetime: 2026-07-03T12:01:20.000Z
 modDatetime: 2026-07-07T08:26:20.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1451181.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1451181.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ Lille city itself also has many other higher education institutions and collabor
 
 ## Housing Budget Range (indicative — confirm with the operator)
 
-![Université de Lille](https://img.unistay.cn/housing/p/amber-1451181.jpg)
+![Université de Lille](https://img.unistay.net/housing/p/amber-1451181.jpg)
 
 All prices below are **indicative reference values**; please confirm with the apartment operator or landlord.
 

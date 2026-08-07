@@ -4,7 +4,7 @@ description: "Housing Near Pontificia Universidad Católica del Perú (PUCP)  Po
 pubDatetime: 2026-07-03T19:20:25.000Z
 modDatetime: 2026-07-07T09:06:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-263811.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-263811.jpg"
 tags: ["university", "pontificia-universidad-catolica-del-peru"]
 category: "university"
 draft: false
@@ -86,7 +86,7 @@ Rental prices in San Miguel vary by distance from campus and level of furnishing
 
 **Public transport** becomes necessary if you choose a cheaper rental further out (e.g., in Pueblo Libre or Magdalena). A typical bus ride (“combi”) costs 1–2 PEN (≈ $0.25–$0.50). However, during peak hours (7–9 AM and 5–8 PM) buses are extremely crowded and can take 20–40 minutes for a 3‑km trip. If you commute during these hours, allow an extra 15 minutes for delays. Some students use shared taxis (taxi colectivo) along fixed routes for 3–5 PEN per trip, which is slightly faster but still subject to traffic.
 
-![Pontificia Universidad Católica del Perú (PUCP)](https://img.unistay.cn/housing/p/amber-263811.jpg)
+![Pontificia Universidad Católica del Perú (PUCP)](https://img.unistay.net/housing/p/amber-263811.jpg)
 
 **Bicycle** is an option, but San Miguel’s streets lack dedicated bike lanes, and traffic can be aggressive. Few students cycle to PUCP. Lime (electric scooter) is available in parts of Lima but not widespread.
 

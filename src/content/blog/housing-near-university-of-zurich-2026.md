@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Student reviews of the University of Z
 pubDatetime: 2026-07-01T10:49:13.000Z
 modDatetime: 2026-07-07T09:00:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00735350.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00735350.jpg"
 tags: ["university", "university-of-zurich"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Living outside the city (e.g., in Winterthur, Baden, or Zug) is cheaper but requ
 
 ## Budget Bands for Student Housing
 
-![University of Zurich (UZH)](https://img.unistay.cn/housing/p/uh-s00735350.jpg)
+![University of Zurich (UZH)](https://img.unistay.net/housing/p/uh-s00735350.jpg)
 
 All figures below are indicative — confirm with the operator. Prices are in Swiss Francs per month, and are typical for the 2026/2027 academic year. Zurich’s rental market is tight; average rents have been rising 2–4% annually.
 

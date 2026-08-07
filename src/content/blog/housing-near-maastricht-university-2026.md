@@ -4,7 +4,7 @@ description: "Housing Near Maastricht University: A Practical Guide for 2026  Ma
 pubDatetime: 2026-07-02T18:29:02.000Z
 modDatetime: 2026-07-07T09:15:02.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2128937.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2128937.jpg"
 tags: ["university", "maastricht-university"]
 category: "university"
 draft: false
@@ -60,7 +60,7 @@ Maastricht University’s main location at Minderbroedersberg is extremely centr
 
 For lower rents, consider areas served by bus lines 1, 3, 4, or 10, which connect Randwyck, Heer, or Amby to the city centre. A bus journey typically takes 10–20 minutes, and a monthly student travel pass costs approximately €50–€80 (check the operator for 2026 rates). The main downside is reduced flexibility for late‑night study sessions or impromptu group meetings. Additionally, if you rely on public transport, check the schedule frequency — some buses run less often after 9 pm.
 
-![Maastricht University](https://img.unistay.cn/housing/p/amber-2128937.jpg)
+![Maastricht University](https://img.unistay.net/housing/p/amber-2128937.jpg)
 
 Cycling is very popular in Maastricht; a bicycle can reduce transit time from outlying areas to 15–25 minutes and costs little (second‑hand bike: €100–€200; yearly maintenance: ~€50). If you plan to bike, look for accommodation with secure bike parking.
 

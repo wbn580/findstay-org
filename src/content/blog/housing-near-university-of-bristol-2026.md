@@ -4,7 +4,7 @@ description: "What campus reviews reveal  Student feedback about the University 
 pubDatetime: 2026-06-30T18:24:25.000Z
 modDatetime: 2026-07-07T08:22:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013872.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013872.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Bristol’s public transport includes buses and trains, but many students choose
 
 ## Budget bands for 2026/2027
 
-![University of Bristol](https://img.unistay.cn/housing/p/uh-s00013872.jpg)
+![University of Bristol](https://img.unistay.net/housing/p/uh-s00013872.jpg)
 
 When planning your housing budget for the 2026/2027 academic year, keep in mind that prices are indicative and subject to change. Based on current listings, typical weekly rents in Bristol fall into the following bands (per person, per week):
 

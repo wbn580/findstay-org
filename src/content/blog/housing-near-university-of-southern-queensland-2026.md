@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About UniSQ  The University of S
 pubDatetime: 2026-07-01T22:28:08.000Z
 modDatetime: 2026-07-07T08:25:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00669941.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00669941.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Prices vary by condition, proximity to campus, and inclusions (bills, internet).
 
 ## Budget Bands: Choosing Your Price Level
 
-![University of Southern Queensland](https://img.unistay.cn/housing/p/uh-s00669941.jpg)
+![University of Southern Queensland](https://img.unistay.net/housing/p/uh-s00669941.jpg)
 
 When searching for accommodation near UniSQ, divide your budget into three bands:
 

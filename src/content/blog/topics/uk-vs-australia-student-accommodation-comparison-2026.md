@@ -3,8 +3,8 @@ title: "UK vs Australia Student Accommodation: Which Country Offers Better Value
 description: "Side-by-side comparison of student housing in the UK and Australia — rent, deposits, tenancy rights, council tax vs no council tax, and overall cost of living."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=1600"
-ogImage: "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=1200"
+heroImage: "https://img.unistay.net/rehost/740063a2e4a6.jpg"
+ogImage: "https://img.unistay.net/rehost/b00440b584fa.jpg"
 tags: ["uk", "australia", "student-accommodation", "comparison"]
 category: "topics"
 draft: false

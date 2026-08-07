@@ -4,7 +4,7 @@ description: "What TUM Campus Reviews Reveal  The Technical University of Munich
 pubDatetime: 2026-07-01T07:30:08.000Z
 modDatetime: 2026-07-07T08:04:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1678002.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1678002.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The student population in Munich exceeds 100,000, shared among several universit
 
 ## Budget Bands for Student Housing
 
-![Technical University of Munich](https://img.unistay.cn/housing/p/amber-1678002.jpg)
+![Technical University of Munich](https://img.unistay.net/housing/p/amber-1678002.jpg)
 
 All prices below are indicative — confirm with the operator. The numbers represent typical monthly rents for a single person in 2026/2027.
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About ENS de Lyon  Before searching for
 pubDatetime: 2026-07-03T01:48:33.000Z
 modDatetime: 2026-07-07T08:50:33.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2350489.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2350489.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The average monthly rent for student accommodation in Lyon ranges from around �
 
 ## Budget Bands: What You Can Get for Your Money
 
-![Ecole Normale Supérieure de Lyon](https://img.unistay.cn/housing/p/amber-2350489.jpg)
+![Ecole Normale Supérieure de Lyon](https://img.unistay.net/housing/p/amber-2350489.jpg)
 
 The data shows 7 available properties near ENS de Lyon, with the cheapest starting at €630 (indicative). Here is a rough breakdown of typical budget levels in Lyon in 2026:
 

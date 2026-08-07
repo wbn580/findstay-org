@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About King's College London  Kin
 pubDatetime: 2026-07-03T17:10:06.000Z
 modDatetime: 2026-07-07T08:50:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01478381.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01478381.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -42,7 +42,7 @@ These prices are subject to change and vary by season. Always verify current rat
 
 ## Walk vs. Transit Trade-Off
 
-![King's College London (KCL)](https://img.unistay.cn/housing/p/uh-s01478381.jpg)
+![King's College London (KCL)](https://img.unistay.net/housing/p/uh-s01478381.jpg)
 
 One of the biggest decisions for KCL students is whether to live within walking distance of their primary campus or to accept a longer commute in exchange for lower rent or more space.
 

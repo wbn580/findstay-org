@@ -4,7 +4,7 @@ description: "Housing Near Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
 pubDatetime: 2026-07-02T11:40:08.000Z
 modDatetime: 2026-07-07T08:46:08.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01550019.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01550019.jpg"
 tags: ["university", "universiti-malaysia-pahang-al-sultan-abdullah"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ These prices are generally lower than in Kuantan. However, always verify with cu
 
 Given the campus size and the surrounding road network, walking is not a realistic primary mode of transport for most students. The university itself is spread over a large area, and many lecture halls, labs, and libraries are far apart. The campus does have some internal shuttle services, but frequency and routes may be limited. Some students rely on ride-hailing (e.g., Grab) for short trips within the compound, though this can add up.
 
-![Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)](https://img.unistay.cn/housing/p/uh-s01550019.jpg)
+![Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)](https://img.unistay.net/housing/p/uh-s01550019.jpg)
 
 For off-campus residents, walking to campus is almost impossible unless the rental is within the immediate campus boundary (which is rare). Most off-campus housing is located 1–3 km away along roads with no pedestrian-friendly infrastructure. The roundabout-heavy road design mentioned in one review also makes walking hazardous.
 

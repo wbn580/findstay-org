@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Student Life  Washington State Un
 pubDatetime: 2026-07-04T07:28:56.000Z
 modDatetime: 2026-07-07T08:33:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1091900.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1091900.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The climate features warm, dry summers and cold, snowy winters. That means your 
 
 ## Budget Bands for Housing (Indicative for 2026–2027)
 
-![Washington State University](https://img.unistay.cn/housing/p/amber-1091900.jpg)
+![Washington State University](https://img.unistay.net/housing/p/amber-1091900.jpg)
 
 Note: All prices listed below are indicative and must be confirmed directly with the operator. Because rental rates change each semester, always verify the current figure before signing a lease.
 

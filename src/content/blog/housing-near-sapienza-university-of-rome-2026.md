@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Sapienza  Sapienza Univer
 pubDatetime: 2026-07-02T21:14:48.000Z
 modDatetime: 2026-07-07T07:54:48.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-940954.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-940954.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Cost of living in Rome varies by zone. City-centre apartments (historic centre, 
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Sapienza University of Rome](https://img.unistay.cn/housing/p/amber-940954.jpg)
+![Sapienza University of Rome](https://img.unistay.net/housing/p/amber-940954.jpg)
 
 Housing costs in Rome depend heavily on distance from the university, property type, and lease conditions. Below are typical monthly rent ranges for a single room in a shared apartment, based on common market rates (indicative figures — always verify with the landlord or agency).
 

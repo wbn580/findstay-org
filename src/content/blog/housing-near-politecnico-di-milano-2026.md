@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal Politecnico di Milano's Google rating (
 pubDatetime: 2026-07-04T06:21:21.000Z
 modDatetime: 2026-07-07T08:58:21.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1891897.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1891897.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -30,7 +30,7 @@ Since Polimi's courses may be distributed across the Leonardo and Bovisa campuse
 
 ## Budget Range
 
-![Politecnico di Milano](https://img.unistay.cn/housing/p/amber-1891897.jpg)
+![Politecnico di Milano](https://img.unistay.net/housing/p/amber-1891897.jpg)
 
 Below are typical budget ranges for student accommodation in Milan for the 2026–2027 academic year, prices are *indicative — confirm with the operator*:
 

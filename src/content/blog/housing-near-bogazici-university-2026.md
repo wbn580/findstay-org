@@ -4,7 +4,7 @@ description: "Housing Guide for Bogazici University: What Campus Reviews Tell Yo
 pubDatetime: 2026-07-03T19:07:37.000Z
 modDatetime: 2026-07-07T07:57:37.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013467.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013467.jpg"
 tags: ["university", "bogazici-university"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ Short-term (semester) rentals by agencies or residence halls can be 10–20% hig
 
 ### Walk vs. Transit Trade-off
 
-![Bogazici University](https://img.unistay.cn/housing/p/uh-s00013467.jpg)
+![Bogazici University](https://img.unistay.net/housing/p/uh-s00013467.jpg)
 
 Living within walking distance of Bogazici University is a luxury. The immediate campus neighbourhoods (Bebek, Arnavutköy) are among Istanbul’s most expensive. However, walking means you skip the sometimes congested coastal road (especially during peak hours) and can enjoy the campus’s green spaces spontaneously. Many reviews emphasise the “calm and inspiring environment” — if you value that, paying a premium to live within a 10-minute walk is reasonable.
 

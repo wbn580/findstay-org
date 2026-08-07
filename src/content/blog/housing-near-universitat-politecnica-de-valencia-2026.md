@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The Universitat Politècnica de Valèn
 pubDatetime: 2026-07-02T19:33:47.000Z
 modDatetime: 2026-07-07T08:30:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2412425.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2412425.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Valencia’s student population is diverse, and the city hosts numerous cultural
 
 ## Student Housing Budget Bands
 
-![Universitat Politecnica de Valencia](https://img.unistay.cn/housing/p/amber-2412425.jpg)
+![Universitat Politecnica de Valencia](https://img.unistay.net/housing/p/amber-2412425.jpg)
 
 Based on current listings for UPV, indicative weekly rents start from €256 (indicative — confirm with the operator). The available stock includes 38 residences or shared apartments near the university. Budget bands can be broadly divided:
 

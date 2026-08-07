@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  The Universidade de São Paulo 
 pubDatetime: 2026-07-06T23:06:41.000Z
 modDatetime: 2026-07-07T09:04:41.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2336281.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2336281.jpg"
 tags: ["university", "universidade-de-sao-paulo"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Crime statistics are uneven: areas immediately around campus are generally safe 
 
 ## Budget Bands (Indicative — Confirm with the Operator)
 
-![Universidade de São Paulo (USP)](https://img.unistay.cn/housing/p/amber-2336281.jpg)
+![Universidade de São Paulo (USP)](https://img.unistay.net/housing/p/amber-2336281.jpg)
 
 Because rental prices in São Paulo fluctuate with market conditions, no specific figures can be given here. However, students typically fall into one of three broad bands:
 

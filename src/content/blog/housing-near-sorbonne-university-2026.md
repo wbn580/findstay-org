@@ -4,7 +4,7 @@ description: "Housing Near Sorbonne University: A Practical Guide for 2026/2027 
 pubDatetime: 2026-07-01T13:16:31.000Z
 modDatetime: 2026-07-07T08:37:31.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2344609.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2344609.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -65,7 +65,7 @@ The 17th arrondissement (code XO 75017) is closer to central Paris but still les
 
 The accommodation sample includes five identifiers: **Villejuif**, **XO 92800**, **Noisy-Le-Grand**, **XO 94800**, and **XO 75017**. These likely represent specific student residence complexes or postal codes. When shortlisting, consider:
 
-![Sorbonne University (merged from Paris IV & UPMC)](https://img.unistay.cn/housing/p/amber-2344609.jpg)
+![Sorbonne University (merged from Paris IV & UPMC)](https://img.unistay.net/housing/p/amber-2344609.jpg)
 
 1. **Villejuif (postcode 94800)**: This area is directly accessible via metro line 7 (Villejuif – Louis Aragon or Villejuif – Paul Vaillant-Couturier). The journey to Jussieu takes about 25–30 minutes. Villejuif has modern residence halls and a suburban feel. It is a strong choice for budget-conscious students who want a reliable metro connection.
 2. **XO 92800**: This postcode corresponds to Puteaux, in the western suburbs (La Défense area). It is served by RER A and tramway lines. Travel time to Jussieu is around 35 minutes via RER A to Charles de Gaulle – Étoile, then transfer to metro line 6 or 1, then line 7. Puteaux is convenient if you also work or study in the business district.

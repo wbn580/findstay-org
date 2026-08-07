@@ -4,7 +4,7 @@ description: "Colorado School of Mines — Housing Near Campus: What Students an
 pubDatetime: 2026-07-02T07:36:04.000Z
 modDatetime: 2026-07-07T08:53:04.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2713700.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2713700.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -54,7 +54,7 @@ The compact campus and dense Golden downtown make walking the easiest option for
 **Transit/car pros:** Lower rent further out; more housing options; ability to access Denver and Boulder for work or leisure.  
 **Transit/car cons:** Monthly bus pass cost (if not subsidized), parking fees on campus (per the review about fees), and longer commute (20–40 minutes from Lakewood or Arvada).
 
-![Colorado School of Mines](https://img.unistay.cn/housing/p/amber-2713700.jpg)
+![Colorado School of Mines](https://img.unistay.net/housing/p/amber-2713700.jpg)
 
 **Trade-off recommendation:** If your budget is under $1,400 and you need a private studio, consider living in Lakewood or southern Golden (e.g., near the intersection of 19th and Illinois) and taking the bus. If you value walking and have a mid-range budget, focus on apartments along 19th Street, Illinois Street, or Washington Avenue within 0.5 miles of the campus.
 

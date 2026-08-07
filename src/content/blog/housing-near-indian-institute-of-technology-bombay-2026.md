@@ -4,7 +4,7 @@ description: "Understanding the IIT Bombay Campus from Student Reviews  Indian I
 pubDatetime: 2026-06-30T12:43:38.000Z
 modDatetime: 2026-07-07T07:55:38.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3220186.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3220186.jpg"
 tags: ["university", "indian-institute-of-technology-bombay"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Cost of living in Powai is moderately high by Mumbai standards, though still low
 
 ## Budget Bands for Off-Campus Housing (Indicative – Confirm with Operator)
 
-![Indian Institute of Technology Bombay (IITB)](https://img.unistay.cn/housing/p/amber-3220186.jpg)
+![Indian Institute of Technology Bombay (IITB)](https://img.unistay.net/housing/p/amber-3220186.jpg)
 
 **Shared room in a PG (paying guest) accommodation**  
 ₹6,000 – ₹11,000 per month per person  

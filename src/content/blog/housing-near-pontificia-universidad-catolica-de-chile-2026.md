@@ -4,7 +4,7 @@ description: "Housing Near Pontificia Universidad Católica de Chile: A Guide fo
 pubDatetime: 2026-07-04T07:58:42.000Z
 modDatetime: 2026-07-07T09:09:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2157601.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2157601.jpg"
 tags: ["university", "pontificia-universidad-catolica-de-chile"]
 category: "university"
 draft: false
@@ -42,7 +42,7 @@ The campus location itself is not the cheapest area—Santiago Centro can be mod
 
 Walking to campus offers convenience and zero commuting cost, but the radius of truly walkable housing (say, within 15 minutes on foot) is limited to the surrounding blocks of Marcoleta. Properties within that circle tend to be older, smaller, and slightly more expensive per square meter. According to local real estate platforms in 2025, a private room in a shared apartment within a 5-block radius typically costs 50,000–100,000 CLP more per month than a similar room 20 minutes away by metro. The trade-off: you save time and transport money, but you live in a denser, potentially noisier area.
 
-![Pontificia Universidad Católica de Chile](https://img.unistay.cn/housing/p/amber-2157601.jpg)
+![Pontificia Universidad Católica de Chile](https://img.unistay.net/housing/p/amber-2157601.jpg)
 
 Transit offers a wider selection and often better value. The Metro’s Line 1 (Universidad Católica station) is a major east-west artery, so living towards Providencia, Las Condes, or even further east gives you access to quieter, greener residential zones. A typical commute from, say, Tobalaba station (Line 1, 4 stops east) to campus takes about 10 minutes on the train plus a short walk. Monthly metro costs are around 40,000–50,000 CLP (indicative) if you buy a reloadable Bip! card and use it regularly. Many students find that the savings on rent more than offset the transport expense. Similarly, buses along Avenida Vicuña Mackenna or Avenida Matta can bring you from cheaper southern communes in under 25 minutes.
 

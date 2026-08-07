@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Really Say  The University of Minnes
 pubDatetime: 2026-07-03T19:25:40.000Z
 modDatetime: 2026-07-07T08:54:40.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-754741.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-754741.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The city has a strong rental market. As of early 2026, student housing options a
 
 ## Budget Bands: What You Pay for What You Get
 
-![University of Minnesota (System)](https://img.unistay.cn/housing/p/amber-754741.jpg)
+![University of Minnesota (System)](https://img.unistay.net/housing/p/amber-754741.jpg)
 
 Student housing in Minneapolis generally falls into three bands. All prices are indicative — confirm with the operator.
 

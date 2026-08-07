@@ -3,8 +3,8 @@ title: "Utilities Setup Guide: Electricity, Gas, Internet & Water for Internatio
 description: "How to set up utilities when renting as an international student — electricity, gas, water, internet in Australia, UK, US, Canada, Germany, and more."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1600"
-ogImage: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200"
+heroImage: "https://img.unistay.net/rehost/a376dc25cbd6.jpg"
+ogImage: "https://img.unistay.net/rehost/7568393ed46e.jpg"
 tags: ["rental-tips", "student-accommodation", "budget"]
 category: "topics"
 draft: false

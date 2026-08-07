@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Duke  Reviews of Duke Uni
 pubDatetime: 2026-07-05T21:08:58.000Z
 modDatetime: 2026-07-07T08:56:58.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1344834.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1344834.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ Other factors that influence housing costs include proximity to campus, amenitie
 
 ## Budget Bands for Student Housing Near Duke
 
-![Duke University](https://img.unistay.cn/housing/p/amber-1344834.jpg)
+![Duke University](https://img.unistay.net/housing/p/amber-1344834.jpg)
 
 The following are rough monthly rent ranges for student housing in Durham near Duke University. All prices are indicative – confirm with the operator.
 

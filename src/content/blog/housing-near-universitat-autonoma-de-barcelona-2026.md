@@ -4,7 +4,7 @@ description: "What the campus reviews tell you about living nearby  The Universi
 pubDatetime: 2026-07-02T06:47:03.000Z
 modDatetime: 2026-07-07T08:26:03.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1234597.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1234597.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ When budgeting, remember to include transport costs, food, utilities, and social
 
 ## Walk versus transit: getting to Bellaterra campus
 
-![Universitat Autónoma de Barcelona](https://img.unistay.cn/housing/p/amber-1234597.jpg)
+![Universitat Autónoma de Barcelona](https://img.unistay.net/housing/p/amber-1234597.jpg)
 
 UAB’s campus is not within walking distance from Barcelona. The campus itself is walkable — it covers a large area and you may need to walk 10–20 minutes between buildings. But the key transport mode is the train.
 

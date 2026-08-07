@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal ETH Zurich (Swiss Federal Institute of 
 pubDatetime: 2026-07-03T11:32:36.000Z
 modDatetime: 2026-07-07T08:46:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1351353.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1351353.jpg"
 tags: ["university", "eth-zurich"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ In addition to rent, budget about 200 CHF per month for public transport (studen
 
 ## Walking vs. Public Transport Trade-offs
 
-![ETH Zurich (Swiss Federal Institute of Technology)](https://img.unistay.cn/housing/p/amber-1351353.jpg)
+![ETH Zurich (Swiss Federal Institute of Technology)](https://img.unistay.net/housing/p/amber-1351353.jpg)
 
 The location of the main ETH campus determines two main commuting options:
 

@@ -4,7 +4,7 @@ description: "Housing Near Université Paris Cité: A Guide for 2026–2027  Fin
 pubDatetime: 2026-07-02T08:07:34.000Z
 modDatetime: 2026-07-07T08:29:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1896276.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1896276.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ The university’s main address is in the 6th arrondissement, which is well serv
 
 **Transit commute (30–60 minutes)**: For most students, living in the suburbs and using the metro, RER, or bus is the realistic choice. The sample residences provide concrete examples:
 
-![Université Paris Cité](https://img.unistay.cn/housing/p/amber-1896276.jpg)
+![Université Paris Cité](https://img.unistay.net/housing/p/amber-1896276.jpg)
 
 - **Villejuif** (south of Paris): Served by metro line 7, which connects directly to stations near the 6th arrondissement such as Odéon or Saint-Germain-des-Prés. A one-way trip from Villejuif to the university takes approximately 25–35 minutes. Monthly rents in Villejuif can start around 365–450 EUR (indicative).
 - **Noisy-Le-Grand** (east of Paris): Connected to central Paris via RER A. From Noisy-Le-Grand to the university area, expect a commute of 30–40 minutes plus a short walk or metro transfer. Prices here are similar to Villejuif.

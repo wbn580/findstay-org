@@ -4,7 +4,7 @@ description: "Housing near City University of Hong Kong: What to Know Before You
 pubDatetime: 2026-06-30T16:58:21.000Z
 modDatetime: 2026-07-07T08:30:21.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00366961.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00366961.jpg"
 tags: ["university", "city-university-of-hong-kong"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Kowloon Tong MTR station serves both the East Rail Line (to Hung Hom and further
 
 ### Shortlist Logic for Choosing a Residence
 
-![City University of Hong Kong](https://img.unistay.cn/housing/p/uh-s00366961.jpg)
+![City University of Hong Kong](https://img.unistay.net/housing/p/uh-s00366961.jpg)
 
 When deciding where to live, consider your priorities: budget, commute time, and privacy level. The following logical approach can help narrow down options:
 

@@ -4,7 +4,7 @@ description: "What campus reviews reveal about Kiel University  Before searching
 pubDatetime: 2026-07-06T10:53:53.000Z
 modDatetime: 2026-07-07T08:01:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1080214.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1080214.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Because the university does not guarantee housing for all applicants (and the re
 
 ## Budget bands for accommodation in Kiel
 
-![Christian-Albrechts-Universität zu Kiel](https://img.unistay.cn/housing/p/amber-1080214.jpg)
+![Christian-Albrechts-Universität zu Kiel](https://img.unistay.net/housing/p/amber-1080214.jpg)
 
 Rental prices in Kiel are lower than in Hamburg, Berlin, or Munich, but have risen in recent years. The following bands are typical for the 2026/2027 academic year – all are indicative and must be confirmed with the operator before signing any contract.
 

@@ -4,7 +4,7 @@ description: "What do campus reviews reveal? The University of Connecticut in St
 pubDatetime: 2026-07-04T17:22:26.000Z
 modDatetime: 2026-07-07T08:24:26.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1344955.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1344955.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -36,7 +36,7 @@ Since the campus occupies a large part of Storrs, off-campus housing is mainly d
 
 ## Budget Range
 
-![University of Connecticut](https://img.unistay.cn/housing/p/amber-1344955.jpg)
+![University of Connecticut](https://img.unistay.net/housing/p/amber-1344955.jpg)
 
 Rental prices vary by unit type, distance, and lease type. The following are approximate rent ranges for the 2026–2027 academic year (**indicative — confirm with the operator**):
 

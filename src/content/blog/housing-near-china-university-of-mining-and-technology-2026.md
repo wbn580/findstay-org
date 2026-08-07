@@ -4,7 +4,7 @@ description: "Housing Near China University of Mining and Technology: A Guide  T
 pubDatetime: 2026-07-02T12:28:54.000Z
 modDatetime: 2026-07-07T08:55:54.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-918614.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-918614.jpg"
 tags: ["university", "china-university-of-mining-and-technology"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Lower‑budget options include shared rooms in dorm‑style apartments or rentin
 
 Thanks to the compact campus, walking is the most convenient mode for attending classes, visiting the library, or eating at on‑campus canteens. Most academic buildings are within a 5–10 minute walk from the campus gate. If you live within a 1 km radius of 丁11 Xue Yuan Lu, you can walk to class in under 15 minutes. This area includes residential alleys south of Xueyuan Road, compounds near the Beijing Language and Culture University, and apartments behind the Wudaokou shopping center.
 
-![China University of Mining and Technology](https://img.unistay.cn/housing/p/amber-918614.jpg)
+![China University of Mining and Technology](https://img.unistay.net/housing/p/amber-918614.jpg)
 
 If you live farther than 1.5 km, you will likely rely on public transit. The Wudaokou subway station (Line 13) is one stop from Zhichunlu (transfer to Line 10) and two stops from Xizhimen (major interchange). Buses 86, 307, 331, 375, 562, and 630 run along Xueyuan Road and connect to the campus. A bus ride from, say, the area around Qinghe or Shangdi takes 20–30 minutes. Transit is reliable but crowded during rush hours.
 

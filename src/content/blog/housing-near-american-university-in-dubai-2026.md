@@ -4,7 +4,7 @@ description: "Campus Reviews and Neighborhood Context  The American University i
 pubDatetime: 2026-07-01T11:21:39.000Z
 modDatetime: 2026-07-07T08:59:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3018962.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3018962.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Living costs in Dubai vary substantially. Studio apartments near campus typicall
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![American University in Dubai](https://img.unistay.cn/housing/p/amber-3018962.jpg)
+![American University in Dubai](https://img.unistay.net/housing/p/amber-3018962.jpg)
 
 Based on platform listings near AUD, a common entry‑level price is 220 AED per week (indicative – confirm with the operator). This does not necessarily represent the cheapest option overall, but it gives a benchmark. Below are three approximate bands to help you compare. All prices are indicative and should be verified directly with each operator.
 

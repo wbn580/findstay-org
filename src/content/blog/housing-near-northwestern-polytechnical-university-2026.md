@@ -4,7 +4,7 @@ description: "Understanding Northwestern Polytechnical University's Location  No
 pubDatetime: 2026-07-02T00:32:56.000Z
 modDatetime: 2026-07-07T08:02:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-951845.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-951845.jpg"
 tags: ["university", "northwestern-polytechnical-university"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ According to Google Maps, Northwestern Polytechnical University holds a rating o
 
 ## City Context: Xi’an as a Student City
 
-![Northwestern Polytechnical University](https://img.unistay.cn/housing/p/amber-951845.jpg)
+![Northwestern Polytechnical University](https://img.unistay.net/housing/p/amber-951845.jpg)
 
 Xi’an is home to several major universities, creating a large student population. The rental market near NPU is shaped by:
 

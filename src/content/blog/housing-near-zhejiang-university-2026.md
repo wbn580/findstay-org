@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Zhejiang University (ranked 49th in th
 pubDatetime: 2026-07-02T11:23:18.000Z
 modDatetime: 2026-07-07T08:21:18.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-961220.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-961220.jpg"
 tags: ["university", "zhejiang-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Public transport: Metro Line 2 and Line 5 have stations near Zijingang campus (X
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Zhejiang University](https://img.unistay.cn/housing/p/amber-961220.jpg)
+![Zhejiang University](https://img.unistay.net/housing/p/amber-961220.jpg)
 
 Prices vary significantly depending on the type of housing (dormitory, shared apartment, private studio) and its distance from campus. The figures below are **indicative — confirm with the operator** before signing a lease.
 

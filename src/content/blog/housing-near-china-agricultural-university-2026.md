@@ -4,7 +4,7 @@ description: "Housing Near China Agricultural University: What Campus Reviews Re
 pubDatetime: 2026-07-03T17:46:48.000Z
 modDatetime: 2026-07-07T08:49:48.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1237169.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1237169.jpg"
 tags: ["university", "china-agricultural-university"]
 category: "university"
 draft: false
@@ -56,7 +56,7 @@ The reviews make clear that the campus is within walking distance of Liudaokou s
 - Cons: Rent tends to be higher for apartments immediately adjacent to the university; may be noisier due to student foot traffic.
 - Best for: Anyone who plans to spend a lot of time on campus, or those who prefer not to rely on public transport.
 
-![China Agricultural University](https://img.unistay.cn/housing/p/amber-1237169.jpg)
+![China Agricultural University](https://img.unistay.net/housing/p/amber-1237169.jpg)
 
 **Short transit (one subway stop or a 10-minute bus ride):**  
 The review mentions Liudaokou station; living near Wudaokou station (one stop away) gives you more shopping and dining choices, plus access to Line 13.

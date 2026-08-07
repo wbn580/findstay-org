@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The experiences shared by students at 
 pubDatetime: 2026-07-04T19:21:26.000Z
 modDatetime: 2026-07-07T07:56:26.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-589095.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-589095.jpg"
 tags: ["university", "peter-the-great-st-petersburg-polytechnic-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The cost of living in St. Petersburg is generally lower than in Moscow, but it h
 
 ## Budget Bands for Off-Campus Housing
 
-![Peter the Great St.Petersburg Polytechnic University](https://img.unistay.cn/housing/p/amber-589095.jpg)
+![Peter the Great St.Petersburg Polytechnic University](https://img.unistay.net/housing/p/amber-589095.jpg)
 
 Rental prices in the area around SPbPU can be grouped into three broad bands. All figures are indicative — confirm with the operator.
 

@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About Life at UWA  The Universit
 pubDatetime: 2026-06-30T13:13:00.000Z
 modDatetime: 2026-07-07T08:41:00.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-263821.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-263821.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Perth’s climate is Mediterranean: hot, dry summers (December to February) with
 
 ## Budget Bands for 2026–2027 (Indicative — Confirm with the Operator)
 
-![The University of Western Australia](https://img.unistay.cn/housing/p/amber-263821.jpg)
+![The University of Western Australia](https://img.unistay.net/housing/p/amber-263821.jpg)
 
 Rental prices in the Crawley–Nedlands–Subiaco corridor vary widely depending on property type, condition, and proximity to the university. The following bands are based on typical asking prices seen in the Perth rental market in late 2025 and are indicative only. Always check current listings and confirm exact figures with the operator or agent before making commitments.
 

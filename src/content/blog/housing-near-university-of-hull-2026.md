@@ -4,7 +4,7 @@ description: "University of Hull: What Campus Reviews Reveal  The University of 
 pubDatetime: 2026-07-02T02:58:00.000Z
 modDatetime: 2026-07-07T08:21:00.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-954959.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-954959.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For students who prefer newer, managed accommodation, several private PBSA schem
 
 ## Budget Bands for Student Housing
 
-![University of Hull](https://img.unistay.cn/housing/p/amber-954959.jpg)
+![University of Hull](https://img.unistay.net/housing/p/amber-954959.jpg)
 
 Rent prices in Hull are indicative — confirm with the operator. Based on typical market rates for the 2026/27 academic year (all figures are approximate and subject to change):
 

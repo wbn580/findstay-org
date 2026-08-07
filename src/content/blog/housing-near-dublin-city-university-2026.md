@@ -4,7 +4,7 @@ description: "Housing Near Dublin City University: Campus Reviews, City Context,
 pubDatetime: 2026-07-06T11:44:26.000Z
 modDatetime: 2026-07-07T08:23:26.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-149089.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-149089.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ To help you plan, here are three approximate budget bands based on typical Dubli
 
 Living close enough to walk to DCU (say, within 15–20 minutes) narrows your choices to the immediate neighbourhoods: Glasnevin, Ballymun, Whitehall, and parts of Santry. Walking saves money on public transport (a Leap Card costs about €1.50–€2.00 per journey) and is reliable regardless of strikes or bad weather. However, the supply of student accommodation within walking distance is limited; many PBSA developments are concentrated near the city centre or other transport hubs.
 
-![Dublin City University](https://img.unistay.cn/housing/p/amber-149089.jpg)
+![Dublin City University](https://img.unistay.net/housing/p/amber-149089.jpg)
 
 Choosing to live further from campus (e.g., near the city centre or along bus corridors) gives you access to more amenities, nightlife, and a larger pool of housing options. The trade-off is a 20–40 minute commute each way via bus, which can add up in time and cost. Also, Dublin buses can be crowded during peak hours. For students who value a lively social scene and have flexible schedules (e.g., few mandatory lectures), commuting from the centre is common. For those who prefer quiet study and easy campus access, walkable accommodation is worth the premium.
 

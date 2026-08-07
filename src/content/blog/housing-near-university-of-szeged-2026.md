@@ -4,7 +4,7 @@ description: "Housing Near University of Szeged: A Student Guide      What Campu
 pubDatetime: 2026-07-07T03:58:32.000Z
 modDatetime: 2026-07-07T07:49:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-245509.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-245509.jpg"
 tags: ["university", "university-of-szeged"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Without a list of specific residences nearby, the shortlist logic should rely on
 
 1. **Faculty location.** Identify which faculty you will attend most often. The main centre (Dugonics tér) is the administrative hub, but sciences are concentrated at the TTIK complex (near the library described as “fully equipped state of the art” by a reviewer). Medical students may need to be near the Clinical Centre. Map your classes first.
 
-![University of Szeged](https://img.unistay.cn/housing/p/amber-245509.jpg)
+![University of Szeged](https://img.unistay.net/housing/p/amber-245509.jpg)
 
 2. **Budget bands**
 

@@ -4,7 +4,7 @@ description: "Housing Near Aalto University: What Reviews Reveal and How to Choo
 pubDatetime: 2026-07-07T08:34:30.000Z
 modDatetime: 2026-07-07T09:08:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-931811.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-931811.jpg"
 tags: ["university", "aalto-university"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Living in Otaniemi or nearby Tapiola (about 2 km away) allows you to walk or bik
 **Transit-commuting (10–25 minutes by metro)**  
 Many students choose to live along the metro line in Helsinki (e.g., Ruoholahti, Kamppi, Rautatientori) because of the vibrant city life. A metro ride from central Helsinki to Aalto University station takes 10–15 minutes. Monthly transit passes for students cost around €35–€50 (HSL student ticket, indicative). Trade-off: you pay higher rent for city living, plus a small transit fee, but gain access to concerts, restaurants, part-time jobs, and wider social opportunities.
 
-![Aalto University](https://img.unistay.cn/housing/p/amber-931811.jpg)
+![Aalto University](https://img.unistay.net/housing/p/amber-931811.jpg)
 
 **Short-distance cycling**  
 Cycling is very popular in Finland. Bicycle paths connect Otaniemi to Tapiola and Helsinki via a bridge. If you’re comfortable cycling in winter (studded tyres help), you can commute from Helsinki in 20–30 minutes. No transit cost and good exercise.

@@ -4,7 +4,7 @@ description: "About UUM Campus – Experiences Revealed by Reviews Universiti Ut
 pubDatetime: 2026-07-05T15:18:59.000Z
 modDatetime: 2026-07-07T07:57:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3155392.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3155392.jpg"
 tags: ["university", "universiti-utara-malaysia"]
 category: "university"
 draft: false
@@ -26,7 +26,7 @@ For students, daily necessities – such as groceries, medicine, and electronics
 
 ## Housing Budget Range (2026/2027, Indicative Prices)
 
-![Universiti Utara Malaysia (UUM)](https://img.unistay.cn/housing/p/amber-3155392.jpg)
+![Universiti Utara Malaysia (UUM)](https://img.unistay.net/housing/p/amber-3155392.jpg)
 
 Since housing prices are adjusted annually, the figures below are **indicative – please confirm with the operator**. Based on the general situation around Malaysian public universities, the accommodation costs near UUM for 2026/2027 can be roughly divided into three tiers:
 

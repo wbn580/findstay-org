@@ -4,7 +4,7 @@ description: "Campus Reviews and What They Reveal  The University of Mumbai, est
 pubDatetime: 2026-07-06T12:48:59.000Z
 modDatetime: 2026-07-07T08:32:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-148554.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-148554.jpg"
 tags: ["university", "university-of-mumbai"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Fort itself is a commercial hub with many banks, offices, and government buildin
 
 ## Budget Bands for Student Housing
 
-![University of Mumbai](https://img.unistay.cn/housing/p/amber-148554.jpg)
+![University of Mumbai](https://img.unistay.net/housing/p/amber-148554.jpg)
 
 Because the provided data does not include specific rental figures, budget bands are described here in general terms that apply to the Fort area. All prices mentioned are indicative — confirm with the operator.
 

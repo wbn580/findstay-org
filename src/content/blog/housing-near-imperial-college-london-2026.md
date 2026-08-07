@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Imperial College London  Imperial
 pubDatetime: 2026-07-04T02:35:41.000Z
 modDatetime: 2026-07-07T07:46:41.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00179605.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00179605.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ According to available data, there are currently 53 student accommodation option
 
 ## Budget Bands for 2026/2027
 
-![Imperial College London](https://img.unistay.cn/housing/p/uh-s00179605.jpg)
+![Imperial College London](https://img.unistay.net/housing/p/uh-s00179605.jpg)
 
 When planning your housing budget, consider these typical weekly rent ranges (all indicative – confirm with the operator):
 

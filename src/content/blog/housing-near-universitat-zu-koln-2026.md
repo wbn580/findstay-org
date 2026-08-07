@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The Universität zu Köln consistently
 pubDatetime: 2026-07-04T00:50:30.000Z
 modDatetime: 2026-07-07T08:12:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1193299.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1193299.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The city’s public transport system (KVB) covers all districts. Most students l
 
 ## Budget Bands for Student Housing
 
-![Universität zu Köln](https://img.unistay.cn/housing/p/amber-1193299.jpg)
+![Universität zu Köln](https://img.unistay.net/housing/p/amber-1193299.jpg)
 
 When planning your housing budget for 2026/27, consider three rough bands:
 

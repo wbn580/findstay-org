@@ -4,7 +4,7 @@ description: "Housing Near University of Canterbury: A Practical Guide for 2026�
 pubDatetime: 2026-07-02T21:24:28.000Z
 modDatetime: 2026-07-07T08:48:28.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1136559.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1136559.jpg"
 tags: ["university", "new-zealand"]
 category: "university"
 draft: false
@@ -63,7 +63,7 @@ For first‑year international students, many choose a walkable option to simpli
 
 When comparing housing near UC, consider the following criteria based on distance, price, and included services. The table below is not a markdown table — it is presented as a narrative list.
 
-![University of Canterbury](https://img.unistay.cn/housing/p/amber-1136559.jpg)
+![University of Canterbury](https://img.unistay.net/housing/p/amber-1136559.jpg)
 
 **1. Purpose‑built student accommodation (PBSA)**  
 These are often the easiest option for new students. They are typically located within 5–15 minutes’ walk of campus. Rent includes utilities, internet, and sometimes a meal plan or cleaning service. Examples in Upper Riccarton and Ilam offer single or twin rooms in flats of 4–6 people. Deposit is usually 2–4 weeks’ rent. Many operate 12‑month leases. Cost: NZ$220–NZ$380 per week (indicative — confirm with the operator).  

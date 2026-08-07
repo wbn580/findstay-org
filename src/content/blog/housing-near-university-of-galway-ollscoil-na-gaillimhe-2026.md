@@ -4,7 +4,7 @@ description: "What Students Say About the Campus  The University of Galway sits 
 pubDatetime: 2026-07-05T18:33:30.000Z
 modDatetime: 2026-07-07T08:51:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00677096.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00677096.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -21,7 +21,7 @@ Galway is a mid-sized city on Ireland’s west coast, known for its music, festi
 
 ## Budget Bands for Student Housing (2026–2027 Indicative)
 
-![University of Galway / Ollscoil na Gaillimhe](https://img.unistay.cn/housing/p/uh-s00677096.jpg)
+![University of Galway / Ollscoil na Gaillimhe](https://img.unistay.net/housing/p/uh-s00677096.jpg)
 
 Rental prices in Galway vary significantly by property type and location. The figures below are indicative — confirm with the operator before committing.
 

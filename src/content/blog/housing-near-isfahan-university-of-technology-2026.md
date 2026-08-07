@@ -4,7 +4,7 @@ description: "Housing Near Isfahan University of Technology: A Practical Guide f
 pubDatetime: 2026-07-01T07:25:31.000Z
 modDatetime: 2026-07-07T08:54:31.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2249393.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2249393.jpg"
 tags: ["university", "isfahan-university-of-technology"]
 category: "university"
 draft: false
@@ -73,7 +73,7 @@ Choosing between walking distance to campus and a longer commute affects time, c
 **Option 3: University dormitories**  
 IUT operates several dormitory complexes. According to reviews, “different dormitory c…” (likely meaning “different dormitory complexes”). Dormitories are the cheapest option (often 1–3 million IRT per month for a shared room) and are on campus, but availability is limited to students who apply early. Space, privacy, and rules vary by hall. Contact the university housing office directly for the latest procedures and prices.
 
-![Isfahan University of Technology](https://img.unistay.cn/housing/p/amber-2249393.jpg)
+![Isfahan University of Technology](https://img.unistay.net/housing/p/amber-2249393.jpg)
 
 **Trade‑off summary:**
 

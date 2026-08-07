@@ -4,7 +4,7 @@ description: "Housing Near Mahidol University: A Practical Guide for 2026–2027
 pubDatetime: 2026-07-04T12:11:42.000Z
 modDatetime: 2026-07-07T09:14:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2173623.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2173623.jpg"
 tags: ["university", "mahidol-university"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ Because Mahidol’s campus is large and spread out, your choice of housing affec
 - **Walk**: If you live within 1–1.5 km of your faculty building, walking is a comfortable option. The campus is pedestrian-friendly, with covered walkways in some areas. However, most student housing is not directly inside the main academic zone; you may need to walk 10–20 minutes from the gate to your classroom. Consider using a bicycle inside campus (allowed and encouraged).
 - **Bicycle**: This is the most efficient way to get around Mahidol. With a bike, a distance of 3–4 km from home to the lecture hall becomes a 10–15 minute ride. The campus has bike lanes and ample parking. If you plan to bike, you can widen your housing search to areas within 3–4 km of your faculty.
 
-![Mahidol University](https://img.unistay.cn/housing/p/amber-2173623.jpg)
+![Mahidol University](https://img.unistay.net/housing/p/amber-2173623.jpg)
 
 - **Motorbike / car**: Many students use a motorbike for greater flexibility. Parking on campus is available but may require a permit. A car is less common due to traffic and parking constraints.
 - **Public transport**: Salaya has limited bus and train options. The Salaya Railway Station is about 2 km from campus; trains to Bangkok take roughly 40 minutes. Buses along the main road connect to Bangkok’s southern bus terminal. If you rely on public transport, target housing within walking distance of a bus stop or the train station.

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About the Student Experience  Student f
 pubDatetime: 2026-07-03T20:52:24.000Z
 modDatetime: 2026-07-07T08:59:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01476337.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01476337.jpg"
 tags: ["university", "sunway-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Petaling Jaya itself is a major city in the Klang Valley, adjacent to Kuala Lump
 
 ## Budget Bands for Student Housing
 
-![Sunway University](https://img.unistay.cn/housing/p/uh-s01476337.jpg)
+![Sunway University](https://img.unistay.net/housing/p/uh-s01476337.jpg)
 
 Rental prices in Bandar Sunway vary depending on property type, proximity to campus, and facilities. Since no specific housing data was provided for this article, the figures below are indicative general estimates for the area (2026) and must be confirmed with the operator.
 

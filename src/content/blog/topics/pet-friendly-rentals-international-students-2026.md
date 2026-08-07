@@ -3,8 +3,8 @@ title: "Expat Pet-Friendly Rentals: Finding Housing That Accepts Pets as an Inte
 description: "Country-by-country guide to renting with pets as an international student or expat. Which countries are pet-friendly, pet deposits, and how to find accommodation."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=1600"
-ogImage: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=1200"
+heroImage: "https://img.unistay.net/rehost/a00f9a8246c6.jpg"
+ogImage: "https://img.unistay.net/rehost/3ba382ca3c32.jpg"
 tags: ["rental-tips", "student-accommodation"]
 category: "topics"
 draft: false

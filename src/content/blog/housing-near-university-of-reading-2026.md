@@ -4,7 +4,7 @@ description: "Housing Near the University of Reading: A Practical Guide for 2026
 pubDatetime: 2026-07-02T10:20:47.000Z
 modDatetime: 2026-07-07T08:41:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3167636.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3167636.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -84,7 +84,7 @@ Your choice of accommodation depends on how you want to spend your time and mone
 - Pros: You can roll out of bed 10 minutes before a lecture. You save bus fare (£70–£90 per month for a bus pass). The campus has cafes, a library, and sports facilities you can use between classes.
 - Cons: Rents for flats near campus can be higher. The quiet streets mean fewer shops and nightlife within walking distance. You may feel cut off from town at weekends.
 
-![University of Reading](https://img.unistay.cn/housing/p/amber-3167636.jpg)
+![University of Reading](https://img.unistay.net/housing/p/amber-3167636.jpg)
 
 **Transit zone (20–40 minutes via bus or train):**
 

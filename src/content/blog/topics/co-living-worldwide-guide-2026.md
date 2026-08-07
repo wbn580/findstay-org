@@ -3,8 +3,8 @@ title: "Co-Living Spaces Worldwide 2026: The Best Options for Students & Digital
 description: "Compare co-living spaces across 12 countries — from London's The Collective to Singapore's Hmlet. Pricing, amenities, and community reviews for students and remote workers."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1600"
-ogImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200"
+heroImage: "https://img.unistay.net/rehost/56edfc333d0a.jpg"
+ogImage: "https://img.unistay.net/rehost/b0a55b1bc742.jpg"
 tags: ["co-living", "digital-nomad", "student-accommodation"]
 category: "topics"
 draft: false

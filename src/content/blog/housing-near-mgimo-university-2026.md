@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say about MGIMO  Google rates MGIMO 
 pubDatetime: 2026-07-05T23:40:13.000Z
 modDatetime: 2026-07-07T08:22:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-937337.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-937337.jpg"
 tags: ["university", "mgimo-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The winter season (November to March) can be harsh, with temperatures dropping t
 
 ## Budget Bands for Student Housing near MGIMO
 
-![MGIMO University](https://img.unistay.cn/housing/p/amber-937337.jpg)
+![MGIMO University](https://img.unistay.net/housing/p/amber-937337.jpg)
 
 Rental prices in the area vary significantly by housing type, distance from campus, and condition of the unit. All figures below are **indicative — confirm with the operator** for your preferred dates (2026 or 2027). Prices are quoted in US dollars per month for a single room or a studio.
 

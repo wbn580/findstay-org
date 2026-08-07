@@ -4,7 +4,7 @@ description: "Housing Near The University of New South Wales: A Guide for 2026/2
 pubDatetime: 2026-07-06T00:02:18.000Z
 modDatetime: 2026-07-07T08:02:18.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2005720.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2005720.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -70,7 +70,7 @@ A reasonable rule: if your budget for rent is under AUD 300 per week, prioritise
 
 The following student residences are among those listed as “nearby” in the Sydney market. They represent different trade‑offs in price, distance, and lifestyle. Use this shortlist logic to narrow your search:
 
-![The University of New South Wales](https://img.unistay.cn/housing/p/amber-2005720.jpg)
+![The University of New South Wales](https://img.unistay.net/housing/p/amber-2005720.jpg)
 
 **Scape Darling Square** (CBD)
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Washington University in 
 pubDatetime: 2026-07-02T13:34:05.000Z
 modDatetime: 2026-07-07T08:55:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1192580.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1192580.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ Off-campus rental inventory is plentiful but varies dramatically in price, condi
 
 ## Budget Bands: What You Can Expect to Pay (Indicative)
 
-![Washington University in St. Louis](https://img.unistay.cn/housing/p/amber-1192580.jpg)
+![Washington University in St. Louis](https://img.unistay.net/housing/p/amber-1192580.jpg)
 
 Because rents shift seasonally, it is useful to think in broad bands. All prices below are indicative—always confirm with the operator before signing.
 

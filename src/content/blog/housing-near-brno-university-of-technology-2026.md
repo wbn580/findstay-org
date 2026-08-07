@@ -4,7 +4,7 @@ description: "A guide to finding housing near Brno University of Technology     
 pubDatetime: 2026-07-04T05:29:12.000Z
 modDatetime: 2026-07-07T08:56:12.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1533441.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1533441.jpg"
 tags: ["university", "brno-university-of-technology"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ BUT’s main teaching buildings are spread across the city centre. The Faculty o
 
 The key question: How often do you need to be on campus? If you have daily lab work, living close may save you hours each week. If your timetable is lighter, a cheaper distant flat plus a tram pass is worth considering.
 
-![Brno University of Technology](https://img.unistay.cn/housing/p/amber-1533441.jpg)
+![Brno University of Technology](https://img.unistay.net/housing/p/amber-1533441.jpg)
 
 ### Shortlist logic: how to choose your accommodation
 

@@ -4,7 +4,7 @@ description: "Housing Near University of Turin: A Practical Guide for Students (
 pubDatetime: 2026-07-02T16:51:35.000Z
 modDatetime: 2026-07-07T08:21:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1596096.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1596096.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -71,7 +71,7 @@ Living 30–60 minutes away can cut rent by 20–30%. For example, a private roo
 
 ### Shortlist Logic for Nearby Residences
 
-![University of Turin](https://img.unistay.cn/housing/p/amber-1596096.jpg)
+![University of Turin](https://img.unistay.net/housing/p/amber-1596096.jpg)
 
 Because no specific student residences are listed in the given data, the shortlist logic below is a framework you can apply when evaluating options on general housing platforms. Apply this logic to any listing you find:
 

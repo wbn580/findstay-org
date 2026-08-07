@@ -4,7 +4,7 @@ description: "Housing Near IIT Kharagpur: What Students Should Know  Indian Inst
 pubDatetime: 2026-07-06T03:12:55.000Z
 modDatetime: 2026-07-07T09:00:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1223208.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1223208.jpg"
 tags: ["university", "indian-institute-of-technology-kharagpur"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ If you live off campus, you face a trade-off:
 
 - **Within walking distance (0–1 km from campus gate)**: You can reach your department in 10–20 minutes on foot. Rent tends to be slightly higher because of convenience. Suitable for students who prefer not to rely on vehicles. However, the immediate vicinity of the campus has limited housing stock, so availability is tight.
 
-![Indian Institute of Technology Kharagpur (IITKGP)](https://img.unistay.cn/housing/p/amber-1223208.jpg)
+![Indian Institute of Technology Kharagpur (IITKGP)](https://img.unistay.net/housing/p/amber-1223208.jpg)
 
 - **Bicycle or scooter range (1–3 km)**: The most common radius for off-campus students. A bicycle costs INR 2,000–5,000 new; a second-hand scooter can be INR 15,000–30,000. Commute time about 10–15 minutes by bike, 5–10 minutes by scooter. Rent is more affordable here, and you have more options—PGs and apartments along main roads. The downside is that you need to invest in a vehicle and maintain it. Auto-rickshaws are available but can be irregular; a one-way ride costs INR 20–50 depending on distance.
 - **Beyond 3 km (e.g., Kharagpur town centre, near railway station)**: Rent can be cheaper (maybe INR 3,000–6,000 for a basic room), but daily commute may take 20–30 minutes by bus or auto. Public buses are infrequent and crowded. This option suits students who are comfortable with a longer commute and want to save money. It’s less common among IIT students unless they have a car or frequent access to the campus shuttle (which runs limited routes).

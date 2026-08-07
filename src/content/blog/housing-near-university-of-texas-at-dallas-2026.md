@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Student and parent reviews of the Univ
 pubDatetime: 2026-07-04T21:49:39.000Z
 modDatetime: 2026-07-07T07:50:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1488155.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1488155.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The climate is typical of north Texas: hot summers, mild winters, and occasional
 
 ## Budget Bands for 2026–2027
 
-![University of Texas at Dallas](https://img.unistay.cn/housing/p/amber-1488155.jpg)
+![University of Texas at Dallas](https://img.unistay.net/housing/p/amber-1488155.jpg)
 
 In the Richardson/Richardson area, rental prices vary widely based on proximity to UTD, age of property, and amenities. While exact figures change frequently, the following bands are typical as of early 2026 (indicative — confirm with the operator):
 

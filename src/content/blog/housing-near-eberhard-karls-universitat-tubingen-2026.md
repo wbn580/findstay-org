@@ -4,7 +4,7 @@ description: "Student Housing Near Eberhard Karls Universität Tübingen: A Prac
 pubDatetime: 2026-07-06T12:29:55.000Z
 modDatetime: 2026-07-07T08:58:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-995367.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-995367.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -62,7 +62,7 @@ The university’s main campus is located at Geschwister-Scholl-Platz, which is 
 
 Without a specific housing inventory provided here, you can apply the following criteria when evaluating any offer. Use the data points from the university’s reviews as a guide:
 
-![Eberhard Karls Universität Tübingen](https://img.unistay.cn/housing/p/amber-995367.jpg)
+![Eberhard Karls Universität Tübingen](https://img.unistay.net/housing/p/amber-995367.jpg)
 
 1. **Proximity to main campus**  
    Prioritise properties within a 15-minute walk if you value convenience and minimal transport costs. Check the address against the university location (Geschwister-Scholl-Platz) on a map.

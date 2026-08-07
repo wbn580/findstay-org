@@ -4,7 +4,7 @@ description: "Nearby Accommodation at the University of KwaZulu-Natal: A Practic
 pubDatetime: 2026-07-03T00:43:36.000Z
 modDatetime: 2026-07-07T08:45:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3132472.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3132472.jpg"
 tags: ["university", "university-of-kwazulu-natal"]
 category: "university"
 draft: false
@@ -78,7 +78,7 @@ Your choice of accommodation largely depends on how much walking you are comfort
   - Safety concerns after dark — you may still need to use transport at night.
 - *Best for*: Students who spend most of their time on campus and want minimal commuting time.
 
-![University of Kwazulu-Natal](https://img.unistay.cn/housing/p/amber-3132472.jpg)
+![University of Kwazulu-Natal](https://img.unistay.net/housing/p/amber-3132472.jpg)
 
 **Transit-dependent (15–40 minutes by taxi or bus)**
 

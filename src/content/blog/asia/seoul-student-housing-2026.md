@@ -3,8 +3,8 @@ title: "Seoul Student Housing 2026: Goshiwon, Hasukjib & One-Rooms Near Top Univ
 description: "Student accommodation in Seoul — from goshiwon micro-rooms to hasukjib boarding houses. Find housing near Seoul National, Korea, and Yonsei universities for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1600"
-ogImage: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200"
+heroImage: "https://img.unistay.net/rehost/a6a3a97e2fb8.jpg"
+ogImage: "https://img.unistay.net/rehost/a1ff18ec9e4a.jpg"
 tags: ["asia", "seoul", "student-accommodation"]
 category: "asia"
 city: "seoul"

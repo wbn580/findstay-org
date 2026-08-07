@@ -4,7 +4,7 @@ description: "Housing Near NUST Islamabad: What Campus Reviews Reveal and How to
 pubDatetime: 2026-07-01T17:41:43.000Z
 modDatetime: 2026-07-07T08:47:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-288016.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-288016.jpg"
 tags: ["university", "national-university-of-sciences-and-technology-islamabad"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ The most convenient option is to live within walking distance of the main campus
 
 If you walk, your search radius is roughly 1–2 km from the university perimeter. The H-12 sector has a few residential blocks, but the supply is small, and rents tend to be higher per square foot. The alternative is to use transit. Sectors like I-8 (approximately 3–5 km away) and G-9 (4–6 km) offer more choices and lower rents. Commuting by shared van or motorbike typically takes 10–20 minutes, while buses may take 20–30 minutes depending on traffic. The university also runs shuttle services for students living off campus — check the schedule and stops when choosing a location.
 
-![National University of Sciences And Technology (NUST) Islamabad](https://img.unistay.cn/housing/p/amber-288016.jpg)
+![National University of Sciences And Technology (NUST) Islamabad](https://img.unistay.net/housing/p/amber-288016.jpg)
 
 The trade-off is clear: walking costs you less time and no transport money, but you pay more rent and have fewer options. Transit expands your options and may save you money, but you lose time and need to factor in reliability. If you do not own a vehicle, verify that the transit route operates early morning and late evening, especially if you have lab sessions.
 

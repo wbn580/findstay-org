@@ -4,7 +4,7 @@ description: "Housing Near Université Catholique de Louvain (UCL): A Guide for 
 pubDatetime: 2026-07-02T17:38:40.000Z
 modDatetime: 2026-07-07T08:58:40.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-135580.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-135580.jpg"
 tags: ["university", "universite-catholique-de-louvain"]
 category: "university"
 draft: false
@@ -67,7 +67,7 @@ Because Louvain-la-Neuve is a small city built for pedestrians, many students fi
 - **Cycling:** Popular in Belgium. Many students use bicycles to cover slightly longer distances. Bike theft is a risk; invest in a good lock and consider insurance.
 - **Public transport:** The local bus network (TEC) operates routes within the city and to surrounding villages. A one-way fare is about €2.50 (indicative). Monthly passes for students cost around €30–€40 (indicative). The train from Louvain-la-Neuve-Université station to Brussels-Midi takes about 30 minutes, ideal for weekend trips.
 
-![Université Catholique de Louvain (UCL)](https://img.unistay.cn/housing/p/amber-135580.jpg)
+![Université Catholique de Louvain (UCL)](https://img.unistay.net/housing/p/amber-135580.jpg)
 
 - **Trade-offs:**
   - **Living near campus** (0–10 min walk) — more expensive, less need for transport, higher chance of finding English-speaking flatmates if you target international residences.

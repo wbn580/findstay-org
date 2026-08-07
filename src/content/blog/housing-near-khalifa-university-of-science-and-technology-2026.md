@@ -4,7 +4,7 @@ description: "Housing near Khalifa University of Science and Technology: A Pract
 pubDatetime: 2026-07-03T18:04:22.000Z
 modDatetime: 2026-07-07T08:29:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1895568.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1895568.jpg"
 tags: ["university", "uae"]
 category: "university"
 draft: false
@@ -44,7 +44,7 @@ Note that many landlords require a one-year lease and a security deposit (typica
 
 **University shuttle**: The university may provide shuttle buses to certain residential areas. Check with the housing office for 2026–2027 routes.
 
-![Khalifa University of Science and Technology](https://img.unistay.cn/housing/p/amber-1895568.jpg)
+![Khalifa University of Science and Technology](https://img.unistay.net/housing/p/amber-1895568.jpg)
 
 **Trade-off summary**: For the best value, consider living within 3 km of campus in a shared apartment and using a bicycle or scooter for the last mile, supplemented by occasional taxis. If you prefer more independence and can afford a car, you can widen your search to areas like Khalifa City A (about 5–10 km away) where rents are lower per square meter.
 

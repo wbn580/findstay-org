@@ -4,7 +4,7 @@ description: "Housing Near King Khalid University: A Practical Guide  King Khali
 pubDatetime: 2026-07-04T22:19:07.000Z
 modDatetime: 2026-07-07T08:25:07.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00019067.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00019067.jpg"
 tags: ["university", "king-khalid-university"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ The KKU main campus covers a large area, so “walking distance” depends on wh
 Pros: zero transport cost, quick access to library and Maestro Food cafeteria, no parking hassles.  
 Cons: limited housing supply in immediate vicinity; higher rents for those few apartments; noise from the main road.
 
-![King Khalid University](https://img.unistay.cn/housing/p/uh-s00019067.jpg)
+![King Khalid University](https://img.unistay.net/housing/p/uh-s00019067.jpg)
 
 **Transit (use bus or car for 2–5 km distance)**  
 Abha has a limited public bus network run by SAPTCO. Most students use private cars or ride‑hailing. A typical Uber trip from a neighbourhood 5 km away costs roughly SAR 10–15 each way. If you commute twice a day, that adds about SAR 600–900 per month—enough to boost your housing budget. Some students form carpool groups.  

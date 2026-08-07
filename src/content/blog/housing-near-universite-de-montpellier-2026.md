@@ -4,7 +4,7 @@ description: "University of Montpellier Housing Guide  The University of Montpel
 pubDatetime: 2026-07-03T13:57:22.000Z
 modDatetime: 2026-07-07T08:38:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2344123.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2344123.jpg"
 tags: ["university", "france"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Overall, the reviews point to a university with strong academic and support reso
 
 ## City Context
 
-![Université de Montpellier](https://img.unistay.cn/housing/p/amber-2344123.jpg)
+![Université de Montpellier](https://img.unistay.net/housing/p/amber-2344123.jpg)
 
 Montpellier is a mid-sized city in the Occitanie region, roughly 10 km from the Mediterranean coast. The city has a growing student population, with several universities and schools sharing the urban area. Summers are hot and dry, often exceeding 30°C, while winters are mild and damp. The city centre, known as Écusson, is pedestrian-friendly with narrow streets, while newer districts south and east of the centre feature wider boulevards and modern housing.
 

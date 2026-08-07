@@ -4,7 +4,7 @@ description: "Where to Live Near Simon Fraser University: A Student Housing Guid
 pubDatetime: 2026-07-04T13:00:34.000Z
 modDatetime: 2026-07-07T08:35:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1100209.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1100209.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -63,7 +63,7 @@ One of the defining features of living near SFU is the hill. The campus sits rou
 - From Burnaby’s Metrotown or Brentwood areas, multiple bus routes serve SFU, with travel times around 20–35 minutes.
 - From downtown Vancouver, you can take the SkyTrain to either Production Way or to Sperling-Burnaby Lake station, then transfer to a bus. Total commute: 45–60 minutes one way.
 
-![Simon Fraser University](https://img.unistay.cn/housing/p/amber-1100209.jpg)
+![Simon Fraser University](https://img.unistay.net/housing/p/amber-1100209.jpg)
 
 The trade-off is clear: living closer to campus saves time but costs more; living farther away (including in Vancouver proper) offers more housing choices and often lower rents, but adds a longer commute. The SkyTrain network is reliable, but you must account for bus transfers at the bottom of the mountain.
 

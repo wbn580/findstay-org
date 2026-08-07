@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal about Stevens Institute of Technology  
 pubDatetime: 2026-07-05T14:25:37.000Z
 modDatetime: 2026-07-07T08:38:37.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1396993.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1396993.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Because of its proximity to New York City, Hoboken rents are among the highest i
 
 ## Budget Bands for Student Housing
 
-![Stevens Institute of Technology](https://img.unistay.cn/housing/p/amber-1396993.jpg)
+![Stevens Institute of Technology](https://img.unistay.net/housing/p/amber-1396993.jpg)
 
 Housing costs near Stevens vary widely, depending on room type, distance from campus, and whether utilities are included. For the 2026–2027 academic year, these are typical ranges (all prices are **indicative — confirm with the operator**):
 

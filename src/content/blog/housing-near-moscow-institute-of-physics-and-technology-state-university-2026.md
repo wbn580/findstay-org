@@ -4,7 +4,7 @@ description: "What Campus Reviews Tell Us About Student Life  Moscow Institute o
 pubDatetime: 2026-07-07T06:20:13.000Z
 modDatetime: 2026-07-07T09:13:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2300957.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2300957.jpg"
 tags: ["university", "moscow-institute-of-physics-and-technology-state-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Rental housing in Dolgoprudny mainly consists of Soviet-era apartment blocks (of
 
 ## Budget Considerations for 2026–2027
 
-![Moscow Institute of Physics and Technology State University](https://img.unistay.cn/housing/p/amber-2300957.jpg)
+![Moscow Institute of Physics and Technology State University](https://img.unistay.net/housing/p/amber-2300957.jpg)
 
 Because rental prices in the Moscow region fluctuate with currency exchange rates, inflation, and seasonal demand, no fixed number can be guaranteed here. All figures below are **indicative — confirm with the operator** before making any financial commitment.
 

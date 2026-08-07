@@ -4,7 +4,7 @@ description: "Finding Housing Near Central South University – A 2026 Guide  Ce
 pubDatetime: 2026-07-01T12:24:36.000Z
 modDatetime: 2026-07-07T07:56:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3166237.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3166237.jpg"
 tags: ["university", "central-south-university"]
 category: "university"
 draft: false
@@ -49,7 +49,7 @@ Consider your course schedule: if you have classes daily and need lab access, wa
 
 ### Shortlist Logic Using Nearby Residences
 
-![Central South University](https://img.unistay.cn/housing/p/amber-3166237.jpg)
+![Central South University](https://img.unistay.net/housing/p/amber-3166237.jpg)
 
 There is no official list of “approved” off-campus residences for CSU. Instead, you can shortlist by these criteria:
 

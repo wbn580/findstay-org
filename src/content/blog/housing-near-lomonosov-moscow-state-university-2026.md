@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Lomonosov Moscow State University
 pubDatetime: 2026-07-04T05:24:10.000Z
 modDatetime: 2026-07-07T09:02:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1597273.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1597273.jpg"
 tags: ["university", "lomonosov-moscow-state-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Student housing in Moscow generally falls into three categories: university dorm
 
 ## Budget Bands for Student Housing Near MSU
 
-![Lomonosov Moscow State University](https://img.unistay.cn/housing/p/amber-1597273.jpg)
+![Lomonosov Moscow State University](https://img.unistay.net/housing/p/amber-1597273.jpg)
 
 All prices below are indicative – confirm with the operator. They reflect the market in 2026–2027 and vary with season, condition, and exact location.
 

@@ -4,7 +4,7 @@ description: "Housing Near University of Chemistry and Technology, Prague: What 
 pubDatetime: 2026-06-30T23:50:01.000Z
 modDatetime: 2026-07-07T08:16:01.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-142561.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-142561.jpg"
 tags: ["university", "university-of-chemistry-and-technology-prague"]
 category: "university"
 draft: false
@@ -47,7 +47,7 @@ If you choose to live in a less expensive district, say near Vltavská (line C) 
 
 For international students, a factor to consider is English – in more touristy or expat-friendly districts like Vinohrady or Holešovice, you’re more likely to find landlords and real estate agents who speak English. In Dejvice itself, interactions with neighbours and service staff may still be in Czech.
 
-![University of Chemistry and Technology, Prague](https://img.unistay.cn/housing/p/amber-142561.jpg)
+![University of Chemistry and Technology, Prague](https://img.unistay.net/housing/p/amber-142561.jpg)
 
 ### Shortlist logic: how to select a housing option near VŠCHT
 

@@ -4,7 +4,7 @@ description: "What campus reviews reveal about living near UCL  University Colle
 pubDatetime: 2026-07-06T23:35:43.000Z
 modDatetime: 2026-07-07T07:54:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013920.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013920.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Rents in London do not include council tax for full‑time students (you are exe
 
 ## Walk versus transit: the trade‑off near UCL
 
-![UCL (University College London)](https://img.unistay.cn/housing/p/uh-s00013920.jpg)
+![UCL (University College London)](https://img.unistay.net/housing/p/uh-s00013920.jpg)
 
 UCL’s main campus is in Bloomsbury, zone 1. Many students walk to university – it’s a pleasant 10–20 minute stroll from areas like Camden, King’s Cross, or Fitzrovia. If you choose accommodation within a 15‑minute walk, you save money on travel and can pop back to your room between classes. However, such properties usually command higher rents (often £280+/week for a decent ensuite).
 

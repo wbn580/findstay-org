@@ -4,7 +4,7 @@ description: "Housing Near Aarhus University: What Campus Reviews Reveal and How
 pubDatetime: 2026-07-04T07:25:59.000Z
 modDatetime: 2026-07-07T07:56:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013477.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013477.jpg"
 tags: ["university", "aarhus-university"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ For those who prefer walking to campus, living in Trøjborg, Risskov (north of c
 
 ### Shortlist Logic: How to Evaluate Nearby Residences
 
-![Aarhus University](https://img.unistay.cn/housing/p/uh-s00013477.jpg)
+![Aarhus University](https://img.unistay.net/housing/p/uh-s00013477.jpg)
 
 Although the provided data does not list specific student residences near Aarhus University, the following logic can help you shortlist options using any available listings (from housing portals or operators). Apply these criteria when you search:
 

@@ -4,7 +4,7 @@ description: "Housing Near Tomsk Polytechnic University: A Student Guide  Tomsk 
 pubDatetime: 2026-07-06T13:55:37.000Z
 modDatetime: 2026-07-07T08:50:37.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2481162.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2481162.jpg"
 tags: ["university", "tomsk-polytechnic-university"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ These reviews, though brief, point to two key factors relevant to housing: a sup
 
 ## Navigating Tomsk as a Student City
 
-![Tomsk Polytechnic University](https://img.unistay.cn/housing/p/amber-2481162.jpg)
+![Tomsk Polytechnic University](https://img.unistay.net/housing/p/amber-2481162.jpg)
 
 Tomsk is a medium-sized Siberian city with a population of around 550,000. Winters are long and cold, with average temperatures in January around –19 °C, while summers are mild and short. The city has a compact layout, with the university located near the centre. Public transport includes buses, trams, and minibuses (marshrutkas). Fares are low — a single trip costs approximately 20–25 RUB (indicative — confirm with the operator).
 

@@ -4,7 +4,7 @@ description: "Campus Reviews – What Students Say  Bilkent University holds a G
 pubDatetime: 2026-06-30T23:11:53.000Z
 modDatetime: 2026-07-07T08:25:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2718953.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2718953.jpg"
 tags: ["university", "bilkent-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Ankara’s cost of living is moderate compared to European capitals, but prices 
 
 ## Budget Bands for Student Housing
 
-![Bilkent University](https://img.unistay.cn/housing/p/amber-2718953.jpg)
+![Bilkent University](https://img.unistay.net/housing/p/amber-2718953.jpg)
 
 Because housing costs vary widely depending on room type, building age, and distance, it is most useful to think in broad bands. All figures below are **indicative – confirm with the operator** for the 2026–2027 term.
 

@@ -4,7 +4,7 @@ description: "Housing Near Università Vita-Salute San Raffaele: A Student Guide
 pubDatetime: 2026-07-03T10:43:39.000Z
 modDatetime: 2026-07-07T09:04:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013328.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013328.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -60,7 +60,7 @@ Buses (line 923, from San Raffaele to Cascina Gobba) also serve the campus. If y
 
 Milan is relatively flat and increasingly bike-friendly. A bicycle ride from the city centre to campus takes about 25–35 minutes. Electric scooter rentals are also available, but parking on campus may be limited. If you rent near the Navigli or along the Martesana canal cycle path, you can commute without crowding public transport.
 
-![Università Vita-Salute San Raffaele](https://img.unistay.cn/housing/p/uh-s00013328.jpg)
+![Università Vita-Salute San Raffaele](https://img.unistay.net/housing/p/uh-s00013328.jpg)
 
 ### Shortlist Logic: How to Choose Between Nearby Residences
 

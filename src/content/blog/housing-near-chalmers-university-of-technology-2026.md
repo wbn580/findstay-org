@@ -4,7 +4,7 @@ description: "Campus Reviews & What Students Say  Chalmers University of Technol
 pubDatetime: 2026-07-03T05:25:13.000Z
 modDatetime: 2026-07-07T08:53:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-218192.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-218192.jpg"
 tags: ["university", "chalmers-university-of-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Student housing in Gothenburg is managed by several actors, including Chalmers S
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Chalmers University of Technology](https://img.unistay.cn/housing/p/amber-218192.jpg)
+![Chalmers University of Technology](https://img.unistay.net/housing/p/amber-218192.jpg)
 
 All prices below are indicative – confirm with the operator. Rents in Gothenburg vary by location, size, and contract type (corridor room, studio, or shared apartment). Here are approximate monthly bands for a single student (using SEK, the Swedish krona; exchange rates vary).
 

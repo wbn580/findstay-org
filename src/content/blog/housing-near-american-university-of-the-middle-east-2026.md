@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Student Life  The American Univer
 pubDatetime: 2026-07-02T10:09:22.000Z
 modDatetime: 2026-07-07T08:47:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01525117.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01525117.jpg"
 tags: ["university", "american-university-of-the-middle-east"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ For students, this means that housing within a short walking distance (10–15 m
 
 ## Budget Bands for Nearby Housing (2026–2027)
 
-![American University of the Middle East](https://img.unistay.cn/housing/p/uh-s01525117.jpg)
+![American University of the Middle East](https://img.unistay.net/housing/p/uh-s01525117.jpg)
 
 No specific rent figures for residences near AUM are included in this dataset. However, based on general market conditions in Kuwait (not sourced from any operator), student accommodation costs vary significantly by type and location. As a rule, any price mentioned in this guide is indicative — confirm with the operator before committing.
 

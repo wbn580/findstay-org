@@ -4,7 +4,7 @@ description: "Housing Near Technische Universität Bergakademie Freiberg: A Stud
 pubDatetime: 2026-06-30T13:15:29.000Z
 modDatetime: 2026-07-07T07:54:29.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2348320.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2348320.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ Freiberg is small enough that many students choose to walk. Key distances:
 
 **Transit** is useful if you live farther out or if you need to commute to Dresden for internships or courses. The bus network is simple, with buses running every 15–30 minutes on weekdays, less frequently on weekends. A semester ticket covers all buses within Freiberg and regional trains within Saxony. The main bus stop near campus is “TU Bergakademie” (lines A and B). For a monthly bus pass without semester ticket, expect about €50 – but most students pay the semester fee (around €300 per semester) which already includes the ticket.
 
-![Technische Universität Bergakademie Freiberg](https://img.unistay.cn/housing/p/amber-2348320.jpg)
+![Technische Universität Bergakademie Freiberg](https://img.unistay.net/housing/p/amber-2348320.jpg)
 
 **Cycling** is another efficient mode. Freiberg has bike lanes and is mostly flat. A bicycle can be purchased second‑hand for €100–€200. Many landlords provide bike storage. Cycling time from the town centre to campus is about 5 minutes.
 

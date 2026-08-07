@@ -4,7 +4,7 @@ description: "Housing near the University of New Brunswick: what to know for 202
 pubDatetime: 2026-07-04T01:46:36.000Z
 modDatetime: 2026-07-07T08:47:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1359456.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1359456.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ Short-term recommendation: for a first-year student without a car, look within a
 
 When reviewing available housing options near UNB, use the following checklist to narrow down a shortlist. (The given data does not include specific nearby residences; therefore this logic is based on general best practices for Fredericton.)
 
-![University of New Brunswick](https://img.unistay.cn/housing/p/amber-1359456.jpg)
+![University of New Brunswick](https://img.unistay.net/housing/p/amber-1359456.jpg)
 
 1. **Distance to class buildings** – Pinpoint where your core classes are (e.g., around the Marshall d’Avray Hall, the Kinesiology building, or the Keirstead Hall). Use a map and check walking time, not just straight-line distance. Some “walkable” apartments may still leave you a 20-minute cross-campus trek.
 2. **Bus route reliability** – If you plan to use the bus, check the route number and frequency. The university’s U-Pass covers all routes, but some neighbourhoods have hourly service. Ask the landlord or previous tenants about actual wait times.

@@ -4,7 +4,7 @@ description: "Housing near the University of British Columbia: A Practical Guide
 pubDatetime: 2026-07-03T13:59:24.000Z
 modDatetime: 2026-07-07T08:51:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-208994.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-208994.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -66,7 +66,7 @@ UBC’s location at the western end of the peninsula means that commuting option
 
 **When cycling is your preference** – Dunbar and Kitsilano are both bike‑friendly. A 20‑minute bike ride is comparable to a 30‑minute bus ride.
 
-![University of British Columbia](https://img.unistay.cn/housing/p/amber-208994.jpg)
+![University of British Columbia](https://img.unistay.net/housing/p/amber-208994.jpg)
 
 ### Shortlist Logic: How to Evaluate Options
 

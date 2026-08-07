@@ -4,7 +4,7 @@ description: "Housing Near Indian Institute of Technology Indore (IIT Indore) â€
 pubDatetime: 2026-07-01T05:37:45.000Z
 modDatetime: 2026-07-07T08:56:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1299675.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1299675.jpg"
 tags: ["university", "indian-institute-of-technology-indore"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ The campus is not designed for a walkingâ€‘based neighbourhood â€“ it is a selfâ
 - Internet connectivity can be patchy in some remote houses.
 - You will need to go to Indore for major shopping, healthcare, or entertainment.
 
-![Indian Institute of Technology Indore](https://img.unistay.cn/housing/p/amber-1299675.jpg)
+![Indian Institute of Technology Indore](https://img.unistay.net/housing/p/amber-1299675.jpg)
 
 The tradeâ€‘off is clear: walking proximity saves time and money but sacrifices variety and convenience. Most international students or those with families opt for Indore city and a vehicle.
 

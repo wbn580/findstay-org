@@ -4,7 +4,7 @@ description: "Housing Near Dartmouth College: What Campus Reviews and Location T
 pubDatetime: 2026-07-05T13:16:09.000Z
 modDatetime: 2026-07-07T07:55:09.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3220429.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3220429.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -69,7 +69,7 @@ Most off-campus leases run from June to June, with renewals in spring. Utilities
 - A personal car becomes almost essential for evening events, grocery runs, or medical appointments outside town.
 - Parking permits on campus are limited and cost $200–$500 per year (indicative — confirm with the college).
 
-![Dartmouth College](https://img.unistay.cn/housing/p/amber-3220429.jpg)
+![Dartmouth College](https://img.unistay.net/housing/p/amber-3220429.jpg)
 
 **Rural/long commute** (5+ miles):
 

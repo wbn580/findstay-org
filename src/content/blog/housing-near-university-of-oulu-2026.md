@@ -4,7 +4,7 @@ description: "University of Oulu: Campus Life and Housing Context  Located at Pe
 pubDatetime: 2026-07-06T11:24:30.000Z
 modDatetime: 2026-07-07T09:03:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-286922.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-286922.jpg"
 tags: ["university", "university-of-oulu"]
 category: "university"
 draft: false
@@ -30,7 +30,7 @@ Most student housing providers in Oulu require applicants to be registered as fu
 
 ## Walk vs Transit: Getting to Campus
 
-![University of Oulu](https://img.unistay.cn/housing/p/amber-286922.jpg)
+![University of Oulu](https://img.unistay.net/housing/p/amber-286922.jpg)
 
 The University of Oulu’s main campus is located at the northern edge of Oulu, about 6 km from the city centre. The trade-off between walking and public transport depends on where you live.
 

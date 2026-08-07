@@ -4,7 +4,7 @@ description: "Living Near Universitas Gadjah Mada: What Campus Reviews Tell Us A
 pubDatetime: 2026-07-05T14:04:04.000Z
 modDatetime: 2026-07-07T09:06:04.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-210596.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-210596.jpg"
 tags: ["university", "universitas-gadjah-mada"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ The UGM campus extends over several hectares, and the main lecture buildings, li
 - **Walking distance (0–1.5 km from campus gates)**  
   Housing in villages like Karangmalang, Sagan, or Papringan places you within a 5‑to‑15‑minute walk to the east or north entrances. This is ideal if you want to avoid any transportation cost and enjoy the campus greenery. However, such properties are in high demand and may be more expensive or fill up quickly. Walking also avoids traffic congestion around campus.
 
-![Universitas Gadjah Mada](https://img.unistay.cn/housing/p/amber-210596.jpg)
+![Universitas Gadjah Mada](https://img.unistay.net/housing/p/amber-210596.jpg)
 
 - **Short commute by motorcycle/ride‑hailing (1.5–4 km)**  
   A motorcycle (ojek) or ride‑hailing (Gojek/Grab) typically takes 5–10 minutes from areas like Sapen, Ambarrukmo, or Caturtunggal. The cost per trip is around Rp 10,000–20,000. Some students buy a used motorcycle (Rp 5–15 million) for greater flexibility. Transit by bus (Trans Jogja) is available on the main roads but may involve waiting and a 10‑minute walk to stops.

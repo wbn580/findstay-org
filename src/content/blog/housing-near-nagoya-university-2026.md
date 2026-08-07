@@ -4,7 +4,7 @@ description: "Housing Guide for Students Near Nagoya University  Nagoya Universi
 pubDatetime: 2026-07-01T13:54:37.000Z
 modDatetime: 2026-07-07T08:20:37.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-187745.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-187745.jpg"
 tags: ["university", "nagoya-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Collectively, these reviews tell you: facilities are excellent, the campus is sp
 
 ## Nagoya City Context
 
-![Nagoya University](https://img.unistay.cn/housing/p/amber-187745.jpg)
+![Nagoya University](https://img.unistay.net/housing/p/amber-187745.jpg)
 
 Nagoya is Japan’s fourth-largest city, serving as the capital of Aichi Prefecture. It has a major industrial and transportation hub (Chubu Centrair International Airport, Shinkansen station) but a more relaxed pace than Tokyo or Osaka. Living costs are generally lower – rent, food, and transportation are more affordable for students.
 

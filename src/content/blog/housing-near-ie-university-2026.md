@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About IE University  IE University oper
 pubDatetime: 2026-06-30T10:36:53.000Z
 modDatetime: 2026-07-07T08:42:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-921097.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-921097.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Which city you choose will depend on your programme — some degrees are taught 
 
 ## Budget Bands for Student Housing
 
-![IE University](https://img.unistay.cn/housing/p/amber-921097.jpg)
+![IE University](https://img.unistay.net/housing/p/amber-921097.jpg)
 
 Housing costs vary significantly between Segovia and Madrid, and within each city based on location, amenities, and sharing arrangement. Below are indicative monthly ranges (all prices are indicative — confirm with the operator or landlord).
 

@@ -4,7 +4,7 @@ description: "Campus Reviews and What They Reveal  The University of Calgary, lo
 pubDatetime: 2026-07-01T00:30:30.000Z
 modDatetime: 2026-07-07T09:00:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013352.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013352.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ Calgary is the largest city in Alberta, Canada, known for its proximity to the R
 
 ## Budget Bands for Student Housing
 
-![University of Calgary](https://img.unistay.cn/housing/p/uh-s00013352.jpg)
+![University of Calgary](https://img.unistay.net/housing/p/uh-s00013352.jpg)
 
 No specific rental prices are provided in the dataset. However, student housing budgets in Calgary generally fall into three indicative bands (prices are indicative — confirm with the operator):
 

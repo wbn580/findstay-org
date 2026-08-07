@@ -4,7 +4,7 @@ description: "Politecnico di Torino: A Housing Guide Based on Student Reviews  P
 pubDatetime: 2026-07-05T01:44:31.000Z
 modDatetime: 2026-07-07T07:49:31.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2713490.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2713490.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -67,7 +67,7 @@ Living within walking distance (10–15 minutes) of the main campus in Crocetta 
 
 If you choose a location slightly further out, such as Vanchiglia (20–25 minutes on foot to campus) or areas near Porta Nuova station, you will likely pay less and have better access to the city centre. The trade-off is commuting time – about 15–20 minutes by tram or metro. For students who have a very “hectic” weekly schedule, the extra 30–40 minutes daily can add up. On the other hand, if you enjoy walking and want a quieter neighbourhood, a slightly longer walk can be fine.
 
-![Politecnico di Torino](https://img.unistay.cn/housing/p/amber-2713490.jpg)
+![Politecnico di Torino](https://img.unistay.net/housing/p/amber-2713490.jpg)
 
 Some students choose to live along the metro line itself (especially stations like “Porta Susa”, “XVIII Dicembre”, or “Bernini”). The commute from these stations to “Politecnico” is 5–10 minutes on the metro. The trade-off here is a small monthly pass cost, but you gain a wider choice of accommodation types and prices.
 

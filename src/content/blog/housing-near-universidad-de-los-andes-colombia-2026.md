@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Los Andes in Bogotá
 pubDatetime: 2026-07-05T11:53:15.000Z
 modDatetime: 2026-07-07T08:56:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013707.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013707.jpg"
 tags: ["university", "universidad-de-los-andes-colombia"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Security is a consideration in any large city. While the university area (La Can
 
 ## Budget Bands for Student Housing
 
-![Universidad de Los Andes Colombia](https://img.unistay.cn/housing/p/uh-s00013707.jpg)
+![Universidad de Los Andes Colombia](https://img.unistay.net/housing/p/uh-s00013707.jpg)
 
 Rental prices in Bogotá are typically quoted in Colombian Pesos (COP). As of 2026, exchange rates fluctuate, but a rough guide is:
 

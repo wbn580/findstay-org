@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The Indian Institute of Science (IISc)
 pubDatetime: 2026-06-30T16:40:53.000Z
 modDatetime: 2026-07-07T09:02:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-248430.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-248430.jpg"
 tags: ["university", "indian-institute-of-science-bangalore"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Rental prices in areas immediately surrounding IISc reflect a mix of professiona
 
 ## Budget Bands for Student Housing
 
-![Indian Institute of Science (IISc) Bangalore](https://img.unistay.cn/housing/p/amber-248430.jpg)
+![Indian Institute of Science (IISc) Bangalore](https://img.unistay.net/housing/p/amber-248430.jpg)
 
 Based on typical Bengaluru rental patterns near IISc, the following are indicative budget bands (all prices are indicative — confirm with the operator):
 

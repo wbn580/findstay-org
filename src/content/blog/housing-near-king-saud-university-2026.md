@@ -4,7 +4,7 @@ description: "Housing Near King Saud University: A Practical Guide  King Saud Un
 pubDatetime: 2026-07-01T05:15:24.000Z
 modDatetime: 2026-07-07T08:05:24.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00733730.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00733730.jpg"
 tags: ["university", "king-saud-university"]
 category: "university"
 draft: false
@@ -62,7 +62,7 @@ Choosing whether to live within walking distance or rely on transit involves wei
 - *Cons:* Daily commute time (15–30 minutes each way), recurring transport cost (SAR 10–30 per ride with Uber/Careem), need to plan around bus schedules if using the metro. Riyadh’s public transport network is still expanding; waiting times can be long.
 - *Typical areas:* Al‑Olayya, Al‑Sulaimaniyah, Al‑Rahmaniyah.
 
-![King Saud University](https://img.unistay.cn/housing/p/uh-s00733730.jpg)
+![King Saud University](https://img.unistay.net/housing/p/uh-s00733730.jpg)
 
 **Heat Factor:** Walking even 10 minutes in summer can be uncomfortable. If you choose a walkable apartment, ensure the path is shaded or that you have a car for peak hours. Many students who live “walking distance” still drive on hot days.
 

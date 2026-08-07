@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at Beihang University  Locat
 pubDatetime: 2026-07-07T02:22:46.000Z
 modDatetime: 2026-07-07T08:08:46.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1343409.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1343409.jpg"
 tags: ["university", "beihang-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Key characteristics of the neighbourhood:
 
 ## Budget Bands (Indicative – confirm with the operator)
 
-![Beihang University (former BUAA)](https://img.unistay.cn/housing/p/amber-1343409.jpg)
+![Beihang University (former BUAA)](https://img.unistay.net/housing/p/amber-1343409.jpg)
 
 Rental prices in the university area vary by property type, distance, and quality. All prices below are indicative as of 2026–2027 and should be verified with individual operators before signing any contract.
 

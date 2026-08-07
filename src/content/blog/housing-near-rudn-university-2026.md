@@ -4,7 +4,7 @@ description: "Housing Near RUDN University: What Campus Reviews Reveal  RUDN Uni
 pubDatetime: 2026-07-04T03:49:06.000Z
 modDatetime: 2026-07-07T07:54:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1099107.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1099107.jpg"
 tags: ["university", "rudn-university"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Choosing between walking distance and a longer commute involves balancing cost, 
 - **Short metro or bus ride (15–30 minutes one way)**: Neighbourhoods like Belyaevo, Konkovo, or Tyoply Stan are one or two metro stops from Yugo‑Zapadnaya. Here, rents are often more affordable, and you have access to larger supermarkets and parks. The commute is still short (under 30 minutes door‑to‑door), and you can enjoy a slightly more residential atmosphere.
 - **Longer commute (30–60 minutes)**: Students who prioritise a central Moscow location (e.g., near the Kremlin, Kitay‑Gorod, or Park Kultury) may accept a 40–60 minute journey. This makes sense if you value being close to internships, cultural venues, or a part‑time job in the city centre. However, the extra travel time and metro costs should be weighed against the benefits.
 
-![RUDN University](https://img.unistay.cn/housing/p/amber-1099107.jpg)
+![RUDN University](https://img.unistay.net/housing/p/amber-1099107.jpg)
 
 Many students find a compromise: live within a 20‑minute walk for the first year to build friendships and adapt, then move further out later to save money or explore other areas.
 

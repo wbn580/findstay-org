@@ -4,7 +4,7 @@ description: "Housing Near Jagiellonian University: What Campus Reviews Reveal  
 pubDatetime: 2026-07-02T12:34:06.000Z
 modDatetime: 2026-07-07T08:32:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1238738.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1238738.jpg"
 tags: ["university", "jagiellonian-university"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ While no specific rent figures are provided in this guide, a general understandi
 
 Jagiellonian University’s main campus is pedestrian‑friendly. Walking from a residence in the Old Town or Kazimierz takes less than 15 minutes. However, if you live in areas like Krowodrza or Dębniki, you will rely on trams or buses.
 
-![Jagiellonian University](https://img.unistay.cn/housing/p/amber-1238738.jpg)
+![Jagiellonian University](https://img.unistay.net/housing/p/amber-1238738.jpg)
 
 - **Walking only** (within Old Town / Planty area): Highest convenience, lowest transport cost. Your rent will be at the premium end, and noise from tourists and nightlife can be a consideration.
 - **Tram + walk** (e.g., Kazimierz, Krowodrza): A monthly student tram pass costs a flat fee (indicative — confirm with the operator). The tram ride to the main campus from Kazimierz is about 3–4 stops (5–10 minutes) plus a 5‑minute walk. From Krowodrza, allow 15–20 minutes. This trade‑off reduces rent while still offering a short daily commute.

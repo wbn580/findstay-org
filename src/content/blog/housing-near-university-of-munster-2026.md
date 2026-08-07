@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Münster sits at the
 pubDatetime: 2026-07-07T03:56:25.000Z
 modDatetime: 2026-07-07T09:10:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2072838.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2072838.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Affordability in Münster is moderate by German standards. While Munich or Frank
 
 ## Budget Bands (Indicative – Confirm with the Operator)
 
-![University of Münster](https://img.unistay.cn/housing/p/amber-2072838.jpg)
+![University of Münster](https://img.unistay.net/housing/p/amber-2072838.jpg)
 
 Because no specific rent data was provided with this guide, the figures below are general market observations for 2026–2027. Always check current listings directly with landlords or student housing operators.
 

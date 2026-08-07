@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal Rutgers University – New Brunswick is
 pubDatetime: 2026-07-03T10:14:39.000Z
 modDatetime: 2026-07-07T08:51:39.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-290745.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-290745.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -40,7 +40,7 @@ The above prices are market reference ranges for the 2026/2027 academic year; ac
 
 ## Walking vs. Bus Trade-offs
 
-![Rutgers University – New Brunswick](https://img.unistay.cn/housing/p/amber-290745.jpg)
+![Rutgers University – New Brunswick](https://img.unistay.net/housing/p/amber-290745.jpg)
 
 Since the Rutgers University–New Brunswick campus is composed of 5 campuses scattered across New Brunswick and Piscataway, the choice of address directly affects daily commute time.
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Student reviews of Tomsk State Univers
 pubDatetime: 2026-07-03T11:44:10.000Z
 modDatetime: 2026-07-07T08:48:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1467161.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1467161.jpg"
 tags: ["university", "tomsk-state-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ All prices are indicative – confirm with the operator before signing any contr
 
 ## Walk vs Transit Trade-off
 
-![Tomsk State University](https://img.unistay.cn/housing/p/amber-1467161.jpg)
+![Tomsk State University](https://img.unistay.net/housing/p/amber-1467161.jpg)
 
 Because Tomsk State University is centrally located, walking remains the most common mode of transport for students living within 2–3 km. The main building on Lenin Ave is accessible on foot from most central neighbourhoods. However, consider these trade-offs:
 

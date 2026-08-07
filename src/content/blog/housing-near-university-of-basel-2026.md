@@ -4,7 +4,7 @@ description: "Housing Guide for University of Basel Students  The University of 
 pubDatetime: 2026-07-03T13:30:27.000Z
 modDatetime: 2026-07-07T08:16:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1370547.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1370547.jpg"
 tags: ["university", "university-of-basel"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The overall sentiment from reviews is positive, with a strong sense of order and
 
 ## City Context: Basel as a Student City
 
-![University of Basel](https://img.unistay.cn/housing/p/amber-1370547.jpg)
+![University of Basel](https://img.unistay.net/housing/p/amber-1370547.jpg)
 
 Basel is Switzerland’s third-largest city, known for its pharmaceutical industry (Novartis, Roche), art museums, and the annual Baselworld watch fair. The city has a high cost of living, typical of Swiss urban centres. Public transport is efficient, with trams and buses covering the entire metro area. The University of Basel is not a single campus; its departments are spread across multiple locations, including the main building (Petersplatz), the Biozentrum (Spitalstrasse), and the department of physics (Klingelbergstrasse). Therefore, housing that works for a student in the humanities (mainly at Petersplatz) may be less convenient for a biology student heading to the Biozentrum.
 

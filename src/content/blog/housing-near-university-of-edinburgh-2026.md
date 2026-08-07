@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  Student and visito
 pubDatetime: 2026-07-04T18:04:07.000Z
 modDatetime: 2026-07-07T08:11:07.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01550019.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01550019.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ According to the data, there are at least 34 student residences listed in Edinbu
 
 ## Budget Bands for Student Accommodation in Edinburgh
 
-![University of Edinburgh](https://img.unistay.cn/housing/p/uh-s01550019.jpg)
+![University of Edinburgh](https://img.unistay.net/housing/p/uh-s01550019.jpg)
 
 When planning your housing budget in Edinburgh, it helps to categorise options into rough bands. The £139.30 per week figure represents the lower end of the market, likely for basic en-suite or shared bathroom rooms in older buildings or slightly less central areas. Mid-range rooms – often in modern purpose-built buildings with en-suite bathrooms and shared kitchens – typically fall between £170 and £220 per week. Premium options such as studios or larger en-suites in prime locations near the university can exceed £250 per week.
 

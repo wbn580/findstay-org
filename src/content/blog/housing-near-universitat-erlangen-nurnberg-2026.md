@@ -4,7 +4,7 @@ description: "University Overview and Campus Reviews  Universität Erlangen-Nür
 pubDatetime: 2026-07-04T00:15:47.000Z
 modDatetime: 2026-07-07T09:10:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1113819.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1113819.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -23,7 +23,7 @@ FAU has locations in both Erlangen and Nuremberg. The main administrative addres
 
 ## Budget Bands for Student Housing
 
-![Universität Erlangen-Nürnberg](https://img.unistay.cn/housing/p/amber-1113819.jpg)
+![Universität Erlangen-Nürnberg](https://img.unistay.net/housing/p/amber-1113819.jpg)
 
 Housing costs in Erlangen and Nuremberg vary. The figures below are indicative — confirm with the operator or landlord before signing a contract (prices as of 2026).
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at University of Trento  Stu
 pubDatetime: 2026-07-02T01:34:41.000Z
 modDatetime: 2026-07-07T07:52:41.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-221225.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-221225.jpg"
 tags: ["university", "italy"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Student life is calm compared to Bologna or Milan. Nightlife exists but is modes
 
 ## Budget Bands for Student Housing
 
-![University of Trento](https://img.unistay.cn/housing/p/amber-221225.jpg)
+![University of Trento](https://img.unistay.net/housing/p/amber-221225.jpg)
 
 Rental prices in Trento follow a moderate‑to‑high pattern for northern Italy. Because no specific residence data was provided, the following cost bands are based on general market indications for the 2026/2027 academic year. **All prices are indicative — confirm with the operator** (landlord or agency) before committing.
 

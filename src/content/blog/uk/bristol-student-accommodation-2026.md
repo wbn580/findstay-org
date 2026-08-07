@@ -3,8 +3,8 @@ title: "Bristol Student Accommodation 2026: Areas Near UoB & UWE"
 description: "Student housing in Bristol — one of the UK's most popular student cities. Rent prices near University of Bristol and UWE Bristol for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=1600"
-ogImage: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=1200"
+heroImage: "https://img.unistay.net/rehost/2dfc0bb776df.jpg"
+ogImage: "https://img.unistay.net/rehost/8cd72df61861.jpg"
 tags: ["uk", "bristol", "student-accommodation"]
 category: "uk"
 city: "bristol"

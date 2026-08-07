@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Technische Universität Darmsta
 pubDatetime: 2026-07-04T16:37:36.000Z
 modDatetime: 2026-07-07T08:45:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-931775.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-931775.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ For students, the city offers a moderate cost of living compared to Munich or Fr
 
 ## Budget Bands (Indicative)
 
-![Technische Universität Darmstadt](https://img.unistay.cn/housing/p/amber-931775.jpg)
+![Technische Universität Darmstadt](https://img.unistay.net/housing/p/amber-931775.jpg)
 
 Because rents vary by location, room size, and amenities, here is a rough breakdown for accommodation near TU Darmstadt in the 2026/2027 academic year:
 

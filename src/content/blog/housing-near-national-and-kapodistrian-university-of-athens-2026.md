@@ -4,7 +4,7 @@ description: "Housing Near the National and Kapodistrian University of Athens  F
 pubDatetime: 2026-07-03T18:29:03.000Z
 modDatetime: 2026-07-07T08:10:03.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1568314.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1568314.jpg"
 tags: ["university", "national-and-kapodistrian-university-of-athens"]
 category: "university"
 draft: false
@@ -41,7 +41,7 @@ For those who prefer managed student residences or private dormitories, options 
 
 Given the small size of Psachna, most parts of the town are within a 15–20 minute walk of the university campus. Living in the immediate vicinity (e.g., within 1 km) allows you to walk to classes, the library, and the cafeteria, saving time and transport costs. The town has limited public transport, so walking or cycling is the most practical option for day‑to‑day trips.
 
-![National and Kapodistrian University of Athens](https://img.unistay.cn/housing/p/amber-1568314.jpg)
+![National and Kapodistrian University of Athens](https://img.unistay.net/housing/p/amber-1568314.jpg)
 
 If you choose accommodation farther from campus – for example, in Chalcis or a village along the bus route – you will rely on the regional bus service. Buses from Chalcis to Psachna run approximately every 30–60 minutes during weekdays, with fewer services on weekends. A one‑way ticket costs about €1.50–€2.00 (indicative – confirm with the operator). Commuting time from Chalcis is roughly 20–30 minutes by bus, plus waiting time. This can be manageable if you have a class schedule that fits the bus timetable, but note that evening and early‑morning services may be scarce.
 

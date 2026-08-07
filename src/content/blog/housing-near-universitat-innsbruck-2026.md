@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Universität Innsbruck  The Googl
 pubDatetime: 2026-06-30T23:28:32.000Z
 modDatetime: 2026-07-07T09:09:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3076064.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3076064.jpg"
 tags: ["university", "universitat-innsbruck"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Because Innsbruck is a compact city, the student accommodation market is tight. 
 
 ## Budget Bands for Student Housing Near Universität Innsbruck
 
-![Universität Innsbruck](https://img.unistay.cn/housing/p/amber-3076064.jpg)
+![Universität Innsbruck](https://img.unistay.net/housing/p/amber-3076064.jpg)
 
 All prices below are **indicative — confirm with the operator**. Rents vary by location, room type (single, double, studio), and amenities. Use these bands as a starting point for your 2026/2027 search.
 

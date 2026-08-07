@@ -4,7 +4,7 @@ description: "Housing near Universitas Indonesia: a guide for 2026–2027  Unive
 pubDatetime: 2026-07-01T22:38:49.000Z
 modDatetime: 2026-07-07T08:57:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1099070.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1099070.jpg"
 tags: ["university", "universitas-indonesia"]
 category: "university"
 draft: false
@@ -52,7 +52,7 @@ Areas like Pondok Cina, the housing complex behind the Faculty of Engineering (G
 **Transit‑dependent (15–45 minutes using public transport)**  
 If you live further away—for example, in the Margonda Raya corridor or in the new developments around ITC Depok—you will need a motorcycle taxi (ojek), a ride‑hailing app, a bus, or the KRL train to reach campus. The KRL station at Pondok Cina (also called UI Station) is a 10–15 minute walk from the main entrance inside the campus. Living near this station gives you a direct train to Jakarta, but the walk to the campus centre is still 15–20 minutes. For students with classes in the early morning or late evening, relying on public transport can be less convenient and adds to monthly costs (roughly IDR 200,000–500,000 per month for ojeks/ride‑hailing).
 
-![UNIVERSITAS INDONESIA](https://img.unistay.cn/housing/p/amber-1099070.jpg)
+![UNIVERSITAS INDONESIA](https://img.unistay.net/housing/p/amber-1099070.jpg)
 
 **Our recommendation:** For first‑year students or those with many on‑campus commitments, prioritize housing within a 15‑minute walk of the campus perimeter (especially the side near the library and Faculty of Engineering). This reduces time and cost while keeping you close to campus green spaces and sports facilities mentioned in the reviews.
 

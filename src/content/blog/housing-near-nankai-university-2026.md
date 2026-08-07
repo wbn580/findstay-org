@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The Google rating of Nankai University
 pubDatetime: 2026-07-01T03:59:06.000Z
 modDatetime: 2026-07-07T09:12:06.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013754.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013754.jpg"
 tags: ["university", "nankai-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The local neighbourhood around the university is dotted with small shops, eateri
 
 ## Budget Bands for Student Housing
 
-![Nankai University](https://img.unistay.cn/housing/p/uh-s00013754.jpg)
+![Nankai University](https://img.unistay.net/housing/p/uh-s00013754.jpg)
 
 No specific rent figures are provided in the available data. However, based on typical patterns in Chinese university cities, student housing around Nankai University can be categorised into three budget bands (all prices mentioned are indicative – confirm with the operator):
 

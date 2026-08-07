@@ -4,7 +4,7 @@ description: "Housing Near the University of Haifa: What to Know in 2026–2027 
 pubDatetime: 2026-07-04T04:10:25.000Z
 modDatetime: 2026-07-07T08:42:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2106294.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2106294.jpg"
 tags: ["university", "university-of-haifa"]
 category: "university"
 draft: false
@@ -85,7 +85,7 @@ Because the university sits at 450–500 metres above sea level, the commute fro
 
 For those who cycle, the climb is strenuous; e-bikes or scooters are a viable alternative, but rain (December–February) and steep gradients reduce their practicality.
 
-![University of Haifa](https://img.unistay.cn/housing/p/amber-2106294.jpg)
+![University of Haifa](https://img.unistay.net/housing/p/amber-2106294.jpg)
 
 **Recommendation**: If your schedule includes early classes or late lab sessions, choose Upper Haifa or Central Haifa near a direct bus line. If you have a flexible schedule and want lower rent, Lower Haifa is viable with careful planning of bus timetables.
 

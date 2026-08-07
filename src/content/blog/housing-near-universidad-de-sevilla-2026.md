@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  The Universidad de
 pubDatetime: 2026-07-03T08:38:10.000Z
 modDatetime: 2026-07-07T09:10:10.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-240622.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-240622.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ Student life revolves around the historic centre, where the main campus sits, an
 
 ## Budget Bands for Student Housing (2026–2027)
 
-![Universidad de Sevilla](https://img.unistay.cn/housing/p/amber-240622.jpg)
+![Universidad de Sevilla](https://img.unistay.net/housing/p/amber-240622.jpg)
 
 Below are typical monthly rental ranges for a student in Seville. All prices are indicative – confirm with the operator.
 

@@ -4,7 +4,7 @@ description: "Housing Near Hebrew University of Jerusalem: A 2026 Guide  The Heb
 pubDatetime: 2026-07-06T10:19:43.000Z
 modDatetime: 2026-07-07T09:15:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-259450.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-259450.jpg"
 tags: ["university", "hebrew-university-of-jerusalem"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ The decision between walking and using public transport depends on which campus 
 - **Mount Scopus campus**: Located on a hill in East Jerusalem, the campus is served by the Jerusalem Light Rail’s “Hebrew University” stop, which also connects to the city center and the Central Bus Station. Walking distances to nearby student neighborhoods like French Hill and Maalot Dafna are manageable (10–20 minutes flat to moderate). However, walking from the city center (e.g., Jaffa Street) to Mount Scopus takes 45 minutes uphill — not ideal for daily commutes. The bus routes (including lines 19, 24, 26, 28) also run frequently.
 - **Givat Ram campus**: Situated near the Israel Museum and the Knesset, this campus is flatter but less integrated with student housing. The light rail does not directly serve Givat Ram; you would take a bus from the Central Station or walk about 15 minutes from the “Chords Bridge” light rail stop. Many students at Givat Ram choose to live in Rehavia or the city center, where walking to campus is 15–25 minutes, or take a short bus ride.
 
-![Hebrew University of Jerusalem](https://img.unistay.cn/housing/p/amber-259450.jpg)
+![Hebrew University of Jerusalem](https://img.unistay.net/housing/p/amber-259450.jpg)
 
 - **Trade-off summary**: Living within a 10-minute walk of either campus is the most convenient but limits your housing options and often costs more. Living in the city center (around Jaffa Road or Ben Yehuda Street) offers more nightlife, shops, and variety, but adds a 20–40 minute commute via light rail or bus. Students who have classes on both campuses may want to split the difference by living near the Central Station area, where both campuses can be reached in roughly 20 minutes by bus or light rail (with a transfer for Givat Ram).
 

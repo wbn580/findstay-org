@@ -4,7 +4,7 @@ description: "Campus reviews: what they reveal about the university experience  
 pubDatetime: 2026-07-04T17:45:15.000Z
 modDatetime: 2026-07-07T08:52:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-941867.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-941867.jpg"
 tags: ["university", "university-of-minho"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The university itself is well rated on Google, but the administrative issues fla
 
 ## Budget bands for student housing
 
-![University of Minho](https://img.unistay.cn/housing/p/amber-941867.jpg)
+![University of Minho](https://img.unistay.net/housing/p/amber-941867.jpg)
 
 Because the provided data does not include specific rental figures, the following budget bands are indicative — confirm with the operator of any property you consider.
 

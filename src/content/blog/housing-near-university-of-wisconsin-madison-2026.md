@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  The University of 
 pubDatetime: 2026-07-01T17:56:35.000Z
 modDatetime: 2026-07-07T09:06:35.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2442081.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2442081.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Because the given residence is located in a different city, it cannot be conside
 
 ## Budget Bands for Student Housing
 
-![University of Wisconsin-Madison](https://img.unistay.cn/housing/p/amber-2442081.jpg)
+![University of Wisconsin-Madison](https://img.unistay.net/housing/p/amber-2442081.jpg)
 
 Based on the indicative $674 starting price, and considering typical Madison rents, a reasonable budget framework for 2026–2027 might look like this:
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal Leipzig University is located in the ci
 pubDatetime: 2026-07-02T11:56:14.000Z
 modDatetime: 2026-07-07T08:54:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1240447.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1240447.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -26,7 +26,7 @@ In terms of the rental market, Leipzig offers both historic Altbau (old building
 
 ## Budget Band
 
-![Universität Leipzig](https://img.unistay.cn/housing/p/amber-1240447.jpg)
+![Universität Leipzig](https://img.unistay.net/housing/p/amber-1240447.jpg)
 
 Leipzig's rent level is moderately low in Germany, but has been rising year by year. Below is the approximate range for the year 2026‑2027 (all prices are indicative; please confirm actual fees with the operator):
 

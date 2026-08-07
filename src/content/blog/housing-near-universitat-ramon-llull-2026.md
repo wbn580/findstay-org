@@ -4,7 +4,7 @@ description: "Studying at Universitat Ramon Llull — Housing Guide for 2026–2
 pubDatetime: 2026-07-02T00:40:15.000Z
 modDatetime: 2026-07-07T09:04:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1241006.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1241006.jpg"
 tags: ["university", "spain"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Another review, from Hind Alotebi (3 months ago, also 5‑star), asks: *“Hello
 
 ## Barcelona Context — City and Student Housing
 
-![Universitat Ramon Llull](https://img.unistay.cn/housing/p/amber-1241006.jpg)
+![Universitat Ramon Llull](https://img.unistay.net/housing/p/amber-1241006.jpg)
 
 Barcelona is one of Europe’s most popular student destinations. The city has a strong rental market, with prices that vary significantly by district. As of 2026, the indicative starting price for a student room in Barcelona is around €250 per month (utilities and contract terms vary — confirm with the operator). This is the lower end of the market, often for shared apartments in less central areas or rooms with shared facilities. More typical mid‑range rooms in good locations fall between €400 and €600. Entire studios or one‑bedroom apartments can start at €700 and go much higher.
 

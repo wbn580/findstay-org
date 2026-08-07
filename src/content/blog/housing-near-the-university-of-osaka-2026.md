@@ -4,7 +4,7 @@ description: "What campus reviews reveal  The University of Osaka, ranked 91st i
 pubDatetime: 2026-07-01T07:44:44.000Z
 modDatetime: 2026-07-07T08:51:44.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3175694.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3175694.jpg"
 tags: ["university", "the-university-of-osaka"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ The area has supermarkets, convenience stores, and a few international restauran
 
 ## Budget bands
 
-![The University of Osaka](https://img.unistay.cn/housing/p/amber-3175694.jpg)
+![The University of Osaka](https://img.unistay.net/housing/p/amber-3175694.jpg)
 
 Rent levels differ by property type, age, and distance to campus. All figures below are indicative – confirm with the operator or property manager at the time of search.
 

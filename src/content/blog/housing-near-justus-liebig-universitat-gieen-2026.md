@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  The four reviews attached to Ju
 pubDatetime: 2026-07-05T00:22:52.000Z
 modDatetime: 2026-07-07T08:00:52.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1042724.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1042724.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Living in the Altstadt (old town) or the immediate vicinity of Ludwigstraße mea
 **Transit (15–30 minutes by bus/tram):**  
 Neighbourhoods like Wieseck, Kleinlinden, or Rödgen offer lower rents but require a bus or tram ride. Giessen’s bus network is reliable, with frequent services during peak hours. A semester ticket (included in the student fee) covers all public transport within the state of Hesse, so commuting costs are negligible. The trade-off is time: you might spend 10–15 minutes waiting and travelling each way. Additionally, late-night services are less frequent, so plan accordingly if you attend evening lectures or study groups.
 
-![Justus-Liebig-Universität Gießen](https://img.unistay.cn/housing/p/amber-1042724.jpg)
+![Justus-Liebig-Universität Gießen](https://img.unistay.net/housing/p/amber-1042724.jpg)
 
 **Combined approach:**  
 Many students cycle. Giessen is fairly flat and bike-friendly, so a 15-minute bike ride can replace a 10-minute bus trip and give you more housing options at lower cost. Bicycle storage should be part of your checklist when viewing flats.

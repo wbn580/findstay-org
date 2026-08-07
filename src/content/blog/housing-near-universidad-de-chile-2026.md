@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Reveal  The Universidad de Chile (Un
 pubDatetime: 2026-07-06T13:55:05.000Z
 modDatetime: 2026-07-07T08:28:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1091574.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1091574.jpg"
 tags: ["university", "universidad-de-chile"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Because the university is in a central, busy area, many students choose to live 
 
 ## Budget Bands (2026/2027 Indicative Prices)
 
-![Universidad de Chile](https://img.unistay.cn/housing/p/amber-1091574.jpg)
+![Universidad de Chile](https://img.unistay.net/housing/p/amber-1091574.jpg)
 
 All figures below are indicative — confirm with the operator before committing to any rental. Prices are in Chilean pesos (CLP) and reflect monthly rent for a standard single room in a shared apartment or a small studio. Figures are based on typical late-2025 listings adjusted for expected 2026/2027 inflation.
 

@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  University of Utah earns a 4.5 Google 
 pubDatetime: 2026-07-05T06:09:01.000Z
 modDatetime: 2026-07-07T08:29:01.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1323384.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1323384.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Salt Lake City is known for its grid street system, which is easy to navigate. T
 
 ## Budget Bands
 
-![University of Utah](https://img.unistay.cn/housing/p/amber-1323384.jpg)
+![University of Utah](https://img.unistay.net/housing/p/amber-1323384.jpg)
 
 Because the provided data does not include specific rental listings, the following budget bands are general estimates for the Salt Lake City market near the University of Utah. **All figures are indicative — confirm with the operator.**
 

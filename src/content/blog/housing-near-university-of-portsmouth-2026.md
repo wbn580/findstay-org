@@ -4,7 +4,7 @@ description: "University of Portsmouth: What Campus Reviews Reveal  The Universi
 pubDatetime: 2026-07-07T05:10:44.000Z
 modDatetime: 2026-07-07T08:13:44.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2058620.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2058620.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Key neighbourhoods include:
 
 ## Budget Bands for 2026/27 (Indicative – Confirm with the Operator)
 
-![University of Portsmouth](https://img.unistay.cn/housing/p/amber-2058620.jpg)
+![University of Portsmouth](https://img.unistay.net/housing/p/amber-2058620.jpg)
 
 Rental prices in Portsmouth vary by property type, location, and standards. Below are typical weekly ranges for student housing. All figures are indicative – always verify with the landlord or accommodation provider before committing.
 

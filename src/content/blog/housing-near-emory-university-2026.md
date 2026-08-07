@@ -4,7 +4,7 @@ description: "Housing Near Emory University: A Practical Guide for Students (202
 pubDatetime: 2026-07-01T04:30:42.000Z
 modDatetime: 2026-07-07T08:32:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2190087.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2190087.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Emory’s campus is relatively self-contained, with most academic buildings, lib
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![Emory University](https://img.unistay.cn/housing/p/amber-2190087.jpg)
+![Emory University](https://img.unistay.net/housing/p/amber-2190087.jpg)
 
 When shortlisting, consider your priorities: cost, commute time, amenities, and lease flexibility. Below are the five sample properties listed in the data, with a factual description and analysis. Remember, all prices are indicative — confirm with the operator.
 

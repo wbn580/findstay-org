@@ -4,7 +4,7 @@ description: "Campus Life and What Reviews Reveal  The University of Tsukuba cam
 pubDatetime: 2026-06-30T19:12:56.000Z
 modDatetime: 2026-07-07T09:10:56.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2171126.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2171126.jpg"
 tags: ["university", "university-of-tsukuba"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ The university address is 1‑chōme‑1‑1 Tennōdai, Tsukuba, Ibaraki 305‑8
 
 ## Budget Bands for Student Housing
 
-![University of Tsukuba](https://img.unistay.cn/housing/p/amber-2171126.jpg)
+![University of Tsukuba](https://img.unistay.net/housing/p/amber-2171126.jpg)
 
 All prices below are indicative — confirm with the operator. Rental costs in Tsukuba are moderate compared with central Tokyo, though they vary by distance to campus and building age. Typical monthly rent ranges (for a 1K or 1DK apartment of 20–35 m²) as of 2026 are:
 

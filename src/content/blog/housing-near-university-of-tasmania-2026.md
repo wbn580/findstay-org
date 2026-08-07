@@ -4,7 +4,7 @@ description: "Housing near the University of Tasmania: A Practical Guide  The Un
 pubDatetime: 2026-07-06T08:21:25.000Z
 modDatetime: 2026-07-07T08:40:25.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2669576.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2669576.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ The Sandy Bay campus is not in a dense urban core. Most residential streets with
 
 If you choose to live in Hobart CBD or North Hobart, your commute will be by bus. The Metro Tasmania bus service runs several routes along Sandy Bay Road (e.g., 457, 458, 501) that connect the CBD to the university. Travel time is about 20–30 minutes from the CBD stop to the campus stop. Buses run every 10–20 minutes during peak times and less frequently on weekends. A monthly bus pass for students costs approximately $100 (indicative).
 
-![University of Tasmania](https://img.unistay.cn/housing/p/amber-2669576.jpg)
+![University of Tasmania](https://img.unistay.net/housing/p/amber-2669576.jpg)
 
 Living farther out (e.g., Moonah, Glenorchy) lowers rent but requires a 40‑minute bus ride plus a short walk. Given that many lectures are pre‑recorded, some students find longer commutes acceptable if they save money.
 

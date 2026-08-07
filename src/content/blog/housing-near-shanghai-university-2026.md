@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  The Google rating of 4.6 out of
 pubDatetime: 2026-07-02T01:22:53.000Z
 modDatetime: 2026-07-07T09:07:53.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1722277.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1722277.jpg"
 tags: ["university", "shanghai-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The presence of multiple convenience stores, restaurants, and canteens inside th
 
 ## Budget Bands for 2026/2027
 
-![Shanghai University](https://img.unistay.cn/housing/p/amber-1722277.jpg)
+![Shanghai University](https://img.unistay.net/housing/p/amber-1722277.jpg)
 
 The following are indicative monthly rent ranges for a single room in a shared apartment or a small studio near Shanghai University’s Baoshan campus. Prices are for the 2026/2027 academic year and should be confirmed with the operator or landlord upon inquiry.
 

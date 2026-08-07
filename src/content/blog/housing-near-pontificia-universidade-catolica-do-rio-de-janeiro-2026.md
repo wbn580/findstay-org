@@ -4,7 +4,7 @@ description: "Housing Near Pontifícia Universidade Católica do Rio de Janeiro 
 pubDatetime: 2026-07-03T15:29:19.000Z
 modDatetime: 2026-07-07T08:55:19.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2123031.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2123031.jpg"
 tags: ["university", "pontificia-universidade-catolica-do-rio-de-janeiro"]
 category: "university"
 draft: false
@@ -58,7 +58,7 @@ One of the key trade-offs when choosing housing near PUC-Rio is whether to prior
 **Walking distance (Gávea, parts of Leblon and Jardim Botânico)**  
 Living within a 10–20 minute walk of campus means you can easily attend classes, use the library, and participate in campus activities without relying on buses or cars. The campus itself is described as beautiful — a walk through the wooded area and along the little houses at the back can be part of your daily routine. However, rents in these immediate neighbourhoods are generally higher. Availability of affordable rooms can be limited, so you may need to join waiting lists or start your search early.
 
-![Pontificia Universidade Católica do Rio de Janeiro (PUC - Rio)](https://img.unistay.cn/housing/p/amber-2123031.jpg)
+![Pontificia Universidade Católica do Rio de Janeiro (PUC - Rio)](https://img.unistay.net/housing/p/amber-2123031.jpg)
 
 **Transit (Botafogo, Copacabana, Ipanema, Flamengo, Tijuca)**  
 Neighbourhoods a bit farther from campus offer a wider range of prices and more housing options. The commute typically involves a bus (many lines run along the South Zone) or a combination of bus and metro. Travel times can range from 20 to 45 minutes depending on traffic. Rio’s public transport is extensive but can be crowded during peak hours. The benefit is that you can often find a better price per square metre, and you’ll be closer to beaches, nightlife, and other amenities. Students who choose this option should factor in the cost of a monthly transport pass (indicate with operator) and the time lost in transit.

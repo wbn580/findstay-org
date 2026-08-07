@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of California, Davis ho
 pubDatetime: 2026-07-01T08:35:27.000Z
 modDatetime: 2026-07-07T09:09:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1950828.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1950828.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -37,7 +37,7 @@ For transport connections beyond the city, the Davis Amtrak station is a major h
 
 ## Budget Bands (2026–2027 Academic Year)
 
-![University of California, Davis](https://img.unistay.cn/housing/p/amber-1950828.jpg)
+![University of California, Davis](https://img.unistay.net/housing/p/amber-1950828.jpg)
 
 All rental prices listed in the bands below are **indicative — confirm with the operator** for the exact 2026–2027 academic year rates, as prices shift based on unit type, lease duration, and demand.
 

@@ -4,7 +4,7 @@ description: "Housing Near Stanford University: A Guide (2026)      What Campus 
 pubDatetime: 2026-07-06T17:33:42.000Z
 modDatetime: 2026-07-07T07:49:42.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2194329.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2194329.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -80,7 +80,7 @@ The trade-off is clear: paying more for proximity buys time and flexibility; tra
 
 ### Shortlist Logic Using Given Nearby Residences
 
-![Stanford University](https://img.unistay.cn/housing/p/amber-2194329.jpg)
+![Stanford University](https://img.unistay.net/housing/p/amber-2194329.jpg)
 
 The provided data does not include a list of specific apartment complexes or residences. However, the concept of “given nearby residences” can be understood as the general housing stock in the immediate vicinity of Stanford University. Below is a logical framework for building a shortlist, using the real-world constraints of the area.
 

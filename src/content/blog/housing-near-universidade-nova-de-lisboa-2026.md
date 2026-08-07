@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The Universidade Nova de Lisboa (NOVA)
 pubDatetime: 2026-07-01T04:26:55.000Z
 modDatetime: 2026-07-07T08:50:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1049151.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1049151.jpg"
 tags: ["university", "universidade-nova-de-lisboa"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ For housing search, the key landmarks are the NOVA campus at Campolide (often re
 
 ## Budget Bands for Student Housing
 
-![Universidade Nova de Lisboa](https://img.unistay.cn/housing/p/amber-1049151.jpg)
+![Universidade Nova de Lisboa](https://img.unistay.net/housing/p/amber-1049151.jpg)
 
 All prices below are **indicative — confirm with the operator** as rates change with season, demand, and contract length (2026–2027 academic year likely sees higher figures than 2025).
 

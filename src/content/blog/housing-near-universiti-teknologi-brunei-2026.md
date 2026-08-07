@@ -4,7 +4,7 @@ description: "Universiti Teknologi Brunei (UTB): Campus Reviews and Key Housing 
 pubDatetime: 2026-07-02T19:30:16.000Z
 modDatetime: 2026-07-07T09:00:16.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-146600.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-146600.jpg"
 tags: ["university", "universiti-teknologi-brunei"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ Prices can vary significantly depending on location (e.g., closer to Gadong or t
 
 The most concrete housing insight from the reviews is the parking problem, which has persisted for over a decade. This creates a clear trade-off:
 
-![Universiti Teknologi Brunei](https://img.unistay.cn/housing/p/amber-146600.jpg)
+![Universiti Teknologi Brunei](https://img.unistay.net/housing/p/amber-146600.jpg)
 
 - **Walking distance (within 1–2 km):** Ideal. No parking hassle; you can walk or cycle to classes. Possible residential areas include the Kampong Tungku and nearby villages. Availability of rental properties may be limited, and you might need to search through local contacts or university bulletin boards.
 - **Driving/transit (3–10 km):** More housing options exist in Gadong, Kiulap, or the city centre. However, you will face limited campus parking. Arriving early may help secure a spot. Public bus service exists but is infrequent; a car or motorcycle is recommended.

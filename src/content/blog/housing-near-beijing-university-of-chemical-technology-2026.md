@@ -4,7 +4,7 @@ description: "What campus reviews reveal about student life  Beijing University 
 pubDatetime: 2026-07-03T17:55:30.000Z
 modDatetime: 2026-07-07T09:04:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1042796.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1042796.jpg"
 tags: ["university", "beijing-university-of-chemical-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ Beijing itself is a sprawling capital with a population exceeding 21 million. Ho
 
 ## Budget bands and housing types
 
-![Beijing University of Chemical Technology](https://img.unistay.cn/housing/p/amber-1042796.jpg)
+![Beijing University of Chemical Technology](https://img.unistay.net/housing/p/amber-1042796.jpg)
 
 Because the provided data does not include specific rental prices, a general outline of typical options for students near BUCT is presented. All figures are indicative and must be confirmed with the operator at the time of searching.
 

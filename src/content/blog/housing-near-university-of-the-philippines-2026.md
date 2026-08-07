@@ -4,7 +4,7 @@ description: "Housing Near the University of the Philippines: A Student Guide  U
 pubDatetime: 2026-07-03T12:32:22.000Z
 modDatetime: 2026-07-07T07:52:22.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-231240.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-231240.jpg"
 tags: ["university", "university-of-the-philippines"]
 category: "university"
 draft: false
@@ -53,7 +53,7 @@ Choosing between walking and using public transit depends on where you live and 
 
 **Walking distance (within 1 km of campus gates):** Areas like U.P. Village, Pook del Monte, and parts of Katipunan Avenue are within a 10–20 minute walk to the main academic buildings. The benefit is zero transit cost, no waiting, and the ability to pop home between classes. The campus itself is pedestrian‑friendly — wide paths, shade, and benches. You can also enjoy the green spaces noted in reviews. The trade‑off is that rent tends to be higher in these immediate zones, and availability can be tight during the start of the academic year.
 
-![University of the Philippines](https://img.unistay.cn/housing/p/amber-231240.jpg)
+![University of the Philippines](https://img.unistay.net/housing/p/amber-231240.jpg)
 
 **Short transit ride (jeepney, tricycle, or bus):** Living in areas such as Old Balara, Barangay Vasra, or parts of Maginhawa may require a 10–15 minute ride to the campus. The fare is low (₱9–₱20 per trip), and jeepney routes run frequently along major roads. Some students use bicycles or e‑scooters to cover the 2–3 km distance. The advantage is often lower rent and more housing options. The trade‑off is the daily time spent commuting, plus occasional delays during rush hours.
 

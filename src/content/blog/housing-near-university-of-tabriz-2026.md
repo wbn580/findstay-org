@@ -4,7 +4,7 @@ description: "Housing Near University of Tabriz: A 2026 Guide      What Campus R
 pubDatetime: 2026-07-03T19:58:55.000Z
 modDatetime: 2026-07-07T09:00:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3384782.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3384782.jpg"
 tags: ["university", "university-of-tabriz"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Note that utility bills (electricity, water, gas, internet) are usually separate
 
 The University of Tabriz campus is a compact green area, and many students find walking the most pleasant option. Accommodation within a 15–20 minute walk (roughly 1–1.5 km) puts you close to the main gate and the surrounding cafés. The streets around 29 Bahman Boulevard are pedestrian-friendly in good weather, but winter snow can make walking less comfortable.
 
-![University of Tabriz](https://img.unistay.cn/housing/p/amber-3384782.jpg)
+![University of Tabriz](https://img.unistay.net/housing/p/amber-3384782.jpg)
 
 For those living further out, Tabriz has a public bus system and a metro line that passes near the university. The closest metro station is “University of Tabriz” (line 1). Buses run frequently along the boulevard. A one-way bus ticket in 2026 costs a few thousand IRR — negligible for daily use. However, buses can be crowded during peak hours. Ride-hailing apps like Snapp and Tap30 operate in Tabriz; a trip from a 3 km distance might cost 30,000–60,000 IRR (indicative – confirm with operator).
 

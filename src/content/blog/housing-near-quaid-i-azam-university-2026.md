@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students and Visitors Say  Quaid-i-Azam Unive
 pubDatetime: 2026-07-07T07:03:34.000Z
 modDatetime: 2026-07-07T09:11:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1093484.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1093484.jpg"
 tags: ["university", "quaid-i-azam-university"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The surrounding residential sectors include Nurpur Shahan itself (a mixed-use ar
 
 ## Budget Bands for Off-Campus Housing
 
-![Quaid-i-azam University](https://img.unistay.cn/housing/p/amber-1093484.jpg)
+![Quaid-i-azam University](https://img.unistay.net/housing/p/amber-1093484.jpg)
 
 Rental prices in Islamabad vary widely depending on the sector, property type (apartment, house, shared room), and amenities. Based on typical market data (indicative — confirm with the operator), here are the broad bands for student housing near QAU:
 

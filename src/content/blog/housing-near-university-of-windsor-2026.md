@@ -4,7 +4,7 @@ description: "Housing Near the University of Windsor: What Campus Reviews Reveal
 pubDatetime: 2026-06-30T12:28:30.000Z
 modDatetime: 2026-07-07T08:34:30.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1293576.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1293576.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -40,7 +40,7 @@ The city’s public transit system is **Transit Windsor**, with several routes s
 
 ## Walk vs Transit Trade‑off
 
-![University of Windsor](https://img.unistay.cn/housing/p/amber-1293576.jpg)
+![University of Windsor](https://img.unistay.net/housing/p/amber-1293576.jpg)
 
 The University of Windsor campus is roughly bounded by University Avenue to the north, Huron Church Road to the east, College Avenue to the south, and Sunset Avenue to the west. Most academic buildings are within a 10‑ to 20‑minute walk of the centre.
 

@@ -4,7 +4,7 @@ description: "Student Housing Near Birla Institute of Technology and Science (BI
 pubDatetime: 2026-06-30T15:56:50.000Z
 modDatetime: 2026-07-07T08:57:50.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01485385.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01485385.jpg"
 tags: ["university", "birla-institute-of-technology-and-science"]
 category: "university"
 draft: false
@@ -46,7 +46,7 @@ The BITS Pilani campus is compact enough that most academic buildings, the libra
 - **Off-campus housing (walking distance)**: Houses within 500–800 metres of the main gate allow you to walk to campus in 5–10 minutes. This offers more independence – cook your own food (or eat at local eateries), host friends, and avoid hostel restrictions. The cost can be lower than on-campus hostel fees if you share a room. The downside: you need to manage your own meals and utilities, and the walk may feel longer in the summer heat.
 - **Off-campus housing (cycling/scooter distance)**: Properties 1–3 km from campus require a bicycle or two-wheeler. Cycling in Pilani is common, but summers are harsh. Some students use electric scooters. This option typically has lower rent than walkable locations, but you lose the spontaneity of popping back to your room between classes.
 
-![Birla Institute of Technology and Science](https://img.unistay.cn/housing/p/uh-s01485385.jpg)
+![Birla Institute of Technology and Science](https://img.unistay.net/housing/p/uh-s01485385.jpg)
 
 **Transit**: There is no formal bus system. Auto-rickshaws charge INR 30–50 for short trips within Pilani. For longer commutes (e.g., from railway station to campus), you may pay INR 100–150. Most students find that a bicycle is sufficient for daily life.
 

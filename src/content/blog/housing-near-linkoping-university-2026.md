@@ -4,7 +4,7 @@ description: "Understanding the Campus Through Reviews  Linköping University (L
 pubDatetime: 2026-07-06T03:33:36.000Z
 modDatetime: 2026-07-07T08:37:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2119127.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2119127.jpg"
 tags: ["university", "linkoping-university"]
 category: "university"
 draft: false
@@ -33,7 +33,7 @@ The city is bicycle-friendly, and many students choose to cycle from their accom
 
 ## Budget Bands for Student Housing (Indicative Prices for 2026/2027)
 
-![Linköping University](https://img.unistay.cn/housing/p/amber-2119127.jpg)
+![Linköping University](https://img.unistay.net/housing/p/amber-2119127.jpg)
 
 All prices listed below are indicative and should be confirmed with the specific housing operator. Rent is typically quoted per month in Swedish Kronor (SEK). Exchange rates vary; as of early 2026, 1 SEK ≈ 0.09 EUR / 0.10 USD.
 

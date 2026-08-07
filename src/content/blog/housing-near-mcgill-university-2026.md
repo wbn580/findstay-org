@@ -4,7 +4,7 @@ description: "McGill University Campus Reviews and What They Reveal  McGill Univ
 pubDatetime: 2026-07-01T20:47:47.000Z
 modDatetime: 2026-07-07T08:06:47.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1211308.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1211308.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ Montreal is a bilingual city where both French and English are commonly used. Th
 
 ## Budget Bands for Student Housing
 
-![McGill University](https://img.unistay.cn/housing/p/amber-1211308.jpg)
+![McGill University](https://img.unistay.net/housing/p/amber-1211308.jpg)
 
 Rental prices in Montreal vary significantly depending on the neighbourhood, building age, and whether the unit is furnished. All figures below are **indicative — confirm with the operator** before committing.
 

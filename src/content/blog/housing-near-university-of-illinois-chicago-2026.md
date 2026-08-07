@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About UIC  The University of Illinois C
 pubDatetime: 2026-07-06T06:24:34.000Z
 modDatetime: 2026-07-07T09:00:34.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-224239.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-224239.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -55,7 +55,7 @@ International students should note that Chicago experiences all four seasons: co
 
 ## Budget Bands for Student Housing
 
-![University of Illinois Chicago (UIC)](https://img.unistay.cn/housing/p/amber-224239.jpg)
+![University of Illinois Chicago (UIC)](https://img.unistay.net/housing/p/amber-224239.jpg)
 
 Housing options near UIC start at approximately $600 USD per month. The following budget bands are based on typical listings in 2026. All prices are indicative — confirm with the operator.
 

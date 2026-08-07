@@ -4,7 +4,7 @@ description: "What campus reviews reveal  McMaster University’s Google rating 
 pubDatetime: 2026-07-04T23:16:32.000Z
 modDatetime: 2026-07-07T08:27:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1091900.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1091900.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city’s character varies by neighbourhood. Westdale, adjacent to campus, is
 
 ## Budget bands for student housing
 
-![McMaster University](https://img.unistay.cn/housing/p/amber-1091900.jpg)
+![McMaster University](https://img.unistay.net/housing/p/amber-1091900.jpg)
 
 Rents near McMaster University in 2026 vary by distance, room type, and amenities. All prices below are indicative — confirm with the operator.
 

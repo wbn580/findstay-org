@@ -4,7 +4,7 @@ description: "Housing near Memorial University of Newfoundland: What to Know Bef
 pubDatetime: 2026-07-05T04:30:32.000Z
 modDatetime: 2026-07-07T08:30:32.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013320.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013320.jpg"
 tags: ["university", "canada"]
 category: "university"
 draft: false
@@ -59,7 +59,7 @@ MUN’s campus is walkable from several neighbourhoods, but not from downtown. T
 
 **Walkable area**: The “university neighbourhood” covers about a 20-minute walking radius around the campus core. That includes parts of Elizabeth Avenue (west of campus), Prince Phillip Drive, and some streets off Mount Carson Avenue and Crosbie Road. Rent in this zone tends to be higher, especially for single units, because you can roll out of bed and get to class in 10–15 minutes. If you have early labs or heavy schedules, this can save significant time and transit fare.
 
-![Memorial University of Newfoundland](https://img.unistay.cn/housing/p/uh-s00013320.jpg)
+![Memorial University of Newfoundland](https://img.unistay.net/housing/p/uh-s00013320.jpg)
 
 **Transit option**: Metrobus operates routes that connect campus to downtown, the Avalon Mall, and residential zones further east. The main campus bus stop is on Elizabeth Avenue near the University Centre. A typical commute from downtown is 20–25 minutes by bus (plus wait time). A junior/senior student pass costs about $55 per month (indicative, confirm with the operator). Students living in the east end or near the airport (like the short-stay traveller mentioned in the reviews) need a longer commute — often 30–40 minutes by bus or 15 minutes by car.
 

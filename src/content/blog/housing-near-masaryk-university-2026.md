@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Masaryk University’s campus in Brno 
 pubDatetime: 2026-07-07T07:08:00.000Z
 modDatetime: 2026-07-07T08:37:00.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-186262.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-186262.jpg"
 tags: ["university", "masaryk-university"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ Public transport in Brno is well‑developed: trams, trolleybuses, and buses run
 
 ## Budget Bands for Student Housing in Brno
 
-![Masaryk University](https://img.unistay.cn/housing/p/amber-186262.jpg)
+![Masaryk University](https://img.unistay.net/housing/p/amber-186262.jpg)
 
 Because exact rental figures fluctuate and depend on the type of contract, only indicative budget ranges can be given. All prices below are **indicative—confirm with the operator** for current rates.
 

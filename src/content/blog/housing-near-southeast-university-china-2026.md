@@ -4,7 +4,7 @@ description: "Housing Near Southeast University, China: A Student’s Guide  Sou
 pubDatetime: 2026-07-05T20:59:05.000Z
 modDatetime: 2026-07-07T08:53:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s01548304.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s01548304.jpg"
 tags: ["university", "southeast-university-china"]
 category: "university"
 draft: false
@@ -59,7 +59,7 @@ Choosing a place based on walking distance to campus versus reliance on public t
 - The downside: Older buildings close to the campus may lack modern insulation, reliable air conditioning, or security. Noise from student life can be a factor.
 - Typical options: Dormitories inside the campus (if available to international postgraduates) or small flats in the “students’ village” just south of the east gate.
 
-![Southeast University, China](https://img.unistay.cn/housing/p/uh-s01548304.jpg)
+![Southeast University, China](https://img.unistay.net/housing/p/uh-s01548304.jpg)
 
 **Transit zone (15–40 minutes by bus or metro)**:
 

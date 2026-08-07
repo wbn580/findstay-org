@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  The University of Lausanne (UNI
 pubDatetime: 2026-07-03T23:30:03.000Z
 modDatetime: 2026-07-07T08:58:03.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-224855.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-224855.jpg"
 tags: ["university", "university-of-lausanne"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ UNIL’s main campus is in the western suburb of Dorigny, about 4 km from the ci
 
 ## Budget Bands for Student Housing
 
-![University of Lausanne](https://img.unistay.cn/housing/p/amber-224855.jpg)
+![University of Lausanne](https://img.unistay.net/housing/p/amber-224855.jpg)
 
 Student housing costs in Lausanne are relatively high compared to other European cities, though slightly lower than in Zurich or Geneva. The most common accommodation options fall into three broad categories. **Shared apartments (colocations):** renting a room in a flat with other students. This is the most affordable option. **Studio or one-bedroom apartments:** more private but significantly more expensive. **Student residences:** purpose-built dormitories managed by the university or private operators, offering single rooms or small studios with shared kitchens/bathrooms, typically at mid-range prices.
 

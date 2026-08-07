@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal about University of Canberra  Student r
 pubDatetime: 2026-07-01T01:44:29.000Z
 modDatetime: 2026-07-07T08:47:29.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-147448.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-147448.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Rental demand is driven by students from UC and ANU, as well as public servants.
 
 ## Budget Bands for Student Housing
 
-![University of Canberra](https://img.unistay.cn/housing/p/amber-147448.jpg)
+![University of Canberra](https://img.unistay.net/housing/p/amber-147448.jpg)
 
 Rental prices in Canberra are moderate by Australian standards — lower than Sydney but higher than many regional centres. All figures below are indicative — confirm with the operator.
 

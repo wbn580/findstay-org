@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Student reviews of Management and Scie
 pubDatetime: 2026-07-01T22:58:17.000Z
 modDatetime: 2026-07-07T09:13:17.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1123919.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1123919.jpg"
 tags: ["university", "management-and-science-university-msu-malaysia"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ For students, Shah Alam offers lower rental costs compared to Kuala Lumpur, but 
 
 ## Budget Bands
 
-![Management and Science University - MSU Malaysia](https://img.unistay.cn/housing/p/amber-1123919.jpg)
+![Management and Science University - MSU Malaysia](https://img.unistay.net/housing/p/amber-1123919.jpg)
 
 Housing options around MSU span a wide range. All prices below are **indicative — confirm with the operator**.
 

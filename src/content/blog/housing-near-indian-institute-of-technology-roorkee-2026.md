@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  A quick look at the 4,688 Google revie
 pubDatetime: 2026-07-02T02:42:04.000Z
 modDatetime: 2026-07-07T09:01:04.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-288672.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-288672.jpg"
 tags: ["university", "indian-institute-of-technology-roorkee"]
 category: "university"
 draft: false
@@ -42,7 +42,7 @@ Roorkee experiences hot summers (up to 40°C) and chilly winters (down to 5°C).
 
 ## Walk vs. Transit Trade‑off
 
-![Indian Institute of Technology Roorkee (IITR)](https://img.unistay.cn/housing/p/amber-288672.jpg)
+![Indian Institute of Technology Roorkee (IITR)](https://img.unistay.net/housing/p/amber-288672.jpg)
 
 IITR’s main campus spreads over about 365 acres. The academic core — lecture halls, libraries, and the main administrative building — is located near the centre. Residential neighbourhoods immediately adjoining the campus include:
 

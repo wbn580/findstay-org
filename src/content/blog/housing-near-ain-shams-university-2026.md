@@ -4,7 +4,7 @@ description: "Ain Shams University: A Guide to Nearby Accommodation  Founded in 
 pubDatetime: 2026-07-03T07:41:45.000Z
 modDatetime: 2026-07-07T08:29:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00013489.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00013489.jpg"
 tags: ["university", "ain-shams-university"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ MOHAMED ELADAWY (5 stars) simply called it “the best governmental university i
 
 ## City Context: Cairo
 
-![Ain Shams University](https://img.unistay.cn/housing/p/uh-s00013489.jpg)
+![Ain Shams University](https://img.unistay.net/housing/p/uh-s00013489.jpg)
 
 Cairo is a sprawling metropolis with a population exceeding 20 million. Traffic congestion is notorious, and commuting times can be unpredictable. Ain Shams University is situated in the northern part of the city, approximately 3 km from Ramses Square and the main railway station. The area is a mix of residential, commercial, and institutional buildings. The university’s address on Al-Khalifa Al-Maamoun Street places it in a relatively central but busy corridor.
 

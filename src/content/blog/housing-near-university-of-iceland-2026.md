@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  Current and former students at the Uni
 pubDatetime: 2026-07-05T20:52:13.000Z
 modDatetime: 2026-07-07T09:03:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2249393.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2249393.jpg"
 tags: ["university", "university-of-iceland"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ The cultural mix mentioned in reviews is real: the university attracts many inte
 
 ## Budget Bands for Student Housing
 
-![University of Iceland](https://img.unistay.cn/housing/p/amber-2249393.jpg)
+![University of Iceland](https://img.unistay.net/housing/p/amber-2249393.jpg)
 
 Monthly rental costs in Reykjavík vary widely. The figures below are **indicative — confirm with the operator** before committing. Prices are in Icelandic króna (ISK) as of 2026/2027.
 

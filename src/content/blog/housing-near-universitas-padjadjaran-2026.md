@@ -4,7 +4,7 @@ description: "Universitas Padjadjaran (UNPAD) QS rank 515 — Housing Guide     
 pubDatetime: 2026-07-01T23:48:43.000Z
 modDatetime: 2026-07-07T08:12:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2122939.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2122939.jpg"
 tags: ["university", "universitas-padjadjaran"]
 category: "university"
 draft: false
@@ -80,7 +80,7 @@ For most students, the **short angkot/ojek band** offers the best balance of cos
 
 When evaluating specific housing options near UNPAD, use these filtering criteria:
 
-![Universitas Padjadjaran (UNPAD)](https://img.unistay.cn/housing/p/amber-2122939.jpg)
+![Universitas Padjadjaran (UNPAD)](https://img.unistay.net/housing/p/amber-2122939.jpg)
 
 1. **Distance to your faculty:** UNPAD has many faculties spread across the campus. Check which gate your faculty is closest to and whether the campus shuttle stops nearby.
 2. **Room condition and maintenance:** Review photos carefully. Look for signs of dampness, airflow, and clean shared areas.

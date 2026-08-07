@@ -4,7 +4,7 @@ description: "Campus Atmosphere from Visitor and Student Reviews  The University
 pubDatetime: 2026-07-01T12:26:55.000Z
 modDatetime: 2026-07-07T08:26:55.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1236201.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1236201.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ Because the university is a major employer and student population is large, the 
 
 ## Budget Bands for Student Housing
 
-![University of Notre Dame](https://img.unistay.cn/housing/p/amber-1236201.jpg)
+![University of Notre Dame](https://img.unistay.net/housing/p/amber-1236201.jpg)
 
 **Note:** All figures below are indicative based on common market patterns in South Bend. **Confirm all prices directly with the operator or property manager before committing.** The exact rent you pay will depend on the unit type, lease length, and timing.
 

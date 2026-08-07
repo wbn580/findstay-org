@@ -4,7 +4,7 @@ description: "Housing Near University of Hawaii at Manoa: What Campus Reviews Re
 pubDatetime: 2026-07-06T21:56:36.000Z
 modDatetime: 2026-07-07T08:33:36.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-143103.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-143103.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -64,7 +64,7 @@ Choosing between walking and using public transit depends on your priorities: co
 
 **Walking to campus** is the most popular option for students who live in Manoa or Moiliili. The campus is compact, and most buildings are within a 5- to 15-minute foot commute from these neighborhoods. Walking saves money and time, and you avoid parking hassles (on-campus parking permits cost around $500–$800 per year, and spaces fill quickly). The drawbacks: you have limited rental choices, and rents in the immediate vicinity are higher. Also, Manoa receives frequent rain showers — bring that umbrella as the review suggests.
 
-![University of Hawaii at Mañoa](https://img.unistay.cn/housing/p/amber-143103.jpg)
+![University of Hawaii at Mañoa](https://img.unistay.net/housing/p/amber-143103.jpg)
 
 **Taking TheBus** is the primary transit option. Honolulu’s bus system is reliable and covers most of the island. Students get a discounted monthly pass (about $80 for a semester pass through the university’s U-Pass program). Bus routes serving UH Manoa include the 4 (Manoa), 6 (Manoa/Pauoa), 1 (Kaimuki/Kahala), and 13 (Kapahulu). A typical commute from Waikiki to campus is 20–30 minutes; from Kaimuki about 15 minutes. The trade-off: you save on rent (Waikiki or Makiki can be cheaper than Manoa) and you get more housing options. The downsides: less flexibility if you have late-night classes (buses run less frequently after 9pm) and the walk to the bus stop can add 5–10 minutes each way.
 

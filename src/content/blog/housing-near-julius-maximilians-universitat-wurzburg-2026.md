@@ -4,7 +4,7 @@ description: "Campus Experience and Surroundings The main campus of Julius-Maxim
 pubDatetime: 2026-07-02T19:40:49.000Z
 modDatetime: 2026-07-07T09:00:49.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-231038.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-231038.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -32,7 +32,7 @@ The housing market is tight at the start of each school year (9-10 月) and befo
 
 ## 2026/2027 Accommodation Budget Reference
 
-![Julius-Maximilians-Universität Würzburg](https://img.unistay.cn/housing/p/amber-231038.jpg)
+![Julius-Maximilians-Universität Würzburg](https://img.unistay.net/housing/p/amber-231038.jpg)
 
 The following prices are indicative — confirm with the operator, based on the general level of the Würzburg student housing market in 2026/2027. Actual rent may vary depending on room size, location, amenities, and signing date.
 

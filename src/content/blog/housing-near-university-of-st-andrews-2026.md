@@ -4,7 +4,7 @@ description: "Finding Student Housing Near the University of St Andrews  The Uni
 pubDatetime: 2026-07-02T06:39:57.000Z
 modDatetime: 2026-07-07T09:07:57.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2190192.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2190192.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ For students with early morning labs at the North Haugh (e.g., biology, chemistr
 
 ### Shortlist Logic: How to Choose Where to Live
 
-![University of St Andrews](https://img.unistay.cn/housing/p/amber-2190192.jpg)
+![University of St Andrews](https://img.unistay.net/housing/p/amber-2190192.jpg)
 
 When building a shortlist of properties, start with your teaching location. The university provides a “My St Andrews” app with maps of building locations. Identify your primary department building and then search within a 4–5 minute walk (for ideal convenience) or up to 20 minutes (for lower cost). Because St Andrews is small, you can almost always find a property within a comfortable walking range.
 

@@ -4,7 +4,7 @@ description: "Housing Near the University of Bergen: A Practical Guide for 2026�
 pubDatetime: 2026-06-30T20:47:13.000Z
 modDatetime: 2026-07-07T08:23:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1427013.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1427013.jpg"
 tags: ["university", "university-of-bergen"]
 category: "university"
 draft: false
@@ -42,7 +42,7 @@ Because the UiB campus is in the city centre, walking is the most practical opti
 - **Fjellsiden (the hillside north of the centre):** Areas like Sandviken and Skansen provide beautiful views and historic wooden houses. Walking to campus takes 10–20 minutes, mostly downhill in the morning (but uphill returning). Trade‑off: charming but steeper rent and stairs.
 - **Møhlenpris / Damsgårdssundet:** A popular student area west of the centre, within easy walking distance (15–20 minutes) along the waterfront. Many student housing units are located here. Trade‑off: quieter residential vibe, still close to supermarkets and cafés.
 
-![University of Bergen](https://img.unistay.cn/housing/p/amber-1427013.jpg)
+![University of Bergen](https://img.unistay.net/housing/p/amber-1427013.jpg)
 
 For students who cannot find affordable housing in the centre, public transport becomes essential. Bergen’s light rail (Bybanen) runs from the city centre to the southern suburbs. The ride from Fantoft (a major student village area) to the city centre takes about 15 minutes. From there, it is a 5‑minute walk uphill to campus. A 30‑day student travel pass (Skolekort) costs approximately one‑third of a full‑price monthly pass (indicative – confirm with the operator). Transit‑oriented students can save NOK 1,000–2,000 per month on rent by living further out, but they must budget for the pass and add 15–25 minutes each way.
 

@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About the University of Groninge
 pubDatetime: 2026-07-04T01:47:21.000Z
 modDatetime: 2026-07-07T08:09:21.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-137947.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-137947.jpg"
 tags: ["university", "university-of-groningen"]
 category: "university"
 draft: false
@@ -31,7 +31,7 @@ Rental demand is high, and availability is tight, especially at the start of the
 
 ## Budget Bands for 2026–2027
 
-![University of Groningen](https://img.unistay.cn/housing/p/amber-137947.jpg)
+![University of Groningen](https://img.unistay.net/housing/p/amber-137947.jpg)
 
 All prices below are indicative — confirm with the operator. The rental market in Groningen varies by location, size, and amenities. Based on general market trends (no specific operator data given), here are typical monthly rent ranges for a single person in 2026–2027:
 

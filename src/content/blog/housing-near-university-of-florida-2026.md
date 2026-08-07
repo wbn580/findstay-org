@@ -4,7 +4,7 @@ description: "University of Florida: What Campus Reviews Tell Us About Student L
 pubDatetime: 2026-07-03T02:29:05.000Z
 modDatetime: 2026-07-07T08:57:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1469629.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1469629.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -35,7 +35,7 @@ The city’s climate is humid subtropical, with hot summers and mild winters. UF
 
 ## Budget Bands for Student Housing (2026/2027)
 
-![University of Florida](https://img.unistay.cn/housing/p/amber-1469629.jpg)
+![University of Florida](https://img.unistay.net/housing/p/amber-1469629.jpg)
 
 When planning your housing budget for the 2026/2027 academic year, it helps to think in three bands. All figures are indicative — confirm with the operator before signing any lease.
 

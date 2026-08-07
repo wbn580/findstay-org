@@ -274,7 +274,7 @@ export function fmtAvail(raw: string | null | undefined): string | null {
 
 /** R2 image URL or null */
 export function imgUrl(image: string | null | undefined): string | null {
-  return image ? `https://img.unistay.cn/${image}` : null;
+  return image ? `https://img.unistay.net/${image}` : null;
 }
 
 /** deterministic small hash for per-page copy variation */

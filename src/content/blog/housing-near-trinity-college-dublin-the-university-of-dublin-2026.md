@@ -4,7 +4,7 @@ description: "Housing Near Trinity College Dublin: A Student’s Guide  Trinity 
 pubDatetime: 2026-07-06T20:50:07.000Z
 modDatetime: 2026-07-07T08:39:07.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-139030.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-139030.jpg"
 tags: ["university", "ireland"]
 category: "university"
 draft: false
@@ -50,7 +50,7 @@ All figures are indicative — confirm with the operator before making any finan
 
 Living close to Trinity offers clear convenience but often at a higher price. Rooms within a 15-minute walk of College Green tend to fall in the mid-to-premium range. For example, ‘Yugo Kavanagh Court’ is located on Dorset Street, about a 20-minute walk north of the campus. ‘Canvas Point Campus’ is similarly around 20–25 minutes on foot. ‘Point Campus’ and ‘Gobritanya Point Campus’ are situated near the Point Village area, closer to the Docklands — a 25–30 minute walk or a short Luas ride (Red Line to Busáras, then walk). ‘Charles Street Great, Mountjoy’ (a room in a 5-bedroom apartment) is near the northeast city centre, roughly 15–20 minutes walk.
 
-![Trinity College Dublin, The University of Dublin](https://img.unistay.cn/housing/p/amber-139030.jpg)
+![Trinity College Dublin, The University of Dublin](https://img.unistay.net/housing/p/amber-139030.jpg)
 
 Choosing a slightly farther location can reduce rent. For instance, rooms in Mountjoy or the north inner city may be €20–€50 per week cheaper than equivalent rooms closer to Grafton Street. The trade-off is a longer commute. Dublin’s bus network is extensive, but peak-hour traffic can be heavy. The Luas Red Line runs through the docklands and stops at Busáras (near O’Connell Street), about a 10-minute walk from Trinity. A student Leap Card offers discounted fares.
 

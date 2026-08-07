@@ -4,7 +4,7 @@ description: "Campus Reviews and Insights from Students  The Indian Institute of
 pubDatetime: 2026-07-02T15:46:02.000Z
 modDatetime: 2026-07-07T08:56:02.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-3132866.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-3132866.jpg"
 tags: ["university", "indian-institute-of-technology-madras"]
 category: "university"
 draft: false
@@ -25,7 +25,7 @@ IITM’s address is Indian Institute of Technology, Chennai, Tamil Nadu 600036. 
 
 ## Budget Bands for Student Accommodation
 
-![Indian Institute of Technology Madras (IITM)](https://img.unistay.cn/housing/p/amber-3132866.jpg)
+![Indian Institute of Technology Madras (IITM)](https://img.unistay.net/housing/p/amber-3132866.jpg)
 
 Typical monthly rents for private rooms or shared apartments near IITM fall into these bands (all figures are indicative — confirm with the operator):
 

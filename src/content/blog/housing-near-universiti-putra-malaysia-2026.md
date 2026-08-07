@@ -4,7 +4,7 @@ description: "Campus Reviews and Surroundings Universiti Putra Malaysia (UPM) is
 pubDatetime: 2026-07-04T23:05:13.000Z
 modDatetime: 2026-07-07T07:59:13.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2173382.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2173382.jpg"
 tags: ["university", "universiti-putra-malaysia"]
 category: "university"
 draft: false
@@ -34,7 +34,7 @@ Specific prices should be obtained directly from local agents or online rental p
 
 ## Walking vs. Commuting Trade-offs
 
-![Universiti Putra Malaysia (UPM)](https://img.unistay.cn/housing/p/amber-2173382.jpg)
+![Universiti Putra Malaysia (UPM)](https://img.unistay.net/housing/p/amber-2173382.jpg)
 
 The UPM campus covers a large area, with the main entrance on Jalan Universiti. The surrounding residential areas can be roughly divided into two types: areas adjacent to the campus edge (e.g., Taman Serdang Jaya, Taman Universiti Indah) and areas slightly farther but with convenient public transport (e.g., Seri Kembangan town center, Balakong).
 

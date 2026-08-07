@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say About Living and Learning at Alf
 pubDatetime: 2026-07-01T19:11:51.000Z
 modDatetime: 2026-07-07T08:20:51.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1195472.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1195472.jpg"
 tags: ["university", "king-faisal-university"]
 category: "university"
 draft: false
@@ -40,7 +40,7 @@ Riyadh has a continental desert climate: very hot summers (above 45°C) and mild
 
 ## Budget Bands: General Guidance (Indicative – Confirm with Operator)
 
-![King Faisal University](https://img.unistay.cn/housing/p/amber-1195472.jpg)
+![King Faisal University](https://img.unistay.net/housing/p/amber-1195472.jpg)
 
 Rental prices in Riyadh vary significantly by property type, location, and included utilities. Based on typical market patterns (not from the given data, so treat as indicative only):
 

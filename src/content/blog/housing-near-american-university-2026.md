@@ -4,7 +4,7 @@ description: "American University Housing Guide      What Campus Reviews Reveal 
 pubDatetime: 2026-07-05T04:23:54.000Z
 modDatetime: 2026-07-07T09:05:54.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-207641.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-207641.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -57,7 +57,7 @@ American University’s main campus is not immediately adjacent to a metro stati
 - **Transit reliant (metro + shuttle or bus):** Living farther along the Red Line (e.g., Cleveland Park, Woodley Park, Bethesda) reduces rent significantly. The trade‑off is 30–50 minutes of combined travel time per direction. During peak hours the shuttle can be crowded; allow an extra buffer.
 - **Bike‑friendly:** D.C. has a Capital Bikeshare station near campus, and many streets have bike lanes. A 15‑minute bike ride can widen your housing options to areas like Cathedral Heights or Van Ness.
 
-![American University](https://img.unistay.cn/housing/p/amber-207641.jpg)
+![American University](https://img.unistay.net/housing/p/amber-207641.jpg)
 
 For most students, the optimal balance is a 20‑minute total door‑to‑class commute – either a closer walk or a short ride on the shuttle/metro. Students with early classes often prefer walking to avoid shuttle delays.
 

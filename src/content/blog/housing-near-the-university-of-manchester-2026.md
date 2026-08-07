@@ -4,7 +4,7 @@ description: "Housing near The University of Manchester: What you need to know f
 pubDatetime: 2026-06-30T20:56:45.000Z
 modDatetime: 2026-07-07T08:11:45.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00181694.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00181694.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -65,7 +65,7 @@ For students who value convenience and have a higher budget, walking is ideal. F
 
 ### Shortlist logic using nearby residences
 
-![The University of Manchester](https://img.unistay.cn/housing/p/uh-s00181694.jpg)
+![The University of Manchester](https://img.unistay.net/housing/p/uh-s00181694.jpg)
 
 When evaluating accommodation, start with your priorities: budget, commute length, and desired amenities (e.g., en-suite, gym, social spaces). The following five residences, all listed in the same city dataset, represent different types of housing near the university. Use these as a starting point to compare with other options.
 

@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  Technische Universität Dortmun
 pubDatetime: 2026-06-30T11:00:19.000Z
 modDatetime: 2026-07-07T08:39:19.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-2345021.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-2345021.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The university campus is located in the Hombruch district in the south-west of t
 
 ## Budget Bands for Student Housing in Dortmund
 
-![Technische Universität Dortmund](https://img.unistay.cn/housing/p/amber-2345021.jpg)
+![Technische Universität Dortmund](https://img.unistay.net/housing/p/amber-2345021.jpg)
 
 Student housing costs in Dortmund vary depending on whether you choose a shared apartment, a single studio, or a room in a student hall. Below are indicative monthly rent ranges for a typical student room in 2026–2027. All prices are indicative — confirm with the operator.
 

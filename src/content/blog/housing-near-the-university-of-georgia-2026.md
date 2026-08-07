@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Life at the University of Georgia
 pubDatetime: 2026-07-04T06:41:59.000Z
 modDatetime: 2026-07-07T08:18:59.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-913985.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-913985.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -39,7 +39,7 @@ Rents in Athens have been climbing, but compared to larger U.S. cities, they rem
 
 ## Walk vs Transit Trade-Off: Choosing Where to Live
 
-![The University of Georgia](https://img.unistay.cn/housing/p/amber-913985.jpg)
+![The University of Georgia](https://img.unistay.net/housing/p/amber-913985.jpg)
 
 Proximity to UGA’s main campus heavily influences housing choices. The university’s central grounds – the Chapel, the Main Library, the Tate Student Center – are walkable from many neighborhoods, but “walkable” can mean different things depending on your tolerance for heat and hills.
 

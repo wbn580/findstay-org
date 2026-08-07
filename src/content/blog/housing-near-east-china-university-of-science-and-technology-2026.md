@@ -4,7 +4,7 @@ description: "Campus Reviews: What Students Say  The East China University of Sc
 pubDatetime: 2026-07-01T01:00:27.000Z
 modDatetime: 2026-07-07T08:58:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1043413.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1043413.jpg"
 tags: ["university", "east-china-university-of-science-and-technology"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ Because Xuhui is central, rent tends to be higher than in outer districts. Howev
 
 ## Budget Bands (Indicative – Confirm with the Operator)
 
-![East China University of Science and Technology](https://img.unistay.cn/housing/p/amber-1043413.jpg)
+![East China University of Science and Technology](https://img.unistay.net/housing/p/amber-1043413.jpg)
 
 Housing costs in 2026/2027 should remain comparable to recent years, but always confirm current prices with the landlord or operator. Below are typical bands for students near ECUST:
 

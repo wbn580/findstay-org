@@ -4,7 +4,7 @@ description: "Housing Near Universität Bayreuth: What Campus Reviews Reveal  Un
 pubDatetime: 2026-07-02T14:59:05.000Z
 modDatetime: 2026-07-07T08:51:05.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-259632.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-259632.jpg"
 tags: ["university", "germany"]
 category: "university"
 draft: false
@@ -61,7 +61,7 @@ When evaluating housing options, consider this checklist. Confirm all details (a
    - *Disadvantages*: High demand – apply early (6–12 months before move-in). Waiting lists can be long.
    - *Best for*: Budget-conscious students, first-year undergraduates, international students seeking a smooth transition.
 
-![Universität Bayreuth](https://img.unistay.cn/housing/p/amber-259632.jpg)
+![Universität Bayreuth](https://img.unistay.net/housing/p/amber-259632.jpg)
 
 2. **Private Wohngemeinschaft (WG)**
 

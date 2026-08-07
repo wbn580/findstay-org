@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal About Rice University  Student reviews 
 pubDatetime: 2026-07-05T03:30:27.000Z
 modDatetime: 2026-07-07T09:12:27.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1347951.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1347951.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ As of 2026, the student housing market in Houston shows a wide range of prices. 
 
 ## Budget Bands for Off-Campus Housing (2026–2027)
 
-![Rice University](https://img.unistay.cn/housing/p/amber-1347951.jpg)
+![Rice University](https://img.unistay.net/housing/p/amber-1347951.jpg)
 
 When planning your housing budget near Rice University, consider the following indicative price bands (all prices are indicative — confirm with the operator):
 

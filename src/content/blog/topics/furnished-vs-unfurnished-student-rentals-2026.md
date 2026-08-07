@@ -3,8 +3,8 @@ title: "Furnished vs Unfurnished Student Rentals: What's Actually Cheaper in 202
 description: "Compare the true cost of furnished vs unfurnished student accommodation across 12 countries. Break down furniture costs, transport, and hidden expenses."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1600"
-ogImage: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200"
+heroImage: "https://img.unistay.net/rehost/e865df08198e.jpg"
+ogImage: "https://img.unistay.net/rehost/f9eefcc2d8cb.jpg"
 tags: ["rental-tips", "student-accommodation", "budget"]
 category: "topics"
 draft: false

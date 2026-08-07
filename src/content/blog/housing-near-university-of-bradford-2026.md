@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  The University of Bradford sits in a c
 pubDatetime: 2026-07-01T19:42:43.000Z
 modDatetime: 2026-07-07T08:51:43.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1942363.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1942363.jpg"
 tags: ["university", "united-kingdom"]
 category: "university"
 draft: false
@@ -27,7 +27,7 @@ The local rental market includes both private houses in shared occupancy (HMOs) 
 
 ## Budget Bands for Student Housing (2026–2027 Academic Year)
 
-![University of Bradford](https://img.unistay.cn/housing/p/amber-1942363.jpg)
+![University of Bradford](https://img.unistay.net/housing/p/amber-1942363.jpg)
 
 All prices below are indicative — confirm with the operator before signing any contract. Bands are based on typical listings in Bradford for the 2026–2027 academic year.
 

@@ -3,8 +3,8 @@ title: "London Student Accommodation Guide 2026: Best Areas Near UCL, LSE, Imper
 description: "Complete London student housing guide. Compare rent in zones 1-3, purpose-built student accommodation, and the cheapest areas near London's top universities."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1600"
-ogImage: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1200"
+heroImage: "https://img.unistay.net/rehost/5e5640134bf4.jpg"
+ogImage: "https://img.unistay.net/rehost/634e8129f8b6.jpg"
 tags: ["uk", "london", "student-accommodation"]
 category: "uk"
 city: "london"

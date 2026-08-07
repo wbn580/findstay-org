@@ -4,7 +4,7 @@ description: "Housing Near Michigan State University: A Practical Guide for 2026
 pubDatetime: 2026-07-02T12:36:20.000Z
 modDatetime: 2026-07-07T08:18:20.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-964146.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-964146.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -45,7 +45,7 @@ For 2026–2027, the trade-off is clear: pay more for walkability or less for a 
 
 ### Shortlist Logic: Two Nearby Residences
 
-![Michigan State University](https://img.unistay.cn/housing/p/amber-964146.jpg)
+![Michigan State University](https://img.unistay.net/housing/p/amber-964146.jpg)
 
 Using the given examples of student housing in East Lansing—The Lodges and Landmark On Grand River—we can illustrate how to evaluate options based on budget, distance, and amenities. This is not an endorsement, but a framework for comparison.
 

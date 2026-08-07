@@ -4,7 +4,7 @@ description: "Housing Near Yeshiva University  Yeshiva University is located at 
 pubDatetime: 2026-07-06T05:37:15.000Z
 modDatetime: 2026-07-07T08:07:15.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1293500.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1293500.jpg"
 tags: ["university", "united-states"]
 category: "university"
 draft: false
@@ -74,7 +74,7 @@ Yeshiva University’s main campus is on 185th Street, between Amsterdam Avenue 
 
 **Walking radius (0–15 minutes):** The core campus area is walkable to all essential services (grocery stores, pharmacies, laundromats, diners). Within a 10-minute walk, you will find the A train at 181st Street (express in Manhattan, local in Brooklyn) and the 1 train at 191st Street (local only). Walking to campus from these stations takes roughly 5 to 12 minutes. Students who live within this radius can reasonably avoid any transit costs for daily campus trips. The downside: buildings in this prime area tend to be older (pre-1940s) and may have less soundproofing. Rent premiums are modest but real.
 
-![Yeshiva University](https://img.unistay.cn/housing/p/amber-1293500.jpg)
+![Yeshiva University](https://img.unistay.net/housing/p/amber-1293500.jpg)
 
 **Transit-dependent zone (15–30 minutes by subway + walk):** The 1 train line extends north to 215th Street (Marble Hill) and south through Manhattan. The A train runs parallel and faster. Students can consider living farther north (Inwood, or even the Bronx near Marble Hill) or south (Harlem, Morningside Heights, Hamilton Heights). Commutes to campus typically require a ride to 181st or 191st, plus a 5- to 10-minute walk. This trade-off yields lower rent—often $200 to $500 less per month—at the cost of 15 to 30 minutes of travel each way. Monthly subway costs add approximately $127 for a monthly MetroCard or $2.90 per ride.
 

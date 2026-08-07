@@ -4,7 +4,7 @@ description: "What Campus Reviews Reveal  KTH Royal Institute of Technology, ran
 pubDatetime: 2026-07-06T03:59:54.000Z
 modDatetime: 2026-07-07T08:41:54.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-256613.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-256613.jpg"
 tags: ["university", "kth-royal-institute-of-technology"]
 category: "university"
 draft: false
@@ -29,7 +29,7 @@ The city’s size (population ~1 million in the urban area) means you can live i
 
 ## Understanding Budget Bands for Student Housing
 
-![KTH Royal Institute of Technology](https://img.unistay.cn/housing/p/amber-256613.jpg)
+![KTH Royal Institute of Technology](https://img.unistay.net/housing/p/amber-256613.jpg)
 
 Housing costs in Stockholm vary widely. Below are typical monthly rent ranges as of 2026. All prices are indicative — confirm with the operator.
 

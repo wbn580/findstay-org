@@ -4,7 +4,7 @@ description: "Housing Near University of Debrecen: A Practical Guide  Debrecen i
 pubDatetime: 2026-07-07T06:52:09.000Z
 modDatetime: 2026-07-07T08:48:09.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/uh-s00048964.jpg"
+ogImage: "https://img.unistay.net/housing/p/uh-s00048964.jpg"
 tags: ["university", "university-of-debrecen"]
 category: "university"
 draft: false
@@ -51,7 +51,7 @@ All prices are indicative — always confirm with the landlord or operator befor
 
 **Walking:** Living within the Nagyerdő area puts you within a 5–15 minute walk of the main campus, the library, and the nearby park. Many students choose the streets parallel to Egyetem tér (e.g., Móricz Zsigmond út, Kassai út). Walking eliminates transport costs and offers quick access to university facilities. The downside: this area is quieter, and you may need to walk 20–25 minutes to reach supermarkets, restaurants, or the city centre. Some students find the limited nightlife a drawback, as echoed in Joel maeja’s review: “there is few events for international so it can be boring here.”
 
-![University of Debrecen](https://img.unistay.cn/housing/p/uh-s00048964.jpg)
+![University of Debrecen](https://img.unistay.net/housing/p/uh-s00048964.jpg)
 
 **Transit:** Living near the city centre (e.g., around Piac utca or Kossuth tér) gives you more access to shopping, dining, and social life. The tram ride to the university takes about 10–15 minutes, plus walking at both ends. A monthly student pass costs around 3,000–3,500 HUF (indicative — confirm with the operator). The trade-off: longer commute, reliance on schedules, and sometimes higher rent in the centre. However, the tram runs every few minutes during peak hours, so the inconvenience is moderate.
 

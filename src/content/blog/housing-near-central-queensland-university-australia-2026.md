@@ -4,7 +4,7 @@ description: "Campus Reviews and Key Insights  Before looking at housing options
 pubDatetime: 2026-06-30T10:44:14.000Z
 modDatetime: 2026-07-07T08:02:14.000Z
 author: "UniStay Editorial"
-ogImage: "https://img.unistay.cn/housing/p/amber-1899750.jpg"
+ogImage: "https://img.unistay.net/housing/p/amber-1899750.jpg"
 tags: ["university", "australia"]
 category: "university"
 draft: false
@@ -43,7 +43,7 @@ The local economy is driven by mining, agriculture, and tourism. International s
 
 ## Housing Budget Bands for 2026
 
-![Central Queensland University Australia (CQUniversity)](https://img.unistay.cn/housing/p/amber-1899750.jpg)
+![Central Queensland University Australia (CQUniversity)](https://img.unistay.net/housing/p/amber-1899750.jpg)
 
 When planning accommodation near CQUniversity’s Rockhampton campus, it is helpful to divide options into three budget bands. All prices below are indicative — confirm with the operator, as actual rates vary by lease length, condition, and included utilities.
 

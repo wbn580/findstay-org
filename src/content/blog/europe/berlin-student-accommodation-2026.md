@@ -3,8 +3,8 @@ title: "Berlin Student Accommodation 2026: Affordable Housing Near FU, HU & TU B
 description: "Student housing in Berlin — the cheapest major European capital for students. Find accommodation near Free University, Humboldt, TU Berlin, and more."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1600"
-ogImage: "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=1200"
+heroImage: "https://img.unistay.net/rehost/397bd559c516.jpg"
+ogImage: "https://img.unistay.net/rehost/6d37e3265c37.jpg"
 tags: ["germany", "berlin", "student-accommodation"]
 category: "europe"
 city: "berlin"

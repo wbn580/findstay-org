@@ -46,7 +46,6 @@ York's Keele Campus is in North York, significantly cheaper than downtown.
 - **Downsview & Finch West**: Nearby neighborhoods. Rooms CAD 600–1,000/month.
 - **North York Centre**: On the Yonge subway line, 20 min to York by bus. Rooms CAD 800–1,200/month.
 
-![Toronto skyline from the Islands](https://images.unsplash.com/photo-1533055824843-63de0ba9b245?w=1600)
 
 ## FAQ
 

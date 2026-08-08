@@ -3,8 +3,7 @@ title: "Darwin Student Housing 2026: Tropical Living Near Charles Darwin Univers
 description: "Student accommodation in Darwin — Australia's tropical capital. Affordable housing near Charles Darwin University, the Wet/Dry seasons, and 2026 rent prices."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1567277936094-f8042b0a245e?w=1600"
-ogImage: "https://images.unsplash.com/photo-1567277936094-f8042b0a245e?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["australia", "darwin", "student-accommodation"]
 category: "australia"
 city: "darwin"

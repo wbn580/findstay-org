@@ -3,8 +3,7 @@ title: "Wellington Student Housing 2026: Vic Uni & Massey Accommodation Guide"
 description: "Student accommodation in Wellington NZ — affordable suburbs near Victoria University and Massey Wellington. Rent prices, flatting culture, and 2026 tips."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1589871973318-9ca1258faa8d?w=1600"
-ogImage: "https://images.unsplash.com/photo-1589871973318-9ca1258faa8d?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["new-zealand", "wellington", "student-accommodation"]
 category: "new-zealand"
 city: "wellington"

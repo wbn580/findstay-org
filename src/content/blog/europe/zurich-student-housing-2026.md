@@ -3,8 +3,7 @@ title: "Zurich Student Housing 2026: Accommodation Near ETH Zurich & UZH"
 description: "Student housing in Zurich — Switzerland's eye-wateringly expensive but well-subsidized student city. Find WOKO rooms near ETH Zurich and UZH for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1529158755569-847e443ab7cd?w=1600"
-ogImage: "https://images.unsplash.com/photo-1529158755569-847e443ab7cd?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["europe", "zurich", "student-accommodation"]
 category: "europe"
 city: "zurich"

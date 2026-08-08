@@ -3,8 +3,7 @@ title: "Washington DC Student Housing 2026: Affordable Areas Near Georgetown, GW
 description: "Student accommodation in Washington DC — near Georgetown, GWU, American University, and Howard. Find affordable neighborhoods, metro strategy, and 2026 rent."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1532375810709-75b1da30138c?w=1600"
-ogImage: "https://images.unsplash.com/photo-1532375810709-75b1da30138c?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["us", "dc", "student-accommodation"]
 category: "us"
 city: "dc"

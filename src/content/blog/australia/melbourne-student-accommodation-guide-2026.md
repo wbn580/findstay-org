@@ -102,7 +102,6 @@ A realistic monthly budget for a Melbourne student (shared housing):
 - **Total**: **1,835–2,760**
 
 
-![Melbourne tram](https://images.unsplash.com/photo-1548996971-127cce87c5c4?w=1600)
 
 ## FAQ
 

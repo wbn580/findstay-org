@@ -3,8 +3,7 @@ title: "Airbnb vs Long-Term Rental: Cost Comparison for International Students"
 description: "Should you book Airbnb or sign a lease? Compare costs, flexibility, and practical considerations for student accommodation across 8 countries — with real 2026 numbers."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1600"
-ogImage: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["rental-tips", "short-term-rental", "student-accommodation"]
 category: "topics"
 draft: false

@@ -3,8 +3,7 @@ title: "Liverpool Student Accommodation 2026: Affordable Areas Near UoL, LJMU & 
 description: "Student housing in Liverpool — the UK's best-value culture city. Rent prices near University of Liverpool, Liverpool John Moores, and Liverpool Hope for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1519995451813-39e3a33085a3?w=1600"
-ogImage: "https://images.unsplash.com/photo-1519995451813-39e3a33085a3?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["uk", "liverpool", "student-accommodation"]
 category: "uk"
 city: "liverpool"

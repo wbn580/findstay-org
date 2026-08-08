@@ -3,8 +3,7 @@ title: "Newcastle Student Housing 2026: Areas Near Newcastle & Northumbria Unive
 description: "Student accommodation in Newcastle upon Tyne — the UK's party capital with affordable rent. 2026 prices near Newcastle University and Northumbria."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1560345753-a7fd7b30233b?w=1600"
-ogImage: "https://images.unsplash.com/photo-1560345753-a7fd7b30233b?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["uk", "newcastle", "student-accommodation"]
 category: "uk"
 city: "newcastle"

@@ -3,8 +3,7 @@ title: "Boston Student Housing 2026: Affordable Areas Near Harvard, MIT & BU"
 description: "Student accommodation in Boston and Cambridge — near Harvard, MIT, BU, BC, and Northeastern. Updated rent prices, best neighborhoods, and roommate tips for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1577651415474-d5b3a12e6f43?w=1600"
-ogImage: "https://images.unsplash.com/photo-1577651415474-d5b3a12e6f43?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["us", "boston", "student-accommodation"]
 category: "us"
 city: "boston"

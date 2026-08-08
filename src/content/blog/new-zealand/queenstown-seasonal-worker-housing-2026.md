@@ -3,8 +3,7 @@ title: "Queenstown Seasonal Worker Housing 2026: Staff Accommodation & Backpacke
 description: "Seasonal worker housing in Queenstown and Wanaka — ski season staff accommodation, hostel long-stay rates, and shared house tips for 2026 working holiday makers."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1569595455402-4dad073ee63e?w=1600"
-ogImage: "https://images.unsplash.com/photo-1569595455402-4dad073ee63e?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["new-zealand", "short-term-rental", "rental-tips"]
 category: "new-zealand"
 draft: false

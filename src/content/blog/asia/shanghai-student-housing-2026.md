@@ -3,8 +3,7 @@ title: "Shanghai Student Housing 2026: Accommodation Near Fudan, SJTU & Tongji"
 description: "Student housing in Shanghai — find accommodation near Fudan, Shanghai Jiao Tong, and Tongji universities. 2026 rent prices, campus dorms, and off-campus options."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b0832cf?w=1600"
-ogImage: "https://images.unsplash.com/photo-1537531383496-f4749b0832cf?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["asia", "shanghai", "student-accommodation"]
 category: "asia"
 city: "shanghai"

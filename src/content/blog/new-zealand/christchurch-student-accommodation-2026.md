@@ -3,8 +3,7 @@ title: "Christchurch Student Accommodation 2026: UC & Lincoln University Housing
 description: "Find student housing in Christchurch near the University of Canterbury and Lincoln University. Affordable rent, best suburbs, and rebuild-era apartments for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1577095451506-3e2107e53aa1?w=1600"
-ogImage: "https://images.unsplash.com/photo-1577095451506-3e2107e53aa1?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["new-zealand", "christchurch", "student-accommodation"]
 category: "new-zealand"
 city: "christchurch"
@@ -29,7 +28,6 @@ Christchurch offers New Zealand's most affordable student housing. The post-eart
 - UniLodge (Ilam): Studios from NZD 280/week
 - The Campus (near UC): Studios from NZD 260/week
 
-![Christchurch Botanical Gardens](https://images.unsplash.com/photo-1586707255659-c5fb29a17576?w=1600)
 
 ## FAQ
 

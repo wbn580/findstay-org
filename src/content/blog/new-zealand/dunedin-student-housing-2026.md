@@ -3,8 +3,7 @@ title: "Dunedin Student Housing 2026: Affordable Accommodation Near University o
 description: "Student housing in Dunedin, New Zealand — the world's great student town. Rent prices near University of Otago, the famous flatting culture, and 2026 tips."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1585184780653-27c5e35bbe6c?w=1600"
-ogImage: "https://images.unsplash.com/photo-1585184780653-27c5e35bbe6c?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["new-zealand", "dunedin", "student-accommodation"]
 category: "new-zealand"
 city: "dunedin"

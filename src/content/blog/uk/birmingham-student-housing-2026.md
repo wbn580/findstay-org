@@ -3,8 +3,7 @@ title: "Birmingham Student Housing 2026: Areas Near UoB, Aston & BCU"
 description: "Student accommodation in Birmingham — affordable areas near University of Birmingham, Aston, and Birmingham City University. 2026 rent prices and neighborhood guide."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1573731047879-688cfbdccf6d?w=1600"
-ogImage: "https://images.unsplash.com/photo-1573731047879-688cfbdccf6d?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["uk", "birmingham", "student-accommodation"]
 category: "uk"
 city: "birmingham"

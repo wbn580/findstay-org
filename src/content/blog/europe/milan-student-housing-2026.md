@@ -3,8 +3,7 @@ title: "Milan Student Housing 2026: Areas Near Politecnico di Milano & Bocconi"
 description: "Student accommodation in Milan — Italy's most expensive but most exciting student city. Find housing near Politecnico di Milano, Bocconi, and Statale for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1513581166391-887a96ddeaf8?w=1600"
-ogImage: "https://images.unsplash.com/photo-1513581166391-887a96ddeaf8?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["europe", "milan", "student-accommodation"]
 category: "europe"
 city: "milan"

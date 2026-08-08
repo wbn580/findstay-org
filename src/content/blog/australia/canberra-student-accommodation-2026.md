@@ -3,8 +3,7 @@ title: "Canberra Student Accommodation Guide 2026: ANU & UC Housing Options"
 description: "Find student housing in Canberra near ANU and the University of Canberra. Campus accommodation, private rentals, and sharehouse options for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1581172812131-a55154329eeb?w=1600"
-ogImage: "https://images.unsplash.com/photo-1581172812131-a55154329eeb?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["australia", "canberra", "student-accommodation"]
 category: "australia"
 city: "canberra"
@@ -56,7 +55,6 @@ Both ANU and UC have extensive on-campus accommodation options:
 - Self-catered apartments from AUD 220/week (shared) to AUD 360/week (studio)
 - All within the Belconnen campus grounds
 
-![Parliament House Canberra](https://images.unsplash.com/photo-1519623282076-0c32517bfcdc?w=1600)
 
 ## FAQ
 

@@ -3,8 +3,7 @@ title: "Perth Student Accommodation Guide 2026: UWA, Curtin & ECU Housing Compar
 description: "Find affordable student housing in Perth near UWA, Curtin, ECU, and Murdoch. Rent prices, best suburbs, and PBSA options for international students in 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1546268061-2c4441fab754?w=1600"
-ogImage: "https://images.unsplash.com/photo-1546268061-2c4441fab754?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["australia", "perth", "student-accommodation"]
 category: "australia"
 city: "perth"
@@ -17,7 +16,6 @@ Perth is Australia's most underrated student city. It has beautiful beaches, a g
 
 The median rent for a one-bedroom apartment in central Perth is AUD 420/week — the lowest of any Australian capital. The vacancy rate is 1.8%, slightly better than Sydney and Melbourne. Combined with lower grocery and transport costs, Perth offers the best overall value for budget-conscious international students.
 
-![Perth skyline from Kings Park](https://images.unsplash.com/photo-1598928506311-c55z7bef91d5?w=1600)
 
 ## UWA — Crawley & Nedlands
 
@@ -69,7 +67,6 @@ A monthly budget comparison (shared housing):
 
 Perth saves you roughly AUD 470/month vs Sydney — that's AUD 5,640/year, or two return flights home.
 
-![Cottesloe Beach Perth](https://images.unsplash.com/photo-1595562009143-45a88e1df229?w=1600)
 
 ## FAQ
 

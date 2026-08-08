@@ -3,8 +3,7 @@ title: "Adelaide Student Accommodation 2026: Affordable Housing Near UniAdelaide
 description: "Adelaide offers Australia's most affordable student housing. Compare suburbs, rent prices, and housing types near all three major Adelaide universities for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1592165871027-c9dc38cd4bdc?w=1600"
-ogImage: "https://images.unsplash.com/photo-1592165871027-c9dc38cd4bdc?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["australia", "adelaide", "student-accommodation"]
 category: "australia"
 city: "adelaide"
@@ -43,7 +42,6 @@ Near Westfield Marion (SA's biggest shopping centre) and the Marion Swimming Cen
 ### Tonsley
 Flinders' innovation campus is here, and the Tonsley development includes newer apartments. Rooms AUD 180–270/week.
 
-![Adelaide Oval and River Torrens](https://images.unsplash.com/photo-1601332454774-5fa09ba6ce08?w=1600)
 
 ## FAQ
 

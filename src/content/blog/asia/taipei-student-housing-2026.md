@@ -3,8 +3,7 @@ title: "Taipei Student Housing 2026: Areas Near NTU, NTNU & NCCU"
 description: "Student accommodation in Taipei — affordable housing near National Taiwan University, NTNU, and NCCU. 2026 rent prices, night markets, and student life in Taiwan's capital."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1550775431-e72c8d45e4e9?w=1600"
-ogImage: "https://images.unsplash.com/photo-1550775431-e72c8d45e4e9?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["asia", "taipei", "student-accommodation"]
 category: "asia"
 city: "taipei"

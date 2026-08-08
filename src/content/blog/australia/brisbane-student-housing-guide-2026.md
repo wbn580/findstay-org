@@ -3,8 +3,7 @@ title: "Brisbane Student Housing Guide 2026: UQ, QUT & Griffith Accommodation Co
 description: "Find the best student accommodation in Brisbane near UQ St Lucia, QUT Gardens Point, and Griffith campuses. Updated rent prices, suburb breakdowns, and PBSA options for 2026."
 pubDatetime: 2026-05-14T00:00:00Z
 author: "UniStay Editorial"
-heroImage: "https://images.unsplash.com/photo-1559171883-3aa585e28ae0?w=1600"
-ogImage: "https://images.unsplash.com/photo-1559171883-3aa585e28ae0?w=1200"
+heroImage: "https://unistay.net/og.png"
 tags: ["australia", "brisbane", "student-accommodation"]
 category: "australia"
 city: "brisbane"
@@ -17,7 +16,6 @@ Brisbane is having a moment. The 2032 Olympics are on the horizon, the city has 
 
 The median rent for a one-bedroom in Brisbane's inner city is AUD 480/week — about 30% less than Sydney. But pre-Olympic construction has pushed up prices in some corridors, particularly around Woolloongabba and Hamilton. Student-specific housing is still very accessible if you know where to look.
 
-![Brisbane Story Bridge](https://images.unsplash.com/photo-1596463989413-9e2bc6265ac1?w=1600)
 
 ## UQ St Lucia — The River Campus
 

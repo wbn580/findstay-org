@@ -618,3 +618,4 @@ a.fs-card { display: block; text-decoration: none; color: inherit; }
   .foot-grid { grid-template-columns: 1fr; }
   .cta-card { flex-direction: column; align-items: flex-start; }
 }
+@media (max-width:768px){a,button,input,select,textarea,summary,[role="button"]{min-height:44px;box-sizing:border-box}a,button,summary,[role="button"]{display:inline-flex;align-items:center}}

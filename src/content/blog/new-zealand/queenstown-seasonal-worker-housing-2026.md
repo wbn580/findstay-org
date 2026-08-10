@@ -7,6 +7,7 @@ heroImage: "https://unistay.net/og.png"
 tags: ["new-zealand", "short-term-rental", "rental-tips"]
 category: "new-zealand"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/queenstown-seasonal-worker-housing-2026-2026-1733x1300.jpg"
 ---
 
 Queenstown is the adventure capital of New Zealand — bungy jumping, skiing, jet boating, and a tourism industry that employs thousands of seasonal workers. Housing is the single biggest challenge: Queenstown has the tightest rental market in New Zealand, with winter bringing an influx of ski season staff and summer bringing an endless wave of tourists.

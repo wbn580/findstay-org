@@ -8,6 +8,7 @@ tags: ["australia", "hobart", "student-accommodation"]
 category: "australia"
 city: "hobart"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/hobart-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Hobart is Australia's best-kept student secret. The University of Tasmania (UTAS) has invested heavily in its Sandy Bay campus and the city centre, MONA (Museum of Old and New Art) has made Hobart an international cultural destination, and the rental market is the cheapest of any Australian capital city.

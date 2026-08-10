@@ -8,6 +8,7 @@ tags: ["new-zealand", "hamilton", "student-accommodation"]
 category: "new-zealand"
 city: "hamilton"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/hamilton-student-accommodation-2026-2026-1733x1300.jpg"
 ---
 
 Hamilton is New Zealand's fastest-growing city and an increasingly popular student destination. The University of Waikato has built a strong reputation in computer science, management, and Māori studies, and Wintec (Waikato Institute of Technology) adds practical vocational training. Housing is significantly cheaper than Auckland (90 minutes north), with a relaxed provincial pace.

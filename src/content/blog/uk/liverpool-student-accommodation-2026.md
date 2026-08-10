@@ -8,6 +8,7 @@ tags: ["uk", "liverpool", "student-accommodation"]
 category: "uk"
 city: "liverpool"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/liverpool-student-accommodation-2026-2026-1880x1254.jpg"
 ---
 
 Liverpool is the UK's best-value culture city — world-class museums and galleries (many free), legendary music heritage (The Beatles, obviously), Premier League football, and remarkably cheap student housing. The city has invested heavily in its universities and waterfront since being European Capital of Culture in 2008.

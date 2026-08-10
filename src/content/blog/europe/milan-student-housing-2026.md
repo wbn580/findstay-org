@@ -8,6 +8,7 @@ tags: ["europe", "milan", "student-accommodation"]
 category: "europe"
 city: "milan"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/milan-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Milan is Italy's economic engine and one of Europe's most dynamic student cities — Politecnico di Milano (Italy's top technical university, ranked among the world's best for design and architecture), Bocconi (Europe's #1 business school), and Università Statale (Italy's largest public university) together host 180,000+ students. Housing is Italy's most expensive but still cheaper than London or Paris.

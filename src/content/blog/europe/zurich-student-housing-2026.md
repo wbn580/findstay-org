@@ -8,6 +8,7 @@ tags: ["europe", "zurich", "student-accommodation"]
 category: "europe"
 city: "zurich"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/zurich-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Zurich is home to ETH Zurich (consistently ranked top 5 globally, Einstein's alma mater) and the University of Zurich (Switzerland's largest university). It also has one of the world's most expensive housing markets — but student housing is heavily subsidized, and the gap between student rents and market rents is enormous.

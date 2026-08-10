@@ -8,6 +8,7 @@ tags: ["asia", "shanghai", "student-accommodation"]
 category: "asia"
 city: "shanghai"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/shanghai-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Shanghai is China's most international city — a global financial hub with Art Deco heritage on the Bund, futuristic skyscrapers in Pudong, and three of China's top universities (Fudan, SJTU, Tongji). For international students, Shanghai offers the best combination of academic quality and urban excitement in mainland China.

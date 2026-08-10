@@ -8,6 +8,7 @@ tags: ["us", "dc", "student-accommodation"]
 category: "us"
 city: "dc"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/washington-dc-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Washington DC is a unique student city — politics and policy are the local industry, free museums line the National Mall, and the metro system is clean and reliable. Rent is high but concentrated in certain areas; students who know where to look can find genuine value.

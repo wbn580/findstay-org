@@ -8,6 +8,7 @@ tags: ["europe", "dublin", "student-accommodation"]
 category: "europe"
 city: "dublin"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/dublin-student-housing-guide-2026-2026-1733x1300.jpg"
 ---
 
 Dublin has Ireland's worst housing crisis in living memory — and one of Europe's toughest student housing markets. Trinity College Dublin, UCD, DCU, and TU Dublin produce a student population of 100,000+ competing for a severely limited housing supply. Here's the unvarnished reality and how to navigate it.

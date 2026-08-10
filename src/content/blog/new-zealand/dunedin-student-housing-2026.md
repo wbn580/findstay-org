@@ -8,6 +8,7 @@ tags: ["new-zealand", "dunedin", "student-accommodation"]
 category: "new-zealand"
 city: "dunedin"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/dunedin-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Dunedin is arguably the world's greatest student town — the University of Otago's 21,000 students make up nearly 20% of the city's population. The result is a student culture that's woven into the fabric of the city, legendary flatting parties, and the cheapest student housing in New Zealand.

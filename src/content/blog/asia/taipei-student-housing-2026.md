@@ -8,6 +8,7 @@ tags: ["asia", "taipei", "student-accommodation"]
 category: "asia"
 city: "taipei"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/taipei-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Taipei is one of Asia's most liveable cities — incredible food at night markets, an efficient and cheap MRT system, and a surprisingly compact urban core surrounded by mountains. National Taiwan University (NTU, ranked #1 in Taiwan), NTNU, and NCCU create a vibrant student scene, and housing is dramatically cheaper than Hong Kong, Singapore, or Tokyo.

@@ -8,6 +8,7 @@ tags: ["australia", "perth", "student-accommodation"]
 category: "australia"
 city: "perth"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/perth-student-accommodation-guide-2026-2026-1733x1300.jpg"
 ---
 
 Perth is Australia's most underrated student city. It has beautiful beaches, a growing tech sector, and housing costs that make Sydney and Melbourne students weep with envy. The 2026 rental market is competitive but far more accessible than the east coast capitals.

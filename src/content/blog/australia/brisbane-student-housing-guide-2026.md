@@ -8,6 +8,7 @@ tags: ["australia", "brisbane", "student-accommodation"]
 category: "australia"
 city: "brisbane"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/brisbane-student-housing-guide-2026-2026-1733x1300.jpg"
 ---
 
 Brisbane is having a moment. The 2032 Olympics are on the horizon, the city has invested billions in infrastructure, and international student numbers are climbing fast. For students, Brisbane offers a sweet spot: big-city amenities with a smaller-city cost of living — and 283 days of sunshine a year.

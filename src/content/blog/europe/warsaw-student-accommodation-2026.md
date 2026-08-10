@@ -8,6 +8,7 @@ tags: ["europe", "warsaw", "student-accommodation"]
 category: "europe"
 city: "warsaw"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/warsaw-student-accommodation-2026-2026-1733x1300.jpg"
 ---
 
 Warsaw is Europe's most underrated student city. The University of Warsaw (Poland's largest), Warsaw University of Technology (Politechnika Warszawska), and SGH Warsaw School of Economics create a student population of 100,000+. The city has been on a 20-year transformation — gleaming skyscrapers alongside reconstructed Old Town, a thriving startup scene, and living costs that are still a fraction of Western Europe.

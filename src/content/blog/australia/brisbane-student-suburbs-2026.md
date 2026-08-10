@@ -8,6 +8,7 @@ tags: ["australia", "brisbane", "student-accommodation", "budget"]
 category: "australia"
 city: "brisbane"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/brisbane-student-suburbs-2026-2026-1732x1300.jpg"
 ---
 
 Brisbane's student housing market extends well beyond the inner city. The 2032 Olympic infrastructure investment has improved transport and created new housing in suburbs that were previously commuter-only. This guide goes deeper into the affordable outer options.

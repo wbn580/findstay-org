@@ -8,6 +8,7 @@ tags: ["us", "san-diego", "student-accommodation"]
 category: "us"
 city: "san-diego"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/san-diego-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 San Diego is America's finest city in terms of weather — 22°C and sunny, 263 days per year. The University of California San Diego (one of the country's top STEM schools), San Diego State University, and the University of San Diego make it a major student hub. Housing is expensive (California) but you're paying for perfect weather, beaches, and a famously chill lifestyle.

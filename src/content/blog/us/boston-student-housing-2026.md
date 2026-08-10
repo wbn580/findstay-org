@@ -8,6 +8,7 @@ tags: ["us", "boston", "student-accommodation"]
 category: "us"
 city: "boston"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/boston-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Boston has more students per square mile than almost anywhere else in the US. Harvard, MIT, BU, BC, Northeastern, Tufts — 35+ colleges draw 150,000+ students. The housing market is expensive and competitive, but densely built and walkable.

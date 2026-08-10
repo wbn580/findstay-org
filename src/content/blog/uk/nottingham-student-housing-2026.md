@@ -8,6 +8,7 @@ tags: ["uk", "nottingham", "student-accommodation"]
 category: "uk"
 city: "nottingham"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/nottingham-student-housing-2026-2026-1880x1056.jpg"
 ---
 
 Nottingham offers one of the UK's best student experiences — two excellent universities, a compact and walkable city centre, Robin Hood history, and rent that's 50–60% cheaper than London. The student population of 60,000+ means the city is built around student life.

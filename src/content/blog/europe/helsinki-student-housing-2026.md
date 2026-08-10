@@ -8,6 +8,7 @@ tags: ["europe", "helsinki", "student-accommodation"]
 category: "europe"
 city: "helsinki"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/helsinki-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Finland has one of the world's best student housing systems — subsidized, efficiently run, and genuinely affordable. Helsinki's three main universities (Aalto, University of Helsinki, Hanken School of Economics) and several Universities of Applied Sciences create a student population of 70,000+, with HOAS (Helsinki Region Student Housing Foundation) providing 19,000+ apartments.

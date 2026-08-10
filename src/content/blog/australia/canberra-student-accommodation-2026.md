@@ -8,6 +8,7 @@ tags: ["australia", "canberra", "student-accommodation"]
 category: "australia"
 city: "canberra"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/canberra-student-accommodation-2026-2026-1733x1300.jpg"
 ---
 
 Canberra is often overlooked by international students — and that's a mistake. Australia's capital has the country's highest graduate employment rate, highest median income, and an increasingly vibrant food and arts scene. For students at ANU or UC, it's a compact, safe city that punches above its weight.

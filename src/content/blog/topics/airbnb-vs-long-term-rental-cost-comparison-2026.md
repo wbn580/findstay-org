@@ -7,6 +7,7 @@ heroImage: "https://unistay.net/og.png"
 tags: ["rental-tips", "short-term-rental", "student-accommodation"]
 category: "topics"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/airbnb-vs-long-term-rental-cost-comparison-2026-2026-1880x1253.jpg"
 ---
 
 The calculus between booking an Airbnb and signing a long-term lease has shifted. In 2026, with rental prices up 20–40% in most student cities and Airbnb adding service fees, the math isn't always obvious. Here's a city-by-city breakdown.

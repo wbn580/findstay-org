@@ -8,6 +8,7 @@ tags: ["uk", "manchester", "student-accommodation"]
 category: "uk"
 city: "manchester"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/manchester-student-housing-2026-2026-1880x1253.jpg"
 ---
 
 Manchester is the UK's most popular student city outside London — two major universities, a legendary music scene, and housing costs roughly half of London's. For international students, it's one of the best value propositions in English-speaking higher education.

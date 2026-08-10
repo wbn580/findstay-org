@@ -8,6 +8,7 @@ tags: ["uk", "birmingham", "student-accommodation"]
 category: "uk"
 city: "birmingham"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/birmingham-student-housing-2026-2026-1880x1275.jpg"
 ---
 
 Birmingham is the UK's second-largest city and a major student hub — 5 universities, 65,000+ students, and housing costs that make London look absurd. The 2022 Commonwealth Games infrastructure investment has left the city with improved transport and public spaces.

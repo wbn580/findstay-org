@@ -8,6 +8,7 @@ tags: ["new-zealand", "christchurch", "student-accommodation"]
 category: "new-zealand"
 city: "christchurch"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/christchurch-student-accommodation-2026-2026-1733x1300.jpg"
 ---
 
 Christchurch offers New Zealand's most affordable student housing. The post-earthquake rebuild has delivered thousands of modern apartments, and the University of Canterbury (UC) has a beautiful, spacious campus in Ilam. Lincoln University (agriculture, environmental science) is a 20-minute drive southwest.

@@ -8,6 +8,7 @@ tags: ["australia", "darwin", "student-accommodation"]
 category: "australia"
 city: "darwin"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/darwin-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Darwin is Australia's most unique student city — tropical, multicultural (the closest Australian city to Asia), and home to Charles Darwin University (CDU), a young and rapidly growing institution with particular strengths in tropical health, Indigenous studies, and environmental science.

@@ -8,6 +8,7 @@ tags: ["uk", "leeds", "student-accommodation"]
 category: "uk"
 city: "leeds"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/leeds-student-accommodation-2026-2026-1880x1056.jpg"
 ---
 
 Leeds is arguably the UK's best-value student city — a genuine urban experience with a legendary nightlife, a thriving digital and financial sector, and rent that's 70% cheaper than London. The University of Leeds and Leeds Beckett together create a student population of 60,000+.

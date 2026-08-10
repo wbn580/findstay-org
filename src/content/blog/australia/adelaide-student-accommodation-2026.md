@@ -8,6 +8,7 @@ tags: ["australia", "adelaide", "student-accommodation"]
 category: "australia"
 city: "adelaide"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/adelaide-student-accommodation-2026-2026-1733x1300.jpg"
 ---
 
 Adelaide is Australia's sleeper hit for international students. It's officially classified as "regional" for migration purposes (which means extra PR points and a longer post-study work visa), the cost of living is the lowest of any Australian mainland capital, and the city is genuinely lovely — surrounded by wine regions and beaches.

@@ -8,6 +8,7 @@ tags: ["new-zealand", "wellington", "student-accommodation"]
 category: "new-zealand"
 city: "wellington"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/wellington-student-housing-2026-2026-1733x1300.jpg"
 ---
 Wellington is New Zealand's capital and cultural heart — compact, walkable, with a legendary coffee scene and a film industry anchored by Weta Workshop. Victoria University of Wellington (Vic Uni) and Massey University's Wellington campus make it a genuine student city.
 

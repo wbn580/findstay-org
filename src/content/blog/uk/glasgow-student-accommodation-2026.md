@@ -8,6 +8,7 @@ tags: ["uk", "glasgow", "student-accommodation"]
 category: "uk"
 city: "glasgow"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/glasgow-student-accommodation-2026-2026-1880x1253.jpg"
 ---
 
 Glasgow is the UK's best-value major student city. Rent is 40% cheaper than Edinburgh (an hour away) and 60% cheaper than London. The University of Glasgow's gothic main building looks like Hogwarts, and the city's live music and arts scene rivals any in Europe.

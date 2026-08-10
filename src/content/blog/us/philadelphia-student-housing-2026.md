@@ -8,6 +8,7 @@ tags: ["us", "philadelphia", "student-accommodation"]
 category: "us"
 city: "philadelphia"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/philadelphia-student-housing-2026-2026-1733x1300.jpg"
 ---
 
 Philadelphia is America's most underrated student city. Three powerhouse universities (UPenn/Ivy League, Drexel, Temple), walkable historic streets, world-class food, and rent that's half of New York or DC. The city's row house architecture means students get genuine neighborhood living — not sterile apartment towers.

@@ -8,6 +8,7 @@ tags: ["uk", "edinburgh", "student-accommodation"]
 category: "uk"
 city: "edinburgh"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/edinburgh-student-accommodation-2026-2026-1880x1253.jpg"
 ---
 
 Edinburgh is consistently voted the UK's best student city (after London) — and with good reason. The University of Edinburgh ranks in the global top 30, the city is stunningly beautiful, and the Fringe Festival in August transforms the entire city into the world's biggest arts event.

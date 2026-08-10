@@ -8,6 +8,7 @@ tags: ["uk", "newcastle", "student-accommodation"]
 category: "uk"
 city: "newcastle"
 draft: false
+ogImage: "https://img.unistay.net/留学/住宿/newcastle-student-housing-2026-2026-1880x1253.jpg"
 ---
 
 Newcastle is the UK's legendary party city — but it's also an increasingly serious academic destination. Newcastle University (Russell Group) and Northumbria University together host 50,000+ students, and the city's transformation from industrial powerhouse to digital and life sciences hub has accelerated. Plus, you get the Northumberland coast and countryside within 30 minutes.

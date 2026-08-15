@@ -23,7 +23,13 @@ export const GET: APIRoute = async ({ site }) => {
 
   // 按发布时间倒序
   posts.sort(
-    (a, b) => b.data.pubDatetime.valueOf() - a.data.pubDatetime.valueOf()
+    (a, b) =>
+      b.data.pubDatetime.valueOf() - a.data.pubDatetime.valueOf() ||
+      // Same-day posts otherwise land in whatever order the loader happened to
+      // return, so two builds of one commit emit different llms.txt ordering
+      // (compares-cheap: 7 posts share 2026-05-23). Break the tie on a stable
+      // key so the artifact is reproducible.
+      a.id.localeCompare(b.id)
   );
 
   const baseUrl =

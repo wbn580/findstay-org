@@ -12,6 +12,7 @@ import BackToTopButton from "@/components/BackToTopButton.astro";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
 import { slugifyTag } from "@/utils/tagSlug";
+import { getPagedTagSlugs } from "@/utils/getUniqueTags";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
 import { SITE } from "@/config";
@@ -32,9 +33,14 @@ const {
   pubDatetime,
   modDatetime,
   timezone,
-  tags,
+  tags: allTags,
   hideEditPost,
 } = post.data;
+
+// 只被一篇文章带过的标签不再单独出页面，本页所有标签链接都得先过滤，
+// 否则会链到 404。
+const pagedTagSlugs = getPagedTagSlugs(posts);
+const tags = allTags.filter(tag => pagedTagSlugs.has(slugifyTag(tag)));
 
 const { Content } = await render(post);
 

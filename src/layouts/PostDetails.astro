@@ -114,7 +114,14 @@ const scored: Scored[] = posts
   .filter(s => s.score > 0)
   .sort((a, b) => {
     if (b.score !== a.score) return b.score - a.score;
-    return b.entry.data.pubDatetime.valueOf() - a.entry.data.pubDatetime.valueOf();
+    const byDate =
+      b.entry.data.pubDatetime.valueOf() - a.entry.data.pubDatetime.valueOf();
+    if (byDate !== 0) return byDate;
+    // 同分同发布时间时，顺序原本落回 getCollection 的枚举顺序，也就是文件系统
+    // 顺序——macOS 与 Linux 不一致，同一个 commit 在两台机器上会给出不同的
+    // 「相关文章」内链。实测于 unilink-co：本机两次构建一致，云端构建选出了
+    // 另一批文章。用 id 兜底，排序在任何机器上都唯一确定。
+    return a.entry.id.localeCompare(b.entry.id);
   });
 
 const relatedPosts = scored.slice(0, 3).map(s => s.entry);

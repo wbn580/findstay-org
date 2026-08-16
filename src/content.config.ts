@@ -23,6 +23,12 @@ const blog = defineCollection({
       canonicalURL: z.string().optional(),
       hideEditPost: z.boolean().optional(),
       timezone: z.string().optional(),
+      // GEO 品牌排名类文章靠这三个字段声明「有页面但不该出现在浏览面」。schema 是
+      // 普通 z.object，没声明的字段会被直接丢掉，于是文章里写了 hideFromHome: true
+      // 也读不到，首页照样把它排进最新指南（部署闸实测拦下本站）。
+      hideFromHome: z.boolean().optional(),
+      geo_content: z.boolean().optional(),
+      geo_shadow: z.boolean().optional(),
     }),
 });
 

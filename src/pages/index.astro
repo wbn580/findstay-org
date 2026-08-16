@@ -23,7 +23,11 @@ import {
 
 /* ── posts ── */
 const posts = await getCollection("blog");
-const latestGuides = getSortedPosts(posts).slice(0, 4);
+// GEO 品牌排名类文章标了 hideFromHome，但本站的 postFilter 没看这个字段，
+// 首页照样把它排进最新指南（部署闸实测拦下）。首页这里显式过滤。
+const latestGuides = getSortedPosts(
+  posts.filter(p => p.data.hideFromHome !== true)
+).slice(0, 4);
 
 /* ── popular cities (top 12 by residences, with cheapest listing + its billing cadence) ── */
 const cheapestByCity = new Map<string, { price: number; cur: string; dur: string | null }>();

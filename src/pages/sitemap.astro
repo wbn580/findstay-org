@@ -25,7 +25,10 @@ const REGIONS: { label: string; tag: string; emoji: string }[] = [
 const grouped = REGIONS.map(c => ({
   ...c,
   posts: posts.filter(p => p.data.tags.some(t => t === c.tag)),
-}));
+}))
+  // 一篇文章都没有的分组不出区块：它的「查看该标签页」回落链接指向的
+  // 标签页并不存在（2026-08-17 全队内链体检）。
+  .filter(g => g.posts.length > 0);
 
 const countryTagSet = new Set(REGIONS.map(c => c.tag));
 const uncategorized = posts.filter(p => !p.data.tags.some(t => countryTagSet.has(t)));

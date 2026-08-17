@@ -5,14 +5,24 @@ import Footer from "@/components/Footer.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import { SITE } from "@/config";
 import { slugifyTag } from "@/utils/tagSlug";
+import { getCollection } from "astro:content";
+import getUniqueTags from "@/utils/getUniqueTags";
 
-const countries = [
+// 这份清单是模板复制来的，本站不一定有对应标签页；不过滤就是一排 404（2026-08-17 全队内链体检）。
+const ALL_COUNTRIES = [
   { emoji: "🇬🇧", name: "英国" },
   { emoji: "🇦🇺", name: "澳大利亚" },
   { emoji: "🇳🇿", name: "新西兰" },
   { emoji: "🇸🇬", name: "新加坡" },
   { emoji: "🇲🇾", name: "马来西亚" },
 ];
+
+const pagedTagSlugs = new Set(
+  getUniqueTags(await getCollection("blog")).map(x => x.tag)
+);
+const countries = ALL_COUNTRIES.filter(c =>
+  pagedTagSlugs.has(slugifyTag(c.name))
+);
 ---
 
 <Layout title={`404 未找到该问题 | ${SITE.title}`}>
@@ -50,6 +60,7 @@ const countries = [
         </LinkButton>
       </div>
 
+      {countries.length > 0 && (
       <div class="mt-12 w-full">
         <p class="mb-4 text-sm text-foreground/60">或按国家浏览：</p>
         <ul class="flex flex-wrap justify-center gap-3">
@@ -68,6 +79,7 @@ const countries = [
           }
         </ul>
       </div>
+      )}
 
       <p class="mt-12 text-xs text-foreground/50">
         如果你从外部链接过来，可以邮件告诉我们哪个链接失效了：contact@unistay.cn

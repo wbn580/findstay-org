@@ -48,6 +48,12 @@ export default defineConfig({
     },
   },
   vite: {
+    build: {
+      // astro-inline-limit-r245 样板瘦身：js/css 产物一律外链（可缓存），其余资产沿用默认 4096 内联阈值。
+      assetsInlineLimit: (filePath: string) =>
+        /\.(js|css)$/.test(filePath) ? false : undefined,
+    },
+
     // eslint-disable-next-line
     // @ts-ignore
     // This will be fixed in Astro 6 with Vite 7 support

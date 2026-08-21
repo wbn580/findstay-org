@@ -4,7 +4,7 @@
   "version": "5.5.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/postbuild-d1-runtime-pages.mjs",
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",

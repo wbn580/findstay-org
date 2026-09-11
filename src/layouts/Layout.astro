@@ -38,7 +38,7 @@ const {
   author = SITE.author,
   profile = SITE.profile,
   description = SITE.desc,
-  ogImage = SITE.ogImage ? `/${SITE.ogImage}` : "/og.png",
+  ogImage: ogImageProp,
   canonicalURL = new URL(Astro.url.pathname, Astro.url),
   pubDatetime,
   modDatetime,
@@ -47,6 +47,7 @@ const {
   transparentNav = false,
   lang = SITE.lang,
 } = Astro.props;
+const ogImage = ogImageProp || (SITE.ogImage ? `/${SITE.ogImage}` : "/icon-512.png");
 
 // 百度等中文搜索引擎仍会读取 meta keywords；Google 不再使用但也不会扣分。
 // 文章页：用文章自身 tags；平台页：用站点主题词。

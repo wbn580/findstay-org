@@ -4,7 +4,7 @@ const getRobotsTxt = (sitemapURL: URL) => `
 User-agent: *
 Allow: /
 
-Sitemap: ${sitemapURL.href}
+Sitemap: https://unistay.net/sitemap.xml
 `;
 
 export const GET: APIRoute = ({ site }) => {

@@ -1,4 +1,5 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "Affiliate Disclosure"
 description: "UniStay may earn commissions from links to third-party services. Read our full disclosure."
 pubDatetime: 2026-05-14

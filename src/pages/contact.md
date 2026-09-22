@@ -1,4 +1,5 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "Contact UniStay"
 description: "Contact UniStay about student accommodation guides, property information, partnerships, or privacy questions."
 pubDatetime: 2026-07-17

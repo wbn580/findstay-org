@@ -1,4 +1,5 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "Privacy Policy"
 description: "UniStay privacy policy — how we collect, use, and protect your data."
 pubDatetime: 2026-05-14

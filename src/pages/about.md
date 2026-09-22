@@ -1,4 +1,5 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "About UniStay"
 description: "UniStay helps international students, expats, and digital nomads find the best accommodation worldwide — from Sydney student housing to London flatshares."
 pubDatetime: 2026-05-14

@@ -1,4 +1,5 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "Resources"
 description: "Essential tools and services for international students, expats, and digital nomads — health insurance, accommodation platforms, and moving abroad checklists."
 pubDatetime: 2026-05-14
